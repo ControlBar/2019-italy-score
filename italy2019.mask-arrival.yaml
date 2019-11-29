@@ -1,0 +1,829 @@
+pilotsAtEss:
+- 75
+- 34
+- 97
+arrivalRank:
+- - - - '73'
+      - Christian Ciech
+    - rank: '1'
+      frac: 1
+  - - - '72'
+      - Alessandro Ploner
+    - rank: '2'
+      frac: 0.97107921
+  - - - '69'
+      - Suan Selenati
+    - rank: '3'
+      frac: 0.94287084
+  - - - '67'
+      - Marco Laurenzi
+    - rank: '4'
+      frac: 0.91536589
+  - - - '107'
+      - Peter Neuenschwander
+    - rank: '5'
+      frac: 0.88855535
+  - - - '70'
+      - Filippo Oppici
+    - rank: '6'
+      frac: 0.86243022
+  - - - '10'
+      - Manfred Ruhmer
+    - rank: '7'
+      frac: 0.8369815
+  - - - '22'
+      - Glauco Pinto
+    - rank: '8'
+      frac: 0.81220019
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - rank: '9'
+      frac: 0.78807728
+  - - - '21'
+      - Marcelo Andrei Gomes Da Rocha
+    - rank: '10'
+      frac: 0.76460378
+  - - - '12'
+      - Joseph Salvenmoser
+    - rank: '11'
+      frac: 0.74177067
+  - - - '44'
+      - Mario Alonzi
+    - rank: '12'
+      frac: 0.71956895
+  - - - '17'
+      - Fabio Thomaz
+    - rank: '13'
+      frac: 0.69798963
+  - - - '78'
+      - Yuji Suzuki
+    - rank: '14'
+      frac: 0.6770237
+  - - - '103'
+      - Franc Peternel
+    - rank: '15'
+      frac: 0.65666216
+  - - - '119'
+      - Pedro L. Garcia
+    - rank: '16'
+      frac: 0.636896
+  - - - '105'
+      - Stanislav Galovec
+    - rank: '17'
+      frac: 0.61771622
+  - - - '52'
+      - Grant Crossingham
+    - rank: '18'
+      frac: 0.59911383
+  - - - '26'
+      - Tyler Borradaile
+    - rank: '19'
+      frac: 0.58107981
+  - - - '56'
+      - Gerd Doenhuber
+    - rank: '20'
+      frac: 0.56360516
+  - - - '91'
+      - Olav Opsanger
+    - rank: '21'
+      frac: 0.54668089
+  - - - '79'
+      - Minoru Kato
+    - rank: '22'
+      frac: 0.53029798
+  - - - '74'
+      - Akira Nagusa
+    - rank: '23'
+      frac: 0.51444745
+  - - - '75'
+      - Genki Tanaka
+    - rank: '24'
+      frac: 0.49912027
+  - - - '16'
+      - Tschurnig Gunther
+    - rank: '25'
+      frac: 0.48430746
+  - - - '45'
+      - Christian Pollet
+    - rank: '26'
+      frac: 0.47
+  - - - '18'
+      - David Brito Filho
+    - rank: '27'
+      frac: 0.4561889
+  - - - '58'
+      - Roland Woehrle
+    - rank: '28'
+      frac: 0.44286515
+  - - - '15'
+      - Wolfgang Siess
+    - rank: '29'
+      frac: 0.43001975
+  - - - '54'
+      - Gordon Rigg
+    - rank: '30'
+      frac: 0.4176437
+  - - - '108'
+      - Franz Herrmann
+    - rank: '31'
+      frac: 0.405728
+  - - - '77'
+      - Takashi Sunama
+    - rank: '32'
+      frac: 0.39426364
+  - - - '60'
+      - Georg Schweier
+    - rank: '33'
+      frac: 0.38324161
+  - - - '100'
+      - Felix Cantesanu
+    - rank: '34'
+      frac: 0.37265293
+  - - - '89'
+      - Johnny Nilssen
+    - rank: '35'
+      frac: 0.36248858
+  - - - '92'
+      - John Smith
+    - rank: '36'
+      frac: 0.35273956
+  - - - '85'
+      - Joost Eertman
+    - rank: '37'
+      frac: 0.34339686
+  - - - '71'
+      - Manuel Revelli
+    - rank: '38'
+      frac: 0.3344515
+  - - - '102'
+      - Matjaz Klemencic
+    - rank: '39'
+      frac: 0.32589446
+  - - - '84'
+      - Arne Tanzer
+    - rank: '40'
+      frac: 0.31771674
+  - - - '57'
+      - Primoz Gricar
+    - rank: '41'
+      frac: 0.30990933
+  - - - '13'
+      - Walter Mayer
+    - rank: '42'
+      frac: 0.30246325
+  - - - '8'
+      - Guy Hubbard
+    - rank: '43'
+      frac: 0.29536947
+  - - - '1'
+      - Steve Blenkinsop
+    - rank: '44'
+      frac: 0.28861901
+  - - - '4'
+      - Trent Brown
+    - rank: '45'
+      frac: 0.28220285
+  - - - '7'
+      - Nils Vesk
+    - rank: '46'
+      frac: 0.276112
+  - - - '43'
+      - Eric Mathurin
+    - rank: '47'
+      frac: 0.27033745
+  - - - '49'
+      - Gary Wirdnam
+    - rank: '48'
+      frac: 0.2648702
+  - - - '50'
+      - Darren Brown
+    - rank: '49'
+      frac: 0.25970125
+  - - - '115'
+      - Evgen Lysenko
+    - rank: '50'
+      frac: 0.25482159
+  - - - '120'
+      - John Simon
+    - rank: '51'
+      frac: 0.25022222
+  - - - '101'
+      - Konstantin Lukyanov
+    - rank: '52'
+      frac: 0.24589414
+  - - - '99'
+      - Mikolaj Przezdziak
+    - rank: '53'
+      frac: 0.24182835
+  - - - '31'
+      - Jiri Gut
+    - rank: '54'
+      frac: 0.23801584
+  - - - '46'
+      - Francois Isoard
+    - rank: '55'
+      frac: 0.23444762
+  - - - '19'
+      - Max Turiaco
+    - rank: '56'
+      frac: 0.23111467
+  - - - '122'
+      - Vanni Accattoli
+    - rank: '57'
+      frac: 0.22800799
+  - - - '28'
+      - Daniel Velez
+    - rank: '58'
+      frac: 0.22511859
+  - - - '106'
+      - Ubaldo Romano
+    - rank: '59'
+      frac: 0.22243746
+  - - - '11'
+      - Christian Tiefenbacher
+    - rank: '60'
+      frac: 0.2199556
+  - - - '3'
+      - Rory Duncan
+    - rank: '61'
+      frac: 0.217664
+  - - - '68'
+      - Davide Guiducci
+    - rank: '62'
+      frac: 0.21555366
+  - - - '48'
+      - Andrew Hollidge
+    - rank: '63'
+      frac: 0.21361559
+  - - - '110'
+      - Markel Neideman
+    - rank: '64'
+      frac: 0.21184077
+  - - - '29'
+      - Dan Vyhnalik
+    - rank: '65'
+      frac: 0.2102202
+  - - - '55'
+      - Kajo Clauss
+    - rank: '66'
+      frac: 0.20874489
+  - - - '5'
+      - Peter Burkitt
+    - rank: '67'
+      frac: 0.20740582
+  - - - '25'
+      - Evan Smith
+    - rank: '68'
+      frac: 0.20619401
+  - - - '81'
+      - Young Don Lee
+    - rank: '69'
+      frac: 0.20510043
+  - - - '96'
+      - Shane Mckay
+    - rank: '70'
+      frac: 0.2041161
+  - - - '39'
+      - Tximo Iriarte
+    - rank: '71'
+      frac: 0.203232
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - rank: '72'
+      frac: 0.20243914
+  - - - '14'
+      - Alexander Sigl
+    - rank: '73'
+      frac: 0.20172851
+  - - - '114'
+      - Canberg Ozveren
+    - rank: '74'
+      frac: 0.20109111
+  - - - '23'
+      - Konrad Heilmann
+    - rank: '75'
+      frac: 0.20051794
+- - - - '57'
+      - Primoz Gricar
+    - rank: '1'
+      frac: 1
+  - - - '107'
+      - Peter Neuenschwander
+    - rank: '2'
+      frac: 0.93715085
+  - - - '10'
+      - Manfred Ruhmer
+    - rank: '3'
+      frac: 0.87771545
+  - - - '73'
+      - Christian Ciech
+    - rank: '4'
+      frac: 0.82159717
+  - - - '72'
+      - Alessandro Ploner
+    - rank: '5'
+      frac: 0.76869937
+  - - - '22'
+      - Glauco Pinto
+    - rank: '6'
+      frac: 0.71892543
+  - - - '67'
+      - Marco Laurenzi
+    - rank: '7'
+      frac: 0.67217871
+  - - - '56'
+      - Gerd Doenhuber
+    - rank: '8'
+      frac: 0.62836258
+  - - - '44'
+      - Mario Alonzi
+    - rank: '9'
+      frac: 0.58738042
+  - - - '26'
+      - Tyler Borradaile
+    - rank: '10'
+      frac: 0.54913558
+  - - - '29'
+      - Dan Vyhnalik
+    - rank: '11'
+      frac: 0.51353145
+  - - - '52'
+      - Grant Crossingham
+    - rank: '12'
+      frac: 0.48047138
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - rank: '13'
+      frac: 0.44985874
+  - - - '84'
+      - Arne Tanzer
+    - rank: '14'
+      frac: 0.42159691
+  - - - '85'
+      - Joost Eertman
+    - rank: '15'
+      frac: 0.39558925
+  - - - '69'
+      - Suan Selenati
+    - rank: '16'
+      frac: 0.37173914
+  - - - '117'
+      - Zac Majors
+    - rank: '17'
+      frac: 0.34994993
+  - - - '25'
+      - Evan Smith
+    - rank: '18'
+      frac: 0.330125
+  - - - '103'
+      - Franc Peternel
+    - rank: '19'
+      frac: 0.31216772
+  - - - '108'
+      - Franz Herrmann
+    - rank: '20'
+      frac: 0.29598145
+  - - - '78'
+      - Yuji Suzuki
+    - rank: '21'
+      frac: 0.28146957
+  - - - '92'
+      - John Smith
+    - rank: '22'
+      frac: 0.26853544
+  - - - '115'
+      - Evgen Lysenko
+    - rank: '23'
+      frac: 0.25708243
+  - - - '17'
+      - Fabio Thomaz
+    - rank: '24'
+      frac: 0.24701392
+  - - - '1'
+      - Steve Blenkinsop
+    - rank: '25'
+      frac: 0.23823326
+  - - - '64'
+      - Laszlo Okros
+    - rank: '26'
+      frac: 0.23064383
+  - - - '58'
+      - Roland Woehrle
+    - rank: '27'
+      frac: 0.22414899
+  - - - '54'
+      - Gordon Rigg
+    - rank: '28'
+      frac: 0.21865212
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - rank: '29'
+      frac: 0.21405658
+  - - - '75'
+      - Genki Tanaka
+    - rank: '30'
+      frac: 0.21026575
+  - - - '21'
+      - Marcelo Andrei Gomes Da Rocha
+    - rank: '31'
+      frac: 0.20718298
+  - - - '18'
+      - David Brito Filho
+    - rank: '32'
+      frac: 0.20471166
+  - - - '68'
+      - Davide Guiducci
+    - rank: '33'
+      frac: 0.20275514
+  - - - '50'
+      - Darren Brown
+    - rank: '34'
+      frac: 0.2012168
+- - - - '72'
+      - Alessandro Ploner
+    - rank: '1'
+      frac: 1
+  - - - '10'
+      - Manfred Ruhmer
+    - rank: '2'
+      frac: 0.97757578
+  - - - '67'
+      - Marco Laurenzi
+    - rank: '3'
+      frac: 0.95557868
+  - - - '73'
+      - Christian Ciech
+    - rank: '4'
+      frac: 0.93400455
+  - - - '69'
+      - Suan Selenati
+    - rank: '5'
+      frac: 0.91284922
+  - - - '18'
+      - David Brito Filho
+    - rank: '6'
+      frac: 0.89210854
+  - - - '21'
+      - Marcelo Andrei Gomes Da Rocha
+    - rank: '7'
+      frac: 0.87177834
+  - - - '28'
+      - Daniel Velez
+    - rank: '8'
+      frac: 0.85185446
+  - - - '84'
+      - Arne Tanzer
+    - rank: '9'
+      frac: 0.83233275
+  - - - '70'
+      - Filippo Oppici
+    - rank: '10'
+      frac: 0.81320902
+  - - - '119'
+      - Pedro L. Garcia
+    - rank: '11'
+      frac: 0.79447914
+  - - - '44'
+      - Mario Alonzi
+    - rank: '12'
+      frac: 0.77613893
+  - - - '26'
+      - Tyler Borradaile
+    - rank: '13'
+      frac: 0.75818423
+  - - - '102'
+      - Matjaz Klemencic
+    - rank: '14'
+      frac: 0.74061089
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - rank: '15'
+      frac: 0.72341474
+  - - - '117'
+      - Zac Majors
+    - rank: '16'
+      frac: 0.70659162
+  - - - '16'
+      - Tschurnig Gunther
+    - rank: '17'
+      frac: 0.69013736
+  - - - '57'
+      - Primoz Gricar
+    - rank: '18'
+      frac: 0.67404781
+  - - - '29'
+      - Dan Vyhnalik
+    - rank: '19'
+      frac: 0.65831881
+  - - - '13'
+      - Walter Mayer
+    - rank: '20'
+      frac: 0.64294619
+  - - - '79'
+      - Minoru Kato
+    - rank: '21'
+      frac: 0.6279258
+  - - - '43'
+      - Eric Mathurin
+    - rank: '22'
+      frac: 0.61325346
+  - - - '6'
+      - Craig Taylor
+    - rank: '23'
+      frac: 0.59892503
+  - - - '58'
+      - Roland Woehrle
+    - rank: '24'
+      frac: 0.58493633
+  - - - '17'
+      - Fabio Thomaz
+    - rank: '25'
+      frac: 0.57128321
+  - - - '87'
+      - Gijs Wanders
+    - rank: '26'
+      frac: 0.5579615
+  - - - '78'
+      - Yuji Suzuki
+    - rank: '27'
+      frac: 0.54496705
+  - - - '85'
+      - Joost Eertman
+    - rank: '28'
+      frac: 0.5322957
+  - - - '46'
+      - Francois Isoard
+    - rank: '29'
+      frac: 0.51994327
+  - - - '55'
+      - Kajo Clauss
+    - rank: '30'
+      frac: 0.50790561
+  - - - '52'
+      - Grant Crossingham
+    - rank: '31'
+      frac: 0.49617857
+  - - - '115'
+      - Evgen Lysenko
+    - rank: '32'
+      frac: 0.48475796
+  - - - '49'
+      - Gary Wirdnam
+    - rank: '33'
+      frac: 0.47363965
+  - - - '66'
+      - Tullio Gervasoni
+    - rank: '34'
+      frac: 0.46281946
+  - - - '54'
+      - Gordon Rigg
+    - rank: '35'
+      frac: 0.45229323
+  - - - '76'
+      - Shogo Ota
+    - rank: '36'
+      frac: 0.4420568
+  - - - '107'
+      - Peter Neuenschwander
+    - rank: '37'
+      frac: 0.43210602
+  - - - '122'
+      - Vanni Accattoli
+    - rank: '38'
+      frac: 0.42243671
+  - - - '108'
+      - Franz Herrmann
+    - rank: '39'
+      frac: 0.41304472
+  - - - '65'
+      - Noel Collins
+    - rank: '40'
+      frac: 0.40392589
+  - - - '15'
+      - Wolfgang Siess
+    - rank: '41'
+      frac: 0.39507605
+  - - - '106'
+      - Ubaldo Romano
+    - rank: '42'
+      frac: 0.38649104
+  - - - '25'
+      - Evan Smith
+    - rank: '43'
+      frac: 0.3781667
+  - - - '51'
+      - Dave Matthews
+    - rank: '44'
+      frac: 0.37009888
+  - - - '45'
+      - Christian Pollet
+    - rank: '45'
+      frac: 0.3622834
+  - - - '103'
+      - Franc Peternel
+    - rank: '46'
+      frac: 0.35471611
+  - - - '74'
+      - Akira Nagusa
+    - rank: '47'
+      frac: 0.34739285
+  - - - '109'
+      - Damien Zahn
+    - rank: '48'
+      frac: 0.34030945
+  - - - '3'
+      - Rory Duncan
+    - rank: '49'
+      frac: 0.33346176
+  - - - '8'
+      - Guy Hubbard
+    - rank: '50'
+      frac: 0.32684561
+  - - - '50'
+      - Darren Brown
+    - rank: '51'
+      frac: 0.32045683
+  - - - '53'
+      - Malcolm Brown
+    - rank: '52'
+      frac: 0.31429128
+  - - - '9'
+      - Steve Docherty
+    - rank: '53'
+      frac: 0.30834479
+  - - - '99'
+      - Mikolaj Przezdziak
+    - rank: '54'
+      frac: 0.30261319
+  - - - '64'
+      - Laszlo Okros
+    - rank: '55'
+      frac: 0.29709232
+  - - - '14'
+      - Alexander Sigl
+    - rank: '56'
+      frac: 0.29177803
+  - - - '91'
+      - Olav Opsanger
+    - rank: '57'
+      frac: 0.28666615
+  - - - '23'
+      - Konrad Heilmann
+    - rank: '58'
+      frac: 0.28175252
+  - - - '48'
+      - Andrew Hollidge
+    - rank: '59'
+      frac: 0.27703298
+  - - - '100'
+      - Felix Cantesanu
+    - rank: '60'
+      frac: 0.27250337
+  - - - '47'
+      - Antoine Saraf
+    - rank: '61'
+      frac: 0.26815953
+  - - - '34'
+      - Petr Polach
+    - rank: '62'
+      frac: 0.26399729
+  - - - '89'
+      - Johnny Nilssen
+    - rank: '63'
+      frac: 0.26001249
+  - - - '31'
+      - Jiri Gut
+    - rank: '64'
+      frac: 0.25620098
+  - - - '1'
+      - Steve Blenkinsop
+    - rank: '65'
+      frac: 0.25255858
+  - - - '32'
+      - Petr Tucek
+    - rank: '66'
+      frac: 0.24908115
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - rank: '67'
+      frac: 0.24576451
+  - - - '62'
+      - Attila Kis
+    - rank: '68'
+      frac: 0.24260451
+  - - - '101'
+      - Konstantin Lukyanov
+    - rank: '69'
+      frac: 0.23959699
+  - - - '35'
+      - Frantisek Kostal
+    - rank: '70'
+      frac: 0.23673778
+  - - - '60'
+      - Georg Schweier
+    - rank: '71'
+      frac: 0.23402272
+  - - - '33'
+      - Lukas Vojacek
+    - rank: '72'
+      frac: 0.23144766
+  - - - '59'
+      - Joerg Bajewski
+    - rank: '73'
+      frac: 0.22900842
+  - - - '77'
+      - Takashi Sunama
+    - rank: '74'
+      frac: 0.22670085
+  - - - '39'
+      - Tximo Iriarte
+    - rank: '75'
+      frac: 0.22452079
+  - - - '94'
+      - Matthew Barlow
+    - rank: '76'
+      frac: 0.22246407
+  - - - '56'
+      - Gerd Doenhuber
+    - rank: '77'
+      frac: 0.22052654
+  - - - '95'
+      - Viv Clements
+    - rank: '78'
+      frac: 0.21870403
+  - - - '30'
+      - Jiri Nadvornik
+    - rank: '79'
+      frac: 0.21699238
+  - - - '86'
+      - Tanno Rutten
+    - rank: '80'
+      frac: 0.21538743
+  - - - '2'
+      - Rohan Taylor
+    - rank: '81'
+      frac: 0.21388502
+  - - - '104'
+      - Janez Grm
+    - rank: '82'
+      frac: 0.21248098
+  - - - '38'
+      - Daniel Martin Mota
+    - rank: '83'
+      frac: 0.21117116
+  - - - '20'
+      - Eduardo Oliveira
+    - rank: '84'
+      frac: 0.2099514
+  - - - '37'
+      - Alvaro Idigoras
+    - rank: '85'
+      frac: 0.20881753
+  - - - '42'
+      - Eric Wyss
+    - rank: '86'
+      frac: 0.20776539
+  - - - '110'
+      - Markel Neideman
+    - rank: '87'
+      frac: 0.20679082
+  - - - '81'
+      - Young Don Lee
+    - rank: '88'
+      frac: 0.20588966
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - rank: '89'
+      frac: 0.20505774
+  - - - '11'
+      - Christian Tiefenbacher
+    - rank: '90'
+      frac: 0.20429091
+  - - - '7'
+      - Nils Vesk
+    - rank: '91'
+      frac: 0.20358501
+  - - - '114'
+      - Canberg Ozveren
+    - rank: '92'
+      frac: 0.20293587
+  - - - '113'
+      - Kamil Demirkan
+    - rank: '93'
+      frac: 0.20233933
+  - - - '111'
+      - Tommy Nilsson
+    - rank: '94'
+      frac: 0.20179123
+  - - - '116'
+      - Jeff Chipman
+    - rank: '95'
+      frac: 0.20128741
+  - - - '71'
+      - Manuel Revelli
+    - rank: '96'
+      frac: 0.2008237
+  - - - '123'
+      - Igriza Flora
+    - rank: '97'
+      frac: 0.20039595
