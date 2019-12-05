@@ -147,11 +147,12 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
-  penals:
+  penalsAuto:
   - - - '27'
       - Hernan Cortes Pinones
     - - penalty-points: 118.5
     - Jumped the gun by 3:57
+  penals:
   - - - '33'
       - Lukas Vojacek
     - - penalty-fraction: 1
@@ -380,6 +381,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '2'
       - Rohan Taylor
@@ -494,6 +496,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 taskFolders:
 - - '20190715'
