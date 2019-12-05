@@ -148,6 +148,10 @@ tasks:
     earliest: 300 s
     earlyPenalty: 2 s
   penals:
+  - - - '27'
+      - Hernan Cortes Pinones
+    - - penalty-points: 118.5
+    - Jumped the gun by 3:57
   - - - '33'
       - Lukas Vojacek
     - - penalty-fraction: 1
