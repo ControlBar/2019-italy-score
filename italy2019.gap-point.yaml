@@ -2456,36 +2456,9 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 136.000 m
-  - - - '27'
-      - Hernan Cortes Pinones
-    - place: '87'
-      total: 318
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 163.118
-        distance: 315.399
-        leading: 2.7
-        arrival: 0
-        time: 0
-        reach: 152.28
-      landedMade: 67.061 km
-      reach:
-        extra: 68.309 km
-        flown: 68.309 km
-      velocity:
-        ss: 2019-07-15T12:25:55.990725131315Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 134.000 m
   - - - '9'
       - Steve Docherty
-    - place: '88'
+    - place: '87'
       total: 274
       penalties: []
       penaltyReason: ''
@@ -2512,7 +2485,7 @@ score:
       stoppedAlt: 238.000 m
   - - - '94'
       - Matthew Barlow
-    - place: '89'
+    - place: '88'
       total: 254
       penalties: []
       penaltyReason: ''
@@ -2539,7 +2512,7 @@ score:
       stoppedAlt: 222.000 m
   - - - '2'
       - Rohan Taylor
-    - place: '90'
+    - place: '89'
       total: 245
       penalties: []
       penaltyReason: ''
@@ -2566,7 +2539,7 @@ score:
       stoppedAlt: 262.000 m
   - - - '123'
       - Igriza Flora
-    - place: '91'
+    - place: '90'
       total: 237
       penalties: []
       penaltyReason: ''
@@ -2593,7 +2566,7 @@ score:
       stoppedAlt: 264.000 m
   - - - '83'
       - Sander Van Schaik
-    - place: '92'
+    - place: '91'
       total: 206
       penalties: []
       penaltyReason: ''
@@ -2620,7 +2593,7 @@ score:
       stoppedAlt: 265.000 m
   - - - '111'
       - Tommy Nilsson
-    - place: 93=
+    - place: 92=
       total: 202
       penalties: []
       penaltyReason: ''
@@ -2647,7 +2620,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '62'
       - Attila Kis
-    - place: 93=
+    - place: 92=
       total: 202
       penalties: []
       penaltyReason: ''
@@ -2672,6 +2645,34 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 289.000 m
+  - - - '27'
+      - Hernan Cortes Pinones
+    - place: '94'
+      total: 200
+      penalties:
+      - penalty-points: 118.5
+      penaltyReason: Jumped the gun by 3:57
+      breakdown:
+        effort: 163.118
+        distance: 315.399
+        leading: 2.7
+        arrival: 0
+        time: 0
+        reach: 152.28
+      landedMade: 67.061 km
+      reach:
+        extra: 68.309 km
+        flown: 68.309 km
+      velocity:
+        ss: 2019-07-15T12:25:55.990725131315Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 134.000 m
   - - - '86'
       - Tanno Rutten
     - place: '95'
@@ -12113,36 +12114,9 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 136.000 m
-  - - - '27'
-      - Hernan Cortes Pinones
-    - place: '87'
-      total: 318
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 163.118
-        distance: 315.399
-        leading: 2.7
-        arrival: 0
-        time: 0
-        reach: 152.28
-      landedMade: 67.061 km
-      reach:
-        extra: 68.309 km
-        flown: 68.309 km
-      velocity:
-        ss: 2019-07-15T12:25:55.990725131315Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 134.000 m
   - - - '9'
       - Steve Docherty
-    - place: '88'
+    - place: '87'
       total: 274
       penalties: []
       penaltyReason: ''
@@ -12169,7 +12143,7 @@ scoreDf:
       stoppedAlt: 238.000 m
   - - - '94'
       - Matthew Barlow
-    - place: '89'
+    - place: '88'
       total: 254
       penalties: []
       penaltyReason: ''
@@ -12196,7 +12170,7 @@ scoreDf:
       stoppedAlt: 222.000 m
   - - - '2'
       - Rohan Taylor
-    - place: '90'
+    - place: '89'
       total: 245
       penalties: []
       penaltyReason: ''
@@ -12223,7 +12197,7 @@ scoreDf:
       stoppedAlt: 262.000 m
   - - - '123'
       - Igriza Flora
-    - place: '91'
+    - place: '90'
       total: 237
       penalties: []
       penaltyReason: ''
@@ -12250,7 +12224,7 @@ scoreDf:
       stoppedAlt: 264.000 m
   - - - '83'
       - Sander Van Schaik
-    - place: '92'
+    - place: '91'
       total: 206
       penalties: []
       penaltyReason: ''
@@ -12277,7 +12251,7 @@ scoreDf:
       stoppedAlt: 265.000 m
   - - - '111'
       - Tommy Nilsson
-    - place: 93=
+    - place: 92=
       total: 202
       penalties: []
       penaltyReason: ''
@@ -12304,7 +12278,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '62'
       - Attila Kis
-    - place: 93=
+    - place: 92=
       total: 202
       penalties: []
       penaltyReason: ''
@@ -12329,6 +12303,34 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 289.000 m
+  - - - '27'
+      - Hernan Cortes Pinones
+    - place: '94'
+      total: 200
+      penalties:
+      - penalty-points: 118.5
+      penaltyReason: Jumped the gun by 3:57
+      breakdown:
+        effort: 163.118
+        distance: 315.399
+        leading: 2.7
+        arrival: 0
+        time: 0
+        reach: 152.28
+      landedMade: 67.061 km
+      reach:
+        extra: 68.309 km
+        flown: 68.309 km
+      velocity:
+        ss: 2019-07-15T12:25:55.990725131315Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 134.000 m
   - - - '86'
       - Tanno Rutten
     - place: '95'
