@@ -2633,7 +2633,8 @@ score:
     - place: '87'
       total: 318
       jump: 244.009 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 122.0046374343425
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3069,7 +3070,8 @@ score:
     - place: 101=
       total: 28
       jump: 240.098 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 120.049011544423
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -6303,7 +6305,8 @@ score:
     - place: 93=
       total: 208
       jump: 206.543 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 103.2715459820335
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -6941,7 +6944,8 @@ score:
     - place: '116'
       total: 29
       jump: 25.476 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 12.738043275673
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -13004,7 +13008,8 @@ scoreDf:
     - place: '87'
       total: 318
       jump: 244.009 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 122.0046374343425
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -13440,7 +13445,8 @@ scoreDf:
     - place: 101=
       total: 28
       jump: 240.098 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 120.049011544423
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -16674,7 +16680,8 @@ scoreDf:
     - place: 93=
       total: 208
       jump: 206.543 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 103.2715459820335
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -17312,7 +17319,8 @@ scoreDf:
     - place: '116'
       total: 29
       jump: 25.476 s
-      penaltiesJump: []
+      penaltiesJump:
+      - penalty-points: 12.738043275673
       penalties: []
       penaltyReason: ''
       breakdown:
