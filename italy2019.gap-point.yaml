@@ -2628,39 +2628,9 @@ score:
         flown: 68.038 km
       landedMade: 67.053 km
       stoppedAlt: 136.000 m
-  - - - '27'
-      - Hernan Cortes Pinones
-    - place: '87'
-      total: 318
-      jump: 244.009 s
-      penaltiesJump:
-      - penalty-points: 122.0046374343425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 163.118
-        arrival: 0
-        time: 0
-        reach: 152.28
-        distance: 315.399
-        leading: 2.7
-      velocity:
-        ss: 2019-07-15T12:25:55.990725131315Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 68.309 km
-        flown: 68.309 km
-      landedMade: 67.061 km
-      stoppedAlt: 134.000 m
   - - - '9'
       - Steve Docherty
-    - place: '88'
+    - place: '87'
       total: 274
       jump: null
       penaltiesJump: []
@@ -2689,7 +2659,7 @@ score:
       stoppedAlt: 238.000 m
   - - - '94'
       - Matthew Barlow
-    - place: '89'
+    - place: '88'
       total: 254
       jump: null
       penaltiesJump: []
@@ -2718,7 +2688,7 @@ score:
       stoppedAlt: 222.000 m
   - - - '2'
       - Rohan Taylor
-    - place: '90'
+    - place: '89'
       total: 245
       jump: null
       penaltiesJump: []
@@ -2747,7 +2717,7 @@ score:
       stoppedAlt: 262.000 m
   - - - '123'
       - Igriza Flora
-    - place: '91'
+    - place: '90'
       total: 237
       jump: null
       penaltiesJump: []
@@ -2776,7 +2746,7 @@ score:
       stoppedAlt: 264.000 m
   - - - '83'
       - Sander Van Schaik
-    - place: '92'
+    - place: '91'
       total: 206
       jump: null
       penaltiesJump: []
@@ -2805,7 +2775,7 @@ score:
       stoppedAlt: 265.000 m
   - - - '111'
       - Tommy Nilsson
-    - place: 93=
+    - place: 92=
       total: 202
       jump: null
       penaltiesJump: []
@@ -2834,7 +2804,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '62'
       - Attila Kis
-    - place: 93=
+    - place: 92=
       total: 202
       jump: null
       penaltiesJump: []
@@ -2863,7 +2833,7 @@ score:
       stoppedAlt: 289.000 m
   - - - '86'
       - Tanno Rutten
-    - place: '95'
+    - place: '94'
       total: 198
       jump: null
       penaltiesJump: []
@@ -2890,6 +2860,36 @@ score:
         flown: 42.345 km
       landedMade: 42.004 km
       stoppedAlt: 302.000 m
+  - - - '27'
+      - Hernan Cortes Pinones
+    - place: '95'
+      total: 196
+      jump: 244.009 s
+      penaltiesJump:
+      - penalty-points: 122.0046374343425
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 163.118
+        arrival: 0
+        time: 0
+        reach: 152.28
+        distance: 315.399
+        leading: 2.7
+      velocity:
+        ss: 2019-07-15T12:25:55.990725131315Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 68.309 km
+        flown: 68.309 km
+      landedMade: 67.061 km
+      stoppedAlt: 134.000 m
   - - - '82'
       - Jaesun Moon
     - place: '96'
@@ -3038,7 +3038,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '118'
       - Will Ramsey
-    - place: 101=
+    - place: '101'
       total: 28
       jump: null
       penaltiesJump: []
@@ -3065,39 +3065,9 @@ score:
         flown: 5.897 km
       landedMade: 5.758 km
       stoppedAlt: 253.000 m
-  - - - '109'
-      - Damien Zahn
-    - place: 101=
-      total: 28
-      jump: 240.098 s
-      penaltiesJump:
-      - penalty-points: 120.049011544423
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 11.896
-        arrival: 0
-        time: 0
-        reach: 15.605
-        distance: 27.501
-        leading: 0
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
   - - - '40'
       - Jesus Mari Hernando Duque
-    - place: '103'
+    - place: '102'
       total: 25
       jump: null
       penaltiesJump: []
@@ -3126,7 +3096,7 @@ score:
       stoppedAlt: 217.000 m
   - - - '90'
       - Jens Krotseng
-    - place: '104'
+    - place: '103'
       total: 16
       jump: null
       penaltiesJump: []
@@ -3155,7 +3125,7 @@ score:
       stoppedAlt: 360.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3185,7 +3155,7 @@ score:
       stoppedAlt: 188.000 m
   - - - '114'
       - Canberg Ozveren
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3215,7 +3185,7 @@ score:
       stoppedAlt: null
   - - - '38'
       - Daniel Martin Mota
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3245,7 +3215,7 @@ score:
       stoppedAlt: 196.000 m
   - - - '93'
       - Derek Mckee
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3275,7 +3245,7 @@ score:
       stoppedAlt: 193.000 m
   - - - '35'
       - Frantisek Kostal
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3305,7 +3275,7 @@ score:
       stoppedAlt: 197.000 m
   - - - '87'
       - Gijs Wanders
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3335,7 +3305,7 @@ score:
       stoppedAlt: 197.000 m
   - - - '104'
       - Janez Grm
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3365,7 +3335,7 @@ score:
       stoppedAlt: 192.000 m
   - - - '116'
       - Jeff Chipman
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3395,7 +3365,7 @@ score:
       stoppedAlt: 206.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3425,7 +3395,7 @@ score:
       stoppedAlt: 199.000 m
   - - - '34'
       - Petr Polach
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3455,7 +3425,7 @@ score:
       stoppedAlt: 195.000 m
   - - - '76'
       - Shogo Ota
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3485,7 +3455,7 @@ score:
       stoppedAlt: 212.000 m
   - - - '97'
       - Tom Kellner
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3515,7 +3485,7 @@ score:
       stoppedAlt: 289.000 m
   - - - '95'
       - Viv Clements
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3545,7 +3515,7 @@ score:
       stoppedAlt: 205.000 m
   - - - '80'
       - Yoko Sano
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3575,7 +3545,7 @@ score:
       stoppedAlt: 235.000 m
   - - - '117'
       - Zac Majors
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -3603,6 +3573,36 @@ score:
         flown: 40.321 km
       landedMade: 40.165 km
       stoppedAlt: 211.000 m
+  - - - '109'
+      - Damien Zahn
+    - place: '119'
+      total: -93
+      jump: 240.098 s
+      penaltiesJump:
+      - penalty-points: 120.049011544423
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 11.896
+        arrival: 0
+        time: 0
+        reach: 15.605
+        distance: 27.501
+        leading: 0
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
 - - - - '57'
       - Primoz Gricar
     - place: 1=
@@ -6300,36 +6300,6 @@ score:
         flown: 59.687 km
       landedMade: 57.744 km
       stoppedAlt: 178.000 m
-  - - - '27'
-      - Hernan Cortes Pinones
-    - place: 93=
-      total: 208
-      jump: 206.543 s
-      penaltiesJump:
-      - penalty-points: 103.2715459820335
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 82.104
-        arrival: 0
-        time: 0
-        reach: 125.853
-        distance: 207.957
-        leading: 0
-      velocity:
-        ss: 2019-07-16T12:11:33.456908035933Z
-        gs: 2019-07-16T12:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 61.889 km
-        flown: 61.889 km
-      landedMade: 55.863 km
-      stoppedAlt: 208.000 m
   - - - '110'
       - Markel Neideman
     - place: 93=
@@ -6361,7 +6331,7 @@ score:
       stoppedAlt: 179.000 m
   - - - '114'
       - Canberg Ozveren
-    - place: '96'
+    - place: '95'
       total: 205
       jump: null
       penaltiesJump: []
@@ -6390,7 +6360,7 @@ score:
       stoppedAlt: 179.000 m
   - - - '97'
       - Tom Kellner
-    - place: '97'
+    - place: '96'
       total: 204
       jump: null
       penaltiesJump: []
@@ -6419,7 +6389,7 @@ score:
       stoppedAlt: 205.000 m
   - - - '65'
       - Noel Collins
-    - place: 98=
+    - place: 97=
       total: 203
       jump: null
       penaltiesJump: []
@@ -6448,7 +6418,7 @@ score:
       stoppedAlt: 208.000 m
   - - - '30'
       - Jiri Nadvornik
-    - place: 98=
+    - place: 97=
       total: 203
       jump: null
       penaltiesJump: []
@@ -6477,7 +6447,7 @@ score:
       stoppedAlt: 208.000 m
   - - - '105'
       - Stanislav Galovec
-    - place: 98=
+    - place: 97=
       total: 203
       jump: null
       penaltiesJump: []
@@ -6506,7 +6476,7 @@ score:
       stoppedAlt: 208.000 m
   - - - '62'
       - Attila Kis
-    - place: 101=
+    - place: 100=
       total: 201
       jump: null
       penaltiesJump: []
@@ -6535,7 +6505,7 @@ score:
       stoppedAlt: 209.000 m
   - - - '113'
       - Kamil Demirkan
-    - place: 101=
+    - place: 100=
       total: 201
       jump: null
       penaltiesJump: []
@@ -6564,7 +6534,7 @@ score:
       stoppedAlt: 205.000 m
   - - - '15'
       - Wolfgang Siess
-    - place: 101=
+    - place: 100=
       total: 201
       jump: null
       penaltiesJump: []
@@ -6593,7 +6563,7 @@ score:
       stoppedAlt: 178.000 m
   - - - '41'
       - Chomin Gallego Escribano
-    - place: '104'
+    - place: '103'
       total: 199
       jump: null
       penaltiesJump: []
@@ -6622,7 +6592,7 @@ score:
       stoppedAlt: 174.000 m
   - - - '99'
       - Mikolaj Przezdziak
-    - place: 105=
+    - place: 104=
       total: 163
       jump: null
       penaltiesJump: []
@@ -6651,7 +6621,7 @@ score:
       stoppedAlt: 169.000 m
   - - - '88'
       - Emiel Jansen
-    - place: 105=
+    - place: 104=
       total: 163
       jump: null
       penaltiesJump: []
@@ -6680,7 +6650,7 @@ score:
       stoppedAlt: 173.000 m
   - - - '59'
       - Joerg Bajewski
-    - place: '107'
+    - place: '106'
       total: 148
       jump: null
       penaltiesJump: []
@@ -6709,7 +6679,7 @@ score:
       stoppedAlt: 167.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: '108'
+    - place: '107'
       total: 145
       jump: null
       penaltiesJump: []
@@ -6738,7 +6708,7 @@ score:
       stoppedAlt: 157.000 m
   - - - '8'
       - Guy Hubbard
-    - place: '109'
+    - place: '108'
       total: 143
       jump: null
       penaltiesJump: []
@@ -6767,7 +6737,7 @@ score:
       stoppedAlt: 172.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: '110'
+    - place: '109'
       total: 120
       jump: null
       penaltiesJump: []
@@ -6796,7 +6766,7 @@ score:
       stoppedAlt: 145.000 m
   - - - '93'
       - Derek Mckee
-    - place: '111'
+    - place: '110'
       total: 114
       jump: null
       penaltiesJump: []
@@ -6825,7 +6795,7 @@ score:
       stoppedAlt: 355.000 m
   - - - '80'
       - Yoko Sano
-    - place: '112'
+    - place: '111'
       total: 110
       jump: null
       penaltiesJump: []
@@ -6852,6 +6822,36 @@ score:
         flown: 43.244 km
       landedMade: 38.724 km
       stoppedAlt: 124.000 m
+  - - - '27'
+      - Hernan Cortes Pinones
+    - place: '112'
+      total: 105
+      jump: 206.543 s
+      penaltiesJump:
+      - penalty-points: 103.2715459820335
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 82.104
+        arrival: 0
+        time: 0
+        reach: 125.853
+        distance: 207.957
+        leading: 0
+      velocity:
+        ss: 2019-07-16T12:11:33.456908035933Z
+        gs: 2019-07-16T12:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 61.889 km
+        flown: 61.889 km
+      landedMade: 55.863 km
+      stoppedAlt: 208.000 m
   - - - '20'
       - Eduardo Oliveira
     - place: '113'
@@ -6939,39 +6939,9 @@ score:
         flown: 11.172 km
       landedMade: 11.059 km
       stoppedAlt: 281.000 m
-  - - - '83'
-      - Sander Van Schaik
-    - place: '116'
-      total: 29
-      jump: 25.476 s
-      penaltiesJump:
-      - penalty-points: 12.738043275673
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 9.016
-        arrival: 0
-        time: 0
-        reach: 19.677
-        distance: 28.693
-        leading: 0
-      velocity:
-        ss: 2019-07-16T12:14:34.523913448654Z
-        gs: 2019-07-16T12:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.676 km
-        flown: 9.676 km
-      landedMade: 8.233 km
-      stoppedAlt: 242.000 m
   - - - '40'
       - Jesus Mari Hernando Duque
-    - place: '117'
+    - place: '116'
       total: 25
       jump: null
       penaltiesJump: []
@@ -6998,6 +6968,36 @@ score:
         flown: 8.145 km
       landedMade: 8.200 km
       stoppedAlt: 243.000 m
+  - - - '83'
+      - Sander Van Schaik
+    - place: '117'
+      total: 16
+      jump: 25.476 s
+      penaltiesJump:
+      - penalty-points: 12.738043275673
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 9.016
+        arrival: 0
+        time: 0
+        reach: 19.677
+        distance: 28.693
+        leading: 0
+      velocity:
+        ss: 2019-07-16T12:14:34.523913448654Z
+        gs: 2019-07-16T12:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 9.676 km
+        flown: 9.676 km
+      landedMade: 8.233 km
+      stoppedAlt: 242.000 m
   - - - '23'
       - Konrad Heilmann
     - place: '118'
@@ -13003,39 +13003,9 @@ scoreDf:
         flown: 68.038 km
       landedMade: 67.053 km
       stoppedAlt: 136.000 m
-  - - - '27'
-      - Hernan Cortes Pinones
-    - place: '87'
-      total: 318
-      jump: 244.009 s
-      penaltiesJump:
-      - penalty-points: 122.0046374343425
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 163.118
-        arrival: 0
-        time: 0
-        reach: 152.28
-        distance: 315.399
-        leading: 2.7
-      velocity:
-        ss: 2019-07-15T12:25:55.990725131315Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 68.309 km
-        flown: 68.309 km
-      landedMade: 67.061 km
-      stoppedAlt: 134.000 m
   - - - '9'
       - Steve Docherty
-    - place: '88'
+    - place: '87'
       total: 274
       jump: null
       penaltiesJump: []
@@ -13064,7 +13034,7 @@ scoreDf:
       stoppedAlt: 238.000 m
   - - - '94'
       - Matthew Barlow
-    - place: '89'
+    - place: '88'
       total: 254
       jump: null
       penaltiesJump: []
@@ -13093,7 +13063,7 @@ scoreDf:
       stoppedAlt: 222.000 m
   - - - '2'
       - Rohan Taylor
-    - place: '90'
+    - place: '89'
       total: 245
       jump: null
       penaltiesJump: []
@@ -13122,7 +13092,7 @@ scoreDf:
       stoppedAlt: 262.000 m
   - - - '123'
       - Igriza Flora
-    - place: '91'
+    - place: '90'
       total: 237
       jump: null
       penaltiesJump: []
@@ -13151,7 +13121,7 @@ scoreDf:
       stoppedAlt: 264.000 m
   - - - '83'
       - Sander Van Schaik
-    - place: '92'
+    - place: '91'
       total: 206
       jump: null
       penaltiesJump: []
@@ -13180,7 +13150,7 @@ scoreDf:
       stoppedAlt: 265.000 m
   - - - '111'
       - Tommy Nilsson
-    - place: 93=
+    - place: 92=
       total: 202
       jump: null
       penaltiesJump: []
@@ -13209,7 +13179,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '62'
       - Attila Kis
-    - place: 93=
+    - place: 92=
       total: 202
       jump: null
       penaltiesJump: []
@@ -13238,7 +13208,7 @@ scoreDf:
       stoppedAlt: 289.000 m
   - - - '86'
       - Tanno Rutten
-    - place: '95'
+    - place: '94'
       total: 198
       jump: null
       penaltiesJump: []
@@ -13265,6 +13235,36 @@ scoreDf:
         flown: 42.345 km
       landedMade: 42.004 km
       stoppedAlt: 302.000 m
+  - - - '27'
+      - Hernan Cortes Pinones
+    - place: '95'
+      total: 196
+      jump: 244.009 s
+      penaltiesJump:
+      - penalty-points: 122.0046374343425
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 163.118
+        arrival: 0
+        time: 0
+        reach: 152.28
+        distance: 315.399
+        leading: 2.7
+      velocity:
+        ss: 2019-07-15T12:25:55.990725131315Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 68.309 km
+        flown: 68.309 km
+      landedMade: 67.061 km
+      stoppedAlt: 134.000 m
   - - - '82'
       - Jaesun Moon
     - place: '96'
@@ -13413,7 +13413,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '118'
       - Will Ramsey
-    - place: 101=
+    - place: '101'
       total: 28
       jump: null
       penaltiesJump: []
@@ -13440,39 +13440,9 @@ scoreDf:
         flown: 5.897 km
       landedMade: 5.758 km
       stoppedAlt: 253.000 m
-  - - - '109'
-      - Damien Zahn
-    - place: 101=
-      total: 28
-      jump: 240.098 s
-      penaltiesJump:
-      - penalty-points: 120.049011544423
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 11.896
-        arrival: 0
-        time: 0
-        reach: 15.605
-        distance: 27.501
-        leading: 0
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
   - - - '40'
       - Jesus Mari Hernando Duque
-    - place: '103'
+    - place: '102'
       total: 25
       jump: null
       penaltiesJump: []
@@ -13501,7 +13471,7 @@ scoreDf:
       stoppedAlt: 217.000 m
   - - - '90'
       - Jens Krotseng
-    - place: '104'
+    - place: '103'
       total: 16
       jump: null
       penaltiesJump: []
@@ -13530,7 +13500,7 @@ scoreDf:
       stoppedAlt: 360.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13560,7 +13530,7 @@ scoreDf:
       stoppedAlt: 188.000 m
   - - - '114'
       - Canberg Ozveren
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13590,7 +13560,7 @@ scoreDf:
       stoppedAlt: null
   - - - '38'
       - Daniel Martin Mota
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13620,7 +13590,7 @@ scoreDf:
       stoppedAlt: 196.000 m
   - - - '93'
       - Derek Mckee
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13650,7 +13620,7 @@ scoreDf:
       stoppedAlt: 193.000 m
   - - - '35'
       - Frantisek Kostal
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13680,7 +13650,7 @@ scoreDf:
       stoppedAlt: 197.000 m
   - - - '87'
       - Gijs Wanders
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13710,7 +13680,7 @@ scoreDf:
       stoppedAlt: 197.000 m
   - - - '104'
       - Janez Grm
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13740,7 +13710,7 @@ scoreDf:
       stoppedAlt: 192.000 m
   - - - '116'
       - Jeff Chipman
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13770,7 +13740,7 @@ scoreDf:
       stoppedAlt: 206.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13800,7 +13770,7 @@ scoreDf:
       stoppedAlt: 199.000 m
   - - - '34'
       - Petr Polach
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13830,7 +13800,7 @@ scoreDf:
       stoppedAlt: 195.000 m
   - - - '76'
       - Shogo Ota
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13860,7 +13830,7 @@ scoreDf:
       stoppedAlt: 212.000 m
   - - - '97'
       - Tom Kellner
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13890,7 +13860,7 @@ scoreDf:
       stoppedAlt: 289.000 m
   - - - '95'
       - Viv Clements
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13920,7 +13890,7 @@ scoreDf:
       stoppedAlt: 205.000 m
   - - - '80'
       - Yoko Sano
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13950,7 +13920,7 @@ scoreDf:
       stoppedAlt: 235.000 m
   - - - '117'
       - Zac Majors
-    - place: 105=
+    - place: 104=
       total: 0
       jump: null
       penaltiesJump: []
@@ -13978,6 +13948,36 @@ scoreDf:
         flown: 40.321 km
       landedMade: 40.165 km
       stoppedAlt: 211.000 m
+  - - - '109'
+      - Damien Zahn
+    - place: '119'
+      total: -93
+      jump: 240.098 s
+      penaltiesJump:
+      - penalty-points: 120.049011544423
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 11.896
+        arrival: 0
+        time: 0
+        reach: 15.605
+        distance: 27.501
+        leading: 0
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
 - - - - '57'
       - Primoz Gricar
     - place: 1=
@@ -16675,36 +16675,6 @@ scoreDf:
         flown: 59.687 km
       landedMade: 57.744 km
       stoppedAlt: 178.000 m
-  - - - '27'
-      - Hernan Cortes Pinones
-    - place: 93=
-      total: 208
-      jump: 206.543 s
-      penaltiesJump:
-      - penalty-points: 103.2715459820335
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 82.104
-        arrival: 0
-        time: 0
-        reach: 125.853
-        distance: 207.957
-        leading: 0
-      velocity:
-        ss: 2019-07-16T12:11:33.456908035933Z
-        gs: 2019-07-16T12:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 61.889 km
-        flown: 61.889 km
-      landedMade: 55.863 km
-      stoppedAlt: 208.000 m
   - - - '110'
       - Markel Neideman
     - place: 93=
@@ -16736,7 +16706,7 @@ scoreDf:
       stoppedAlt: 179.000 m
   - - - '114'
       - Canberg Ozveren
-    - place: '96'
+    - place: '95'
       total: 205
       jump: null
       penaltiesJump: []
@@ -16765,7 +16735,7 @@ scoreDf:
       stoppedAlt: 179.000 m
   - - - '97'
       - Tom Kellner
-    - place: '97'
+    - place: '96'
       total: 204
       jump: null
       penaltiesJump: []
@@ -16794,7 +16764,7 @@ scoreDf:
       stoppedAlt: 205.000 m
   - - - '65'
       - Noel Collins
-    - place: 98=
+    - place: 97=
       total: 203
       jump: null
       penaltiesJump: []
@@ -16823,7 +16793,7 @@ scoreDf:
       stoppedAlt: 208.000 m
   - - - '30'
       - Jiri Nadvornik
-    - place: 98=
+    - place: 97=
       total: 203
       jump: null
       penaltiesJump: []
@@ -16852,7 +16822,7 @@ scoreDf:
       stoppedAlt: 208.000 m
   - - - '105'
       - Stanislav Galovec
-    - place: 98=
+    - place: 97=
       total: 203
       jump: null
       penaltiesJump: []
@@ -16881,7 +16851,7 @@ scoreDf:
       stoppedAlt: 208.000 m
   - - - '62'
       - Attila Kis
-    - place: 101=
+    - place: 100=
       total: 201
       jump: null
       penaltiesJump: []
@@ -16910,7 +16880,7 @@ scoreDf:
       stoppedAlt: 209.000 m
   - - - '113'
       - Kamil Demirkan
-    - place: 101=
+    - place: 100=
       total: 201
       jump: null
       penaltiesJump: []
@@ -16939,7 +16909,7 @@ scoreDf:
       stoppedAlt: 205.000 m
   - - - '15'
       - Wolfgang Siess
-    - place: 101=
+    - place: 100=
       total: 201
       jump: null
       penaltiesJump: []
@@ -16968,7 +16938,7 @@ scoreDf:
       stoppedAlt: 178.000 m
   - - - '41'
       - Chomin Gallego Escribano
-    - place: '104'
+    - place: '103'
       total: 199
       jump: null
       penaltiesJump: []
@@ -16997,7 +16967,7 @@ scoreDf:
       stoppedAlt: 174.000 m
   - - - '99'
       - Mikolaj Przezdziak
-    - place: 105=
+    - place: 104=
       total: 163
       jump: null
       penaltiesJump: []
@@ -17026,7 +16996,7 @@ scoreDf:
       stoppedAlt: 169.000 m
   - - - '88'
       - Emiel Jansen
-    - place: 105=
+    - place: 104=
       total: 163
       jump: null
       penaltiesJump: []
@@ -17055,7 +17025,7 @@ scoreDf:
       stoppedAlt: 173.000 m
   - - - '59'
       - Joerg Bajewski
-    - place: '107'
+    - place: '106'
       total: 148
       jump: null
       penaltiesJump: []
@@ -17084,7 +17054,7 @@ scoreDf:
       stoppedAlt: 167.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: '108'
+    - place: '107'
       total: 145
       jump: null
       penaltiesJump: []
@@ -17113,7 +17083,7 @@ scoreDf:
       stoppedAlt: 157.000 m
   - - - '8'
       - Guy Hubbard
-    - place: '109'
+    - place: '108'
       total: 143
       jump: null
       penaltiesJump: []
@@ -17142,7 +17112,7 @@ scoreDf:
       stoppedAlt: 172.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: '110'
+    - place: '109'
       total: 120
       jump: null
       penaltiesJump: []
@@ -17171,7 +17141,7 @@ scoreDf:
       stoppedAlt: 145.000 m
   - - - '93'
       - Derek Mckee
-    - place: '111'
+    - place: '110'
       total: 114
       jump: null
       penaltiesJump: []
@@ -17200,7 +17170,7 @@ scoreDf:
       stoppedAlt: 355.000 m
   - - - '80'
       - Yoko Sano
-    - place: '112'
+    - place: '111'
       total: 110
       jump: null
       penaltiesJump: []
@@ -17227,6 +17197,36 @@ scoreDf:
         flown: 43.244 km
       landedMade: 38.724 km
       stoppedAlt: 124.000 m
+  - - - '27'
+      - Hernan Cortes Pinones
+    - place: '112'
+      total: 105
+      jump: 206.543 s
+      penaltiesJump:
+      - penalty-points: 103.2715459820335
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 82.104
+        arrival: 0
+        time: 0
+        reach: 125.853
+        distance: 207.957
+        leading: 0
+      velocity:
+        ss: 2019-07-16T12:11:33.456908035933Z
+        gs: 2019-07-16T12:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 61.889 km
+        flown: 61.889 km
+      landedMade: 55.863 km
+      stoppedAlt: 208.000 m
   - - - '20'
       - Eduardo Oliveira
     - place: '113'
@@ -17314,39 +17314,9 @@ scoreDf:
         flown: 11.172 km
       landedMade: 11.059 km
       stoppedAlt: 281.000 m
-  - - - '83'
-      - Sander Van Schaik
-    - place: '116'
-      total: 29
-      jump: 25.476 s
-      penaltiesJump:
-      - penalty-points: 12.738043275673
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 9.016
-        arrival: 0
-        time: 0
-        reach: 19.677
-        distance: 28.693
-        leading: 0
-      velocity:
-        ss: 2019-07-16T12:14:34.523913448654Z
-        gs: 2019-07-16T12:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.676 km
-        flown: 9.676 km
-      landedMade: 8.233 km
-      stoppedAlt: 242.000 m
   - - - '40'
       - Jesus Mari Hernando Duque
-    - place: '117'
+    - place: '116'
       total: 25
       jump: null
       penaltiesJump: []
@@ -17373,6 +17343,36 @@ scoreDf:
         flown: 8.145 km
       landedMade: 8.200 km
       stoppedAlt: 243.000 m
+  - - - '83'
+      - Sander Van Schaik
+    - place: '117'
+      total: 16
+      jump: 25.476 s
+      penaltiesJump:
+      - penalty-points: 12.738043275673
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 9.016
+        arrival: 0
+        time: 0
+        reach: 19.677
+        distance: 28.693
+        leading: 0
+      velocity:
+        ss: 2019-07-16T12:14:34.523913448654Z
+        gs: 2019-07-16T12:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 9.676 km
+        flown: 9.676 km
+      landedMade: 8.233 km
+      stoppedAlt: 242.000 m
   - - - '23'
       - Konrad Heilmann
     - place: '118'
