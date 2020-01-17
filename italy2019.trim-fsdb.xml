@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="0" name="22nd FAI World Hang Gliding Class 1 Championship" location="Tolmezzo, Friuli Venezia Giulia, Italy" from="2019-07-12" to="2019-07-27" utc_offset="2" discipline="hg">
-    <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
+    <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
     <FsParticipants>
       <FsParticipant id="1" name="Steve Blenkinsop"/>
       <FsParticipant id="2" name="Rohan Taylor"/>
@@ -128,7 +128,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="" tracklog_folder="20190715">
-        <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
           <FsTurnpoint id="D01" lat="46.23083" lon="12.80694" altitude="980" radius="400" open="2019-07-15T13:00:00+02:00" close="2019-07-15T15:30:00+02:00"/>
           <FsTurnpoint id="A07" lat="46.40417" lon="12.88361" altitude="370" radius="23000" open="2019-07-15T14:30:00+02:00" close="2019-07-15T18:00:00+02:00"/>
@@ -783,7 +783,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="" tracklog_folder="20190716">
-        <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="2" es="9" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
           <FsTurnpoint id="D01" lat="46.23083" lon="12.80694" altitude="980" radius="400" open="2019-07-16T12:45:00+02:00" close="2019-07-16T15:30:00+02:00"/>
           <FsTurnpoint id="A07" lat="46.40417" lon="12.88361" altitude="370" radius="24000" open="2019-07-16T14:15:00+02:00" close="2019-07-16T18:30:00+02:00"/>
@@ -1543,7 +1543,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="" tracklog_folder="20190717">
-        <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="2" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
           <FsTurnpoint id="D01" lat="46.23083" lon="12.80694" altitude="980" radius="400" open="2019-07-17T12:45:00+02:00" close="2019-07-17T15:30:00+02:00"/>
           <FsTurnpoint id="B24" lat="46.23556" lon="12.70583" altitude="1300" radius="13500" open="2019-07-17T14:15:00+02:00" close="2019-07-17T19:00:00+02:00"/>

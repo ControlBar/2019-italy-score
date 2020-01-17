@@ -3183,6 +3183,36 @@ score:
         flown: 86.067 km
       landedMade: 86.067 km
       stoppedAlt: null
+  - - - '109'
+      - Damien Zahn
+    - place: 104=
+      total: 0
+      jump: 240.098 s
+      penaltiesJump:
+      - penalty-points: 120.049011544423
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 11.896
+        arrival: 0
+        time: 0
+        reach: 15.605
+        distance: 27.501
+        leading: 0
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
     - place: 104=
@@ -3573,36 +3603,6 @@ score:
         flown: 40.321 km
       landedMade: 40.165 km
       stoppedAlt: 211.000 m
-  - - - '109'
-      - Damien Zahn
-    - place: '119'
-      total: -93
-      jump: 240.098 s
-      penaltiesJump:
-      - penalty-points: 120.049011544423
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 11.896
-        arrival: 0
-        time: 0
-        reach: 15.605
-        distance: 27.501
-        leading: 0
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
 - - - - '57'
       - Primoz Gricar
     - place: 1=
@@ -4598,11 +4598,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 275.147
+        effort: 275.148
         arrival: 0
         time: 0
         reach: 261.902
-        distance: 537.049
+        distance: 537.05
         leading: 61.2
       velocity:
         ss: 2019-07-16T12:15:22.73075204319Z
@@ -4656,11 +4656,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 270.054
+        effort: 270.114
         arrival: 0
         time: 0
         reach: 254.498
-        distance: 524.552
+        distance: 524.612
         leading: 52.5
       velocity:
         ss: 2019-07-16T12:15:24.934164677141Z
@@ -4685,11 +4685,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 270.329
+        effort: 270.386
         arrival: 0
         time: 0
         reach: 256.69
-        distance: 527.02
+        distance: 527.077
         leading: 49.1
       velocity:
         ss: 2019-07-16T12:15:13.640322972225Z
@@ -4708,17 +4708,17 @@ score:
   - - - '89'
       - Johnny Nilssen
     - place: '39'
-      total: 569
+      total: 570
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 270.329
+        effort: 270.386
         arrival: 0
         time: 0
         reach: 256.412
-        distance: 526.741
+        distance: 526.798
         leading: 42.7
       velocity:
         ss: 2019-07-16T12:15:22.879830511926Z
@@ -4743,11 +4743,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 264.548
+        effort: 264.672
         arrival: 0
         time: 0
         reach: 250.614
-        distance: 515.163
+        distance: 515.287
         leading: 43.7
       velocity:
         ss: 2019-07-16T12:15:21.29892875901Z
@@ -4766,17 +4766,17 @@ score:
   - - - '91'
       - Olav Opsanger
     - place: '41'
-      total: 540
+      total: 541
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 253.881
+        effort: 254.129
         arrival: 0
         time: 0
         reach: 242.092
-        distance: 495.973
+        distance: 496.221
         leading: 44.4
       velocity:
         ss: 2019-07-16T12:17:42.135282091892Z
@@ -4801,11 +4801,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 251.128
+        effort: 251.408
         arrival: 0
         time: 0
         reach: 240.215
-        distance: 491.343
+        distance: 491.623
         leading: 41.2
       velocity:
         ss: 2019-07-16T12:15:31.045465522731Z
@@ -4824,17 +4824,17 @@ score:
   - - - '7'
       - Nils Vesk
     - place: '43'
-      total: 529
+      total: 530
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 255.739
+        effort: 255.966
         arrival: 0
         time: 0
         reach: 243.025
-        distance: 498.764
+        distance: 498.991
         leading: 30.7
       velocity:
         ss: 2019-07-16T12:15:13.183218019104Z
@@ -4853,17 +4853,17 @@ score:
   - - - '28'
       - Daniel Velez
     - place: '44'
-      total: 493
+      total: 494
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 205.12
-        distance: 448.334
+        distance: 448.706
         leading: 44.9
       velocity:
         ss: 2019-07-16T12:15:10.938549650788Z
@@ -4888,11 +4888,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.508
-        distance: 447.722
+        distance: 448.094
         leading: 44.3
       velocity:
         ss: 2019-07-16T12:15:44.595866959498Z
@@ -4910,18 +4910,18 @@ score:
       stoppedAlt: 341.000 m
   - - - '76'
       - Shogo Ota
-    - place: 46=
-      total: 490
+    - place: '46'
+      total: 491
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.594
-        distance: 448.633
+        distance: 448.995
         leading: 41.7
       velocity:
         ss: 2019-07-16T12:15:15.37596048066Z
@@ -4939,18 +4939,18 @@ score:
       stoppedAlt: 345.000 m
   - - - '122'
       - Vanni Accattoli
-    - place: 46=
+    - place: '47'
       total: 490
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.6
-        distance: 448.639
+        distance: 449.002
         leading: 41
       velocity:
         ss: 2019-07-16T12:15:52.512112677481Z
@@ -4968,18 +4968,18 @@ score:
       stoppedAlt: 350.000 m
   - - - '53'
       - Malcolm Brown
-    - place: 48=
-      total: 486
+    - place: '48'
+      total: 487
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 245.485
+        effort: 245.83
         arrival: 0
         time: 0
         reach: 208.872
-        distance: 454.357
+        distance: 454.702
         leading: 32
       velocity:
         ss: 2019-07-16T12:15:40.005494083176Z
@@ -4997,18 +4997,18 @@ score:
       stoppedAlt: 329.000 m
   - - - '32'
       - Petr Tucek
-    - place: 48=
+    - place: '49'
       total: 486
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 205.995
-        distance: 449.209
+        distance: 449.58
         leading: 36.6
       velocity:
         ss: 2019-07-16T12:15:05.228225996635Z
@@ -5033,11 +5033,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 207.445
-        distance: 451.484
+        distance: 451.846
         leading: 32.4
       velocity:
         ss: 2019-07-16T12:15:48.044631410033Z
@@ -5062,11 +5062,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.768
-        distance: 448.808
+        distance: 449.17
         leading: 34.3
       velocity:
         ss: 2019-07-16T12:15:29.865334729342Z
@@ -5091,11 +5091,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.524
-        distance: 447.738
+        distance: 448.11
         leading: 34
       velocity:
         ss: 2019-07-16T12:15:37.603287445653Z
@@ -5113,18 +5113,18 @@ score:
       stoppedAlt: 343.000 m
   - - - '47'
       - Antoine Saraf
-    - place: '53'
+    - place: 53=
       total: 481
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 205.683
-        distance: 449.723
+        distance: 450.085
         leading: 30.8
       velocity:
         ss: 2019-07-16T12:15:27.270538157153Z
@@ -5142,18 +5142,18 @@ score:
       stoppedAlt: 341.000 m
   - - - '14'
       - Alexander Sigl
-    - place: 54=
-      total: 480
+    - place: 53=
+      total: 481
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.589
-        distance: 447.803
+        distance: 448.175
         leading: 32.6
       velocity:
         ss: 2019-07-16T12:15:31.314044739273Z
@@ -5171,18 +5171,18 @@ score:
       stoppedAlt: 351.000 m
   - - - '13'
       - Walter Mayer
-    - place: 54=
+    - place: '55'
       total: 480
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 206.113
-        distance: 450.152
+        distance: 450.514
         leading: 29.6
       velocity:
         ss: 2019-07-16T12:15:29.394329062549Z
@@ -5207,11 +5207,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.677
-        distance: 447.891
+        distance: 448.263
         leading: 28.9
       velocity:
         ss: 2019-07-16T12:15:13.336782834448Z
@@ -5236,11 +5236,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.903
-        distance: 448.942
+        distance: 449.305
         leading: 27.1
       velocity:
         ss: 2019-07-16T12:16:27.136962618771Z
@@ -5265,11 +5265,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 205.462
-        distance: 449.502
+        distance: 449.864
         leading: 25.2
       velocity:
         ss: 2019-07-16T12:15:39.112163502649Z
@@ -5288,17 +5288,17 @@ score:
   - - - '109'
       - Damien Zahn
     - place: '59'
-      total: 473
+      total: 474
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.577
-        distance: 448.617
+        distance: 448.979
         leading: 24.5
       velocity:
         ss: 2019-07-16T12:16:14.223548376577Z
@@ -5323,11 +5323,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.565
-        distance: 448.605
+        distance: 448.967
         leading: 20
       velocity:
         ss: 2019-07-16T12:15:41.573660858908Z
@@ -5352,11 +5352,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 205.22
-        distance: 449.26
+        distance: 449.622
         leading: 18.9
       velocity:
         ss: 2019-07-16T12:15:17.595361784439Z
@@ -5381,11 +5381,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 202.255
-        distance: 427.782
+        distance: 428.359
         leading: 36.9
       velocity:
         ss: 2019-07-16T12:15:42.606060425648Z
@@ -5404,17 +5404,17 @@ score:
   - - - '74'
       - Akira Nagusa
     - place: '63'
-      total: 461
+      total: 462
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 210.042
+        effort: 210.799
         arrival: 0
         time: 0
         reach: 200.411
-        distance: 410.453
+        distance: 411.21
         leading: 51
       velocity:
         ss: 2019-07-16T12:15:23.333282537965Z
@@ -5439,11 +5439,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 239.291
+        effort: 239.708
         arrival: 0
         time: 0
         reach: 203.91
-        distance: 443.201
+        distance: 443.619
         leading: 15.8
       velocity:
         ss: 2019-07-16T12:18:28.06383057644Z
@@ -5468,11 +5468,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.838
-        distance: 427.365
+        distance: 427.942
         leading: 29.3
       velocity:
         ss: 2019-07-16T12:15:14.600464981907Z
@@ -5490,18 +5490,18 @@ score:
       stoppedAlt: 763.000 m
   - - - '95'
       - Viv Clements
-    - place: '66'
+    - place: 66=
       total: 455
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.559
-        distance: 447.773
+        distance: 448.145
         leading: 7
       velocity:
         ss: 2019-07-16T12:24:11.3503160787Z
@@ -5519,18 +5519,18 @@ score:
       stoppedAlt: 355.000 m
   - - - '106'
       - Ubaldo Romano
-    - place: '67'
-      total: 454
+    - place: 66=
+      total: 455
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.985
-        distance: 427.511
+        distance: 428.089
         leading: 26.4
       velocity:
         ss: 2019-07-16T12:15:21.422793789401Z
@@ -5549,17 +5549,17 @@ score:
   - - - '31'
       - Jiri Gut
     - place: '68'
-      total: 453
+      total: 454
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.836
-        distance: 427.363
+        distance: 427.94
         leading: 25.6
       velocity:
         ss: 2019-07-16T12:15:29.421156047231Z
@@ -5584,11 +5584,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 207.977
+        effort: 208.759
         arrival: 0
         time: 0
         reach: 201.252
-        distance: 409.23
+        distance: 410.011
         leading: 42.4
       velocity:
         ss: 2019-07-16T12:15:49.364453414817Z
@@ -5607,17 +5607,17 @@ score:
   - - - '19'
       - Max Turiaco
     - place: '70'
-      total: 449
+      total: 450
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.838
-        distance: 427.365
+        distance: 427.942
         leading: 21.8
       velocity:
         ss: 2019-07-16T12:15:21.438233902531Z
@@ -5636,17 +5636,17 @@ score:
   - - - '120'
       - John Simon
     - place: '71'
-      total: 447
+      total: 448
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 199.444
+        effort: 200.324
         arrival: 0
         time: 0
         reach: 199.833
-        distance: 399.277
+        distance: 400.157
         leading: 48
       velocity:
         ss: 2019-07-16T12:15:22.378450919303Z
@@ -5665,17 +5665,17 @@ score:
   - - - '46'
       - Francois Isoard
     - place: '72'
-      total: 444
+      total: 445
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 202.9
-        distance: 428.426
+        distance: 429.004
         leading: 15.9
       velocity:
         ss: 2019-07-16T12:15:57.556654057589Z
@@ -5694,17 +5694,17 @@ score:
   - - - '6'
       - Craig Taylor
     - place: '73'
-      total: 440
+      total: 441
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.883
-        distance: 427.41
+        distance: 427.987
         leading: 12.9
       velocity:
         ss: 2019-07-16T12:30:43.533984082487Z
@@ -5729,11 +5729,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 212.038
+        effort: 212.772
         arrival: 0
         time: 0
         reach: 200.38
-        distance: 412.418
+        distance: 413.152
         leading: 23.1
       velocity:
         ss: 2019-07-16T12:15:17.547096870586Z
@@ -5752,17 +5752,17 @@ score:
   - - - '87'
       - Gijs Wanders
     - place: '75'
-      total: 433
+      total: 434
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 193.043
+        effort: 193.998
         arrival: 0
         time: 0
         reach: 200.126
-        distance: 393.169
+        distance: 394.124
         leading: 39.4
       velocity:
         ss: 2019-07-16T12:15:14.151758634975Z
@@ -5781,17 +5781,17 @@ score:
   - - - '96'
       - Shane Mckay
     - place: '76'
-      total: 427
+      total: 428
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.901
-        distance: 427.428
+        distance: 428.005
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:34.296959046577Z
@@ -5810,17 +5810,17 @@ score:
   - - - '77'
       - Takashi Sunama
     - place: '77'
-      total: 398
+      total: 399
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 162.074
+        effort: 163.388
         arrival: 0
         time: 0
         reach: 196.766
-        distance: 358.84
+        distance: 360.155
         leading: 39
       velocity:
         ss: 2019-07-16T12:15:34.602114063641Z
@@ -5839,17 +5839,17 @@ score:
   - - - '9'
       - Steve Docherty
     - place: '78'
-      total: 373
+      total: 375
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 164.414
+        effort: 165.701
         arrival: 0
         time: 0
         reach: 196.793
-        distance: 361.207
+        distance: 362.494
         leading: 12.1
       velocity:
         ss: 2019-07-16T12:15:43.36442592381Z
@@ -5868,17 +5868,17 @@ score:
   - - - '35'
       - Frantisek Kostal
     - place: '79'
-      total: 361
+      total: 362
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 164.414
+        effort: 165.701
         arrival: 0
         time: 0
         reach: 196.183
-        distance: 360.597
+        distance: 361.884
         leading: 0
       velocity:
         ss: 2019-07-16T12:35:25.979942147299Z
@@ -5897,17 +5897,17 @@ score:
   - - - '94'
       - Matthew Barlow
     - place: '80'
-      total: 353
+      total: 354
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 157.256
+        effort: 158.627
         arrival: 0
         time: 0
         reach: 195.394
-        distance: 352.65
+        distance: 354.02
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:22.484169913574Z
@@ -5932,11 +5932,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.138
+        effort: 0
         arrival: 0
         time: 0
         reach: 275.202
-        distance: 275.339
+        distance: 275.202
         leading: 57.3
       velocity:
         ss: 2019-07-16T12:15:28.328337368817Z
@@ -5955,17 +5955,17 @@ score:
   - - - '3'
       - Rory Duncan
     - place: '82'
-      total: 305
+      total: 307
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 123.259
+        effort: 125.024
         arrival: 0
         time: 0
         reach: 182.038
-        distance: 305.296
+        distance: 307.062
         leading: 0
       velocity:
         ss: 2019-07-16T12:43:35.565129701311Z
@@ -5984,17 +5984,17 @@ score:
   - - - '81'
       - Young Don Lee
     - place: '83'
-      total: 304
+      total: 306
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 121.676
+        effort: 123.459
         arrival: 0
         time: 0
         reach: 182.473
-        distance: 304.149
+        distance: 305.932
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:51.064211225757Z
@@ -6013,17 +6013,17 @@ score:
   - - - '38'
       - Daniel Martin Mota
     - place: '84'
-      total: 300
+      total: 302
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 121.951
+        effort: 123.731
         arrival: 0
         time: 0
         reach: 177.946
-        distance: 299.897
+        distance: 301.678
         leading: 0
       velocity:
         ss: 2019-07-16T12:18:26.859587200994Z
@@ -6042,17 +6042,17 @@ score:
   - - - '104'
       - Janez Grm
     - place: '85'
-      total: 285
+      total: 286
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.935
+        effort: 114.821
         arrival: 0
         time: 0
         reach: 171.655
-        distance: 284.59
+        distance: 286.475
         leading: 0
       velocity:
         ss: 2019-07-16T12:28:30.148028986552Z
@@ -6071,17 +6071,17 @@ score:
   - - - '123'
       - Igriza Flora
     - place: '86'
-      total: 279
+      total: 281
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 111.559
+        effort: 113.46
         arrival: 0
         time: 0
         reach: 167.85
-        distance: 279.409
+        distance: 281.31
         leading: 0
       velocity:
         ss: 2019-07-16T12:58:41.646900232328Z
@@ -6100,17 +6100,17 @@ score:
   - - - '86'
       - Tanno Rutten
     - place: '87'
-      total: 277
+      total: 279
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 113.142
+        effort: 115.025
         arrival: 0
         time: 0
         reach: 164.35
-        distance: 277.492
+        distance: 279.375
         leading: 0
       velocity:
         ss: 2019-07-16T12:16:09.223048014909Z
@@ -6129,17 +6129,17 @@ score:
   - - - '82'
       - Jaesun Moon
     - place: '88'
-      total: 276
+      total: 278
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 113.28
+        effort: 115.161
         arrival: 0
         time: 0
         reach: 162.457
-        distance: 275.736
+        distance: 277.618
         leading: 0
       velocity:
         ss: 2019-07-16T12:54:41.225640568854Z
@@ -6158,17 +6158,17 @@ score:
   - - - '39'
       - Tximo Iriarte
     - place: '89'
-      total: 273
+      total: 275
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 113.348
+        effort: 115.229
         arrival: 0
         time: 0
         reach: 159.323
-        distance: 272.672
+        distance: 274.552
         leading: 0
       velocity:
         ss: 2019-07-16T12:45:35.555616650716Z
@@ -6187,17 +6187,17 @@ score:
   - - - '5'
       - Peter Burkitt
     - place: '90'
-      total: 241
+      total: 243
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 96.831
+        effort: 98.904
         arrival: 0
         time: 0
         reach: 143.724
-        distance: 240.555
+        distance: 242.628
         leading: 0
       velocity:
         ss: 2019-07-16T12:46:38.347767899145Z
@@ -6216,17 +6216,17 @@ score:
   - - - '118'
       - Will Ramsey
     - place: '91'
-      total: 238
+      total: 240
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 96.831
+        effort: 98.904
         arrival: 0
         time: 0
         reach: 140.993
-        distance: 237.824
+        distance: 239.897
         leading: 0
       velocity:
         ss: 2019-07-16T12:27:29.415547116383Z
@@ -6245,17 +6245,17 @@ score:
   - - - '111'
       - Tommy Nilsson
     - place: '92'
-      total: 234
+      total: 236
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 96.831
+        effort: 98.904
         arrival: 0
         time: 0
         reach: 137.475
-        distance: 234.306
+        distance: 236.379
         leading: 0
       velocity:
         ss: 2019-07-16T12:40:48.958129969922Z
@@ -6274,17 +6274,17 @@ score:
   - - - '11'
       - Christian Tiefenbacher
     - place: 93=
-      total: 208
+      total: 210
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 86.921
+        effort: 89.108
         arrival: 0
         time: 0
         reach: 121.376
-        distance: 208.297
+        distance: 210.484
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:19.295760079735Z
@@ -6303,17 +6303,17 @@ score:
   - - - '110'
       - Markel Neideman
     - place: 93=
-      total: 208
+      total: 210
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 86.921
+        effort: 89.108
         arrival: 0
         time: 0
         reach: 120.79
-        distance: 207.711
+        distance: 209.898
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:56.446498921785Z
@@ -6332,17 +6332,17 @@ score:
   - - - '114'
       - Canberg Ozveren
     - place: '95'
-      total: 205
+      total: 208
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 86.921
+        effort: 89.108
         arrival: 0
         time: 0
         reach: 118.535
-        distance: 205.456
+        distance: 207.643
         leading: 0
       velocity:
         ss: 2019-07-16T12:32:39.874679788656Z
@@ -6361,17 +6361,17 @@ score:
   - - - '97'
       - Tom Kellner
     - place: '96'
-      total: 204
+      total: 206
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 120.829
-        distance: 203.62
+        distance: 205.856
         leading: 0
       velocity:
         ss: 2019-07-16T12:19:18.372981399355Z
@@ -6390,17 +6390,17 @@ score:
   - - - '65'
       - Noel Collins
     - place: 97=
-      total: 203
+      total: 205
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 120.361
-        distance: 203.153
+        distance: 205.388
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:22.004902043026Z
@@ -6419,17 +6419,17 @@ score:
   - - - '30'
       - Jiri Nadvornik
     - place: 97=
-      total: 203
+      total: 205
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 120.288
-        distance: 203.08
+        distance: 205.315
         leading: 0
       velocity:
         ss: 2019-07-16T12:24:09.971767550444Z
@@ -6448,17 +6448,17 @@ score:
   - - - '105'
       - Stanislav Galovec
     - place: 97=
-      total: 203
+      total: 205
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 119.985
-        distance: 202.777
+        distance: 205.012
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:23.697970990906Z
@@ -6477,17 +6477,17 @@ score:
   - - - '62'
       - Attila Kis
     - place: 100=
-      total: 201
+      total: 203
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 118.273
-        distance: 201.064
+        distance: 203.3
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:25.990623245145Z
@@ -6506,17 +6506,17 @@ score:
   - - - '113'
       - Kamil Demirkan
     - place: 100=
-      total: 201
+      total: 203
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.104
+        effort: 84.347
         arrival: 0
         time: 0
         reach: 118.722
-        distance: 200.826
+        distance: 203.069
         leading: 0
       velocity:
         ss: 2019-07-16T12:32:27.083726541882Z
@@ -6535,17 +6535,17 @@ score:
   - - - '15'
       - Wolfgang Siess
     - place: 100=
-      total: 201
+      total: 203
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 83.824
+        effort: 86.047
         arrival: 0
         time: 0
         reach: 116.865
-        distance: 200.689
+        distance: 202.913
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:12.611490982942Z
@@ -6564,17 +6564,17 @@ score:
   - - - '41'
       - Chomin Gallego Escribano
     - place: '103'
-      total: 199
+      total: 201
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 83.824
+        effort: 86.047
         arrival: 0
         time: 0
         reach: 115.255
-        distance: 199.079
+        distance: 201.302
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:43.161938129451Z
@@ -6593,17 +6593,17 @@ score:
   - - - '99'
       - Mikolaj Przezdziak
     - place: 104=
-      total: 163
+      total: 166
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 53.199
+        effort: 55.778
         arrival: 0
         time: 0
         reach: 110.193
-        distance: 163.392
+        distance: 165.971
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:25.34000368705Z
@@ -6622,17 +6622,17 @@ score:
   - - - '88'
       - Emiel Jansen
     - place: 104=
-      total: 163
+      total: 166
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 55.47
+        effort: 58.022
         arrival: 0
         time: 0
         reach: 107.879
-        distance: 163.349
+        distance: 165.902
         leading: 0
       velocity:
         ss: 2019-07-16T12:24:16.762033999482Z
@@ -6651,17 +6651,17 @@ score:
   - - - '59'
       - Joerg Bajewski
     - place: '106'
-      total: 148
+      total: 150
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 41.155
+        effort: 43.874
         arrival: 0
         time: 0
         reach: 106.496
-        distance: 147.651
+        distance: 150.37
         leading: 0
       velocity:
         ss: 2019-07-16T12:45:04.007415988468Z
@@ -6680,17 +6680,17 @@ score:
   - - - '37'
       - Alvaro Idigoras
     - place: '107'
-      total: 145
+      total: 148
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 40.536
+        effort: 43.262
         arrival: 0
         time: 0
         reach: 104.579
-        distance: 145.114
+        distance: 147.841
         leading: 0
       velocity:
         ss: 2019-07-16T12:41:37.91160990458Z
@@ -6709,17 +6709,17 @@ score:
   - - - '8'
       - Guy Hubbard
     - place: '108'
-      total: 143
+      total: 146
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 40.26
+        effort: 42.99
         arrival: 0
         time: 0
         reach: 102.911
-        distance: 143.172
+        distance: 145.901
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:53.262143692646Z
@@ -6738,17 +6738,17 @@ score:
   - - - '33'
       - Lukas Vojacek
     - place: '109'
-      total: 120
+      total: 123
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 27.46
+        effort: 30.338
         arrival: 0
         time: 0
         reach: 92.823
-        distance: 120.283
+        distance: 123.161
         leading: 0
       velocity:
         ss: 2019-07-16T12:37:04.607504965046Z
@@ -6767,17 +6767,17 @@ score:
   - - - '93'
       - Derek Mckee
     - place: '110'
-      total: 114
+      total: 117
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 25.189
+        effort: 28.093
         arrival: 0
         time: 0
         reach: 88.801
-        distance: 113.989
+        distance: 116.894
         leading: 0
       velocity:
         ss: 2019-07-16T12:57:38.587919506171Z
@@ -6796,17 +6796,17 @@ score:
   - - - '80'
       - Yoko Sano
     - place: '111'
-      total: 110
+      total: 113
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 21.816
+        effort: 24.76
         arrival: 0
         time: 0
         reach: 87.938
-        distance: 109.755
+        distance: 112.698
         leading: 0
       velocity:
         ss: 2019-07-16T12:33:03.420393171335Z
@@ -6825,18 +6825,18 @@ score:
   - - - '27'
       - Hernan Cortes Pinones
     - place: '112'
-      total: 105
+      total: 107
       jump: 206.543 s
       penaltiesJump:
       - penalty-points: 103.2715459820335
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.104
+        effort: 84.347
         arrival: 0
         time: 0
         reach: 125.853
-        distance: 207.957
+        distance: 210.2
         leading: 0
       velocity:
         ss: 2019-07-16T12:11:33.456908035933Z
@@ -6855,17 +6855,17 @@ score:
   - - - '20'
       - Eduardo Oliveira
     - place: '113'
-      total: 84
+      total: 87
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 17.549
+        effort: 20.543
         arrival: 0
         time: 0
         reach: 66.031
-        distance: 83.581
+        distance: 86.574
         leading: 0
       velocity:
         ss: 2019-07-16T12:43:28.803516097335Z
@@ -6884,17 +6884,17 @@ score:
   - - - '61'
       - Carlos Rolando Alvarado
     - place: '114'
-      total: 83
+      total: 86
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 17.549
+        effort: 20.543
         arrival: 0
         time: 0
         reach: 65.814
-        distance: 83.363
+        distance: 86.356
         leading: 0
       velocity:
         ss: 2019-07-16T13:16:32.216902788825Z
@@ -6913,17 +6913,17 @@ score:
   - - - '101'
       - Konstantin Lukyanov
     - place: '115'
-      total: 34
+      total: 37
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 10.943
+        effort: 14.012
         arrival: 0
         time: 0
         reach: 22.719
-        distance: 33.662
+        distance: 36.732
         leading: 0
       velocity:
         ss: 2019-07-16T12:40:00.080024100026Z
@@ -6942,17 +6942,17 @@ score:
   - - - '40'
       - Jesus Mari Hernando Duque
     - place: '116'
-      total: 25
+      total: 29
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 8.878
+        effort: 11.972
         arrival: 0
         time: 0
         reach: 16.564
-        distance: 25.442
+        distance: 28.536
         leading: 0
       velocity:
         ss: 2019-07-16T12:43:22.306948103373Z
@@ -6971,18 +6971,18 @@ score:
   - - - '83'
       - Sander Van Schaik
     - place: '117'
-      total: 16
+      total: 19
       jump: 25.476 s
       penaltiesJump:
       - penalty-points: 12.738043275673
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 9.016
+        effort: 12.108
         arrival: 0
         time: 0
         reach: 19.677
-        distance: 28.693
+        distance: 31.785
         leading: 0
       velocity:
         ss: 2019-07-16T12:14:34.523913448654Z
@@ -7007,11 +7007,11 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 1.032
+        effort: 0.952
         arrival: 0
         time: 0
         reach: 14.235
-        distance: 15.267
+        distance: 15.187
         leading: 0
       velocity:
         ss: 2019-07-16T13:05:04.001965337843Z
@@ -7037,11 +7037,11 @@ score:
       - penalty-fraction: 1
       penaltyReason: Airspace Infringement
       breakdown:
-        effort: 82.104
+        effort: 84.347
         arrival: 0
         time: 0
         reach: 122.437
-        distance: 204.541
+        distance: 206.784
         leading: 0
       velocity:
         ss: 2019-07-16T12:25:57.362555178681Z
@@ -13558,6 +13558,36 @@ scoreDf:
         flown: 86.067 km
       landedMade: 86.067 km
       stoppedAlt: null
+  - - - '109'
+      - Damien Zahn
+    - place: 104=
+      total: 0
+      jump: 240.098 s
+      penaltiesJump:
+      - penalty-points: 120.049011544423
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 11.896
+        arrival: 0
+        time: 0
+        reach: 15.605
+        distance: 27.501
+        leading: 0
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
     - place: 104=
@@ -13948,36 +13978,6 @@ scoreDf:
         flown: 40.321 km
       landedMade: 40.165 km
       stoppedAlt: 211.000 m
-  - - - '109'
-      - Damien Zahn
-    - place: '119'
-      total: -93
-      jump: 240.098 s
-      penaltiesJump:
-      - penalty-points: 120.049011544423
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 11.896
-        arrival: 0
-        time: 0
-        reach: 15.605
-        distance: 27.501
-        leading: 0
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
 - - - - '57'
       - Primoz Gricar
     - place: 1=
@@ -14973,11 +14973,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 275.147
+        effort: 275.148
         arrival: 0
         time: 0
         reach: 261.902
-        distance: 537.049
+        distance: 537.05
         leading: 61.2
       velocity:
         ss: 2019-07-16T12:15:22.73075204319Z
@@ -15031,11 +15031,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 270.054
+        effort: 270.114
         arrival: 0
         time: 0
         reach: 254.498
-        distance: 524.552
+        distance: 524.612
         leading: 52.5
       velocity:
         ss: 2019-07-16T12:15:24.934164677141Z
@@ -15060,11 +15060,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 270.329
+        effort: 270.386
         arrival: 0
         time: 0
         reach: 256.69
-        distance: 527.02
+        distance: 527.077
         leading: 49.1
       velocity:
         ss: 2019-07-16T12:15:13.640322972225Z
@@ -15083,17 +15083,17 @@ scoreDf:
   - - - '89'
       - Johnny Nilssen
     - place: '39'
-      total: 569
+      total: 570
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 270.329
+        effort: 270.386
         arrival: 0
         time: 0
         reach: 256.412
-        distance: 526.741
+        distance: 526.798
         leading: 42.7
       velocity:
         ss: 2019-07-16T12:15:22.879830511926Z
@@ -15118,11 +15118,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 264.548
+        effort: 264.672
         arrival: 0
         time: 0
         reach: 250.614
-        distance: 515.163
+        distance: 515.287
         leading: 43.7
       velocity:
         ss: 2019-07-16T12:15:21.29892875901Z
@@ -15141,17 +15141,17 @@ scoreDf:
   - - - '91'
       - Olav Opsanger
     - place: '41'
-      total: 540
+      total: 541
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 253.881
+        effort: 254.129
         arrival: 0
         time: 0
         reach: 242.092
-        distance: 495.973
+        distance: 496.221
         leading: 44.4
       velocity:
         ss: 2019-07-16T12:17:42.135282091892Z
@@ -15176,11 +15176,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 251.128
+        effort: 251.408
         arrival: 0
         time: 0
         reach: 240.215
-        distance: 491.343
+        distance: 491.623
         leading: 41.2
       velocity:
         ss: 2019-07-16T12:15:31.045465522731Z
@@ -15199,17 +15199,17 @@ scoreDf:
   - - - '7'
       - Nils Vesk
     - place: '43'
-      total: 529
+      total: 530
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 255.739
+        effort: 255.966
         arrival: 0
         time: 0
         reach: 243.025
-        distance: 498.764
+        distance: 498.991
         leading: 30.7
       velocity:
         ss: 2019-07-16T12:15:13.183218019104Z
@@ -15228,17 +15228,17 @@ scoreDf:
   - - - '28'
       - Daniel Velez
     - place: '44'
-      total: 493
+      total: 494
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 205.12
-        distance: 448.334
+        distance: 448.706
         leading: 44.9
       velocity:
         ss: 2019-07-16T12:15:10.938549650788Z
@@ -15263,11 +15263,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.508
-        distance: 447.722
+        distance: 448.094
         leading: 44.3
       velocity:
         ss: 2019-07-16T12:15:44.595866959498Z
@@ -15285,18 +15285,18 @@ scoreDf:
       stoppedAlt: 341.000 m
   - - - '76'
       - Shogo Ota
-    - place: 46=
-      total: 490
+    - place: '46'
+      total: 491
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.594
-        distance: 448.633
+        distance: 448.995
         leading: 41.7
       velocity:
         ss: 2019-07-16T12:15:15.37596048066Z
@@ -15314,18 +15314,18 @@ scoreDf:
       stoppedAlt: 345.000 m
   - - - '122'
       - Vanni Accattoli
-    - place: 46=
+    - place: '47'
       total: 490
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.6
-        distance: 448.639
+        distance: 449.002
         leading: 41
       velocity:
         ss: 2019-07-16T12:15:52.512112677481Z
@@ -15343,18 +15343,18 @@ scoreDf:
       stoppedAlt: 350.000 m
   - - - '53'
       - Malcolm Brown
-    - place: 48=
-      total: 486
+    - place: '48'
+      total: 487
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 245.485
+        effort: 245.83
         arrival: 0
         time: 0
         reach: 208.872
-        distance: 454.357
+        distance: 454.702
         leading: 32
       velocity:
         ss: 2019-07-16T12:15:40.005494083176Z
@@ -15372,18 +15372,18 @@ scoreDf:
       stoppedAlt: 329.000 m
   - - - '32'
       - Petr Tucek
-    - place: 48=
+    - place: '49'
       total: 486
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 205.995
-        distance: 449.209
+        distance: 449.58
         leading: 36.6
       velocity:
         ss: 2019-07-16T12:15:05.228225996635Z
@@ -15408,11 +15408,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 207.445
-        distance: 451.484
+        distance: 451.846
         leading: 32.4
       velocity:
         ss: 2019-07-16T12:15:48.044631410033Z
@@ -15437,11 +15437,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.768
-        distance: 448.808
+        distance: 449.17
         leading: 34.3
       velocity:
         ss: 2019-07-16T12:15:29.865334729342Z
@@ -15466,11 +15466,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.524
-        distance: 447.738
+        distance: 448.11
         leading: 34
       velocity:
         ss: 2019-07-16T12:15:37.603287445653Z
@@ -15488,18 +15488,18 @@ scoreDf:
       stoppedAlt: 343.000 m
   - - - '47'
       - Antoine Saraf
-    - place: '53'
+    - place: 53=
       total: 481
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 205.683
-        distance: 449.723
+        distance: 450.085
         leading: 30.8
       velocity:
         ss: 2019-07-16T12:15:27.270538157153Z
@@ -15517,18 +15517,18 @@ scoreDf:
       stoppedAlt: 341.000 m
   - - - '14'
       - Alexander Sigl
-    - place: 54=
-      total: 480
+    - place: 53=
+      total: 481
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.589
-        distance: 447.803
+        distance: 448.175
         leading: 32.6
       velocity:
         ss: 2019-07-16T12:15:31.314044739273Z
@@ -15546,18 +15546,18 @@ scoreDf:
       stoppedAlt: 351.000 m
   - - - '13'
       - Walter Mayer
-    - place: 54=
+    - place: '55'
       total: 480
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 206.113
-        distance: 450.152
+        distance: 450.514
         leading: 29.6
       velocity:
         ss: 2019-07-16T12:15:29.394329062549Z
@@ -15582,11 +15582,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.677
-        distance: 447.891
+        distance: 448.263
         leading: 28.9
       velocity:
         ss: 2019-07-16T12:15:13.336782834448Z
@@ -15611,11 +15611,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.903
-        distance: 448.942
+        distance: 449.305
         leading: 27.1
       velocity:
         ss: 2019-07-16T12:16:27.136962618771Z
@@ -15640,11 +15640,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 205.462
-        distance: 449.502
+        distance: 449.864
         leading: 25.2
       velocity:
         ss: 2019-07-16T12:15:39.112163502649Z
@@ -15663,17 +15663,17 @@ scoreDf:
   - - - '109'
       - Damien Zahn
     - place: '59'
-      total: 473
+      total: 474
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.577
-        distance: 448.617
+        distance: 448.979
         leading: 24.5
       velocity:
         ss: 2019-07-16T12:16:14.223548376577Z
@@ -15698,11 +15698,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 204.565
-        distance: 448.605
+        distance: 448.967
         leading: 20
       velocity:
         ss: 2019-07-16T12:15:41.573660858908Z
@@ -15727,11 +15727,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 244.04
+        effort: 244.402
         arrival: 0
         time: 0
         reach: 205.22
-        distance: 449.26
+        distance: 449.622
         leading: 18.9
       velocity:
         ss: 2019-07-16T12:15:17.595361784439Z
@@ -15756,11 +15756,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 202.255
-        distance: 427.782
+        distance: 428.359
         leading: 36.9
       velocity:
         ss: 2019-07-16T12:15:42.606060425648Z
@@ -15779,17 +15779,17 @@ scoreDf:
   - - - '74'
       - Akira Nagusa
     - place: '63'
-      total: 461
+      total: 462
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 210.042
+        effort: 210.799
         arrival: 0
         time: 0
         reach: 200.411
-        distance: 410.453
+        distance: 411.21
         leading: 51
       velocity:
         ss: 2019-07-16T12:15:23.333282537965Z
@@ -15814,11 +15814,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 239.291
+        effort: 239.708
         arrival: 0
         time: 0
         reach: 203.91
-        distance: 443.201
+        distance: 443.619
         leading: 15.8
       velocity:
         ss: 2019-07-16T12:18:28.06383057644Z
@@ -15843,11 +15843,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.838
-        distance: 427.365
+        distance: 427.942
         leading: 29.3
       velocity:
         ss: 2019-07-16T12:15:14.600464981907Z
@@ -15865,18 +15865,18 @@ scoreDf:
       stoppedAlt: 763.000 m
   - - - '95'
       - Viv Clements
-    - place: '66'
+    - place: 66=
       total: 455
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 243.214
+        effort: 243.586
         arrival: 0
         time: 0
         reach: 204.559
-        distance: 447.773
+        distance: 448.145
         leading: 7
       velocity:
         ss: 2019-07-16T12:24:11.3503160787Z
@@ -15894,18 +15894,18 @@ scoreDf:
       stoppedAlt: 355.000 m
   - - - '106'
       - Ubaldo Romano
-    - place: '67'
-      total: 454
+    - place: 66=
+      total: 455
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.985
-        distance: 427.511
+        distance: 428.089
         leading: 26.4
       velocity:
         ss: 2019-07-16T12:15:21.422793789401Z
@@ -15924,17 +15924,17 @@ scoreDf:
   - - - '31'
       - Jiri Gut
     - place: '68'
-      total: 453
+      total: 454
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.836
-        distance: 427.363
+        distance: 427.94
         leading: 25.6
       velocity:
         ss: 2019-07-16T12:15:29.421156047231Z
@@ -15959,11 +15959,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 207.977
+        effort: 208.759
         arrival: 0
         time: 0
         reach: 201.252
-        distance: 409.23
+        distance: 410.011
         leading: 42.4
       velocity:
         ss: 2019-07-16T12:15:49.364453414817Z
@@ -15982,17 +15982,17 @@ scoreDf:
   - - - '19'
       - Max Turiaco
     - place: '70'
-      total: 449
+      total: 450
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.838
-        distance: 427.365
+        distance: 427.942
         leading: 21.8
       velocity:
         ss: 2019-07-16T12:15:21.438233902531Z
@@ -16011,17 +16011,17 @@ scoreDf:
   - - - '120'
       - John Simon
     - place: '71'
-      total: 447
+      total: 448
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 199.444
+        effort: 200.324
         arrival: 0
         time: 0
         reach: 199.833
-        distance: 399.277
+        distance: 400.157
         leading: 48
       velocity:
         ss: 2019-07-16T12:15:22.378450919303Z
@@ -16040,17 +16040,17 @@ scoreDf:
   - - - '46'
       - Francois Isoard
     - place: '72'
-      total: 444
+      total: 445
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 202.9
-        distance: 428.426
+        distance: 429.004
         leading: 15.9
       velocity:
         ss: 2019-07-16T12:15:57.556654057589Z
@@ -16069,17 +16069,17 @@ scoreDf:
   - - - '6'
       - Craig Taylor
     - place: '73'
-      total: 440
+      total: 441
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.883
-        distance: 427.41
+        distance: 427.987
         leading: 12.9
       velocity:
         ss: 2019-07-16T12:30:43.533984082487Z
@@ -16104,11 +16104,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 212.038
+        effort: 212.772
         arrival: 0
         time: 0
         reach: 200.38
-        distance: 412.418
+        distance: 413.152
         leading: 23.1
       velocity:
         ss: 2019-07-16T12:15:17.547096870586Z
@@ -16127,17 +16127,17 @@ scoreDf:
   - - - '87'
       - Gijs Wanders
     - place: '75'
-      total: 433
+      total: 434
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 193.043
+        effort: 193.998
         arrival: 0
         time: 0
         reach: 200.126
-        distance: 393.169
+        distance: 394.124
         leading: 39.4
       velocity:
         ss: 2019-07-16T12:15:14.151758634975Z
@@ -16156,17 +16156,17 @@ scoreDf:
   - - - '96'
       - Shane Mckay
     - place: '76'
-      total: 427
+      total: 428
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 225.527
+        effort: 226.104
         arrival: 0
         time: 0
         reach: 201.901
-        distance: 427.428
+        distance: 428.005
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:34.296959046577Z
@@ -16185,17 +16185,17 @@ scoreDf:
   - - - '77'
       - Takashi Sunama
     - place: '77'
-      total: 398
+      total: 399
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 162.074
+        effort: 163.388
         arrival: 0
         time: 0
         reach: 196.766
-        distance: 358.84
+        distance: 360.155
         leading: 39
       velocity:
         ss: 2019-07-16T12:15:34.602114063641Z
@@ -16214,17 +16214,17 @@ scoreDf:
   - - - '9'
       - Steve Docherty
     - place: '78'
-      total: 373
+      total: 375
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 164.414
+        effort: 165.701
         arrival: 0
         time: 0
         reach: 196.793
-        distance: 361.207
+        distance: 362.494
         leading: 12.1
       velocity:
         ss: 2019-07-16T12:15:43.36442592381Z
@@ -16243,17 +16243,17 @@ scoreDf:
   - - - '35'
       - Frantisek Kostal
     - place: '79'
-      total: 361
+      total: 362
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 164.414
+        effort: 165.701
         arrival: 0
         time: 0
         reach: 196.183
-        distance: 360.597
+        distance: 361.884
         leading: 0
       velocity:
         ss: 2019-07-16T12:35:25.979942147299Z
@@ -16272,17 +16272,17 @@ scoreDf:
   - - - '94'
       - Matthew Barlow
     - place: '80'
-      total: 353
+      total: 354
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 157.256
+        effort: 158.627
         arrival: 0
         time: 0
         reach: 195.394
-        distance: 352.65
+        distance: 354.02
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:22.484169913574Z
@@ -16307,11 +16307,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.138
+        effort: 0
         arrival: 0
         time: 0
         reach: 275.202
-        distance: 275.339
+        distance: 275.202
         leading: 57.3
       velocity:
         ss: 2019-07-16T12:15:28.328337368817Z
@@ -16330,17 +16330,17 @@ scoreDf:
   - - - '3'
       - Rory Duncan
     - place: '82'
-      total: 305
+      total: 307
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 123.259
+        effort: 125.024
         arrival: 0
         time: 0
         reach: 182.038
-        distance: 305.296
+        distance: 307.062
         leading: 0
       velocity:
         ss: 2019-07-16T12:43:35.565129701311Z
@@ -16359,17 +16359,17 @@ scoreDf:
   - - - '81'
       - Young Don Lee
     - place: '83'
-      total: 304
+      total: 306
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 121.676
+        effort: 123.459
         arrival: 0
         time: 0
         reach: 182.473
-        distance: 304.149
+        distance: 305.932
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:51.064211225757Z
@@ -16388,17 +16388,17 @@ scoreDf:
   - - - '38'
       - Daniel Martin Mota
     - place: '84'
-      total: 300
+      total: 302
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 121.951
+        effort: 123.731
         arrival: 0
         time: 0
         reach: 177.946
-        distance: 299.897
+        distance: 301.678
         leading: 0
       velocity:
         ss: 2019-07-16T12:18:26.859587200994Z
@@ -16417,17 +16417,17 @@ scoreDf:
   - - - '104'
       - Janez Grm
     - place: '85'
-      total: 285
+      total: 286
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.935
+        effort: 114.821
         arrival: 0
         time: 0
         reach: 171.655
-        distance: 284.59
+        distance: 286.475
         leading: 0
       velocity:
         ss: 2019-07-16T12:28:30.148028986552Z
@@ -16446,17 +16446,17 @@ scoreDf:
   - - - '123'
       - Igriza Flora
     - place: '86'
-      total: 279
+      total: 281
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 111.559
+        effort: 113.46
         arrival: 0
         time: 0
         reach: 167.85
-        distance: 279.409
+        distance: 281.31
         leading: 0
       velocity:
         ss: 2019-07-16T12:58:41.646900232328Z
@@ -16475,17 +16475,17 @@ scoreDf:
   - - - '86'
       - Tanno Rutten
     - place: '87'
-      total: 277
+      total: 279
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 113.142
+        effort: 115.025
         arrival: 0
         time: 0
         reach: 164.35
-        distance: 277.492
+        distance: 279.375
         leading: 0
       velocity:
         ss: 2019-07-16T12:16:09.223048014909Z
@@ -16504,17 +16504,17 @@ scoreDf:
   - - - '82'
       - Jaesun Moon
     - place: '88'
-      total: 276
+      total: 278
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 113.28
+        effort: 115.161
         arrival: 0
         time: 0
         reach: 162.457
-        distance: 275.736
+        distance: 277.618
         leading: 0
       velocity:
         ss: 2019-07-16T12:54:41.225640568854Z
@@ -16533,17 +16533,17 @@ scoreDf:
   - - - '39'
       - Tximo Iriarte
     - place: '89'
-      total: 273
+      total: 275
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 113.348
+        effort: 115.229
         arrival: 0
         time: 0
         reach: 159.323
-        distance: 272.672
+        distance: 274.552
         leading: 0
       velocity:
         ss: 2019-07-16T12:45:35.555616650716Z
@@ -16562,17 +16562,17 @@ scoreDf:
   - - - '5'
       - Peter Burkitt
     - place: '90'
-      total: 241
+      total: 243
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 96.831
+        effort: 98.904
         arrival: 0
         time: 0
         reach: 143.724
-        distance: 240.555
+        distance: 242.628
         leading: 0
       velocity:
         ss: 2019-07-16T12:46:38.347767899145Z
@@ -16591,17 +16591,17 @@ scoreDf:
   - - - '118'
       - Will Ramsey
     - place: '91'
-      total: 238
+      total: 240
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 96.831
+        effort: 98.904
         arrival: 0
         time: 0
         reach: 140.993
-        distance: 237.824
+        distance: 239.897
         leading: 0
       velocity:
         ss: 2019-07-16T12:27:29.415547116383Z
@@ -16620,17 +16620,17 @@ scoreDf:
   - - - '111'
       - Tommy Nilsson
     - place: '92'
-      total: 234
+      total: 236
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 96.831
+        effort: 98.904
         arrival: 0
         time: 0
         reach: 137.475
-        distance: 234.306
+        distance: 236.379
         leading: 0
       velocity:
         ss: 2019-07-16T12:40:48.958129969922Z
@@ -16649,17 +16649,17 @@ scoreDf:
   - - - '11'
       - Christian Tiefenbacher
     - place: 93=
-      total: 208
+      total: 210
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 86.921
+        effort: 89.108
         arrival: 0
         time: 0
         reach: 121.376
-        distance: 208.297
+        distance: 210.484
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:19.295760079735Z
@@ -16678,17 +16678,17 @@ scoreDf:
   - - - '110'
       - Markel Neideman
     - place: 93=
-      total: 208
+      total: 210
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 86.921
+        effort: 89.108
         arrival: 0
         time: 0
         reach: 120.79
-        distance: 207.711
+        distance: 209.898
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:56.446498921785Z
@@ -16707,17 +16707,17 @@ scoreDf:
   - - - '114'
       - Canberg Ozveren
     - place: '95'
-      total: 205
+      total: 208
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 86.921
+        effort: 89.108
         arrival: 0
         time: 0
         reach: 118.535
-        distance: 205.456
+        distance: 207.643
         leading: 0
       velocity:
         ss: 2019-07-16T12:32:39.874679788656Z
@@ -16736,17 +16736,17 @@ scoreDf:
   - - - '97'
       - Tom Kellner
     - place: '96'
-      total: 204
+      total: 206
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 120.829
-        distance: 203.62
+        distance: 205.856
         leading: 0
       velocity:
         ss: 2019-07-16T12:19:18.372981399355Z
@@ -16765,17 +16765,17 @@ scoreDf:
   - - - '65'
       - Noel Collins
     - place: 97=
-      total: 203
+      total: 205
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 120.361
-        distance: 203.153
+        distance: 205.388
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:22.004902043026Z
@@ -16794,17 +16794,17 @@ scoreDf:
   - - - '30'
       - Jiri Nadvornik
     - place: 97=
-      total: 203
+      total: 205
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 120.288
-        distance: 203.08
+        distance: 205.315
         leading: 0
       velocity:
         ss: 2019-07-16T12:24:09.971767550444Z
@@ -16823,17 +16823,17 @@ scoreDf:
   - - - '105'
       - Stanislav Galovec
     - place: 97=
-      total: 203
+      total: 205
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 119.985
-        distance: 202.777
+        distance: 205.012
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:23.697970990906Z
@@ -16852,17 +16852,17 @@ scoreDf:
   - - - '62'
       - Attila Kis
     - place: 100=
-      total: 201
+      total: 203
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.792
+        effort: 85.027
         arrival: 0
         time: 0
         reach: 118.273
-        distance: 201.064
+        distance: 203.3
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:25.990623245145Z
@@ -16881,17 +16881,17 @@ scoreDf:
   - - - '113'
       - Kamil Demirkan
     - place: 100=
-      total: 201
+      total: 203
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.104
+        effort: 84.347
         arrival: 0
         time: 0
         reach: 118.722
-        distance: 200.826
+        distance: 203.069
         leading: 0
       velocity:
         ss: 2019-07-16T12:32:27.083726541882Z
@@ -16910,17 +16910,17 @@ scoreDf:
   - - - '15'
       - Wolfgang Siess
     - place: 100=
-      total: 201
+      total: 203
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 83.824
+        effort: 86.047
         arrival: 0
         time: 0
         reach: 116.865
-        distance: 200.689
+        distance: 202.913
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:12.611490982942Z
@@ -16939,17 +16939,17 @@ scoreDf:
   - - - '41'
       - Chomin Gallego Escribano
     - place: '103'
-      total: 199
+      total: 201
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 83.824
+        effort: 86.047
         arrival: 0
         time: 0
         reach: 115.255
-        distance: 199.079
+        distance: 201.302
         leading: 0
       velocity:
         ss: 2019-07-16T12:17:43.161938129451Z
@@ -16968,17 +16968,17 @@ scoreDf:
   - - - '99'
       - Mikolaj Przezdziak
     - place: 104=
-      total: 163
+      total: 166
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 53.199
+        effort: 55.778
         arrival: 0
         time: 0
         reach: 110.193
-        distance: 163.392
+        distance: 165.971
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:25.34000368705Z
@@ -16997,17 +16997,17 @@ scoreDf:
   - - - '88'
       - Emiel Jansen
     - place: 104=
-      total: 163
+      total: 166
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 55.47
+        effort: 58.022
         arrival: 0
         time: 0
         reach: 107.879
-        distance: 163.349
+        distance: 165.902
         leading: 0
       velocity:
         ss: 2019-07-16T12:24:16.762033999482Z
@@ -17026,17 +17026,17 @@ scoreDf:
   - - - '59'
       - Joerg Bajewski
     - place: '106'
-      total: 148
+      total: 150
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 41.155
+        effort: 43.874
         arrival: 0
         time: 0
         reach: 106.496
-        distance: 147.651
+        distance: 150.37
         leading: 0
       velocity:
         ss: 2019-07-16T12:45:04.007415988468Z
@@ -17055,17 +17055,17 @@ scoreDf:
   - - - '37'
       - Alvaro Idigoras
     - place: '107'
-      total: 145
+      total: 148
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 40.536
+        effort: 43.262
         arrival: 0
         time: 0
         reach: 104.579
-        distance: 145.114
+        distance: 147.841
         leading: 0
       velocity:
         ss: 2019-07-16T12:41:37.91160990458Z
@@ -17084,17 +17084,17 @@ scoreDf:
   - - - '8'
       - Guy Hubbard
     - place: '108'
-      total: 143
+      total: 146
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 40.26
+        effort: 42.99
         arrival: 0
         time: 0
         reach: 102.911
-        distance: 143.172
+        distance: 145.901
         leading: 0
       velocity:
         ss: 2019-07-16T12:15:53.262143692646Z
@@ -17113,17 +17113,17 @@ scoreDf:
   - - - '33'
       - Lukas Vojacek
     - place: '109'
-      total: 120
+      total: 123
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 27.46
+        effort: 30.338
         arrival: 0
         time: 0
         reach: 92.823
-        distance: 120.283
+        distance: 123.161
         leading: 0
       velocity:
         ss: 2019-07-16T12:37:04.607504965046Z
@@ -17142,17 +17142,17 @@ scoreDf:
   - - - '93'
       - Derek Mckee
     - place: '110'
-      total: 114
+      total: 117
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 25.189
+        effort: 28.093
         arrival: 0
         time: 0
         reach: 88.801
-        distance: 113.989
+        distance: 116.894
         leading: 0
       velocity:
         ss: 2019-07-16T12:57:38.587919506171Z
@@ -17171,17 +17171,17 @@ scoreDf:
   - - - '80'
       - Yoko Sano
     - place: '111'
-      total: 110
+      total: 113
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 21.816
+        effort: 24.76
         arrival: 0
         time: 0
         reach: 87.938
-        distance: 109.755
+        distance: 112.698
         leading: 0
       velocity:
         ss: 2019-07-16T12:33:03.420393171335Z
@@ -17200,18 +17200,18 @@ scoreDf:
   - - - '27'
       - Hernan Cortes Pinones
     - place: '112'
-      total: 105
+      total: 107
       jump: 206.543 s
       penaltiesJump:
       - penalty-points: 103.2715459820335
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 82.104
+        effort: 84.347
         arrival: 0
         time: 0
         reach: 125.853
-        distance: 207.957
+        distance: 210.2
         leading: 0
       velocity:
         ss: 2019-07-16T12:11:33.456908035933Z
@@ -17230,17 +17230,17 @@ scoreDf:
   - - - '20'
       - Eduardo Oliveira
     - place: '113'
-      total: 84
+      total: 87
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 17.549
+        effort: 20.543
         arrival: 0
         time: 0
         reach: 66.031
-        distance: 83.581
+        distance: 86.574
         leading: 0
       velocity:
         ss: 2019-07-16T12:43:28.803516097335Z
@@ -17259,17 +17259,17 @@ scoreDf:
   - - - '61'
       - Carlos Rolando Alvarado
     - place: '114'
-      total: 83
+      total: 86
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 17.549
+        effort: 20.543
         arrival: 0
         time: 0
         reach: 65.814
-        distance: 83.363
+        distance: 86.356
         leading: 0
       velocity:
         ss: 2019-07-16T13:16:32.216902788825Z
@@ -17288,17 +17288,17 @@ scoreDf:
   - - - '101'
       - Konstantin Lukyanov
     - place: '115'
-      total: 34
+      total: 37
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 10.943
+        effort: 14.012
         arrival: 0
         time: 0
         reach: 22.719
-        distance: 33.662
+        distance: 36.732
         leading: 0
       velocity:
         ss: 2019-07-16T12:40:00.080024100026Z
@@ -17317,17 +17317,17 @@ scoreDf:
   - - - '40'
       - Jesus Mari Hernando Duque
     - place: '116'
-      total: 25
+      total: 29
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 8.878
+        effort: 11.972
         arrival: 0
         time: 0
         reach: 16.564
-        distance: 25.442
+        distance: 28.536
         leading: 0
       velocity:
         ss: 2019-07-16T12:43:22.306948103373Z
@@ -17346,18 +17346,18 @@ scoreDf:
   - - - '83'
       - Sander Van Schaik
     - place: '117'
-      total: 16
+      total: 19
       jump: 25.476 s
       penaltiesJump:
       - penalty-points: 12.738043275673
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 9.016
+        effort: 12.108
         arrival: 0
         time: 0
         reach: 19.677
-        distance: 28.693
+        distance: 31.785
         leading: 0
       velocity:
         ss: 2019-07-16T12:14:34.523913448654Z
@@ -17382,11 +17382,11 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 1.032
+        effort: 0.952
         arrival: 0
         time: 0
         reach: 14.235
-        distance: 15.267
+        distance: 15.187
         leading: 0
       velocity:
         ss: 2019-07-16T13:05:04.001965337843Z
@@ -17412,11 +17412,11 @@ scoreDf:
       - penalty-fraction: 1
       penaltyReason: Airspace Infringement
       breakdown:
-        effort: 82.104
+        effort: 84.347
         arrival: 0
         time: 0
         reach: 122.437
-        distance: 204.541
+        distance: 206.784
         leading: 0
       velocity:
         ss: 2019-07-16T12:25:57.362555178681Z

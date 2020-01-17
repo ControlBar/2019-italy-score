@@ -22,7 +22,8 @@ nominal:
   free: 7.000 km
   time: 1.500000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: true
+  arrivalTime: false
   leadingWeightScaling: null
 tasks:
 - taskName: ''
@@ -142,7 +143,8 @@ tasks:
   - 2019-07-15T13:00:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -376,7 +378,8 @@ tasks:
   - 2019-07-16T12:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -491,7 +494,8 @@ tasks:
   - 2019-07-17T13:05:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
