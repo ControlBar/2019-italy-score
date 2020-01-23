@@ -3041,41 +3041,6 @@ score:
       subtotal: 61.984
       landedMade: 16.349 km
       stoppedAlt: 266.000 m
-  - - - '93'
-      - Derek Mckee
-    - place: 89=
-      total: 16
-      jump: 502.966 s
-      penalties:
-      - penalty-reset: 16
-      breakdown:
-        effort: 34.24
-        arrival: 0
-        time: 0
-        reach: 68.892
-        distance: 103.132
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-07-15T12:21:37.033646951086Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 30.903 km
-        flown: 30.903 km
-      demeritReset: 87.132
-      penaltiesJump:
-      - penalty-reset: 16
-      penaltyReason: Airspace Infringement
-      subtotal: 103.132
-      landedMade: 23.759 km
-      stoppedAlt: 193.000 m
   - - - '40'
       - Jesus Mari Hernando Duque
     - place: 89=
@@ -3111,41 +3076,6 @@ score:
       subtotal: 25.061
       landedMade: 4.083 km
       stoppedAlt: 217.000 m
-  - - - '95'
-      - Viv Clements
-    - place: 89=
-      total: 16
-      jump: 465.950 s
-      penalties:
-      - penalty-reset: 16
-      breakdown:
-        effort: 34.393
-        arrival: 0
-        time: 0
-        reach: 68.654
-        distance: 103.046
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-07-15T12:22:14.049856288857Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 30.796 km
-        flown: 30.796 km
-      demeritReset: 87.046
-      penaltiesJump:
-      - penalty-reset: 16
-      penaltyReason: Airspace Infringement
-      subtotal: 103.046
-      landedMade: 23.823 km
-      stoppedAlt: 205.000 m
   - - - '118'
       - Will Ramsey
     - place: 89=
@@ -3216,7 +3146,7 @@ score:
       stoppedAlt: 360.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3250,7 +3180,7 @@ score:
       stoppedAlt: 188.000 m
   - - - '109'
       - Damien Zahn
-    - place: 94=
+    - place: 92=
       total: 0
       jump: 240.098 s
       penalties:
@@ -3285,7 +3215,7 @@ score:
       stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3317,9 +3247,45 @@ score:
       subtotal: 163.113
       landedMade: 37.243 km
       stoppedAlt: 196.000 m
+  - - - '93'
+      - Derek Mckee
+    - place: 92=
+      total: 0
+      jump: 502.966 s
+      penalties:
+      - penalty-reset: 16
+      - penalty-fraction: 1
+      breakdown:
+        effort: 34.24
+        arrival: 0
+        time: 0
+        reach: 68.892
+        distance: 103.132
+        leading: 0
+      demeritFrac: 103.132
+      demeritPoint: 0
+      velocity:
+        ss: 2019-07-15T12:21:37.033646951086Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.903 km
+        flown: 30.903 km
+      demeritReset: 0
+      penaltiesJump:
+      - penalty-reset: 16
+      penaltyReason: Airspace Infringement
+      subtotal: 103.132
+      landedMade: 23.759 km
+      stoppedAlt: 193.000 m
   - - - '35'
       - Frantisek Kostal
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3353,7 +3319,7 @@ score:
       stoppedAlt: 197.000 m
   - - - '87'
       - Gijs Wanders
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3387,7 +3353,7 @@ score:
       stoppedAlt: 197.000 m
   - - - '116'
       - Jeff Chipman
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3421,7 +3387,7 @@ score:
       stoppedAlt: 206.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3455,7 +3421,7 @@ score:
       stoppedAlt: 199.000 m
   - - - '34'
       - Petr Polach
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3489,7 +3455,7 @@ score:
       stoppedAlt: 195.000 m
   - - - '76'
       - Shogo Ota
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3523,7 +3489,7 @@ score:
       stoppedAlt: 212.000 m
   - - - '97'
       - Tom Kellner
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3555,9 +3521,45 @@ score:
       subtotal: 197.39
       landedMade: 41.948 km
       stoppedAlt: 289.000 m
+  - - - '95'
+      - Viv Clements
+    - place: 92=
+      total: 0
+      jump: 465.950 s
+      penalties:
+      - penalty-reset: 16
+      - penalty-fraction: 1
+      breakdown:
+        effort: 34.393
+        arrival: 0
+        time: 0
+        reach: 68.654
+        distance: 103.046
+        leading: 0
+      demeritFrac: 103.046
+      demeritPoint: 0
+      velocity:
+        ss: 2019-07-15T12:22:14.049856288857Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.796 km
+        flown: 30.796 km
+      demeritReset: 0
+      penaltiesJump:
+      - penalty-reset: 16
+      penaltyReason: Airspace Infringement
+      subtotal: 103.046
+      landedMade: 23.823 km
+      stoppedAlt: 205.000 m
   - - - '80'
       - Yoko Sano
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -3591,7 +3593,7 @@ score:
       stoppedAlt: 235.000 m
   - - - '117'
       - Zac Majors
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13464,41 +13466,6 @@ scoreDf:
       subtotal: 61.984
       landedMade: 16.349 km
       stoppedAlt: 266.000 m
-  - - - '93'
-      - Derek Mckee
-    - place: 89=
-      total: 16
-      jump: 502.966 s
-      penalties:
-      - penalty-reset: 16
-      breakdown:
-        effort: 34.24
-        arrival: 0
-        time: 0
-        reach: 68.892
-        distance: 103.132
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-07-15T12:21:37.033646951086Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 30.903 km
-        flown: 30.903 km
-      demeritReset: 87.132
-      penaltiesJump:
-      - penalty-reset: 16
-      penaltyReason: Airspace Infringement
-      subtotal: 103.132
-      landedMade: 23.759 km
-      stoppedAlt: 193.000 m
   - - - '40'
       - Jesus Mari Hernando Duque
     - place: 89=
@@ -13534,41 +13501,6 @@ scoreDf:
       subtotal: 25.061
       landedMade: 4.083 km
       stoppedAlt: 217.000 m
-  - - - '95'
-      - Viv Clements
-    - place: 89=
-      total: 16
-      jump: 465.950 s
-      penalties:
-      - penalty-reset: 16
-      breakdown:
-        effort: 34.393
-        arrival: 0
-        time: 0
-        reach: 68.654
-        distance: 103.046
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-07-15T12:22:14.049856288857Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 30.796 km
-        flown: 30.796 km
-      demeritReset: 87.046
-      penaltiesJump:
-      - penalty-reset: 16
-      penaltyReason: Airspace Infringement
-      subtotal: 103.046
-      landedMade: 23.823 km
-      stoppedAlt: 205.000 m
   - - - '118'
       - Will Ramsey
     - place: 89=
@@ -13639,7 +13571,7 @@ scoreDf:
       stoppedAlt: 360.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13673,7 +13605,7 @@ scoreDf:
       stoppedAlt: 188.000 m
   - - - '109'
       - Damien Zahn
-    - place: 94=
+    - place: 92=
       total: 0
       jump: 240.098 s
       penalties:
@@ -13708,7 +13640,7 @@ scoreDf:
       stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13740,9 +13672,45 @@ scoreDf:
       subtotal: 163.113
       landedMade: 37.243 km
       stoppedAlt: 196.000 m
+  - - - '93'
+      - Derek Mckee
+    - place: 92=
+      total: 0
+      jump: 502.966 s
+      penalties:
+      - penalty-reset: 16
+      - penalty-fraction: 1
+      breakdown:
+        effort: 34.24
+        arrival: 0
+        time: 0
+        reach: 68.892
+        distance: 103.132
+        leading: 0
+      demeritFrac: 103.132
+      demeritPoint: 0
+      velocity:
+        ss: 2019-07-15T12:21:37.033646951086Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.903 km
+        flown: 30.903 km
+      demeritReset: 0
+      penaltiesJump:
+      - penalty-reset: 16
+      penaltyReason: Airspace Infringement
+      subtotal: 103.132
+      landedMade: 23.759 km
+      stoppedAlt: 193.000 m
   - - - '35'
       - Frantisek Kostal
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13776,7 +13744,7 @@ scoreDf:
       stoppedAlt: 197.000 m
   - - - '87'
       - Gijs Wanders
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13810,7 +13778,7 @@ scoreDf:
       stoppedAlt: 197.000 m
   - - - '116'
       - Jeff Chipman
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13844,7 +13812,7 @@ scoreDf:
       stoppedAlt: 206.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13878,7 +13846,7 @@ scoreDf:
       stoppedAlt: 199.000 m
   - - - '34'
       - Petr Polach
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13912,7 +13880,7 @@ scoreDf:
       stoppedAlt: 195.000 m
   - - - '76'
       - Shogo Ota
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13946,7 +13914,7 @@ scoreDf:
       stoppedAlt: 212.000 m
   - - - '97'
       - Tom Kellner
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -13978,9 +13946,45 @@ scoreDf:
       subtotal: 197.39
       landedMade: 41.948 km
       stoppedAlt: 289.000 m
+  - - - '95'
+      - Viv Clements
+    - place: 92=
+      total: 0
+      jump: 465.950 s
+      penalties:
+      - penalty-reset: 16
+      - penalty-fraction: 1
+      breakdown:
+        effort: 34.393
+        arrival: 0
+        time: 0
+        reach: 68.654
+        distance: 103.046
+        leading: 0
+      demeritFrac: 103.046
+      demeritPoint: 0
+      velocity:
+        ss: 2019-07-15T12:22:14.049856288857Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 30.796 km
+        flown: 30.796 km
+      demeritReset: 0
+      penaltiesJump:
+      - penalty-reset: 16
+      penaltyReason: Airspace Infringement
+      subtotal: 103.046
+      landedMade: 23.823 km
+      stoppedAlt: 205.000 m
   - - - '80'
       - Yoko Sano
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
@@ -14014,7 +14018,7 @@ scoreDf:
       stoppedAlt: 235.000 m
   - - - '117'
       - Zac Majors
-    - place: 94=
+    - place: 92=
       total: 0
       jump: null
       penalties:
