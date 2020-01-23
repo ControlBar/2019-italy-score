@@ -149,6 +149,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '27'
       - Hernan Cortes Pinones
@@ -384,6 +385,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '27'
       - Hernan Cortes Pinones
@@ -504,6 +506,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 4
@@ -671,6 +674,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '10'
       - Manfred Ruhmer
@@ -830,6 +834,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '37'
@@ -959,6 +964,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 7
@@ -1097,6 +1103,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 8
@@ -1236,6 +1243,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '87'
       - Gijs Wanders
@@ -1407,6 +1415,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '84'
       - Arne Tanzer
@@ -1584,6 +1593,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '66'
       - Tullio Gervasoni
