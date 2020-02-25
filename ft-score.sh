@@ -16,7 +16,7 @@ task-length "$COMP"
 #peg-frame "$COMP"
 #align-time "$COMP"
 #discard-further "$COMP"
-mask-track "$COMP"
+#mask-track "$COMP"
 land-out "$COMP"
 gap-point "$COMP"
 
