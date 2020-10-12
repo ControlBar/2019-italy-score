@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  leadingAreaDistanceSquared: true
   leadingWeightScaling: null
 tasks:
 - taskName: Training Day
@@ -96,6 +97,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -222,6 +224,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -230,72 +233,123 @@ tasks:
   penalsAuto:
   - - - '27'
       - Hernan Cortes Pinones
-    - - penalty-points: 121.5
+    - adds:
+      - penalty-points: -121.5
+      muls: []
+      resets: []
     - Jumped the gun by 4:03
   penals:
   - - - '33'
       - Lukas Vojacek
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '34'
       - Petr Polach
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '35'
       - Frantisek Kostal
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '37'
       - Alvaro Idigoras
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '38'
       - Daniel Martin Mota
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '61'
       - Carlos Rolando Alvarado
-    - - penalty-fraction: 0.4
+    - adds: []
+      muls:
+      - penalty-fraction: 0.6
+      resets: []
     - 20m. from Airspace Border
   - - - '76'
       - Shogo Ota
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '80'
       - Yoko Sano
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '87'
       - Gijs Wanders
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '93'
       - Derek Mckee
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '95'
       - Viv Clements
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '97'
       - Tom Kellner
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Landed in No Landing Zone
   - - - '104'
       - janez grm
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '114'
       - CANBERG OZVEREN
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '116'
       - Jeff Chipman
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '117'
       - Zac Majors
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
 - taskName: Task 2
   zones:
@@ -458,6 +512,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -466,12 +521,18 @@ tasks:
   penalsAuto:
   - - - '27'
       - Hernan Cortes Pinones
-    - - penalty-points: 103.5
+    - adds:
+      - penalty-points: -103.5
+      muls: []
+      resets: []
     - Jumped the gun by 3:27
   penals:
   - - - '2'
       - Rohan Taylor
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
 - taskName: Task 3
   zones:
@@ -579,6 +640,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -747,6 +809,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -755,24 +818,39 @@ tasks:
   penalsAuto:
   - - - '10'
       - Manfred Ruhmer
-    - - penalty-points: 10
+    - adds:
+      - penalty-points: -10
+      muls: []
+      resets: []
     - Jumped the gun by 0:20
   - - - '23'
       - Konrad Heilmann
-    - - penalty-points: 9.5
+    - adds:
+      - penalty-points: -9.5
+      muls: []
+      resets: []
     - Jumped the gun by 0:19
   - - - '60'
       - Georg Schweier
-    - - penalty-points: 3.5
+    - adds:
+      - penalty-points: -3.5
+      muls: []
+      resets: []
     - Jumped the gun by 0:07
   penals:
   - - - '19'
       - Max Turiaco
-    - - penalty-points: 300
+    - adds:
+      - penalty-points: -300
+      muls: []
+      resets: []
     - Flew without tracker
   - - - '111'
       - Tommy Nilsson
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
 - taskName: Task 5
   zones:
@@ -907,6 +985,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -916,7 +995,10 @@ tasks:
   penals:
   - - - '37'
       - Alvaro Idigoras
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
 - taskName: Task 6
   zones:
@@ -1037,6 +1119,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -1176,6 +1259,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -1316,6 +1400,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -1324,36 +1409,60 @@ tasks:
   penalsAuto:
   - - - '87'
       - Gijs Wanders
-    - - penalty-points: 1
+    - adds:
+      - penalty-points: -1
+      muls: []
+      resets: []
     - Jumped the gun by 0:02
   penals:
   - - - '45'
       - Christian Pollet
-    - - penalty-fraction: 6.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 0.94
+      resets: []
     - 60 meters from Airspace Border
   - - - '50'
       - Darren Brown
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '30'
       - Jiri Nadvornik
-    - - penalty-fraction: 1.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 0.99
+      resets: []
     - 90 meters from Airspace Border
   - - - '58'
       - Roland Woehrle
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '107'
       - Peter Neuenschwander
-    - - penalty-fraction: 3.0e-2
+    - adds: []
+      muls:
+      - penalty-fraction: 0.97
+      resets: []
     - 80 meters from Airspace Border
   - - - '108'
       - Franz Herrmann
-    - - penalty-fraction: 0.24
+    - adds: []
+      muls:
+      - penalty-fraction: 0.76
+      resets: []
     - 26 meters from Airspace Border
   - - - '123'
       - Igriza Flora
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
 - taskName: Task 9
   zones:
@@ -1488,6 +1597,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -1496,56 +1606,95 @@ tasks:
   penalsAuto:
   - - - '84'
       - Arne Tanzer
-    - - penalty-points: 1
+    - adds:
+      - penalty-points: -1
+      muls: []
+      resets: []
     - Jumped the gun by 0:02
   penals:
   - - - '20'
       - Eduardo Oliveira
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '30'
       - Jiri Nadvornik
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '40'
       - Jesus Mari Hernando Duque
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '50'
       - Darren Brown
-    - - penalty-fraction: 0.1
+    - adds: []
+      muls:
+      - penalty-fraction: 0.9
+      resets: []
     - 33 meters from Airspace Border
   - - - '82'
       - jaesun moon
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '83'
       - Sander van Schaik
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '90'
       - Jens Krotseng
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Landed in No Landing Zone
   - - - '101'
       - Konstantin Lukyanov
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '104'
       - janez grm
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '106'
       - Ubaldo Romano
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
   - - - '114'
       - CANBERG OZVEREN
-    - - penalty-fraction: 0.4
+    - adds: []
+      muls:
+      - penalty-fraction: 0.6
+      resets: []
     - 20 meters from Airspace Border
   - - - '116'
       - Jeff Chipman
-    - - penalty-fraction: 1
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
     - Airspace Infringement
 - taskName: Task 10
   zones:
@@ -1666,6 +1815,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -1674,11 +1824,17 @@ tasks:
   penalsAuto:
   - - - '66'
       - Tullio Gervasoni
-    - - penalty-points: 1.5
+    - adds:
+      - penalty-points: -1.5
+      muls: []
+      resets: []
     - Jumped the gun by 0:03
   - - - '48'
       - Andrew Hollidge
-    - - penalty-points: 4
+    - adds:
+      - penalty-points: -4
+      muls: []
+      resets: []
     - Jumped the gun by 0:08
   penals: []
 taskFolders:
