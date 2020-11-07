@@ -1,24 +1,59 @@
 bolster:
+- null
 - max: 86.067348 km
-  mean: 72.398009 km
-  stdDev: 22.173669 km
+  mean: 72.857065 km
+  stdDev: 21.804197 km
 - max: 135.339391 km
-  mean: 98.205766 km
-  stdDev: 34.123453 km
+  mean: 98.205825 km
+  stdDev: 34.123517 km
 - max: 75.080181 km
   mean: 68.153104 km
   stdDev: 15.973080 km
+- max: 142.850906 km
+  mean: 123.411863 km
+  stdDev: 27.216005 km
+- max: 94.856107 km
+  mean: 80.880291 km
+  stdDev: 23.825492 km
+- null
+- max: 127.541122 km
+  mean: 106.531730 km
+  stdDev: 30.613523 km
+- max: 199.875424 km
+  mean: 169.951774 km
+  stdDev: 41.090531 km
+- max: 94.890623 km
+  mean: 82.849814 km
+  stdDev: 24.368362 km
 reach:
+- null
 - max: 86.067348 km
-  mean: 72.314667 km
-  stdDev: 22.425954 km
+  mean: 72.773017 km
+  stdDev: 22.064617 km
 - max: 135.339391 km
-  mean: 98.195072 km
-  stdDev: 34.152223 km
+  mean: 98.195130 km
+  stdDev: 34.152287 km
 - max: 75.080181 km
   mean: 68.129736 km
   stdDev: 16.064302 km
+- max: 142.850906 km
+  mean: 123.411863 km
+  stdDev: 27.216005 km
+- max: 94.856107 km
+  mean: 80.880291 km
+  stdDev: 23.825492 km
+- null
+- max: 127.541122 km
+  mean: 106.506432 km
+  stdDev: 30.696260 km
+- max: 199.875424 km
+  mean: 169.927114 km
+  stdDev: 41.189035 km
+- max: 94.890623 km
+  mean: 82.849814 km
+  stdDev: 24.368362 km
 reachRank:
+- []
 - - - - '73'
       - Christian Ciech
     - frac: 1
@@ -28,7 +63,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '69'
-      - Suan Selenati
+      - Suan SELENATI
     - frac: 1
       reach: 86.067348 km
   - - - '67'
@@ -48,7 +83,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '22'
-      - Glauco Pinto
+      - GLAUCO PINTO
     - frac: 1
       reach: 86.067348 km
   - - - '24'
@@ -56,15 +91,19 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '21'
-      - Marcelo Andrei Gomes Da Rocha
+      - Marcelo Andrei Gomes da Rocha
     - frac: 1
       reach: 86.067348 km
   - - - '12'
       - Joseph Salvenmoser
     - frac: 1
       reach: 86.067348 km
+  - - - '66'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 86.067348 km
   - - - '44'
-      - Mario Alonzi
+      - mario ALONZI
     - frac: 1
       reach: 86.067348 km
   - - - '17'
@@ -84,7 +123,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '105'
-      - Stanislav Galovec
+      - Stanislav GALOVEC
     - frac: 1
       reach: 86.067348 km
   - - - '52'
@@ -168,7 +207,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '71'
-      - Manuel Revelli
+      - Manuel REVELLI
     - frac: 1
       reach: 86.067348 km
   - - - '102'
@@ -204,7 +243,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '43'
-      - Eric Mathurin
+      - ERIC MATHURIN
     - frac: 1
       reach: 86.067348 km
   - - - '49'
@@ -236,7 +275,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '46'
-      - Francois Isoard
+      - Francois ISOARD
     - frac: 1
       reach: 86.067348 km
   - - - '19'
@@ -292,11 +331,11 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '81'
-      - Young Don Lee
+      - Young don Lee
     - frac: 1
       reach: 86.067348 km
   - - - '96'
-      - Shane Mckay
+      - Shane mckay
     - frac: 1
       reach: 86.067348 km
   - - - '39'
@@ -312,7 +351,7 @@ reachRank:
     - frac: 1
       reach: 86.067348 km
   - - - '114'
-      - Canberg Ozveren
+      - CANBERG OZVEREN
     - frac: 1
       reach: 86.067348 km
   - - - '23'
@@ -327,12 +366,8 @@ reachRank:
       - Chomin Gallego Escribano
     - frac: 0.97519384
       reach: 83.932348 km
-  - - - '20'
-      - Eduardo Oliveira
-    - frac: 0.96874541
-      reach: 83.377348 km
   - - - '104'
-      - Janez Grm
+      - janez grm
     - frac: 0.95691746
       reach: 82.359348 km
   - - - '6'
@@ -400,7 +435,7 @@ reachRank:
     - frac: 0.5515721
       reach: 47.472348 km
   - - - '83'
-      - Sander Van Schaik
+      - Sander van Schaik
     - frac: 0.51930667
       reach: 44.695348 km
   - - - '111'
@@ -419,8 +454,12 @@ reachRank:
       - Tom Kellner
     - frac: 0.49181657
       reach: 42.329348 km
+  - - - '95'
+      - Viv Clements
+    - frac: 0.47847818
+      reach: 41.181348 km
   - - - '82'
-      - Jaesun Moon
+      - jaesun moon
     - frac: 0.47782753
       reach: 41.125348 km
   - - - '76'
@@ -443,10 +482,6 @@ reachRank:
       - Gijs Wanders
     - frac: 0.45471772
       reach: 39.136348 km
-  - - - '66'
-      - Tullio Gervasoni
-    - frac: 0.44390061
-      reach: 38.205348 km
   - - - '61'
       - Carlos Rolando Alvarado
     - frac: 0.44295948
@@ -459,18 +494,14 @@ reachRank:
       - Frantisek Kostal
     - frac: 0.44106562
       reach: 37.961348 km
+  - - - '93'
+      - Derek Mckee
+    - frac: 0.43924146
+      reach: 37.804348 km
   - - - '113'
       - Kamil Demirkan
     - frac: 0.39124417
       reach: 33.673348 km
-  - - - '93'
-      - Derek Mckee
-    - frac: 0.35906007
-      reach: 30.903348 km
-  - - - '95'
-      - Viv Clements
-    - frac: 0.35781686
-      reach: 30.796348 km
   - - - '33'
       - Lukas Vojacek
     - frac: 0.30639201
@@ -516,7 +547,7 @@ reachRank:
     - frac: 1
       reach: 135.339391 km
   - - - '22'
-      - Glauco Pinto
+      - GLAUCO PINTO
     - frac: 1
       reach: 135.339391 km
   - - - '67'
@@ -528,7 +559,7 @@ reachRank:
     - frac: 1
       reach: 135.339391 km
   - - - '44'
-      - Mario Alonzi
+      - mario ALONZI
     - frac: 1
       reach: 135.339391 km
   - - - '26'
@@ -556,7 +587,7 @@ reachRank:
     - frac: 1
       reach: 135.339391 km
   - - - '69'
-      - Suan Selenati
+      - Suan SELENATI
     - frac: 1
       reach: 135.339391 km
   - - - '117'
@@ -616,7 +647,7 @@ reachRank:
     - frac: 1
       reach: 135.339391 km
   - - - '21'
-      - Marcelo Andrei Gomes Da Rocha
+      - Marcelo Andrei Gomes da Rocha
     - frac: 1
       reach: 135.339391 km
   - - - '18'
@@ -633,8 +664,8 @@ reachRank:
       reach: 135.339391 km
   - - - '66'
       - Tullio Gervasoni
-    - frac: 0.99994828
-      reach: 135.332391 km
+    - frac: 1
+      reach: 135.339391 km
   - - - '51'
       - Dave Matthews
     - frac: 0.95191348
@@ -696,7 +727,7 @@ reachRank:
     - frac: 0.74654829
       reach: 101.037391 km
   - - - '43'
-      - Eric Mathurin
+      - ERIC MATHURIN
     - frac: 0.74566902
       reach: 100.918391 km
   - - - '28'
@@ -752,11 +783,11 @@ reachRank:
     - frac: 0.74091061
       reach: 100.274391 km
   - - - '46'
-      - Francois Isoard
+      - Francois ISOARD
     - frac: 0.73723836
       reach: 99.777391 km
   - - - '71'
-      - Manuel Revelli
+      - Manuel REVELLI
     - frac: 0.7348961
       reach: 99.460391 km
   - - - '106'
@@ -764,7 +795,7 @@ reachRank:
     - frac: 0.73391339
       reach: 99.327391 km
   - - - '96'
-      - Shane Mckay
+      - Shane mckay
     - frac: 0.73361045
       reach: 99.286391 km
   - - - '6'
@@ -820,7 +851,7 @@ reachRank:
     - frac: 0.70996618
       reach: 96.086391 km
   - - - '81'
-      - Young Don Lee
+      - Young don Lee
     - frac: 0.66301755
       reach: 89.732391 km
   - - - '3'
@@ -832,7 +863,7 @@ reachRank:
     - frac: 0.64657001
       reach: 87.506391 km
   - - - '104'
-      - Janez Grm
+      - janez grm
     - frac: 0.62370896
       reach: 84.412391 km
   - - - '123'
@@ -844,7 +875,7 @@ reachRank:
     - frac: 0.59716828
       reach: 80.820391 km
   - - - '82'
-      - Jaesun Moon
+      - jaesun moon
     - frac: 0.59028928
       reach: 79.889391 km
   - - - '39'
@@ -892,7 +923,7 @@ reachRank:
     - frac: 0.43706707
       reach: 59.152391 km
   - - - '105'
-      - Stanislav Galovec
+      - Stanislav GALOVEC
     - frac: 0.43596613
       reach: 59.003391 km
   - - - '113'
@@ -900,7 +931,7 @@ reachRank:
     - frac: 0.43137767
       reach: 58.382391 km
   - - - '114'
-      - Canberg Ozveren
+      - CANBERG OZVEREN
     - frac: 0.4306979
       reach: 58.290391 km
   - - - '62'
@@ -960,7 +991,7 @@ reachRank:
     - frac: 8.255092e-2
       reach: 11.172391 km
   - - - '83'
-      - Sander Van Schaik
+      - Sander van Schaik
     - frac: 7.149723e-2
       reach: 9.676391 km
   - - - '40'
@@ -988,7 +1019,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '69'
-      - Suan Selenati
+      - Suan SELENATI
     - frac: 1
       reach: 75.080181 km
   - - - '18'
@@ -996,7 +1027,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '21'
-      - Marcelo Andrei Gomes Da Rocha
+      - Marcelo Andrei Gomes da Rocha
     - frac: 1
       reach: 75.080181 km
   - - - '28'
@@ -1016,7 +1047,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '44'
-      - Mario Alonzi
+      - mario ALONZI
     - frac: 1
       reach: 75.080181 km
   - - - '26'
@@ -1056,7 +1087,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '43'
-      - Eric Mathurin
+      - ERIC MATHURIN
     - frac: 1
       reach: 75.080181 km
   - - - '6'
@@ -1084,7 +1115,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '46'
-      - Francois Isoard
+      - Francois ISOARD
     - frac: 1
       reach: 75.080181 km
   - - - '55'
@@ -1296,7 +1327,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '104'
-      - Janez Grm
+      - janez grm
     - frac: 1
       reach: 75.080181 km
   - - - '38'
@@ -1320,7 +1351,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '81'
-      - Young Don Lee
+      - Young don Lee
     - frac: 1
       reach: 75.080181 km
   - - - '40'
@@ -1336,7 +1367,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '114'
-      - Canberg Ozveren
+      - CANBERG OZVEREN
     - frac: 1
       reach: 75.080181 km
   - - - '113'
@@ -1352,7 +1383,7 @@ reachRank:
     - frac: 1
       reach: 75.080181 km
   - - - '71'
-      - Manuel Revelli
+      - Manuel REVELLI
     - frac: 1
       reach: 75.080181 km
   - - - '123'
@@ -1364,7 +1395,7 @@ reachRank:
     - frac: 0.94916102
       reach: 71.263181 km
   - - - '83'
-      - Sander Van Schaik
+      - Sander van Schaik
     - frac: 0.73870601
       reach: 55.462181 km
   - - - '98'
@@ -1376,7 +1407,7 @@ reachRank:
     - frac: 0.71920686
       reach: 53.998181 km
   - - - '22'
-      - Glauco Pinto
+      - GLAUCO PINTO
     - frac: 0.70522181
       reach: 52.948181 km
   - - - '80'
@@ -1412,15 +1443,15 @@ reachRank:
     - frac: 0.44275574
       reach: 33.242181 km
   - - - '96'
-      - Shane Mckay
+      - Shane mckay
     - frac: 0.40369084
       reach: 30.309181 km
   - - - '105'
-      - Stanislav Galovec
+      - Stanislav GALOVEC
     - frac: 0.38856034
       reach: 29.173181 km
   - - - '82'
-      - Jaesun Moon
+      - jaesun moon
     - frac: 0.36098982
       reach: 27.103181 km
   - - - '97'
@@ -1447,7 +1478,2273 @@ reachRank:
       - Emiel Jansen
     - frac: 5.619567e-2
       reach: 4.219181 km
+- - - - '72'
+      - Alessandro Ploner
+    - frac: 1
+      reach: 142.850906 km
+  - - - '10'
+      - Manfred Ruhmer
+    - frac: 1
+      reach: 142.850906 km
+  - - - '73'
+      - Christian Ciech
+    - frac: 1
+      reach: 142.850906 km
+  - - - '57'
+      - Primoz Gricar
+    - frac: 1
+      reach: 142.850906 km
+  - - - '22'
+      - GLAUCO PINTO
+    - frac: 1
+      reach: 142.850906 km
+  - - - '44'
+      - mario ALONZI
+    - frac: 1
+      reach: 142.850906 km
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - frac: 1
+      reach: 142.850906 km
+  - - - '75'
+      - Genki Tanaka
+    - frac: 1
+      reach: 142.850906 km
+  - - - '67'
+      - Marco Laurenzi
+    - frac: 1
+      reach: 142.850906 km
+  - - - '52'
+      - Grant Crossingham
+    - frac: 1
+      reach: 142.850906 km
+  - - - '16'
+      - Tschurnig Gunther
+    - frac: 1
+      reach: 142.850906 km
+  - - - '28'
+      - Daniel Velez
+    - frac: 1
+      reach: 142.850906 km
+  - - - '70'
+      - Filippo Oppici
+    - frac: 1
+      reach: 142.850906 km
+  - - - '56'
+      - Gerd Doenhuber
+    - frac: 1
+      reach: 142.850906 km
+  - - - '78'
+      - Yuji Suzuki
+    - frac: 1
+      reach: 142.850906 km
+  - - - '107'
+      - Peter Neuenschwander
+    - frac: 1
+      reach: 142.850906 km
+  - - - '13'
+      - Walter Mayer
+    - frac: 1
+      reach: 142.850906 km
+  - - - '119'
+      - Pedro L. Garcia
+    - frac: 1
+      reach: 142.850906 km
+  - - - '45'
+      - Christian Pollet
+    - frac: 1
+      reach: 142.850906 km
+  - - - '79'
+      - Minoru Kato
+    - frac: 1
+      reach: 142.850906 km
+  - - - '74'
+      - Akira Nagusa
+    - frac: 1
+      reach: 142.850906 km
+  - - - '29'
+      - Dan Vyhnalik
+    - frac: 1
+      reach: 142.850906 km
+  - - - '105'
+      - Stanislav GALOVEC
+    - frac: 1
+      reach: 142.850906 km
+  - - - '54'
+      - Gordon Rigg
+    - frac: 1
+      reach: 142.850906 km
+  - - - '84'
+      - Arne Tanzer
+    - frac: 1
+      reach: 142.850906 km
+  - - - '115'
+      - Evgen Lysenko
+    - frac: 1
+      reach: 142.850906 km
+  - - - '15'
+      - Wolfgang Siess
+    - frac: 1
+      reach: 142.850906 km
+  - - - '47'
+      - Antoine Saraf
+    - frac: 1
+      reach: 142.850906 km
+  - - - '34'
+      - Petr Polach
+    - frac: 1
+      reach: 142.850906 km
+  - - - '85'
+      - Joost Eertman
+    - frac: 1
+      reach: 142.850906 km
+  - - - '68'
+      - Davide Guiducci
+    - frac: 1
+      reach: 142.850906 km
+  - - - '49'
+      - Gary Wirdnam
+    - frac: 1
+      reach: 142.850906 km
+  - - - '50'
+      - Darren Brown
+    - frac: 1
+      reach: 142.850906 km
+  - - - '69'
+      - Suan SELENATI
+    - frac: 1
+      reach: 142.850906 km
+  - - - '77'
+      - Takashi Sunama
+    - frac: 1
+      reach: 142.850906 km
+  - - - '76'
+      - Shogo Ota
+    - frac: 1
+      reach: 142.850906 km
+  - - - '48'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 142.850906 km
+  - - - '51'
+      - Dave Matthews
+    - frac: 1
+      reach: 142.850906 km
+  - - - '117'
+      - Zac Majors
+    - frac: 1
+      reach: 142.850906 km
+  - - - '102'
+      - Matjaz Klemencic
+    - frac: 1
+      reach: 142.850906 km
+  - - - '1'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 142.850906 km
+  - - - '64'
+      - Laszlo Okros
+    - frac: 1
+      reach: 142.850906 km
+  - - - '43'
+      - ERIC MATHURIN
+    - frac: 1
+      reach: 142.850906 km
+  - - - '92'
+      - John Smith
+    - frac: 1
+      reach: 142.850906 km
+  - - - '91'
+      - Olav Opsanger
+    - frac: 1
+      reach: 142.850906 km
+  - - - '4'
+      - Trent Brown
+    - frac: 1
+      reach: 142.850906 km
+  - - - '106'
+      - Ubaldo Romano
+    - frac: 1
+      reach: 142.850906 km
+  - - - '9'
+      - Steve Docherty
+    - frac: 1
+      reach: 142.850906 km
+  - - - '59'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 142.850906 km
+  - - - '31'
+      - Jiri Gut
+    - frac: 1
+      reach: 142.850906 km
+  - - - '122'
+      - Vanni Accattoli
+    - frac: 1
+      reach: 142.850906 km
+  - - - '55'
+      - Kajo Clauss
+    - frac: 1
+      reach: 142.850906 km
+  - - - '3'
+      - Rory Duncan
+    - frac: 1
+      reach: 142.850906 km
+  - - - '8'
+      - Guy Hubbard
+    - frac: 1
+      reach: 142.850906 km
+  - - - '38'
+      - Daniel Martin Mota
+    - frac: 1
+      reach: 142.850906 km
+  - - - '53'
+      - Malcolm Brown
+    - frac: 1
+      reach: 142.850906 km
+  - - - '66'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 142.850906 km
+  - - - '108'
+      - Franz Herrmann
+    - frac: 0.99730488
+      reach: 142.465906 km
+  - - - '58'
+      - Roland Woehrle
+    - frac: 0.98792447
+      reach: 141.125906 km
+  - - - '60'
+      - Georg Schweier
+    - frac: 0.98653141
+      reach: 140.926906 km
+  - - - '33'
+      - Lukas Vojacek
+    - frac: 0.97225079
+      reach: 138.886906 km
+  - - - '26'
+      - Tyler Borradaile
+    - frac: 0.97150176
+      reach: 138.779906 km
+  - - - '25'
+      - Evan Smith
+    - frac: 0.97148075
+      reach: 138.776906 km
+  - - - '18'
+      - David Brito Filho
+    - frac: 0.97096973
+      reach: 138.703906 km
+  - - - '103'
+      - Franc Peternel
+    - frac: 0.96030827
+      reach: 137.180906 km
+  - - - '87'
+      - Gijs Wanders
+    - frac: 0.93532418
+      reach: 133.611906 km
+  - - - '42'
+      - Eric Wyss
+    - frac: 0.91438626
+      reach: 130.620906 km
+  - - - '109'
+      - Damien Zahn
+    - frac: 0.89363036
+      reach: 127.655906 km
+  - - - '96'
+      - Shane mckay
+    - frac: 0.86238099
+      reach: 123.191906 km
+  - - - '6'
+      - Craig Taylor
+    - frac: 0.86157596
+      reach: 123.076906 km
+  - - - '123'
+      - Igriza Flora
+    - frac: 0.85951087
+      reach: 122.781906 km
+  - - - '37'
+      - Alvaro Idigoras
+    - frac: 0.85644473
+      reach: 122.343906 km
+  - - - '95'
+      - Viv Clements
+    - frac: 0.84084805
+      reach: 120.115906 km
+  - - - '82'
+      - jaesun moon
+    - frac: 0.84017602
+      reach: 120.019906 km
+  - - - '81'
+      - Young don Lee
+    - frac: 0.83878296
+      reach: 119.820906 km
+  - - - '89'
+      - Johnny Nilssen
+    - frac: 0.83097062
+      reach: 118.704906 km
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - frac: 0.83086562
+      reach: 118.689906 km
+  - - - '35'
+      - Frantisek Kostal
+    - frac: 0.8260074
+      reach: 117.995906 km
+  - - - '98'
+      - Piers Throssell
+    - frac: 0.80505549
+      reach: 115.002906 km
+  - - - '46'
+      - Francois ISOARD
+    - frac: 0.80496449
+      reach: 114.989906 km
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - frac: 0.80413145
+      reach: 114.870906 km
+  - - - '23'
+      - Konrad Heilmann
+    - frac: 0.80384444
+      reach: 114.829906 km
+  - - - '71'
+      - Manuel REVELLI
+    - frac: 0.76283665
+      reach: 108.971906 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - frac: 0.76107957
+      reach: 108.720906 km
+  - - - '116'
+      - Jeff Chipman
+    - frac: 0.74992808
+      reach: 107.127906 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - frac: 0.73565446
+      reach: 105.088906 km
+  - - - '104'
+      - janez grm
+    - frac: 0.7320633
+      reach: 104.575906 km
+  - - - '65'
+      - Noel Collins
+    - frac: 0.73113926
+      reach: 104.443906 km
+  - - - '120'
+      - John Simon
+    - frac: 0.72385194
+      reach: 103.402906 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - frac: 0.70852827
+      reach: 101.213906 km
+  - - - '118'
+      - Will Ramsey
+    - frac: 0.70712121
+      reach: 101.012906 km
+  - - - '62'
+      - Attila Kis
+    - frac: 0.70158397
+      reach: 100.221906 km
+  - - - '111'
+      - Tommy Nilsson
+    - frac: 0.69559171
+      reach: 99.365906 km
+  - - - '88'
+      - Emiel Jansen
+    - frac: 0.69355462
+      reach: 99.074906 km
+  - - - '30'
+      - Jiri Nadvornik
+    - frac: 0.68977446
+      reach: 98.534906 km
+  - - - '14'
+      - Alexander Sigl
+    - frac: 0.68356519
+      reach: 97.647906 km
+  - - - '7'
+      - Nils Vesk
+    - frac: 0.68247314
+      reach: 97.491906 km
+  - - - '2'
+      - Rohan Taylor
+    - frac: 0.68199712
+      reach: 97.423906 km
+  - - - '86'
+      - Tanno Rutten
+    - frac: 0.68047105
+      reach: 97.205906 km
+  - - - '97'
+      - Tom Kellner
+    - frac: 0.67405177
+      reach: 96.288906 km
+  - - - '20'
+      - Eduardo Oliveira
+    - frac: 0.67312073
+      reach: 96.155906 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - frac: 0.67106264
+      reach: 95.861906 km
+  - - - '83'
+      - Sander van Schaik
+    - frac: 0.67046761
+      reach: 95.776906 km
+  - - - '90'
+      - Jens Krotseng
+    - frac: 0.66585441
+      reach: 95.117906 km
+  - - - '113'
+      - Kamil Demirkan
+    - frac: 0.65022273
+      reach: 92.884906 km
+  - - - '5'
+      - Peter Burkitt
+    - frac: 0.64885767
+      reach: 92.689906 km
+  - - - '94'
+      - Matthew Barlow
+    - frac: 0.6450565
+      reach: 92.146906 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - frac: 0.633625
+      reach: 90.513906 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - frac: 0.58640794
+      reach: 83.768906 km
+  - - - '93'
+      - Derek Mckee
+    - frac: 0.58607193
+      reach: 83.720906 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - frac: 0.46095547
+      reach: 65.847906 km
+  - - - '39'
+      - Tximo Iriarte
+    - frac: 0.45570524
+      reach: 65.097906 km
+  - - - '110'
+      - Markel Neideman
+    - frac: 0.34188727
+      reach: 48.838906 km
+  - - - '100'
+      - Felix Cantesanu
+    - frac: 0.31379504
+      reach: 44.825906 km
+  - - - '17'
+      - Fabio Thomaz
+    - frac: 0.12757291
+      reach: 18.223906 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - frac: 6.170704e-2
+      reach: 8.814906 km
+- - - - '67'
+      - Marco Laurenzi
+    - frac: 1
+      reach: 94.856107 km
+  - - - '84'
+      - Arne Tanzer
+    - frac: 1
+      reach: 94.856107 km
+  - - - '72'
+      - Alessandro Ploner
+    - frac: 1
+      reach: 94.856107 km
+  - - - '28'
+      - Daniel Velez
+    - frac: 1
+      reach: 94.856107 km
+  - - - '56'
+      - Gerd Doenhuber
+    - frac: 1
+      reach: 94.856107 km
+  - - - '57'
+      - Primoz Gricar
+    - frac: 1
+      reach: 94.856107 km
+  - - - '70'
+      - Filippo Oppici
+    - frac: 1
+      reach: 94.856107 km
+  - - - '10'
+      - Manfred Ruhmer
+    - frac: 1
+      reach: 94.856107 km
+  - - - '73'
+      - Christian Ciech
+    - frac: 1
+      reach: 94.856107 km
+  - - - '79'
+      - Minoru Kato
+    - frac: 1
+      reach: 94.856107 km
+  - - - '52'
+      - Grant Crossingham
+    - frac: 1
+      reach: 94.856107 km
+  - - - '48'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 94.856107 km
+  - - - '103'
+      - Franc Peternel
+    - frac: 1
+      reach: 94.856107 km
+  - - - '26'
+      - Tyler Borradaile
+    - frac: 1
+      reach: 94.856107 km
+  - - - '91'
+      - Olav Opsanger
+    - frac: 1
+      reach: 94.856107 km
+  - - - '107'
+      - Peter Neuenschwander
+    - frac: 1
+      reach: 94.856107 km
+  - - - '108'
+      - Franz Herrmann
+    - frac: 1
+      reach: 94.856107 km
+  - - - '115'
+      - Evgen Lysenko
+    - frac: 1
+      reach: 94.856107 km
+  - - - '77'
+      - Takashi Sunama
+    - frac: 1
+      reach: 94.856107 km
+  - - - '22'
+      - GLAUCO PINTO
+    - frac: 1
+      reach: 94.856107 km
+  - - - '44'
+      - mario ALONZI
+    - frac: 1
+      reach: 94.856107 km
+  - - - '60'
+      - Georg Schweier
+    - frac: 1
+      reach: 94.856107 km
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - frac: 1
+      reach: 94.856107 km
+  - - - '69'
+      - Suan SELENATI
+    - frac: 1
+      reach: 94.856107 km
+  - - - '1'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 94.856107 km
+  - - - '58'
+      - Roland Woehrle
+    - frac: 1
+      reach: 94.856107 km
+  - - - '120'
+      - John Simon
+    - frac: 1
+      reach: 94.856107 km
+  - - - '29'
+      - Dan Vyhnalik
+    - frac: 1
+      reach: 94.856107 km
+  - - - '16'
+      - Tschurnig Gunther
+    - frac: 1
+      reach: 94.856107 km
+  - - - '51'
+      - Dave Matthews
+    - frac: 1
+      reach: 94.856107 km
+  - - - '68'
+      - Davide Guiducci
+    - frac: 1
+      reach: 94.856107 km
+  - - - '78'
+      - Yuji Suzuki
+    - frac: 1
+      reach: 94.856107 km
+  - - - '15'
+      - Wolfgang Siess
+    - frac: 1
+      reach: 94.856107 km
+  - - - '9'
+      - Steve Docherty
+    - frac: 1
+      reach: 94.856107 km
+  - - - '45'
+      - Christian Pollet
+    - frac: 1
+      reach: 94.856107 km
+  - - - '49'
+      - Gary Wirdnam
+    - frac: 1
+      reach: 94.856107 km
+  - - - '3'
+      - Rory Duncan
+    - frac: 1
+      reach: 94.856107 km
+  - - - '92'
+      - John Smith
+    - frac: 1
+      reach: 94.856107 km
+  - - - '54'
+      - Gordon Rigg
+    - frac: 1
+      reach: 94.856107 km
+  - - - '110'
+      - Markel Neideman
+    - frac: 1
+      reach: 94.856107 km
+  - - - '109'
+      - Damien Zahn
+    - frac: 1
+      reach: 94.856107 km
+  - - - '43'
+      - ERIC MATHURIN
+    - frac: 1
+      reach: 94.856107 km
+  - - - '34'
+      - Petr Polach
+    - frac: 1
+      reach: 94.856107 km
+  - - - '74'
+      - Akira Nagusa
+    - frac: 1
+      reach: 94.856107 km
+  - - - '102'
+      - Matjaz Klemencic
+    - frac: 1
+      reach: 94.856107 km
+  - - - '14'
+      - Alexander Sigl
+    - frac: 1
+      reach: 94.856107 km
+  - - - '64'
+      - Laszlo Okros
+    - frac: 1
+      reach: 94.856107 km
+  - - - '17'
+      - Fabio Thomaz
+    - frac: 1
+      reach: 94.856107 km
+  - - - '35'
+      - Frantisek Kostal
+    - frac: 1
+      reach: 94.856107 km
+  - - - '88'
+      - Emiel Jansen
+    - frac: 1
+      reach: 94.856107 km
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - frac: 1
+      reach: 94.856107 km
+  - - - '55'
+      - Kajo Clauss
+    - frac: 1
+      reach: 94.856107 km
+  - - - '23'
+      - Konrad Heilmann
+    - frac: 1
+      reach: 94.856107 km
+  - - - '38'
+      - Daniel Martin Mota
+    - frac: 1
+      reach: 94.856107 km
+  - - - '33'
+      - Lukas Vojacek
+    - frac: 1
+      reach: 94.856107 km
+  - - - '46'
+      - Francois ISOARD
+    - frac: 1
+      reach: 94.856107 km
+  - - - '87'
+      - Gijs Wanders
+    - frac: 1
+      reach: 94.856107 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - frac: 1
+      reach: 94.856107 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - frac: 1
+      reach: 94.856107 km
+  - - - '85'
+      - Joost Eertman
+    - frac: 1
+      reach: 94.856107 km
+  - - - '4'
+      - Trent Brown
+    - frac: 1
+      reach: 94.856107 km
+  - - - '122'
+      - Vanni Accattoli
+    - frac: 1
+      reach: 94.856107 km
+  - - - '47'
+      - Antoine Saraf
+    - frac: 1
+      reach: 94.856107 km
+  - - - '113'
+      - Kamil Demirkan
+    - frac: 1
+      reach: 94.856107 km
+  - - - '53'
+      - Malcolm Brown
+    - frac: 1
+      reach: 94.856107 km
+  - - - '39'
+      - Tximo Iriarte
+    - frac: 1
+      reach: 94.856107 km
+  - - - '119'
+      - Pedro L. Garcia
+    - frac: 1
+      reach: 94.856107 km
+  - - - '6'
+      - Craig Taylor
+    - frac: 1
+      reach: 94.856107 km
+  - - - '65'
+      - Noel Collins
+    - frac: 1
+      reach: 94.856107 km
+  - - - '59'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 94.856107 km
+  - - - '50'
+      - Darren Brown
+    - frac: 1
+      reach: 94.856107 km
+  - - - '66'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 94.856107 km
+  - - - '105'
+      - Stanislav GALOVEC
+    - frac: 1
+      reach: 94.856107 km
+  - - - '71'
+      - Manuel REVELLI
+    - frac: 1
+      reach: 94.856107 km
+  - - - '30'
+      - Jiri Nadvornik
+    - frac: 1
+      reach: 94.856107 km
+  - - - '83'
+      - Sander van Schaik
+    - frac: 1
+      reach: 94.856107 km
+  - - - '98'
+      - Piers Throssell
+    - frac: 1
+      reach: 94.856107 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - frac: 1
+      reach: 94.856107 km
+  - - - '104'
+      - janez grm
+    - frac: 0.95962305
+      reach: 91.026107 km
+  - - - '111'
+      - Tommy Nilsson
+    - frac: 0.95662904
+      reach: 90.742107 km
+  - - - '76'
+      - Shogo Ota
+    - frac: 0.84167598
+      reach: 79.838107 km
+  - - - '123'
+      - Igriza Flora
+    - frac: 0.67231419
+      reach: 63.773107 km
+  - - - '93'
+      - Derek Mckee
+    - frac: 0.67227202
+      reach: 63.769107 km
+  - - - '7'
+      - Nils Vesk
+    - frac: 0.67211389
+      reach: 63.754107 km
+  - - - '18'
+      - David Brito Filho
+    - frac: 0.67129159
+      reach: 63.676107 km
+  - - - '31'
+      - Jiri Gut
+    - frac: 0.67057472
+      reach: 63.608107 km
+  - - - '100'
+      - Felix Cantesanu
+    - frac: 0.67038495
+      reach: 63.590107 km
+  - - - '2'
+      - Rohan Taylor
+    - frac: 0.67038495
+      reach: 63.590107 km
+  - - - '116'
+      - Jeff Chipman
+    - frac: 0.66914097
+      reach: 63.472107 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - frac: 0.66823433
+      reach: 63.386107 km
+  - - - '86'
+      - Tanno Rutten
+    - frac: 0.66529303
+      reach: 63.107107 km
+  - - - '95'
+      - Viv Clements
+    - frac: 0.66524032
+      reach: 63.102107 km
+  - - - '81'
+      - Young don Lee
+    - frac: 0.66100232
+      reach: 62.700107 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - frac: 0.65986376
+      reach: 62.592107 km
+  - - - '42'
+      - Eric Wyss
+    - frac: 0.65982159
+      reach: 62.588107 km
+  - - - '96'
+      - Shane mckay
+    - frac: 0.65544654
+      reach: 62.173107 km
+  - - - '117'
+      - Zac Majors
+    - frac: 0.65150372
+      reach: 61.799107 km
+  - - - '13'
+      - Walter Mayer
+    - frac: 0.64610608
+      reach: 61.287107 km
+  - - - '89'
+      - Johnny Nilssen
+    - frac: 0.63951715
+      reach: 60.662107 km
+  - - - '75'
+      - Genki Tanaka
+    - frac: 0.59966732
+      reach: 56.882107 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - frac: 0.55421953
+      reach: 52.571107 km
+  - - - '20'
+      - Eduardo Oliveira
+    - frac: 0.36070537
+      reach: 34.215107 km
+  - - - '25'
+      - Evan Smith
+    - frac: 0.34975194
+      reach: 33.176107 km
+  - - - '62'
+      - Attila Kis
+    - frac: 0.34861337
+      reach: 33.068107 km
+  - - - '37'
+      - Alvaro Idigoras
+    - frac: 0.34326843
+      reach: 32.561107 km
+  - - - '97'
+      - Tom Kellner
+    - frac: 0.2941941
+      reach: 27.906107 km
+  - - - '106'
+      - Ubaldo Romano
+    - frac: 0.2865404
+      reach: 27.180107 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - frac: 0.25157165
+      reach: 23.863107 km
+  - - - '82'
+      - jaesun moon
+    - frac: 0.22703975
+      reach: 21.536107 km
+  - - - '94'
+      - Matthew Barlow
+    - frac: 0.21980775
+      reach: 20.850107 km
+  - - - '8'
+      - Guy Hubbard
+    - frac: 0.20303497
+      reach: 19.259107 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - frac: 0.19919758
+      reach: 18.895107 km
+  - - - '5'
+      - Peter Burkitt
+    - frac: 0.13911711
+      reach: 13.196107 km
+  - - - '118'
+      - Will Ramsey
+    - frac: 0.12841669
+      reach: 12.181107 km
+- []
+- - - - '72'
+      - Alessandro Ploner
+    - frac: 1
+      reach: 127.541122 km
+  - - - '10'
+      - Manfred Ruhmer
+    - frac: 1
+      reach: 127.541122 km
+  - - - '70'
+      - Filippo Oppici
+    - frac: 1
+      reach: 127.541122 km
+  - - - '57'
+      - Primoz Gricar
+    - frac: 1
+      reach: 127.541122 km
+  - - - '73'
+      - Christian Ciech
+    - frac: 1
+      reach: 127.541122 km
+  - - - '44'
+      - mario ALONZI
+    - frac: 1
+      reach: 127.541122 km
+  - - - '22'
+      - GLAUCO PINTO
+    - frac: 1
+      reach: 127.541122 km
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - frac: 1
+      reach: 127.541122 km
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - frac: 1
+      reach: 127.541122 km
+  - - - '29'
+      - Dan Vyhnalik
+    - frac: 1
+      reach: 127.541122 km
+  - - - '107'
+      - Peter Neuenschwander
+    - frac: 1
+      reach: 127.541122 km
+  - - - '78'
+      - Yuji Suzuki
+    - frac: 1
+      reach: 127.541122 km
+  - - - '28'
+      - Daniel Velez
+    - frac: 1
+      reach: 127.541122 km
+  - - - '106'
+      - Ubaldo Romano
+    - frac: 1
+      reach: 127.541122 km
+  - - - '26'
+      - Tyler Borradaile
+    - frac: 1
+      reach: 127.541122 km
+  - - - '16'
+      - Tschurnig Gunther
+    - frac: 1
+      reach: 127.541122 km
+  - - - '75'
+      - Genki Tanaka
+    - frac: 1
+      reach: 127.541122 km
+  - - - '79'
+      - Minoru Kato
+    - frac: 1
+      reach: 127.541122 km
+  - - - '64'
+      - Laszlo Okros
+    - frac: 1
+      reach: 127.541122 km
+  - - - '52'
+      - Grant Crossingham
+    - frac: 1
+      reach: 127.541122 km
+  - - - '68'
+      - Davide Guiducci
+    - frac: 1
+      reach: 127.541122 km
+  - - - '3'
+      - Rory Duncan
+    - frac: 1
+      reach: 127.541122 km
+  - - - '58'
+      - Roland Woehrle
+    - frac: 1
+      reach: 127.541122 km
+  - - - '59'
+      - Joerg Bajewski
+    - frac: 1
+      reach: 127.541122 km
+  - - - '56'
+      - Gerd Doenhuber
+    - frac: 1
+      reach: 127.541122 km
+  - - - '120'
+      - John Simon
+    - frac: 1
+      reach: 127.541122 km
+  - - - '17'
+      - Fabio Thomaz
+    - frac: 1
+      reach: 127.541122 km
+  - - - '119'
+      - Pedro L. Garcia
+    - frac: 1
+      reach: 127.541122 km
+  - - - '47'
+      - Antoine Saraf
+    - frac: 1
+      reach: 127.541122 km
+  - - - '1'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 127.541122 km
+  - - - '69'
+      - Suan SELENATI
+    - frac: 1
+      reach: 127.541122 km
+  - - - '84'
+      - Arne Tanzer
+    - frac: 1
+      reach: 127.541122 km
+  - - - '13'
+      - Walter Mayer
+    - frac: 1
+      reach: 127.541122 km
+  - - - '105'
+      - Stanislav GALOVEC
+    - frac: 1
+      reach: 127.541122 km
+  - - - '117'
+      - Zac Majors
+    - frac: 1
+      reach: 127.541122 km
+  - - - '91'
+      - Olav Opsanger
+    - frac: 1
+      reach: 127.541122 km
+  - - - '4'
+      - Trent Brown
+    - frac: 1
+      reach: 127.541122 km
+  - - - '92'
+      - John Smith
+    - frac: 1
+      reach: 127.541122 km
+  - - - '110'
+      - Markel Neideman
+    - frac: 1
+      reach: 127.541122 km
+  - - - '38'
+      - Daniel Martin Mota
+    - frac: 1
+      reach: 127.541122 km
+  - - - '50'
+      - Darren Brown
+    - frac: 1
+      reach: 127.541122 km
+  - - - '54'
+      - Gordon Rigg
+    - frac: 1
+      reach: 127.541122 km
+  - - - '51'
+      - Dave Matthews
+    - frac: 1
+      reach: 127.541122 km
+  - - - '122'
+      - Vanni Accattoli
+    - frac: 1
+      reach: 127.541122 km
+  - - - '76'
+      - Shogo Ota
+    - frac: 1
+      reach: 127.541122 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - frac: 1
+      reach: 127.541122 km
+  - - - '102'
+      - Matjaz Klemencic
+    - frac: 1
+      reach: 127.541122 km
+  - - - '14'
+      - Alexander Sigl
+    - frac: 1
+      reach: 127.541122 km
+  - - - '6'
+      - Craig Taylor
+    - frac: 1
+      reach: 127.541122 km
+  - - - '48'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 127.541122 km
+  - - - '71'
+      - Manuel REVELLI
+    - frac: 1
+      reach: 127.541122 km
+  - - - '46'
+      - Francois ISOARD
+    - frac: 1
+      reach: 127.541122 km
+  - - - '9'
+      - Steve Docherty
+    - frac: 0.9889369
+      reach: 126.130122 km
+  - - - '49'
+      - Gary Wirdnam
+    - frac: 0.98385619
+      reach: 125.482122 km
+  - - - '100'
+      - Felix Cantesanu
+    - frac: 0.96982934
+      reach: 123.693122 km
+  - - - '103'
+      - Franc Peternel
+    - frac: 0.94134441
+      reach: 120.060122 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - frac: 0.9374241
+      reach: 119.560122 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - frac: 0.93524441
+      reach: 119.282122 km
+  - - - '42'
+      - Eric Wyss
+    - frac: 0.90265885
+      reach: 115.126122 km
+  - - - '43'
+      - ERIC MATHURIN
+    - frac: 0.88900051
+      reach: 113.384122 km
+  - - - '95'
+      - Viv Clements
+    - frac: 0.87760026
+      reach: 111.930122 km
+  - - - '94'
+      - Matthew Barlow
+    - frac: 0.8724725
+      reach: 111.276122 km
+  - - - '35'
+      - Frantisek Kostal
+    - frac: 0.86601968
+      reach: 110.453122 km
+  - - - '115'
+      - Evgen Lysenko
+    - frac: 0.86601184
+      reach: 110.452122 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - frac: 0.83990262
+      reach: 107.122122 km
+  - - - '83'
+      - Sander van Schaik
+    - frac: 0.83823257
+      reach: 106.909122 km
+  - - - '67'
+      - Marco Laurenzi
+    - frac: 0.83585686
+      reach: 106.606122 km
+  - - - '104'
+      - janez grm
+    - frac: 0.82384505
+      reach: 105.074122 km
+  - - - '7'
+      - Nils Vesk
+    - frac: 0.82045007
+      reach: 104.641122 km
+  - - - '123'
+      - Igriza Flora
+    - frac: 0.82030109
+      reach: 104.622122 km
+  - - - '97'
+      - Tom Kellner
+    - frac: 0.82004235
+      reach: 104.589122 km
+  - - - '66'
+      - Tullio Gervasoni
+    - frac: 0.81838799
+      reach: 104.378122 km
+  - - - '98'
+      - Piers Throssell
+    - frac: 0.81819981
+      reach: 104.354122 km
+  - - - '87'
+      - Gijs Wanders
+    - frac: 0.81816061
+      reach: 104.349122 km
+  - - - '25'
+      - Evan Smith
+    - frac: 0.81704724
+      reach: 104.207122 km
+  - - - '116'
+      - Jeff Chipman
+    - frac: 0.81220959
+      reach: 103.590122 km
+  - - - '109'
+      - Damien Zahn
+    - frac: 0.81140984
+      reach: 103.488122 km
+  - - - '18'
+      - David Brito Filho
+    - frac: 0.81070419
+      reach: 103.398122 km
+  - - - '2'
+      - Rohan Taylor
+    - frac: 0.80970059
+      reach: 103.270122 km
+  - - - '113'
+      - Kamil Demirkan
+    - frac: 0.80711319
+      reach: 102.940122 km
+  - - - '34'
+      - Petr Polach
+    - frac: 0.80195407
+      reach: 102.282122 km
+  - - - '33'
+      - Lukas Vojacek
+    - frac: 0.794333
+      reach: 101.310122 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - frac: 0.78653943
+      reach: 100.316122 km
+  - - - '85'
+      - Joost Eertman
+    - frac: 0.78562992
+      reach: 100.200122 km
+  - - - '86'
+      - Tanno Rutten
+    - frac: 0.78496347
+      reach: 100.115122 km
+  - - - '60'
+      - Georg Schweier
+    - frac: 0.7843519
+      reach: 100.037122 km
+  - - - '108'
+      - Franz Herrmann
+    - frac: 0.78332479
+      reach: 99.906122 km
+  - - - '31'
+      - Jiri Gut
+    - frac: 0.78083931
+      reach: 99.589122 km
+  - - - '74'
+      - Akira Nagusa
+    - frac: 0.78071386
+      reach: 99.573122 km
+  - - - '30'
+      - Jiri Nadvornik
+    - frac: 0.77747569
+      reach: 99.160122 km
+  - - - '93'
+      - Derek Mckee
+    - frac: 0.77179909
+      reach: 98.436122 km
+  - - - '45'
+      - Christian Pollet
+    - frac: 0.76607545
+      reach: 97.706122 km
+  - - - '53'
+      - Malcolm Brown
+    - frac: 0.76555797
+      reach: 97.640122 km
+  - - - '81'
+      - Young don Lee
+    - frac: 0.76447596
+      reach: 97.502122 km
+  - - - '77'
+      - Takashi Sunama
+    - frac: 0.75995977
+      reach: 96.926122 km
+  - - - '65'
+      - Noel Collins
+    - frac: 0.74904565
+      reach: 95.534122 km
+  - - - '90'
+      - Jens Krotseng
+    - frac: 0.67779804
+      reach: 86.447122 km
+  - - - '111'
+      - Tommy Nilsson
+    - frac: 0.63443163
+      reach: 80.916122 km
+  - - - '89'
+      - Johnny Nilssen
+    - frac: 0.56668877
+      reach: 72.276122 km
+  - - - '39'
+      - Tximo Iriarte
+    - frac: 0.56582631
+      reach: 72.166122 km
+  - - - '62'
+      - Attila Kis
+    - frac: 0.54936103
+      reach: 70.066122 km
+  - - - '15'
+      - Wolfgang Siess
+    - frac: 0.49934579
+      reach: 63.687122 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - frac: 0.49654669
+      reach: 63.330122 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - frac: 0.33298376
+      reach: 42.469122 km
+  - - - '82'
+      - jaesun moon
+    - frac: 0.32383377
+      reach: 41.302122 km
+  - - - '118'
+      - Will Ramsey
+    - frac: 0.31198661
+      reach: 39.791122 km
+  - - - '37'
+      - Alvaro Idigoras
+    - frac: 0.2301777
+      reach: 29.357122 km
+  - - - '96'
+      - Shane mckay
+    - frac: 0.22983271
+      reach: 29.313122 km
+  - - - '5'
+      - Peter Burkitt
+    - frac: 0.13601983
+      reach: 17.348122 km
+  - - - '23'
+      - Konrad Heilmann
+    - frac: 6.792415e-2
+      reach: 8.663122 km
+  - - - '20'
+      - Eduardo Oliveira
+    - frac: 6.438803e-2
+      reach: 8.212122 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - frac: 4.554705e-2
+      reach: 5.809122 km
+  - - - '88'
+      - Emiel Jansen
+    - frac: 4.180708e-2
+      reach: 5.332122 km
+- - - - '20'
+      - Eduardo Oliveira
+    - frac: 1
+      reach: 199.875424 km
+  - - - '52'
+      - Grant Crossingham
+    - frac: 1
+      reach: 199.875424 km
+  - - - '57'
+      - Primoz Gricar
+    - frac: 1
+      reach: 199.875424 km
+  - - - '107'
+      - Peter Neuenschwander
+    - frac: 1
+      reach: 199.875424 km
+  - - - '72'
+      - Alessandro Ploner
+    - frac: 1
+      reach: 199.875424 km
+  - - - '70'
+      - Filippo Oppici
+    - frac: 1
+      reach: 199.875424 km
+  - - - '10'
+      - Manfred Ruhmer
+    - frac: 1
+      reach: 199.875424 km
+  - - - '75'
+      - Genki Tanaka
+    - frac: 1
+      reach: 199.875424 km
+  - - - '44'
+      - mario ALONZI
+    - frac: 1
+      reach: 199.875424 km
+  - - - '73'
+      - Christian Ciech
+    - frac: 1
+      reach: 199.875424 km
+  - - - '67'
+      - Marco Laurenzi
+    - frac: 1
+      reach: 199.875424 km
+  - - - '56'
+      - Gerd Doenhuber
+    - frac: 1
+      reach: 199.875424 km
+  - - - '68'
+      - Davide Guiducci
+    - frac: 1
+      reach: 199.875424 km
+  - - - '66'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 199.875424 km
+  - - - '29'
+      - Dan Vyhnalik
+    - frac: 1
+      reach: 199.875424 km
+  - - - '103'
+      - Franc Peternel
+    - frac: 1
+      reach: 199.875424 km
+  - - - '58'
+      - Roland Woehrle
+    - frac: 1
+      reach: 199.875424 km
+  - - - '54'
+      - Gordon Rigg
+    - frac: 1
+      reach: 199.875424 km
+  - - - '1'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 199.875424 km
+  - - - '108'
+      - Franz Herrmann
+    - frac: 1
+      reach: 199.875424 km
+  - - - '91'
+      - Olav Opsanger
+    - frac: 1
+      reach: 199.875424 km
+  - - - '115'
+      - Evgen Lysenko
+    - frac: 1
+      reach: 199.875424 km
+  - - - '9'
+      - Steve Docherty
+    - frac: 1
+      reach: 199.875424 km
+  - - - '16'
+      - Tschurnig Gunther
+    - frac: 1
+      reach: 199.875424 km
+  - - - '28'
+      - Daniel Velez
+    - frac: 1
+      reach: 199.875424 km
+  - - - '53'
+      - Malcolm Brown
+    - frac: 1
+      reach: 199.875424 km
+  - - - '88'
+      - Emiel Jansen
+    - frac: 1
+      reach: 199.875424 km
+  - - - '4'
+      - Trent Brown
+    - frac: 1
+      reach: 199.875424 km
+  - - - '13'
+      - Walter Mayer
+    - frac: 1
+      reach: 199.875424 km
+  - - - '51'
+      - Dave Matthews
+    - frac: 1
+      reach: 199.875424 km
+  - - - '64'
+      - Laszlo Okros
+    - frac: 1
+      reach: 199.875424 km
+  - - - '87'
+      - Gijs Wanders
+    - frac: 1
+      reach: 199.875424 km
+  - - - '122'
+      - Vanni Accattoli
+    - frac: 1
+      reach: 199.875424 km
+  - - - '78'
+      - Yuji Suzuki
+    - frac: 1
+      reach: 199.875424 km
+  - - - '119'
+      - Pedro L. Garcia
+    - frac: 1
+      reach: 199.875424 km
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - frac: 1
+      reach: 199.875424 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - frac: 1
+      reach: 199.875424 km
+  - - - '26'
+      - Tyler Borradaile
+    - frac: 1
+      reach: 199.875424 km
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - frac: 1
+      reach: 199.875424 km
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - frac: 1
+      reach: 199.875424 km
+  - - - '34'
+      - Petr Polach
+    - frac: 1
+      reach: 199.875424 km
+  - - - '6'
+      - Craig Taylor
+    - frac: 1
+      reach: 199.875424 km
+  - - - '89'
+      - Johnny Nilssen
+    - frac: 1
+      reach: 199.875424 km
+  - - - '76'
+      - Shogo Ota
+    - frac: 1
+      reach: 199.875424 km
+  - - - '74'
+      - Akira Nagusa
+    - frac: 1
+      reach: 199.875424 km
+  - - - '92'
+      - John Smith
+    - frac: 1
+      reach: 199.875424 km
+  - - - '35'
+      - Frantisek Kostal
+    - frac: 1
+      reach: 199.875424 km
+  - - - '110'
+      - Markel Neideman
+    - frac: 1
+      reach: 199.875424 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - frac: 1
+      reach: 199.875424 km
+  - - - '49'
+      - Gary Wirdnam
+    - frac: 1
+      reach: 199.875424 km
+  - - - '31'
+      - Jiri Gut
+    - frac: 1
+      reach: 199.875424 km
+  - - - '38'
+      - Daniel Martin Mota
+    - frac: 1
+      reach: 199.875424 km
+  - - - '105'
+      - Stanislav GALOVEC
+    - frac: 1
+      reach: 199.875424 km
+  - - - '106'
+      - Ubaldo Romano
+    - frac: 1
+      reach: 199.875424 km
+  - - - '109'
+      - Damien Zahn
+    - frac: 0.99484679
+      reach: 198.845424 km
+  - - - '15'
+      - Wolfgang Siess
+    - frac: 0.96409263
+      reach: 192.698424 km
+  - - - '120'
+      - John Simon
+    - frac: 0.96342722
+      reach: 192.565424 km
+  - - - '62'
+      - Attila Kis
+    - frac: 0.961471
+      reach: 192.174424 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - frac: 0.95759859
+      reach: 191.400424 km
+  - - - '46'
+      - Francois ISOARD
+    - frac: 0.95431154
+      reach: 190.743424 km
+  - - - '33'
+      - Lukas Vojacek
+    - frac: 0.94833282
+      reach: 189.548424 km
+  - - - '2'
+      - Rohan Taylor
+    - frac: 0.94739723
+      reach: 189.361424 km
+  - - - '59'
+      - Joerg Bajewski
+    - frac: 0.94730218
+      reach: 189.342424 km
+  - - - '102'
+      - Matjaz Klemencic
+    - frac: 0.9465417
+      reach: 189.190424 km
+  - - - '93'
+      - Derek Mckee
+    - frac: 0.9447706
+      reach: 188.836424 km
+  - - - '86'
+      - Tanno Rutten
+    - frac: 0.92806519
+      reach: 185.497424 km
+  - - - '79'
+      - Minoru Kato
+    - frac: 0.92046546
+      reach: 183.978424 km
+  - - - '3'
+      - Rory Duncan
+    - frac: 0.91895952
+      reach: 183.677424 km
+  - - - '23'
+      - Konrad Heilmann
+    - frac: 0.89101712
+      reach: 178.092424 km
+  - - - '43'
+      - ERIC MATHURIN
+    - frac: 0.88589393
+      reach: 177.068424 km
+  - - - '77'
+      - Takashi Sunama
+    - frac: 0.87623291
+      reach: 175.137424 km
+  - - - '30'
+      - Jiri Nadvornik
+    - frac: 0.87561252
+      reach: 175.013424 km
+  - - - '111'
+      - Tommy Nilsson
+    - frac: 0.86506595
+      reach: 172.905424 km
+  - - - '81'
+      - Young don Lee
+    - frac: 0.86300467
+      reach: 172.493424 km
+  - - - '104'
+      - janez grm
+    - frac: 0.83309104
+      reach: 166.514424 km
+  - - - '45'
+      - Christian Pollet
+    - frac: 0.82455572
+      reach: 164.808424 km
+  - - - '7'
+      - Nils Vesk
+    - frac: 0.81515486
+      reach: 162.929424 km
+  - - - '39'
+      - Tximo Iriarte
+    - frac: 0.75978538
+      reach: 151.862424 km
+  - - - '18'
+      - David Brito Filho
+    - frac: 0.74803305
+      reach: 149.513424 km
+  - - - '17'
+      - Fabio Thomaz
+    - frac: 0.74571661
+      reach: 149.050424 km
+  - - - '25'
+      - Evan Smith
+    - frac: 0.73749649
+      reach: 147.407424 km
+  - - - '42'
+      - Eric Wyss
+    - frac: 0.73291364
+      reach: 146.491424 km
+  - - - '96'
+      - Shane mckay
+    - frac: 0.70686741
+      reach: 141.285424 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - frac: 0.70336023
+      reach: 140.584424 km
+  - - - '123'
+      - Igriza Flora
+    - frac: 0.70135398
+      reach: 140.183424 km
+  - - - '48'
+      - Andrew Hollidge
+    - frac: 0.69757162
+      reach: 139.427424 km
+  - - - '65'
+      - Noel Collins
+    - frac: 0.67996065
+      reach: 135.907424 km
+  - - - '90'
+      - Jens Krotseng
+    - frac: 0.67557292
+      reach: 135.030424 km
+  - - - '60'
+      - Georg Schweier
+    - frac: 0.67549787
+      reach: 135.015424 km
+  - - - '83'
+      - Sander van Schaik
+    - frac: 0.6594779
+      reach: 131.813424 km
+  - - - '97'
+      - Tom Kellner
+    - frac: 0.65878747
+      reach: 131.675424 km
+  - - - '37'
+      - Alvaro Idigoras
+    - frac: 0.65577059
+      reach: 131.072424 km
+  - - - '117'
+      - Zac Majors
+    - frac: 0.64625966
+      reach: 129.171424 km
+  - - - '95'
+      - Viv Clements
+    - frac: 0.63784942
+      reach: 127.490424 km
+  - - - '113'
+      - Kamil Demirkan
+    - frac: 0.63419215
+      reach: 126.759424 km
+  - - - '50'
+      - Darren Brown
+    - frac: 0.63005457
+      reach: 125.932424 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - frac: 0.6281734
+      reach: 125.556424 km
+  - - - '94'
+      - Matthew Barlow
+    - frac: 0.5821047
+      reach: 116.348424 km
+  - - - '14'
+      - Alexander Sigl
+    - frac: 0.57893273
+      reach: 115.714424 km
+  - - - '98'
+      - Piers Throssell
+    - frac: 0.57853748
+      reach: 115.635424 km
+  - - - '71'
+      - Manuel REVELLI
+    - frac: 0.57674136
+      reach: 115.276424 km
+  - - - '118'
+      - Will Ramsey
+    - frac: 0.55485273
+      reach: 110.901424 km
+  - - - '116'
+      - Jeff Chipman
+    - frac: 0.52133685
+      reach: 104.202424 km
+  - - - '100'
+      - Felix Cantesanu
+    - frac: 0.50981968
+      reach: 101.900424 km
+  - - - '85'
+      - Joost Eertman
+    - frac: 0.50798353
+      reach: 101.533424 km
+  - - - '22'
+      - GLAUCO PINTO
+    - frac: 0.48125689
+      reach: 96.191424 km
+  - - - '82'
+      - jaesun moon
+    - frac: 0.48044138
+      reach: 96.028424 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - frac: 0.47793482
+      reach: 95.527424 km
+  - - - '69'
+      - Suan SELENATI
+    - frac: 0.46659775
+      reach: 93.261424 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - frac: 0.45852272
+      reach: 91.647424 km
+  - - - '84'
+      - Arne Tanzer
+    - frac: 0.43067038
+      reach: 86.080424 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - frac: 9.993937e-2
+      reach: 19.975424 km
+  - - - '5'
+      - Peter Burkitt
+    - frac: 2.108025e-2
+      reach: 4.213424 km
+- - - - '57'
+      - Primoz Gricar
+    - frac: 1
+      reach: 94.890623 km
+  - - - '10'
+      - Manfred Ruhmer
+    - frac: 1
+      reach: 94.890623 km
+  - - - '107'
+      - Peter Neuenschwander
+    - frac: 1
+      reach: 94.890623 km
+  - - - '44'
+      - mario ALONZI
+    - frac: 1
+      reach: 94.890623 km
+  - - - '58'
+      - Roland Woehrle
+    - frac: 1
+      reach: 94.890623 km
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - frac: 1
+      reach: 94.890623 km
+  - - - '22'
+      - GLAUCO PINTO
+    - frac: 1
+      reach: 94.890623 km
+  - - - '28'
+      - Daniel Velez
+    - frac: 1
+      reach: 94.890623 km
+  - - - '48'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 94.890623 km
+  - - - '18'
+      - David Brito Filho
+    - frac: 1
+      reach: 94.890623 km
+  - - - '54'
+      - Gordon Rigg
+    - frac: 1
+      reach: 94.890623 km
+  - - - '108'
+      - Franz Herrmann
+    - frac: 1
+      reach: 94.890623 km
+  - - - '9'
+      - Steve Docherty
+    - frac: 1
+      reach: 94.890623 km
+  - - - '119'
+      - Pedro L. Garcia
+    - frac: 1
+      reach: 94.890623 km
+  - - - '75'
+      - Genki Tanaka
+    - frac: 1
+      reach: 94.890623 km
+  - - - '122'
+      - Vanni Accattoli
+    - frac: 1
+      reach: 94.890623 km
+  - - - '72'
+      - Alessandro Ploner
+    - frac: 1
+      reach: 94.890623 km
+  - - - '73'
+      - Christian Ciech
+    - frac: 1
+      reach: 94.890623 km
+  - - - '13'
+      - Walter Mayer
+    - frac: 1
+      reach: 94.890623 km
+  - - - '91'
+      - Olav Opsanger
+    - frac: 1
+      reach: 94.890623 km
+  - - - '29'
+      - Dan Vyhnalik
+    - frac: 1
+      reach: 94.890623 km
+  - - - '78'
+      - Yuji Suzuki
+    - frac: 1
+      reach: 94.890623 km
+  - - - '26'
+      - Tyler Borradaile
+    - frac: 1
+      reach: 94.890623 km
+  - - - '68'
+      - Davide Guiducci
+    - frac: 1
+      reach: 94.890623 km
+  - - - '70'
+      - Filippo Oppici
+    - frac: 1
+      reach: 94.890623 km
+  - - - '62'
+      - Attila Kis
+    - frac: 1
+      reach: 94.890623 km
+  - - - '16'
+      - Tschurnig Gunther
+    - frac: 1
+      reach: 94.890623 km
+  - - - '103'
+      - Franc Peternel
+    - frac: 1
+      reach: 94.890623 km
+  - - - '52'
+      - Grant Crossingham
+    - frac: 1
+      reach: 94.890623 km
+  - - - '85'
+      - Joost Eertman
+    - frac: 1
+      reach: 94.890623 km
+  - - - '4'
+      - Trent Brown
+    - frac: 1
+      reach: 94.890623 km
+  - - - '79'
+      - Minoru Kato
+    - frac: 1
+      reach: 94.890623 km
+  - - - '64'
+      - Laszlo Okros
+    - frac: 1
+      reach: 94.890623 km
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - frac: 1
+      reach: 94.890623 km
+  - - - '77'
+      - Takashi Sunama
+    - frac: 1
+      reach: 94.890623 km
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - frac: 1
+      reach: 94.890623 km
+  - - - '84'
+      - Arne Tanzer
+    - frac: 1
+      reach: 94.890623 km
+  - - - '117'
+      - Zac Majors
+    - frac: 1
+      reach: 94.890623 km
+  - - - '67'
+      - Marco Laurenzi
+    - frac: 1
+      reach: 94.890623 km
+  - - - '17'
+      - Fabio Thomaz
+    - frac: 1
+      reach: 94.890623 km
+  - - - '60'
+      - Georg Schweier
+    - frac: 1
+      reach: 94.890623 km
+  - - - '115'
+      - Evgen Lysenko
+    - frac: 1
+      reach: 94.890623 km
+  - - - '1'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 94.890623 km
+  - - - '56'
+      - Gerd Doenhuber
+    - frac: 1
+      reach: 94.890623 km
+  - - - '50'
+      - Darren Brown
+    - frac: 1
+      reach: 94.890623 km
+  - - - '110'
+      - Markel Neideman
+    - frac: 1
+      reach: 94.890623 km
+  - - - '76'
+      - Shogo Ota
+    - frac: 1
+      reach: 94.890623 km
+  - - - '3'
+      - Rory Duncan
+    - frac: 1
+      reach: 94.890623 km
+  - - - '42'
+      - Eric Wyss
+    - frac: 1
+      reach: 94.890623 km
+  - - - '34'
+      - Petr Polach
+    - frac: 1
+      reach: 94.890623 km
+  - - - '51'
+      - Dave Matthews
+    - frac: 1
+      reach: 94.890623 km
+  - - - '6'
+      - Craig Taylor
+    - frac: 1
+      reach: 94.890623 km
+  - - - '49'
+      - Gary Wirdnam
+    - frac: 1
+      reach: 94.890623 km
+  - - - '31'
+      - Jiri Gut
+    - frac: 1
+      reach: 94.890623 km
+  - - - '53'
+      - Malcolm Brown
+    - frac: 1
+      reach: 94.890623 km
+  - - - '45'
+      - Christian Pollet
+    - frac: 1
+      reach: 94.890623 km
+  - - - '43'
+      - ERIC MATHURIN
+    - frac: 1
+      reach: 94.890623 km
+  - - - '23'
+      - Konrad Heilmann
+    - frac: 1
+      reach: 94.890623 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - frac: 1
+      reach: 94.890623 km
+  - - - '92'
+      - John Smith
+    - frac: 1
+      reach: 94.890623 km
+  - - - '7'
+      - Nils Vesk
+    - frac: 1
+      reach: 94.890623 km
+  - - - '100'
+      - Felix Cantesanu
+    - frac: 1
+      reach: 94.890623 km
+  - - - '89'
+      - Johnny Nilssen
+    - frac: 1
+      reach: 94.890623 km
+  - - - '102'
+      - Matjaz Klemencic
+    - frac: 1
+      reach: 94.890623 km
+  - - - '105'
+      - Stanislav GALOVEC
+    - frac: 1
+      reach: 94.890623 km
+  - - - '14'
+      - Alexander Sigl
+    - frac: 1
+      reach: 94.890623 km
+  - - - '30'
+      - Jiri Nadvornik
+    - frac: 1
+      reach: 94.890623 km
+  - - - '66'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 94.890623 km
+  - - - '38'
+      - Daniel Martin Mota
+    - frac: 1
+      reach: 94.890623 km
+  - - - '15'
+      - Wolfgang Siess
+    - frac: 1
+      reach: 94.890623 km
+  - - - '86'
+      - Tanno Rutten
+    - frac: 1
+      reach: 94.890623 km
+  - - - '98'
+      - Piers Throssell
+    - frac: 1
+      reach: 94.890623 km
+  - - - '113'
+      - Kamil Demirkan
+    - frac: 1
+      reach: 94.890623 km
+  - - - '74'
+      - Akira Nagusa
+    - frac: 1
+      reach: 94.890623 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - frac: 1
+      reach: 94.890623 km
+  - - - '71'
+      - Manuel REVELLI
+    - frac: 1
+      reach: 94.890623 km
+  - - - '33'
+      - Lukas Vojacek
+    - frac: 0.98149448
+      reach: 93.134623 km
+  - - - '81'
+      - Young don Lee
+    - frac: 0.96350535
+      reach: 91.427623 km
+  - - - '94'
+      - Matthew Barlow
+    - frac: 0.95671859
+      reach: 90.783623 km
+  - - - '109'
+      - Damien Zahn
+    - frac: 0.93905615
+      reach: 89.107623 km
+  - - - '106'
+      - Ubaldo Romano
+    - frac: 0.93876107
+      reach: 89.079623 km
+  - - - '96'
+      - Shane mckay
+    - frac: 0.92370163
+      reach: 87.650623 km
+  - - - '120'
+      - John Simon
+    - frac: 0.9192544
+      reach: 87.228623 km
+  - - - '88'
+      - Emiel Jansen
+    - frac: 0.91650387
+      reach: 86.967623 km
+  - - - '97'
+      - Tom Kellner
+    - frac: 0.91061287
+      reach: 86.408623 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - frac: 0.88662736
+      reach: 84.132623 km
+  - - - '37'
+      - Alvaro Idigoras
+    - frac: 0.88224337
+      reach: 83.716623 km
+  - - - '35'
+      - Frantisek Kostal
+    - frac: 0.81234184
+      reach: 77.083623 km
+  - - - '111'
+      - Tommy Nilsson
+    - frac: 0.80032801
+      reach: 75.943623 km
+  - - - '46'
+      - Francois ISOARD
+    - frac: 0.79864185
+      reach: 75.783623 km
+  - - - '59'
+      - Joerg Bajewski
+    - frac: 0.71596772
+      reach: 67.938623 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - frac: 0.68631252
+      reach: 65.124623 km
+  - - - '2'
+      - Rohan Taylor
+    - frac: 0.66294878
+      reach: 62.907623 km
+  - - - '118'
+      - Will Ramsey
+    - frac: 0.65975563
+      reach: 62.604623 km
+  - - - '87'
+      - Gijs Wanders
+    - frac: 0.61439815
+      reach: 58.300623 km
+  - - - '25'
+      - Evan Smith
+    - frac: 0.55831252
+      reach: 52.978623 km
+  - - - '123'
+      - Igriza Flora
+    - frac: 0.54714177
+      reach: 51.918623 km
+  - - - '90'
+      - Jens Krotseng
+    - frac: 0.50512497
+      reach: 47.931623 km
+  - - - '116'
+      - Jeff Chipman
+    - frac: 0.29621075
+      reach: 28.107623 km
+  - - - '95'
+      - Viv Clements
+    - frac: 0.26353102
+      reach: 25.006623 km
+  - - - '20'
+      - Eduardo Oliveira
+    - frac: 0.25833557
+      reach: 24.513623 km
+  - - - '104'
+      - janez grm
+    - frac: 0.25670211
+      reach: 24.358623 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - frac: 0.25589065
+      reach: 24.281623 km
+  - - - '82'
+      - jaesun moon
+    - frac: 0.25543749
+      reach: 24.238623 km
+  - - - '83'
+      - Sander van Schaik
+    - frac: 0.25045281
+      reach: 23.765623 km
+  - - - '39'
+      - Tximo Iriarte
+    - frac: 0.18784388
+      reach: 17.824623 km
+  - - - '69'
+      - Suan SELENATI
+    - frac: 0.12564596
+      reach: 11.922623 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - frac: 0.11536043
+      reach: 10.946623 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - frac: 9.934199e-2
+      reach: 9.426623 km
+  - - - '93'
+      - Derek Mckee
+    - frac: 9.743453e-2
+      reach: 9.245623 km
 nigh:
+- []
 - - - - '116'
       - Jeff Chipman
     - togo:
@@ -1466,17 +3763,8 @@ nigh:
         legsSum: []
         waypoints: []
       made: 83.932348 km
-  - - - '20'
-      - Eduardo Oliveira
-    - togo:
-        distance: 2.690000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 83.377348 km
   - - - '104'
-      - Janez Grm
+      - janez grm
     - togo:
         distance: 3.708000 km
         flipSum: []
@@ -1620,7 +3908,7 @@ nigh:
         waypoints: []
       made: 54.591348 km
   - - - '83'
-      - Sander Van Schaik
+      - Sander van Schaik
     - togo:
         distance: 41.372000 km
         flipSum: []
@@ -1683,7 +3971,7 @@ nigh:
         waypoints: []
       made: 40.764348 km
   - - - '82'
-      - Jaesun Moon
+      - jaesun moon
     - togo:
         distance: 44.942000 km
         flipSum: []
@@ -1700,6 +3988,24 @@ nigh:
         legsSum: []
         waypoints: []
       made: 40.321348 km
+  - - - '93'
+      - Derek Mckee
+    - togo:
+        distance: 48.263000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 37.804348 km
+  - - - '95'
+      - Viv Clements
+    - togo:
+        distance: 44.886000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 41.181348 km
   - - - '61'
       - Carlos Rolando Alvarado
     - togo:
@@ -1772,24 +4078,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 26.370348 km
-  - - - '95'
-      - Viv Clements
-    - togo:
-        distance: 55.271000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 30.796348 km
-  - - - '93'
-      - Derek Mckee
-    - togo:
-        distance: 55.164000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 30.903348 km
   - - - '88'
       - Emiel Jansen
     - togo:
@@ -1799,15 +4087,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 18.431348 km
-  - - - '66'
-      - Tullio Gervasoni
-    - togo:
-        distance: 47.862000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 38.205348 km
   - - - '118'
       - Will Ramsey
     - togo:
@@ -1844,16 +4123,7 @@ nigh:
         legsSum: []
         waypoints: []
       made: 0.854348 km
-- - - - '66'
-      - Tullio Gervasoni
-    - togo:
-        distance: 0.007000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 135.332391 km
-  - - - '51'
+- - - - '51'
       - Dave Matthews
     - togo:
         distance: 6.508000 km
@@ -1971,7 +4241,7 @@ nigh:
         waypoints: []
       made: 101.357391 km
   - - - '43'
-      - Eric Mathurin
+      - ERIC MATHURIN
     - togo:
         distance: 34.421000 km
         flipSum: []
@@ -2142,7 +4412,7 @@ nigh:
         waypoints: []
       made: 99.327391 km
   - - - '96'
-      - Shane Mckay
+      - Shane mckay
     - togo:
         distance: 36.053000 km
         flipSum: []
@@ -2151,7 +4421,7 @@ nigh:
         waypoints: []
       made: 99.286391 km
   - - - '71'
-      - Manuel Revelli
+      - Manuel REVELLI
     - togo:
         distance: 35.879000 km
         flipSum: []
@@ -2178,7 +4448,7 @@ nigh:
         waypoints: []
       made: 99.255391 km
   - - - '46'
-      - Francois Isoard
+      - Francois ISOARD
     - togo:
         distance: 35.562000 km
         flipSum: []
@@ -2286,7 +4556,7 @@ nigh:
         waypoints: []
       made: 87.506391 km
   - - - '81'
-      - Young Don Lee
+      - Young don Lee
     - togo:
         distance: 45.607000 km
         flipSum: []
@@ -2304,7 +4574,7 @@ nigh:
         waypoints: []
       made: 78.348391 km
   - - - '82'
-      - Jaesun Moon
+      - jaesun moon
     - togo:
         distance: 55.450000 km
         flipSum: []
@@ -2322,7 +4592,7 @@ nigh:
         waypoints: []
       made: 80.820391 km
   - - - '104'
-      - Janez Grm
+      - janez grm
     - togo:
         distance: 50.927000 km
         flipSum: []
@@ -2385,7 +4655,7 @@ nigh:
         waypoints: []
       made: 59.687391 km
   - - - '114'
-      - Canberg Ozveren
+      - CANBERG OZVEREN
     - togo:
         distance: 77.049000 km
         flipSum: []
@@ -2421,7 +4691,7 @@ nigh:
         waypoints: []
       made: 59.188391 km
   - - - '105'
-      - Stanislav Galovec
+      - Stanislav GALOVEC
     - togo:
         distance: 76.336000 km
         flipSum: []
@@ -2583,7 +4853,7 @@ nigh:
         waypoints: []
       made: 11.172391 km
   - - - '83'
-      - Sander Van Schaik
+      - Sander van Schaik
     - togo:
         distance: 125.663000 km
         flipSum: []
@@ -2637,7 +4907,7 @@ nigh:
         waypoints: []
       made: 53.998181 km
   - - - '83'
-      - Sander Van Schaik
+      - Sander van Schaik
     - togo:
         distance: 19.618000 km
         flipSum: []
@@ -2646,7 +4916,7 @@ nigh:
         waypoints: []
       made: 55.462181 km
   - - - '22'
-      - Glauco Pinto
+      - GLAUCO PINTO
     - togo:
         distance: 22.132000 km
         flipSum: []
@@ -2727,7 +4997,7 @@ nigh:
         waypoints: []
       made: 33.362181 km
   - - - '96'
-      - Shane Mckay
+      - Shane mckay
     - togo:
         distance: 44.771000 km
         flipSum: []
@@ -2736,7 +5006,7 @@ nigh:
         waypoints: []
       made: 30.309181 km
   - - - '105'
-      - Stanislav Galovec
+      - Stanislav GALOVEC
     - togo:
         distance: 45.907000 km
         flipSum: []
@@ -2745,7 +5015,7 @@ nigh:
         waypoints: []
       made: 29.173181 km
   - - - '82'
-      - Jaesun Moon
+      - jaesun moon
     - togo:
         distance: 47.977000 km
         flipSum: []
@@ -2807,3 +5077,2245 @@ nigh:
         legsSum: []
         waypoints: []
       made: 4.219181 km
+- - - - '60'
+      - Georg Schweier
+    - togo:
+        distance: 1.924000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 140.926906 km
+  - - - '108'
+      - Franz Herrmann
+    - togo:
+        distance: 0.385000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 142.465906 km
+  - - - '58'
+      - Roland Woehrle
+    - togo:
+        distance: 1.725000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 141.125906 km
+  - - - '26'
+      - Tyler Borradaile
+    - togo:
+        distance: 4.071000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 138.779906 km
+  - - - '25'
+      - Evan Smith
+    - togo:
+        distance: 4.074000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 138.776906 km
+  - - - '18'
+      - David Brito Filho
+    - togo:
+        distance: 4.147000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 138.703906 km
+  - - - '33'
+      - Lukas Vojacek
+    - togo:
+        distance: 3.964000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 138.886906 km
+  - - - '103'
+      - Franc Peternel
+    - togo:
+        distance: 5.670000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 137.180906 km
+  - - - '87'
+      - Gijs Wanders
+    - togo:
+        distance: 9.239000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 133.611906 km
+  - - - '42'
+      - Eric Wyss
+    - togo:
+        distance: 12.230000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 130.620906 km
+  - - - '109'
+      - Damien Zahn
+    - togo:
+        distance: 15.195000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 127.655906 km
+  - - - '6'
+      - Craig Taylor
+    - togo:
+        distance: 19.774000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 123.076906 km
+  - - - '123'
+      - Igriza Flora
+    - togo:
+        distance: 20.069000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 122.781906 km
+  - - - '96'
+      - Shane mckay
+    - togo:
+        distance: 19.659000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 123.191906 km
+  - - - '37'
+      - Alvaro Idigoras
+    - togo:
+        distance: 20.507000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 122.343906 km
+  - - - '95'
+      - Viv Clements
+    - togo:
+        distance: 22.735000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 120.115906 km
+  - - - '82'
+      - jaesun moon
+    - togo:
+        distance: 22.831000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 120.019906 km
+  - - - '81'
+      - Young don Lee
+    - togo:
+        distance: 23.030000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 119.820906 km
+  - - - '35'
+      - Frantisek Kostal
+    - togo:
+        distance: 24.855000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 117.995906 km
+  - - - '89'
+      - Johnny Nilssen
+    - togo:
+        distance: 24.146000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 118.704906 km
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - togo:
+        distance: 24.161000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 118.689906 km
+  - - - '98'
+      - Piers Throssell
+    - togo:
+        distance: 27.848000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 115.002906 km
+  - - - '23'
+      - Konrad Heilmann
+    - togo:
+        distance: 28.021000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 114.829906 km
+  - - - '46'
+      - Francois ISOARD
+    - togo:
+        distance: 27.861000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 114.989906 km
+  - - - '112'
+      - Hakan Andersson Bernardo
+    - togo:
+        distance: 27.980000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 114.870906 km
+  - - - '71'
+      - Manuel REVELLI
+    - togo:
+        distance: 33.879000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 108.971906 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - togo:
+        distance: 34.130000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 108.720906 km
+  - - - '116'
+      - Jeff Chipman
+    - togo:
+        distance: 35.723000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 107.127906 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - togo:
+        distance: 37.762000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 105.088906 km
+  - - - '65'
+      - Noel Collins
+    - togo:
+        distance: 38.407000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.443906 km
+  - - - '104'
+      - janez grm
+    - togo:
+        distance: 38.275000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.575906 km
+  - - - '120'
+      - John Simon
+    - togo:
+        distance: 39.448000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 103.402906 km
+  - - - '118'
+      - Will Ramsey
+    - togo:
+        distance: 41.838000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 101.012906 km
+  - - - '111'
+      - Tommy Nilsson
+    - togo:
+        distance: 43.485000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.365906 km
+  - - - '88'
+      - Emiel Jansen
+    - togo:
+        distance: 43.776000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.074906 km
+  - - - '62'
+      - Attila Kis
+    - togo:
+        distance: 42.629000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 100.221906 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - togo:
+        distance: 41.637000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 101.213906 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - togo:
+        distance: 46.989000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 95.861906 km
+  - - - '14'
+      - Alexander Sigl
+    - togo:
+        distance: 45.203000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.647906 km
+  - - - '83'
+      - Sander van Schaik
+    - togo:
+        distance: 47.074000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 95.776906 km
+  - - - '20'
+      - Eduardo Oliveira
+    - togo:
+        distance: 46.695000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 96.155906 km
+  - - - '7'
+      - Nils Vesk
+    - togo:
+        distance: 45.359000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.491906 km
+  - - - '97'
+      - Tom Kellner
+    - togo:
+        distance: 46.562000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 96.288906 km
+  - - - '30'
+      - Jiri Nadvornik
+    - togo:
+        distance: 44.316000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 98.534906 km
+  - - - '2'
+      - Rohan Taylor
+    - togo:
+        distance: 45.427000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.423906 km
+  - - - '86'
+      - Tanno Rutten
+    - togo:
+        distance: 45.645000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.205906 km
+  - - - '90'
+      - Jens Krotseng
+    - togo:
+        distance: 47.733000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 95.117906 km
+  - - - '94'
+      - Matthew Barlow
+    - togo:
+        distance: 50.704000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 92.146906 km
+  - - - '113'
+      - Kamil Demirkan
+    - togo:
+        distance: 49.966000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 92.884906 km
+  - - - '5'
+      - Peter Burkitt
+    - togo:
+        distance: 50.161000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 92.689906 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - togo:
+        distance: 52.337000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 90.513906 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - togo:
+        distance: 59.082000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 83.768906 km
+  - - - '93'
+      - Derek Mckee
+    - togo:
+        distance: 59.130000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 83.720906 km
+  - - - '39'
+      - Tximo Iriarte
+    - togo:
+        distance: 77.753000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.097906 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - togo:
+        distance: 77.003000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.847906 km
+  - - - '110'
+      - Markel Neideman
+    - togo:
+        distance: 94.012000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.838906 km
+  - - - '100'
+      - Felix Cantesanu
+    - togo:
+        distance: 98.025000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 44.825906 km
+  - - - '17'
+      - Fabio Thomaz
+    - togo:
+        distance: 124.627000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 18.223906 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - togo:
+        distance: 134.036000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 8.814906 km
+- - - - '104'
+      - janez grm
+    - togo:
+        distance: 3.830000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 91.026107 km
+  - - - '111'
+      - Tommy Nilsson
+    - togo:
+        distance: 4.114000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 90.742107 km
+  - - - '76'
+      - Shogo Ota
+    - togo:
+        distance: 15.018000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 79.838107 km
+  - - - '95'
+      - Viv Clements
+    - togo:
+        distance: 31.754000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.102107 km
+  - - - '93'
+      - Derek Mckee
+    - togo:
+        distance: 31.087000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.769107 km
+  - - - '123'
+      - Igriza Flora
+    - togo:
+        distance: 31.083000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.773107 km
+  - - - '7'
+      - Nils Vesk
+    - togo:
+        distance: 31.102000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.754107 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - togo:
+        distance: 32.264000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 62.592107 km
+  - - - '117'
+      - Zac Majors
+    - togo:
+        distance: 33.057000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 61.799107 km
+  - - - '13'
+      - Walter Mayer
+    - togo:
+        distance: 33.569000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 61.287107 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - togo:
+        distance: 31.470000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.386107 km
+  - - - '89'
+      - Johnny Nilssen
+    - togo:
+        distance: 34.194000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 60.662107 km
+  - - - '100'
+      - Felix Cantesanu
+    - togo:
+        distance: 31.266000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.590107 km
+  - - - '42'
+      - Eric Wyss
+    - togo:
+        distance: 32.268000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 62.588107 km
+  - - - '75'
+      - Genki Tanaka
+    - togo:
+        distance: 37.974000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 56.882107 km
+  - - - '2'
+      - Rohan Taylor
+    - togo:
+        distance: 31.266000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.590107 km
+  - - - '86'
+      - Tanno Rutten
+    - togo:
+        distance: 31.749000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.107107 km
+  - - - '81'
+      - Young don Lee
+    - togo:
+        distance: 32.156000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 62.700107 km
+  - - - '96'
+      - Shane mckay
+    - togo:
+        distance: 32.683000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 62.173107 km
+  - - - '116'
+      - Jeff Chipman
+    - togo:
+        distance: 31.384000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.472107 km
+  - - - '18'
+      - David Brito Filho
+    - togo:
+        distance: 31.180000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.676107 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - togo:
+        distance: 42.285000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 52.571107 km
+  - - - '31'
+      - Jiri Gut
+    - togo:
+        distance: 31.248000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.608107 km
+  - - - '20'
+      - Eduardo Oliveira
+    - togo:
+        distance: 60.641000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 34.215107 km
+  - - - '62'
+      - Attila Kis
+    - togo:
+        distance: 61.788000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 33.068107 km
+  - - - '25'
+      - Evan Smith
+    - togo:
+        distance: 61.680000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 33.176107 km
+  - - - '37'
+      - Alvaro Idigoras
+    - togo:
+        distance: 62.295000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 32.561107 km
+  - - - '97'
+      - Tom Kellner
+    - togo:
+        distance: 66.950000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 27.906107 km
+  - - - '106'
+      - Ubaldo Romano
+    - togo:
+        distance: 67.676000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 27.180107 km
+  - - - '11'
+      - Christian Tiefenbacher
+    - togo:
+        distance: 70.993000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 23.863107 km
+  - - - '94'
+      - Matthew Barlow
+    - togo:
+        distance: 74.006000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 20.850107 km
+  - - - '82'
+      - jaesun moon
+    - togo:
+        distance: 73.320000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 21.536107 km
+  - - - '8'
+      - Guy Hubbard
+    - togo:
+        distance: 75.597000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 19.259107 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - togo:
+        distance: 75.961000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 18.895107 km
+  - - - '5'
+      - Peter Burkitt
+    - togo:
+        distance: 81.660000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 13.196107 km
+  - - - '118'
+      - Will Ramsey
+    - togo:
+        distance: 82.675000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 12.181107 km
+- []
+- - - - '9'
+      - Steve Docherty
+    - togo:
+        distance: 1.411000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 126.130122 km
+  - - - '49'
+      - Gary Wirdnam
+    - togo:
+        distance: 2.059000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 125.482122 km
+  - - - '100'
+      - Felix Cantesanu
+    - togo:
+        distance: 3.848000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 123.693122 km
+  - - - '103'
+      - Franc Peternel
+    - togo:
+        distance: 7.481000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 120.060122 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - togo:
+        distance: 8.259000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 119.282122 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - togo:
+        distance: 7.981000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 119.560122 km
+  - - - '42'
+      - Eric Wyss
+    - togo:
+        distance: 12.415000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 115.126122 km
+  - - - '43'
+      - ERIC MATHURIN
+    - togo:
+        distance: 14.157000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 113.384122 km
+  - - - '95'
+      - Viv Clements
+    - togo:
+        distance: 15.611000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 111.930122 km
+  - - - '94'
+      - Matthew Barlow
+    - togo:
+        distance: 16.265000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 111.276122 km
+  - - - '115'
+      - Evgen Lysenko
+    - togo:
+        distance: 17.089000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 110.452122 km
+  - - - '35'
+      - Frantisek Kostal
+    - togo:
+        distance: 17.088000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 110.453122 km
+  - - - '83'
+      - Sander van Schaik
+    - togo:
+        distance: 20.632000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 106.909122 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - togo:
+        distance: 20.419000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 107.122122 km
+  - - - '67'
+      - Marco Laurenzi
+    - togo:
+        distance: 20.935000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 106.606122 km
+  - - - '104'
+      - janez grm
+    - togo:
+        distance: 22.467000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 105.074122 km
+  - - - '7'
+      - Nils Vesk
+    - togo:
+        distance: 22.900000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.641122 km
+  - - - '123'
+      - Igriza Flora
+    - togo:
+        distance: 22.919000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.622122 km
+  - - - '66'
+      - Tullio Gervasoni
+    - togo:
+        distance: 23.163000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.378122 km
+  - - - '87'
+      - Gijs Wanders
+    - togo:
+        distance: 23.192000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.349122 km
+  - - - '97'
+      - Tom Kellner
+    - togo:
+        distance: 22.952000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.589122 km
+  - - - '98'
+      - Piers Throssell
+    - togo:
+        distance: 23.187000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.354122 km
+  - - - '25'
+      - Evan Smith
+    - togo:
+        distance: 23.334000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.207122 km
+  - - - '113'
+      - Kamil Demirkan
+    - togo:
+        distance: 24.601000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 102.940122 km
+  - - - '116'
+      - Jeff Chipman
+    - togo:
+        distance: 23.951000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 103.590122 km
+  - - - '109'
+      - Damien Zahn
+    - togo:
+        distance: 24.053000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 103.488122 km
+  - - - '34'
+      - Petr Polach
+    - togo:
+        distance: 25.259000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 102.282122 km
+  - - - '2'
+      - Rohan Taylor
+    - togo:
+        distance: 24.271000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 103.270122 km
+  - - - '18'
+      - David Brito Filho
+    - togo:
+        distance: 24.143000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 103.398122 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - togo:
+        distance: 27.225000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 100.316122 km
+  - - - '108'
+      - Franz Herrmann
+    - togo:
+        distance: 27.635000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.906122 km
+  - - - '33'
+      - Lukas Vojacek
+    - togo:
+        distance: 26.231000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 101.310122 km
+  - - - '85'
+      - Joost Eertman
+    - togo:
+        distance: 27.341000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 100.200122 km
+  - - - '60'
+      - Georg Schweier
+    - togo:
+        distance: 27.504000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 100.037122 km
+  - - - '74'
+      - Akira Nagusa
+    - togo:
+        distance: 27.968000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.573122 km
+  - - - '31'
+      - Jiri Gut
+    - togo:
+        distance: 27.952000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.589122 km
+  - - - '30'
+      - Jiri Nadvornik
+    - togo:
+        distance: 28.381000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.160122 km
+  - - - '86'
+      - Tanno Rutten
+    - togo:
+        distance: 27.426000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 100.115122 km
+  - - - '93'
+      - Derek Mckee
+    - togo:
+        distance: 29.105000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 98.436122 km
+  - - - '81'
+      - Young don Lee
+    - togo:
+        distance: 30.039000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.502122 km
+  - - - '53'
+      - Malcolm Brown
+    - togo:
+        distance: 29.901000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.640122 km
+  - - - '45'
+      - Christian Pollet
+    - togo:
+        distance: 29.835000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 97.706122 km
+  - - - '77'
+      - Takashi Sunama
+    - togo:
+        distance: 30.615000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 96.926122 km
+  - - - '65'
+      - Noel Collins
+    - togo:
+        distance: 32.007000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 95.534122 km
+  - - - '111'
+      - Tommy Nilsson
+    - togo:
+        distance: 46.625000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 80.916122 km
+  - - - '90'
+      - Jens Krotseng
+    - togo:
+        distance: 41.094000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 86.447122 km
+  - - - '89'
+      - Johnny Nilssen
+    - togo:
+        distance: 55.265000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 72.276122 km
+  - - - '39'
+      - Tximo Iriarte
+    - togo:
+        distance: 55.375000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 72.166122 km
+  - - - '62'
+      - Attila Kis
+    - togo:
+        distance: 57.475000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 70.066122 km
+  - - - '15'
+      - Wolfgang Siess
+    - togo:
+        distance: 63.854000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.687122 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - togo:
+        distance: 64.211000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.330122 km
+  - - - '82'
+      - jaesun moon
+    - togo:
+        distance: 86.239000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 41.302122 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - togo:
+        distance: 85.072000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.469122 km
+  - - - '118'
+      - Will Ramsey
+    - togo:
+        distance: 87.750000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 39.791122 km
+  - - - '37'
+      - Alvaro Idigoras
+    - togo:
+        distance: 98.184000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 29.357122 km
+  - - - '96'
+      - Shane mckay
+    - togo:
+        distance: 98.228000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 29.313122 km
+  - - - '5'
+      - Peter Burkitt
+    - togo:
+        distance: 110.193000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.348122 km
+  - - - '23'
+      - Konrad Heilmann
+    - togo:
+        distance: 118.878000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 8.663122 km
+  - - - '88'
+      - Emiel Jansen
+    - togo:
+        distance: 122.209000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 5.332122 km
+  - - - '20'
+      - Eduardo Oliveira
+    - togo:
+        distance: 119.329000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 8.212122 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - togo:
+        distance: 121.732000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 5.809122 km
+- - - - '109'
+      - Damien Zahn
+    - togo:
+        distance: 1.030000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 198.845424 km
+  - - - '15'
+      - Wolfgang Siess
+    - togo:
+        distance: 7.177000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 192.698424 km
+  - - - '120'
+      - John Simon
+    - togo:
+        distance: 7.310000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 192.565424 km
+  - - - '62'
+      - Attila Kis
+    - togo:
+        distance: 7.701000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 192.174424 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - togo:
+        distance: 8.475000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 191.400424 km
+  - - - '46'
+      - Francois ISOARD
+    - togo:
+        distance: 9.132000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 190.743424 km
+  - - - '2'
+      - Rohan Taylor
+    - togo:
+        distance: 10.514000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 189.361424 km
+  - - - '33'
+      - Lukas Vojacek
+    - togo:
+        distance: 10.327000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 189.548424 km
+  - - - '59'
+      - Joerg Bajewski
+    - togo:
+        distance: 10.533000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 189.342424 km
+  - - - '102'
+      - Matjaz Klemencic
+    - togo:
+        distance: 10.685000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 189.190424 km
+  - - - '93'
+      - Derek Mckee
+    - togo:
+        distance: 11.039000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 188.836424 km
+  - - - '86'
+      - Tanno Rutten
+    - togo:
+        distance: 14.378000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 185.497424 km
+  - - - '3'
+      - Rory Duncan
+    - togo:
+        distance: 16.198000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 183.677424 km
+  - - - '79'
+      - Minoru Kato
+    - togo:
+        distance: 15.897000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 183.978424 km
+  - - - '23'
+      - Konrad Heilmann
+    - togo:
+        distance: 21.783000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 178.092424 km
+  - - - '43'
+      - ERIC MATHURIN
+    - togo:
+        distance: 22.807000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 177.068424 km
+  - - - '30'
+      - Jiri Nadvornik
+    - togo:
+        distance: 24.862000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 175.013424 km
+  - - - '77'
+      - Takashi Sunama
+    - togo:
+        distance: 24.738000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 175.137424 km
+  - - - '81'
+      - Young don Lee
+    - togo:
+        distance: 27.382000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 172.493424 km
+  - - - '104'
+      - janez grm
+    - togo:
+        distance: 33.361000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 166.514424 km
+  - - - '111'
+      - Tommy Nilsson
+    - togo:
+        distance: 26.970000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 172.905424 km
+  - - - '45'
+      - Christian Pollet
+    - togo:
+        distance: 35.067000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 164.808424 km
+  - - - '7'
+      - Nils Vesk
+    - togo:
+        distance: 36.946000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 162.929424 km
+  - - - '39'
+      - Tximo Iriarte
+    - togo:
+        distance: 48.013000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 151.862424 km
+  - - - '17'
+      - Fabio Thomaz
+    - togo:
+        distance: 50.825000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 149.050424 km
+  - - - '18'
+      - David Brito Filho
+    - togo:
+        distance: 50.362000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 149.513424 km
+  - - - '25'
+      - Evan Smith
+    - togo:
+        distance: 52.468000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 147.407424 km
+  - - - '42'
+      - Eric Wyss
+    - togo:
+        distance: 53.384000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 146.491424 km
+  - - - '96'
+      - Shane mckay
+    - togo:
+        distance: 58.590000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 141.285424 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - togo:
+        distance: 59.291000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 140.584424 km
+  - - - '123'
+      - Igriza Flora
+    - togo:
+        distance: 59.692000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 140.183424 km
+  - - - '48'
+      - Andrew Hollidge
+    - togo:
+        distance: 60.448000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 139.427424 km
+  - - - '65'
+      - Noel Collins
+    - togo:
+        distance: 63.968000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 135.907424 km
+  - - - '90'
+      - Jens Krotseng
+    - togo:
+        distance: 64.845000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 135.030424 km
+  - - - '60'
+      - Georg Schweier
+    - togo:
+        distance: 64.860000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 135.015424 km
+  - - - '97'
+      - Tom Kellner
+    - togo:
+        distance: 68.200000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 131.675424 km
+  - - - '37'
+      - Alvaro Idigoras
+    - togo:
+        distance: 68.803000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 131.072424 km
+  - - - '83'
+      - Sander van Schaik
+    - togo:
+        distance: 68.062000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 131.813424 km
+  - - - '117'
+      - Zac Majors
+    - togo:
+        distance: 70.704000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 129.171424 km
+  - - - '95'
+      - Viv Clements
+    - togo:
+        distance: 72.385000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 127.490424 km
+  - - - '113'
+      - Kamil Demirkan
+    - togo:
+        distance: 73.116000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 126.759424 km
+  - - - '50'
+      - Darren Brown
+    - togo:
+        distance: 73.943000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 125.932424 km
+  - - - '41'
+      - Chomin Gallego Escribano
+    - togo:
+        distance: 74.319000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 125.556424 km
+  - - - '98'
+      - Piers Throssell
+    - togo:
+        distance: 84.240000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 115.635424 km
+  - - - '94'
+      - Matthew Barlow
+    - togo:
+        distance: 83.527000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 116.348424 km
+  - - - '14'
+      - Alexander Sigl
+    - togo:
+        distance: 84.161000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 115.714424 km
+  - - - '118'
+      - Will Ramsey
+    - togo:
+        distance: 88.974000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 110.901424 km
+  - - - '71'
+      - Manuel REVELLI
+    - togo:
+        distance: 84.599000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 115.276424 km
+  - - - '116'
+      - Jeff Chipman
+    - togo:
+        distance: 95.673000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 104.202424 km
+  - - - '100'
+      - Felix Cantesanu
+    - togo:
+        distance: 97.975000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 101.900424 km
+  - - - '85'
+      - Joost Eertman
+    - togo:
+        distance: 98.342000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 101.533424 km
+  - - - '22'
+      - GLAUCO PINTO
+    - togo:
+        distance: 103.684000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 96.191424 km
+  - - - '82'
+      - jaesun moon
+    - togo:
+        distance: 103.847000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 96.028424 km
+  - - - '69'
+      - Suan SELENATI
+    - togo:
+        distance: 106.614000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 93.261424 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - togo:
+        distance: 104.348000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 95.527424 km
+  - - - '84'
+      - Arne Tanzer
+    - togo:
+        distance: 113.795000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 86.080424 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - togo:
+        distance: 108.228000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 91.647424 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - togo:
+        distance: 179.900000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 19.975424 km
+  - - - '5'
+      - Peter Burkitt
+    - togo:
+        distance: 195.662000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 4.213424 km
+- - - - '33'
+      - Lukas Vojacek
+    - togo:
+        distance: 1.756000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 93.134623 km
+  - - - '81'
+      - Young don Lee
+    - togo:
+        distance: 3.463000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 91.427623 km
+  - - - '94'
+      - Matthew Barlow
+    - togo:
+        distance: 4.107000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 90.783623 km
+  - - - '106'
+      - Ubaldo Romano
+    - togo:
+        distance: 5.811000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 89.079623 km
+  - - - '109'
+      - Damien Zahn
+    - togo:
+        distance: 5.783000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 89.107623 km
+  - - - '96'
+      - Shane mckay
+    - togo:
+        distance: 7.240000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 87.650623 km
+  - - - '120'
+      - John Simon
+    - togo:
+        distance: 7.662000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 87.228623 km
+  - - - '97'
+      - Tom Kellner
+    - togo:
+        distance: 8.482000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 86.408623 km
+  - - - '88'
+      - Emiel Jansen
+    - togo:
+        distance: 7.923000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 86.967623 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - togo:
+        distance: 10.758000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 84.132623 km
+  - - - '37'
+      - Alvaro Idigoras
+    - togo:
+        distance: 11.174000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 83.716623 km
+  - - - '111'
+      - Tommy Nilsson
+    - togo:
+        distance: 18.947000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 75.943623 km
+  - - - '46'
+      - Francois ISOARD
+    - togo:
+        distance: 19.107000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 75.783623 km
+  - - - '35'
+      - Frantisek Kostal
+    - togo:
+        distance: 17.807000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 77.083623 km
+  - - - '59'
+      - Joerg Bajewski
+    - togo:
+        distance: 26.952000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 67.938623 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - togo:
+        distance: 29.766000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.124623 km
+  - - - '2'
+      - Rohan Taylor
+    - togo:
+        distance: 31.983000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 62.907623 km
+  - - - '118'
+      - Will Ramsey
+    - togo:
+        distance: 32.286000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 62.604623 km
+  - - - '87'
+      - Gijs Wanders
+    - togo:
+        distance: 36.590000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 58.300623 km
+  - - - '25'
+      - Evan Smith
+    - togo:
+        distance: 41.912000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 52.978623 km
+  - - - '90'
+      - Jens Krotseng
+    - togo:
+        distance: 46.959000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.931623 km
+  - - - '123'
+      - Igriza Flora
+    - togo:
+        distance: 42.972000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.918623 km
+  - - - '95'
+      - Viv Clements
+    - togo:
+        distance: 69.884000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 25.006623 km
+  - - - '20'
+      - Eduardo Oliveira
+    - togo:
+        distance: 70.377000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 24.513623 km
+  - - - '116'
+      - Jeff Chipman
+    - togo:
+        distance: 66.783000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 28.107623 km
+  - - - '82'
+      - jaesun moon
+    - togo:
+        distance: 70.652000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 24.238623 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - togo:
+        distance: 70.609000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 24.281623 km
+  - - - '104'
+      - janez grm
+    - togo:
+        distance: 70.532000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 24.358623 km
+  - - - '83'
+      - Sander van Schaik
+    - togo:
+        distance: 71.125000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 23.765623 km
+  - - - '39'
+      - Tximo Iriarte
+    - togo:
+        distance: 77.066000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.824623 km
+  - - - '93'
+      - Derek Mckee
+    - togo:
+        distance: 85.645000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.245623 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - togo:
+        distance: 85.464000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.426623 km
+  - - - '40'
+      - Jesus Mari Hernando Duque
+    - togo:
+        distance: 83.944000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 10.946623 km
+  - - - '69'
+      - Suan SELENATI
+    - togo:
+        distance: 82.968000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.922623 km
