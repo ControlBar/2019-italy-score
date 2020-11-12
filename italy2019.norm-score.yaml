@@ -5,6 +5,7 @@ bestTime:
 - 1.762778 h
 - 2.762500 h
 - 2.215833 h
+- null
 - 2.697500 h
 - 4.288889 h
 - 1.987778 h
@@ -40,6 +41,7 @@ validity:
   launch: 1
   stop: 1
   task: 1
+- null
 - distance: 1
   time: 1
   launch: 1
@@ -115,6 +117,7 @@ validityWorkingDistance:
     extra: 95.206000 km
     flown: 95.206000 km
   sum: 8474.2 km
+- null
 - area: 49.6032
   flying: 113
   minimumDistance: 7.000 km
@@ -170,6 +173,7 @@ validityWorkingLaunch:
 - flying: 114
   nominalLaunch: 0.96
   present: 114
+- null
 - flying: 113
   nominalLaunch: 0.96
   present: 114
@@ -232,12 +236,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 75.255000 km
-      mean: 68.434773 km
-      stdDev: 15.800562 km
+      mean: 67.864483 km
+      stdDev: 16.919802 km
     flown:
       max: 75.255000 km
-      mean: 68.178672 km
-      stdDev: 16.312000 km
+      mean: 67.610517 km
+      stdDev: 17.386123 km
   stillFlying: 119
 - flying: 116
   landed: 0
@@ -267,6 +271,7 @@ validityWorkingStop:
       mean: 81.332693 km
       stdDev: 24.206795 km
   stillFlying: 114
+- null
 - flying: 113
   landed: 0
   launchToEssDistance: 127.088 km
@@ -274,12 +279,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 127.689000 km
-      mean: 107.360982 km
-      stdDev: 29.438559 km
+      mean: 106.419219 km
+      stdDev: 30.971736 km
     flown:
       max: 127.689000 km
-      mean: 106.291646 km
-      stdDev: 30.937303 km
+      mean: 105.359263 km
+      stdDev: 32.356702 km
   stillFlying: 113
 - flying: 113
   landed: 0
@@ -302,12 +307,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 95.079000 km
-      mean: 83.283927 km
-      stdDev: 23.839210 km
+      mean: 82.533622 km
+      stdDev: 25.002269 km
     flown:
       max: 95.079000 km
-      mean: 82.820200 km
-      stdDev: 24.629707 km
+      mean: 82.074072 km
+      stdDev: 25.737039 km
   stillFlying: 110
 - flying: 101
   landed: 0
@@ -366,6 +371,7 @@ validityWorkingTime:
     extra: 95.206000 km
     flown: 95.206000 km
   ssBestTime: null
+- null
 - gsBestTime: 2.698000 h
   nominalDistance: 70.0 km
   nominalTime: 1.500000 h
@@ -10385,6 +10391,33 @@ score:
       timeElapsed: null
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
+  - - - '19'
+      - Max Turiaco
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '120'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
 - - - - '72'
       - Alessandro Ploner
     - breakdown:
@@ -16595,6 +16628,7 @@ score:
       timeElapsed: null
       leadingArea: 64307471.0000 km^2 s
       leadingCoef: 5.216508
+- []
 - - - - '72'
       - Alessandro Ploner
     - breakdown:
@@ -19646,6 +19680,33 @@ score:
       timeElapsed: null
       leadingArea: 235713891.0000 km^2 s
       leadingCoef: 8.60688897
+  - - - '55'
+      - Kajo Clauss
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '114'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
 - - - - '20'
       - Eduardo Oliveira
     - breakdown:
@@ -25667,6 +25728,33 @@ score:
       timeElapsed: null
       leadingArea: 66714380.0000 km^2 s
       leadingCoef: 4.92421428
+  - - - '65'
+      - Noel Collins
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '101'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
 - - - - '57'
       - Primoz Gricar
     - breakdown:
