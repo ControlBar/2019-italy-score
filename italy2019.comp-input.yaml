@@ -5231,6 +5231,27 @@ pilotGroups:
   didFlyNoTracklog: []
   dnf: []
 - absent:
+  - - '17'
+    - Fabio Thomaz
+  - - '8'
+    - Guy Hubbard
+  - - '112'
+    - Hakan Andersson Bernardo
+  - - '90'
+    - Jens Krotseng
+  - - '12'
+    - Joseph Salvenmoser
+  - - '55'
+    - Kajo Clauss
+  - - '19'
+    - Max Turiaco
+  - - '32'
+    - Petr Tucek
+  - - '80'
+    - Yoko Sano
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
   - - '8'
     - Guy Hubbard
   - - '112'

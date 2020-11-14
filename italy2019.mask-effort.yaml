@@ -9,6 +9,7 @@ bestEffort:
 - 127.541122 km
 - 199.875424 km
 - 94.890623 km
+- 100.173808 km
 land:
 - []
 - - - - '116'
@@ -1600,3 +1601,231 @@ land:
       - Suan SELENATI
     - togo: 89.621245 km
       made: 5.269378 km
+- - - - '25'
+      - Evan Smith
+    - togo: 0.968447 km
+      made: 99.205361 km
+  - - - '94'
+      - Matthew Barlow
+    - togo: 1.087600 km
+      made: 99.086208 km
+  - - - '102'
+      - Matjaz Klemencic
+    - togo: 1.898436 km
+      made: 98.275372 km
+  - - - '48'
+      - Andrew Hollidge
+    - togo: 6.343310 km
+      made: 93.830498 km
+  - - - '38'
+      - Daniel Martin Mota
+    - togo: 6.916897 km
+      made: 93.256911 km
+  - - - '46'
+      - Francois ISOARD
+    - togo: 7.020723 km
+      made: 93.153085 km
+  - - - '106'
+      - Ubaldo Romano
+    - togo: 7.674757 km
+      made: 92.499051 km
+  - - - '117'
+      - Zac Majors
+    - togo: 8.341008 km
+      made: 91.832800 km
+  - - - '14'
+      - Alexander Sigl
+    - togo: 8.348024 km
+      made: 91.825784 km
+  - - - '61'
+      - Carlos Rolando Alvarado
+    - togo: 14.402506 km
+      made: 85.771302 km
+  - - - '123'
+      - Igriza Flora
+    - togo: 14.965010 km
+      made: 85.208798 km
+  - - - '99'
+      - Mikolaj Przezdziak
+    - togo: 14.972053 km
+      made: 85.201755 km
+  - - - '42'
+      - Eric Wyss
+    - togo: 15.241643 km
+      made: 84.932165 km
+  - - - '59'
+      - Joerg Bajewski
+    - togo: 23.114570 km
+      made: 77.059238 km
+  - - - '85'
+      - Joost Eertman
+    - togo: 26.162051 km
+      made: 74.011757 km
+  - - - '17'
+      - Fabio Thomaz
+    - togo: 34.719092 km
+      made: 65.454716 km
+  - - - '87'
+      - Gijs Wanders
+    - togo: 38.195927 km
+      made: 61.977881 km
+  - - - '114'
+      - CANBERG OZVEREN
+    - togo: 38.253817 km
+      made: 61.919991 km
+  - - - '100'
+      - Felix Cantesanu
+    - togo: 39.475680 km
+      made: 60.698128 km
+  - - - '116'
+      - Jeff Chipman
+    - togo: 53.791704 km
+      made: 46.382104 km
+  - - - '79'
+      - Minoru Kato
+    - togo: 59.543631 km
+      made: 40.630177 km
+  - - - '83'
+      - Sander van Schaik
+    - togo: 61.189488 km
+      made: 38.984320 km
+  - - - '120'
+      - John Simon
+    - togo: 62.720605 km
+      made: 37.453203 km
+  - - - '31'
+      - Jiri Gut
+    - togo: 69.313068 km
+      made: 30.860740 km
+  - - - '35'
+      - Frantisek Kostal
+    - togo: 69.314074 km
+      made: 30.859734 km
+  - - - '28'
+      - Daniel Velez
+    - togo: 70.340536 km
+      made: 29.833272 km
+  - - - '93'
+      - Derek Mckee
+    - togo: 71.804940 km
+      made: 28.368868 km
+  - - - '74'
+      - Akira Nagusa
+    - togo: 71.806994 km
+      made: 28.366814 km
+  - - - '60'
+      - Georg Schweier
+    - togo: 74.354970 km
+      made: 25.818838 km
+  - - - '92'
+      - John Smith
+    - togo: 74.445742 km
+      made: 25.728066 km
+  - - - '86'
+      - Tanno Rutten
+    - togo: 74.657283 km
+      made: 25.516525 km
+  - - - '89'
+      - Johnny Nilssen
+    - togo: 74.756418 km
+      made: 25.417390 km
+  - - - '7'
+      - Nils Vesk
+    - togo: 78.752057 km
+      made: 21.421751 km
+  - - - '103'
+      - Franc Peternel
+    - togo: 79.593738 km
+      made: 20.580070 km
+  - - - '34'
+      - Petr Polach
+    - togo: 79.965191 km
+      made: 20.208617 km
+  - - - '81'
+      - Young don Lee
+    - togo: 80.849767 km
+      made: 19.324041 km
+  - - - '33'
+      - Lukas Vojacek
+    - togo: 82.936694 km
+      made: 17.237114 km
+  - - - '29'
+      - Dan Vyhnalik
+    - togo: 82.944857 km
+      made: 17.228951 km
+  - - - '4'
+      - Trent Brown
+    - togo: 83.235717 km
+      made: 16.938091 km
+  - - - '6'
+      - Craig Taylor
+    - togo: 84.628002 km
+      made: 15.545806 km
+  - - - '82'
+      - jaesun moon
+    - togo: 85.073017 km
+      made: 15.100791 km
+  - - - '109'
+      - Damien Zahn
+    - togo: 85.308280 km
+      made: 14.865528 km
+  - - - '5'
+      - Peter Burkitt
+    - togo: 85.799240 km
+      made: 14.374568 km
+  - - - '88'
+      - Emiel Jansen
+    - togo: 85.801340 km
+      made: 14.372468 km
+  - - - '104'
+      - janez grm
+    - togo: 85.802146 km
+      made: 14.371662 km
+  - - - '43'
+      - ERIC MATHURIN
+    - togo: 85.831834 km
+      made: 14.341974 km
+  - - - '113'
+      - Kamil Demirkan
+    - togo: 85.903441 km
+      made: 14.270367 km
+  - - - '118'
+      - Will Ramsey
+    - togo: 86.839215 km
+      made: 13.334593 km
+  - - - '108'
+      - Franz Herrmann
+    - togo: 86.960410 km
+      made: 13.213398 km
+  - - - '84'
+      - Arne Tanzer
+    - togo: 87.275481 km
+      made: 12.898327 km
+  - - - '97'
+      - Tom Kellner
+    - togo: 88.153366 km
+      made: 12.020442 km
+  - - - '23'
+      - Konrad Heilmann
+    - togo: 89.476470 km
+      made: 10.697338 km
+  - - - '37'
+      - Alvaro Idigoras
+    - togo: 90.184638 km
+      made: 9.989170 km
+  - - - '101'
+      - Konstantin Lukyanov
+    - togo: 90.275339 km
+      made: 9.898469 km
+  - - - '69'
+      - Suan SELENATI
+    - togo: 90.461311 km
+      made: 9.712497 km
+  - - - '20'
+      - Eduardo Oliveira
+    - togo: 91.431343 km
+      made: 8.742465 km
+  - - - '27'
+      - Hernan Cortes Pinones
+    - togo: 96.440981 km
+      made: 3.732827 km

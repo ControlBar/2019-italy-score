@@ -9,6 +9,7 @@ pilotsAtEss:
 - 52
 - 54
 - 76
+- 44
 arrivalRank:
 - []
 - - - - '73'
@@ -2637,3 +2638,223 @@ arrivalRank:
     - lag: 1.523343 h
       rank: '76'
       frac: 0.20051079
+- - - - '107'
+      - Peter Neuenschwander
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '57'
+      - Primoz Gricar
+    - lag: 0.082166 h
+      rank: '2'
+      frac: 0.95113152
+  - - - '56'
+      - Gerd Doenhuber
+    - lag: 0.252596 h
+      rank: '3'
+      frac: 0.90431452
+  - - - '49'
+      - Gary Wirdnam
+    - lag: 0.336772 h
+      rank: '4'
+      frac: 0.85950443
+  - - - '70'
+      - Filippo Oppici
+    - lag: 0.429548 h
+      rank: '5'
+      frac: 0.81665665
+  - - - '22'
+      - GLAUCO PINTO
+    - lag: 0.439876 h
+      rank: '6'
+      frac: 0.7757266
+  - - - '10'
+      - Manfred Ruhmer
+    - lag: 0.441128 h
+      rank: '7'
+      frac: 0.7366697
+  - - - '72'
+      - Alessandro Ploner
+    - lag: 0.444806 h
+      rank: '8'
+      frac: 0.69944136
+  - - - '73'
+      - Christian Ciech
+    - lag: 0.446560 h
+      rank: '9'
+      frac: 0.66399699
+  - - - '24'
+      - Alvaro Figueiredo Sandoli
+    - lag: 0.449029 h
+      rank: '10'
+      frac: 0.63029201
+  - - - '18'
+      - David Brito Filho
+    - lag: 0.451853 h
+      rank: '11'
+      frac: 0.59828184
+  - - - '119'
+      - Pedro L. Garcia
+    - lag: 0.527398 h
+      rank: '12'
+      frac: 0.56792188
+  - - - '44'
+      - mario ALONZI
+    - lag: 0.541962 h
+      rank: '13'
+      frac: 0.53916754
+  - - - '91'
+      - Olav Opsanger
+    - lag: 0.546433 h
+      rank: '14'
+      frac: 0.51197426
+  - - - '66'
+      - Tullio Gervasoni
+    - lag: 0.558775 h
+      rank: '15'
+      frac: 0.48629743
+  - - - '1'
+      - Steve Blenkinsop
+    - lag: 0.579093 h
+      rank: '16'
+      frac: 0.46209247
+  - - - '58'
+      - Roland Woehrle
+    - lag: 0.606728 h
+      rank: '17'
+      frac: 0.4393148
+  - - - '21'
+      - Marcelo Andrei Gomes da Rocha
+    - lag: 0.676791 h
+      rank: '18'
+      frac: 0.41791983
+  - - - '16'
+      - Tschurnig Gunther
+    - lag: 0.685684 h
+      rank: '19'
+      frac: 0.39786298
+  - - - '78'
+      - Yuji Suzuki
+    - lag: 0.691974 h
+      rank: '20'
+      frac: 0.37909965
+  - - - '45'
+      - Christian Pollet
+    - lag: 0.844933 h
+      rank: '21'
+      frac: 0.36158527
+  - - - '122'
+      - Vanni Accattoli
+    - lag: 0.845563 h
+      rank: '22'
+      frac: 0.34527525
+  - - - '96'
+      - Shane mckay
+    - lag: 0.881912 h
+      rank: '23'
+      frac: 0.330125
+  - - - '115'
+      - Evgen Lysenko
+    - lag: 0.886262 h
+      rank: '24'
+      frac: 0.31608993
+  - - - '54'
+      - Gordon Rigg
+    - lag: 0.909875 h
+      rank: '25'
+      frac: 0.30312547
+  - - - '2'
+      - Rohan Taylor
+    - lag: 0.956847 h
+      rank: '26'
+      frac: 0.29118702
+  - - - '75'
+      - Genki Tanaka
+    - lag: 0.994320 h
+      rank: '27'
+      frac: 0.28023
+  - - - '67'
+      - Marco Laurenzi
+    - lag: 1.027905 h
+      rank: '28'
+      frac: 0.27020982
+  - - - '13'
+      - Walter Mayer
+    - lag: 1.040313 h
+      rank: '29'
+      frac: 0.26108189
+  - - - '77'
+      - Takashi Sunama
+    - lag: 1.044270 h
+      rank: '30'
+      frac: 0.25280164
+  - - - '51'
+      - Dave Matthews
+    - lag: 1.053310 h
+      rank: '31'
+      frac: 0.24532447
+  - - - '53'
+      - Malcolm Brown
+    - lag: 1.060973 h
+      rank: '32'
+      frac: 0.23860581
+  - - - '98'
+      - Piers Throssell
+    - lag: 1.073563 h
+      rank: '33'
+      frac: 0.23260105
+  - - - '52'
+      - Grant Crossingham
+    - lag: 1.170494 h
+      rank: '34'
+      frac: 0.22726562
+  - - - '15'
+      - Wolfgang Siess
+    - lag: 1.320100 h
+      rank: '35'
+      frac: 0.22255494
+  - - - '68'
+      - Davide Guiducci
+    - lag: 1.399376 h
+      rank: '36'
+      frac: 0.21842441
+  - - - '30'
+      - Jiri Nadvornik
+    - lag: 1.418734 h
+      rank: '37'
+      frac: 0.21482945
+  - - - '9'
+      - Steve Docherty
+    - lag: 1.435982 h
+      rank: '38'
+      frac: 0.21172548
+  - - - '76'
+      - Shogo Ota
+    - lag: 1.469920 h
+      rank: '39'
+      frac: 0.2090679
+  - - - '50'
+      - Darren Brown
+    - lag: 1.490050 h
+      rank: '40'
+      frac: 0.20681214
+  - - - '3'
+      - Rory Duncan
+    - lag: 1.611372 h
+      rank: '41'
+      frac: 0.2049136
+  - - - '11'
+      - Christian Tiefenbacher
+    - lag: 1.624025 h
+      rank: '42'
+      frac: 0.2033277
+  - - - '26'
+      - Tyler Borradaile
+    - lag: 1.684600 h
+      rank: '43'
+      frac: 0.20200986
+  - - - '71'
+      - Manuel REVELLI
+    - lag: 1.699776 h
+      rank: '44'
+      frac: 0.20091549
