@@ -4269,6 +4269,47 @@ score:
       subtotal: 57.698
       landedMade: 16.349 km
       stoppedAlt: 266.000 m
+  - - - '109'
+      - Damien Zahn
+    - place: 100=
+      total: 16
+      jump: 240.098 s
+      penalties:
+        adds:
+        - penalty-points: -11.382523265331919
+        muls: []
+        resets: []
+      breakdown:
+        effort: 11.846
+        arrival: 0
+        time: 0
+        reach: 15.537
+        distance: 27.383
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 11.383
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      demeritReset: 0
+      penaltiesJump:
+        adds:
+        - penalty-points: -11.382523265331919
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 27.383
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
   - - - '93'
       - Derek Mckee
     - place: 100=
@@ -4476,7 +4517,7 @@ score:
       stoppedAlt: 360.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4516,7 +4557,7 @@ score:
       stoppedAlt: 188.000 m
   - - - '114'
       - CANBERG OZVEREN
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4554,50 +4595,9 @@ score:
       subtotal: 435.841
       landedMade: 86.067 km
       stoppedAlt: null
-  - - - '109'
-      - Damien Zahn
-    - place: 105=
-      total: 0
-      jump: 240.098 s
-      penalties:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      breakdown:
-        effort: 11.846
-        arrival: 0
-        time: 0
-        reach: 15.537
-        distance: 27.383
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 27.383
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      demeritReset: 0
-      penaltiesJump:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 27.383
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4637,7 +4637,7 @@ score:
       stoppedAlt: 196.000 m
   - - - '35'
       - Frantisek Kostal
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4677,7 +4677,7 @@ score:
       stoppedAlt: 197.000 m
   - - - '87'
       - Gijs Wanders
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4717,7 +4717,7 @@ score:
       stoppedAlt: 197.000 m
   - - - '116'
       - Jeff Chipman
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4757,7 +4757,7 @@ score:
       stoppedAlt: 206.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4797,7 +4797,7 @@ score:
       stoppedAlt: 199.000 m
   - - - '34'
       - Petr Polach
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4837,7 +4837,7 @@ score:
       stoppedAlt: 195.000 m
   - - - '76'
       - Shogo Ota
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4877,7 +4877,7 @@ score:
       stoppedAlt: 212.000 m
   - - - '97'
       - Tom Kellner
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4917,7 +4917,7 @@ score:
       stoppedAlt: 289.000 m
   - - - '80'
       - Yoko Sano
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4957,7 +4957,7 @@ score:
       stoppedAlt: 235.000 m
   - - - '117'
       - Zac Majors
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -4997,7 +4997,7 @@ score:
       stoppedAlt: 211.000 m
   - - - '104'
       - janez grm
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44275,6 +44275,47 @@ scoreDf:
       subtotal: 57.698
       landedMade: 16.349 km
       stoppedAlt: 266.000 m
+  - - - '109'
+      - Damien Zahn
+    - place: 100=
+      total: 16
+      jump: 240.098 s
+      penalties:
+        adds:
+        - penalty-points: -11.382523265331919
+        muls: []
+        resets: []
+      breakdown:
+        effort: 11.846
+        arrival: 0
+        time: 0
+        reach: 15.537
+        distance: 27.383
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 11.383
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      demeritReset: 0
+      penaltiesJump:
+        adds:
+        - penalty-points: -11.382523265331919
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 27.383
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
   - - - '93'
       - Derek Mckee
     - place: 100=
@@ -44482,7 +44523,7 @@ scoreDf:
       stoppedAlt: 360.000 m
   - - - '37'
       - Alvaro Idigoras
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44522,7 +44563,7 @@ scoreDf:
       stoppedAlt: 188.000 m
   - - - '114'
       - CANBERG OZVEREN
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44560,50 +44601,9 @@ scoreDf:
       subtotal: 435.841
       landedMade: 86.067 km
       stoppedAlt: null
-  - - - '109'
-      - Damien Zahn
-    - place: 105=
-      total: 0
-      jump: 240.098 s
-      penalties:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      breakdown:
-        effort: 11.846
-        arrival: 0
-        time: 0
-        reach: 15.537
-        distance: 27.383
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 27.383
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      demeritReset: 0
-      penaltiesJump:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 27.383
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44643,7 +44643,7 @@ scoreDf:
       stoppedAlt: 196.000 m
   - - - '35'
       - Frantisek Kostal
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44683,7 +44683,7 @@ scoreDf:
       stoppedAlt: 197.000 m
   - - - '87'
       - Gijs Wanders
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44723,7 +44723,7 @@ scoreDf:
       stoppedAlt: 197.000 m
   - - - '116'
       - Jeff Chipman
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44763,7 +44763,7 @@ scoreDf:
       stoppedAlt: 206.000 m
   - - - '33'
       - Lukas Vojacek
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44803,7 +44803,7 @@ scoreDf:
       stoppedAlt: 199.000 m
   - - - '34'
       - Petr Polach
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44843,7 +44843,7 @@ scoreDf:
       stoppedAlt: 195.000 m
   - - - '76'
       - Shogo Ota
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44883,7 +44883,7 @@ scoreDf:
       stoppedAlt: 212.000 m
   - - - '97'
       - Tom Kellner
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44923,7 +44923,7 @@ scoreDf:
       stoppedAlt: 289.000 m
   - - - '80'
       - Yoko Sano
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -44963,7 +44963,7 @@ scoreDf:
       stoppedAlt: 235.000 m
   - - - '117'
       - Zac Majors
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
@@ -45003,7 +45003,7 @@ scoreDf:
       stoppedAlt: 211.000 m
   - - - '104'
       - janez grm
-    - place: 105=
+    - place: 106=
       total: 0
       jump: null
       penalties:
