@@ -4554,6 +4554,47 @@ score:
       subtotal: 435.841
       landedMade: 86.067 km
       stoppedAlt: null
+  - - - '109'
+      - Damien Zahn
+    - place: 105=
+      total: 0
+      jump: 240.098 s
+      penalties:
+        adds:
+        - penalty-points: -120.049011544423
+        muls: []
+        resets: []
+      breakdown:
+        effort: 11.846
+        arrival: 0
+        time: 0
+        reach: 15.537
+        distance: 27.383
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 27.383
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      demeritReset: 0
+      penaltiesJump:
+        adds:
+        - penalty-points: -120.049011544423
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 27.383
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
     - place: 105=
@@ -4994,47 +5035,6 @@ score:
       subtotal: 403.604
       landedMade: 81.881 km
       stoppedAlt: 192.000 m
-  - - - '109'
-      - Damien Zahn
-    - place: '118'
-      total: -92.666
-      jump: 240.098 s
-      penalties:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      breakdown:
-        effort: 11.846
-        arrival: 0
-        time: 0
-        reach: 15.537
-        distance: 27.383
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 120.049
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      demeritReset: 0
-      penaltiesJump:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 27.383
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
 - - - - '107'
       - Peter Neuenschwander
     - place: 1=
@@ -44560,6 +44560,47 @@ scoreDf:
       subtotal: 435.841
       landedMade: 86.067 km
       stoppedAlt: null
+  - - - '109'
+      - Damien Zahn
+    - place: 105=
+      total: 0
+      jump: 240.098 s
+      penalties:
+        adds:
+        - penalty-points: -120.049011544423
+        muls: []
+        resets: []
+      breakdown:
+        effort: 11.846
+        arrival: 0
+        time: 0
+        reach: 15.537
+        distance: 27.383
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 27.383
+      velocity:
+        ss: 2019-07-15T12:25:59.901976911154Z
+        gs: 2019-07-15T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 5.845 km
+        flown: 5.845 km
+      demeritReset: 0
+      penaltiesJump:
+        adds:
+        - penalty-points: -120.049011544423
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 27.383
+      landedMade: 5.514 km
+      stoppedAlt: 263.000 m
   - - - '38'
       - Daniel Martin Mota
     - place: 105=
@@ -45000,47 +45041,6 @@ scoreDf:
       subtotal: 403.604
       landedMade: 81.881 km
       stoppedAlt: 192.000 m
-  - - - '109'
-      - Damien Zahn
-    - place: '118'
-      total: -92.666
-      jump: 240.098 s
-      penalties:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      breakdown:
-        effort: 11.846
-        arrival: 0
-        time: 0
-        reach: 15.537
-        distance: 27.383
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 120.049
-      velocity:
-        ss: 2019-07-15T12:25:59.901976911154Z
-        gs: 2019-07-15T12:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 5.845 km
-        flown: 5.845 km
-      demeritReset: 0
-      penaltiesJump:
-        adds:
-        - penalty-points: -120.049011544423
-        muls: []
-        resets: []
-      penaltyReason: ''
-      subtotal: 27.383
-      landedMade: 5.514 km
-      stoppedAlt: 263.000 m
 - - - - '107'
       - Peter Neuenschwander
     - place: 1=
