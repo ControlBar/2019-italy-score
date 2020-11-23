@@ -10,7 +10,7 @@ comp:
     timeZoneMinutes: 120
   scoreBack: 900.000 s
   give:
-    giveFraction: 1.0e-4
+    giveFraction: 1.0e-3
     giveDistance: 5.0 m
   earth:
     sphere:
@@ -42,8 +42,8 @@ tasks:
       lat: 46.30722
       lng: 13.11333
       radius: 20000.0 m
-      giveIn: 19995.0 m
-      giveOut: 20005.0 m
+      giveIn: 19980.0 m
+      giveOut: 20020.0 m
       alt: 220.000 m
     - zoneName: A02
       lat: 46.30722
@@ -122,15 +122,15 @@ tasks:
       lat: 46.40417
       lng: 12.88361
       radius: 23000.0 m
-      giveIn: 22995.0 m
-      giveOut: 23005.0 m
+      giveIn: 22977.0 m
+      giveOut: 23023.0 m
       alt: 370.000 m
     - zoneName: M03
       lat: 46.01028
       lng: 12.41861
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 960.000 m
     - zoneName: B58
       lat: 46.16917
@@ -370,8 +370,8 @@ tasks:
       lat: 46.40417
       lng: 12.88361
       radius: 24000.0 m
-      giveIn: 23995.0 m
-      giveOut: 24005.0 m
+      giveIn: 23976.0 m
+      giveOut: 24024.0 m
       alt: 370.000 m
     - zoneName: B06
       lat: 46.15722
@@ -384,22 +384,22 @@ tasks:
       lat: 46.33
       lng: 13.10167
       radius: 6000.0 m
-      giveIn: 5995.0 m
-      giveOut: 6005.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
       alt: 1150.000 m
     - zoneName: L15
       lat: 46.19722
       lng: 13.69666
       radius: 35000.0 m
-      giveIn: 34995.0 m
-      giveOut: 35005.0 m
+      giveIn: 34965.0 m
+      giveOut: 35035.0 m
       alt: 165.000 m
     - zoneName: B41
       lat: 46.45194
       lng: 12.81028
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 1390.000 m
     - zoneName: B54
       lat: 46.34694
@@ -555,8 +555,8 @@ tasks:
       lat: 46.23556
       lng: 12.70583
       radius: 13500.0 m
-      giveIn: 13495.0 m
-      giveOut: 13505.0 m
+      giveIn: 13486.5 m
+      giveOut: 13513.5 m
       alt: 1300.000 m
     - zoneName: B51
       lat: 46.09192
@@ -671,15 +671,15 @@ tasks:
       lat: 46.00278
       lng: 12.79908
       radius: 40500.0 m
-      giveIn: 40495.0 m
-      giveOut: 40505.0 m
+      giveIn: 40459.5 m
+      giveOut: 40540.5 m
       alt: 56.000 m
     - zoneName: V02
       lat: 46.00278
       lng: 12.79908
       radius: 37000.0 m
-      giveIn: 36995.0 m
-      giveOut: 37005.0 m
+      giveIn: 36963.0 m
+      giveOut: 37037.0 m
       alt: 56.000 m
     - zoneName: L06
       lat: 46.28222
@@ -692,22 +692,22 @@ tasks:
       lat: 46.23
       lng: 13.80444
       radius: 9000.0 m
-      giveIn: 8995.0 m
-      giveOut: 9005.0 m
+      giveIn: 8991.0 m
+      giveOut: 9009.0 m
       alt: 1820.000 m
     - zoneName: B05
       lat: 46.35583
       lng: 12.78278
       radius: 24500.0 m
-      giveIn: 24495.0 m
-      giveOut: 24505.0 m
+      giveIn: 24475.5 m
+      giveOut: 24524.5 m
       alt: 1087.000 m
     - zoneName: B51
       lat: 46.09192
       lng: 13.43165
       radius: 10000.0 m
-      giveIn: 9995.0 m
-      giveOut: 10005.0 m
+      giveIn: 9990.0 m
+      giveOut: 10010.0 m
       alt: 120.000 m
     - zoneName: Z11
       lat: 46.28065
@@ -877,29 +877,29 @@ tasks:
       lat: 46.09722
       lng: 12.68333
       radius: 20000.0 m
-      giveIn: 19995.0 m
-      giveOut: 20005.0 m
+      giveIn: 19980.0 m
+      giveOut: 20020.0 m
       alt: 220.000 m
     - zoneName: B51
       lat: 46.09192
       lng: 13.43165
       radius: 10000.0 m
-      giveIn: 9995.0 m
-      giveOut: 10005.0 m
+      giveIn: 9990.0 m
+      giveOut: 10010.0 m
       alt: 120.000 m
     - zoneName: B72
       lat: 46.24306
       lng: 12.92167
       radius: 10000.0 m
-      giveIn: 9995.0 m
-      giveOut: 10005.0 m
+      giveIn: 9990.0 m
+      giveOut: 10010.0 m
       alt: 1170.000 m
     - zoneName: B52
       lat: 46.18306
       lng: 13.35083
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 750.000 m
     - zoneName: Z11
       lat: 46.28065
@@ -1027,8 +1027,8 @@ tasks:
       lat: 46.19889
       lng: 13.11694
       radius: 6000.0 m
-      giveIn: 5995.0 m
-      giveOut: 6005.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
       alt: 180.000 m
     - zoneName: B46
       lat: 46.19889
@@ -1041,15 +1041,15 @@ tasks:
       lat: 46.09192
       lng: 13.43165
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 120.000 m
     - zoneName: B26
       lat: 46.10639
       lng: 12.90361
       radius: 7000.0 m
-      giveIn: 6995.0 m
-      giveOut: 7005.0 m
+      giveIn: 6993.0 m
+      giveOut: 7007.0 m
       alt: 130.000 m
     - zoneName: A02
       lat: 46.30722
@@ -1156,8 +1156,8 @@ tasks:
       lat: 46.57028
       lng: 13.05028
       radius: 31000.0 m
-      giveIn: 30995.0 m
-      giveOut: 31005.0 m
+      giveIn: 30969.0 m
+      giveOut: 31031.0 m
       alt: 2011.000 m
     - zoneName: B57
       lat: 46.57028
@@ -1177,8 +1177,8 @@ tasks:
       lat: 46.09192
       lng: 13.43165
       radius: 10000.0 m
-      giveIn: 9995.0 m
-      giveOut: 10005.0 m
+      giveIn: 9990.0 m
+      giveOut: 10010.0 m
       alt: 120.000 m
     - zoneName: Z11
       lat: 46.28065
@@ -1298,8 +1298,8 @@ tasks:
       lat: 46.57028
       lng: 13.05028
       radius: 9000.0 m
-      giveIn: 8995.0 m
-      giveOut: 9005.0 m
+      giveIn: 8991.0 m
+      giveOut: 9009.0 m
       alt: 2011.000 m
     - zoneName: B57
       lat: 46.57028
@@ -1319,15 +1319,15 @@ tasks:
       lat: 46.79028
       lng: 13.39611
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 1624.000 m
     - zoneName: B91
       lat: 46.87031
       lng: 11.75571
       radius: 53000.0 m
-      giveIn: 52994.7 m
-      giveOut: 53005.3 m
+      giveIn: 52947.0 m
+      giveOut: 53053.0 m
       alt: 2699.000 m
     - zoneName: A15
       lat: 46.5806
@@ -1497,8 +1497,8 @@ tasks:
       lat: 46.45194
       lng: 12.81028
       radius: 27000.0 m
-      giveIn: 26995.0 m
-      giveOut: 27005.0 m
+      giveIn: 26973.0 m
+      giveOut: 27027.0 m
       alt: 1390.000 m
     - zoneName: B06
       lat: 46.15722
@@ -1511,8 +1511,8 @@ tasks:
       lat: 46.01028
       lng: 12.41861
       radius: 6000.0 m
-      giveIn: 5995.0 m
-      giveOut: 6005.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
       alt: 960.000 m
     - zoneName: B58
       lat: 46.16917
@@ -1731,29 +1731,29 @@ tasks:
       lat: 46.10639
       lng: 12.90361
       radius: 25000.0 m
-      giveIn: 24995.0 m
-      giveOut: 25005.0 m
+      giveIn: 24975.0 m
+      giveOut: 25025.0 m
       alt: 130.000 m
     - zoneName: B26
       lat: 46.10639
       lng: 12.90361
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 130.000 m
     - zoneName: B16
       lat: 46.12111
       lng: 13.7125
       radius: 25000.0 m
-      giveIn: 24995.0 m
-      giveOut: 25005.0 m
+      giveIn: 24975.0 m
+      giveOut: 25025.0 m
       alt: 369.000 m
     - zoneName: B48
       lat: 46.27417
       lng: 12.99667
       radius: 10000.0 m
-      giveIn: 9995.0 m
-      giveOut: 10005.0 m
+      giveIn: 9990.0 m
+      giveOut: 10010.0 m
       alt: 1450.000 m
     - zoneName: A20
       lat: 46.06858
