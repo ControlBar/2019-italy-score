@@ -95,6 +95,7 @@ tasks:
   startGates:
   - 2019-07-14T10:00:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -223,6 +224,7 @@ tasks:
   - 2019-07-15T12:30:00Z
   - 2019-07-15T13:00:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -512,6 +514,7 @@ tasks:
   - 2019-07-16T12:15:00Z
   - 2019-07-16T12:40:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -641,6 +644,7 @@ tasks:
   - 2019-07-17T12:40:00Z
   - 2019-07-17T13:05:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -811,6 +815,7 @@ tasks:
   - 2019-07-19T12:25:00Z
   - 2019-07-19T12:50:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -988,6 +993,7 @@ tasks:
   - 2019-07-20T11:45:00Z
   - 2019-07-20T12:10:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -1123,6 +1129,7 @@ tasks:
   - 2019-07-21T12:30:00Z
   - 2019-07-21T12:55:00Z
   stopped: null
+  cancelled: true
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -1264,6 +1271,7 @@ tasks:
   startGates:
   - 2019-07-22T12:15:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -1406,6 +1414,7 @@ tasks:
   - 2019-07-23T11:15:00Z
   - 2019-07-23T11:40:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -1604,6 +1613,7 @@ tasks:
   - 2019-07-24T12:15:00Z
   - 2019-07-24T12:40:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
@@ -1823,6 +1833,7 @@ tasks:
   - 2019-07-26T11:00:00Z
   - 2019-07-26T11:25:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false

@@ -8,7 +8,7 @@ fs-arrival "$COMP"
 fs-effort "$COMP"
 fs-score "$COMP"
 
- ft-extract-input "$COMP" --give-fraction=0.0001 --give-distance=5 --haversines
+ft-extract-input "$COMP" --give-fraction=0.0001 --give-distance=5 --haversines
 ft-task-length "$COMP"
 ft-cross-zone "$COMP"
 ft-tag-zone "$COMP"
