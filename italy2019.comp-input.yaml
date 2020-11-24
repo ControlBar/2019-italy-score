@@ -1,7 +1,7 @@
 comp:
   compName: 22nd FAI World Hang Gliding Class 1 Championship
   discipline: hg
-  earthMath: Andoyer-Lambert
+  earthMath: FS-Andoyer
   location: Tolmezzo, Italy
   from: 2019-07-12
   to: 2019-07-27
