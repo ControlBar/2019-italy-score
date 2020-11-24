@@ -8,7 +8,7 @@ fs-arrival "$COMP"
 fs-effort "$COMP"
 fs-score "$COMP"
 
-ft-extract-input "$COMP" --give-fraction=0.001 --give-distance=5 --vincenty
+ft-extract-input "$COMP" --give-fraction=0.001 --give-distance=5 --pythagorus
 ft-task-length "$COMP"
 ft-cross-zone "$COMP"
 ft-tag-zone "$COMP"
