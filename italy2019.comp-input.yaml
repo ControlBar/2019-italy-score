@@ -1,7 +1,7 @@
 comp:
   compName: 22nd FAI World Hang Gliding Class 1 Championship
   discipline: hg
-  earthMath: Haversines
+  earthMath: Vincenty
   location: Tolmezzo, Italy
   from: 2019-07-12
   to: 2019-07-27
@@ -13,8 +13,9 @@ comp:
     giveFraction: 1.0e-3
     giveDistance: 5.0 m
   earth:
-    sphere:
-      radius: 6371000.0 m
+    ellipsoid:
+      equatorialR: 6378137.0 m
+      recipF: 298.257223563
 nominal:
   launch: 0.96
   goal: 0.3
