@@ -44158,9 +44158,54 @@ score:
       subtotal: 460.682
       landedMade: 99.205 km
       stoppedAlt: 139.000 m
+  - - - '46'
+      - Francois ISOARD
+    - place: '48'
+      total: 445.445
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 213.274
+        arrival: 0
+        time: 0
+        reach: 210.13
+        distance: 423.404
+        leading: 22
+      velocity:
+        ss: 2019-07-26T11:00:20.469531179081Z
+        gs: 2019-07-26T11:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 93.300 km
+        flown: 93.300 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 445.445
+      landedMade: 93.300 km
+      stoppedAlt: 143.000 m
   - - - '106'
       - Ubaldo Romano
-    - place: '48'
+    - place: '49'
       total: 439.885
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44205,7 +44250,7 @@ score:
       stoppedAlt: 166.000 m
   - - - '48'
       - Andrew Hollidge
-    - place: '49'
+    - place: '50'
       total: 439.275
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44252,7 +44297,7 @@ score:
       stoppedAlt: 157.000 m
   - - - '14'
       - Alexander Sigl
-    - place: '50'
+    - place: '51'
       total: 433.104
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44295,9 +44340,54 @@ score:
       subtotal: 433.104
       landedMade: 92.452 km
       stoppedAlt: 189.000 m
+  - - - '38'
+      - Daniel Martin Mota
+    - place: '52'
+      total: 423.404
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 213.274
+        arrival: 0
+        time: 0
+        reach: 210.13
+        distance: 423.404
+        leading: 0
+      velocity:
+        ss: 2019-07-26T11:00:05.548562504985Z
+        gs: 2019-07-26T11:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 93.300 km
+        flown: 93.300 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 423.404
+      landedMade: 93.300 km
+      stoppedAlt: 165.000 m
   - - - '117'
       - Zac Majors
-    - place: '51'
+    - place: '53'
       total: 415.824
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44342,7 +44432,7 @@ score:
       stoppedAlt: 186.000 m
   - - - '61'
       - Carlos Rolando Alvarado
-    - place: '52'
+    - place: '54'
       total: 385.504
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44387,7 +44477,7 @@ score:
       stoppedAlt: 221.000 m
   - - - '123'
       - Igriza Flora
-    - place: '53'
+    - place: '55'
       total: 382.049
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44432,7 +44522,7 @@ score:
       stoppedAlt: 241.000 m
   - - - '99'
       - Mikolaj Przezdziak
-    - place: '54'
+    - place: '56'
       total: 380.683
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44477,7 +44567,7 @@ score:
       stoppedAlt: 237.000 m
   - - - '42'
       - Eric Wyss
-    - place: '55'
+    - place: '57'
       total: 379.527
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44522,7 +44612,7 @@ score:
       stoppedAlt: 257.000 m
   - - - '85'
       - Joost Eertman
-    - place: '56'
+    - place: '58'
       total: 361.878
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44567,7 +44657,7 @@ score:
       stoppedAlt: 195.000 m
   - - - '59'
       - Joerg Bajewski
-    - place: '57'
+    - place: '59'
       total: 359.278
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44612,7 +44702,7 @@ score:
       stoppedAlt: 201.000 m
   - - - '17'
       - Fabio Thomaz
-    - place: '58'
+    - place: '60'
       total: 325.304
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44657,7 +44747,7 @@ score:
       stoppedAlt: 286.000 m
   - - - '114'
       - CANBERG OZVEREN
-    - place: '59'
+    - place: '61'
       total: 306.719
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44702,7 +44792,7 @@ score:
       stoppedAlt: 247.000 m
   - - - '87'
       - Gijs Wanders
-    - place: '60'
+    - place: '62'
       total: 301.682
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44747,7 +44837,7 @@ score:
       stoppedAlt: 213.000 m
   - - - '100'
       - Felix Cantesanu
-    - place: '61'
+    - place: '63'
       total: 296.196
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44792,7 +44882,7 @@ score:
       stoppedAlt: 226.000 m
   - - - '116'
       - Jeff Chipman
-    - place: '62'
+    - place: '64'
       total: 255.269
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44837,7 +44927,7 @@ score:
       stoppedAlt: 175.000 m
   - - - '79'
       - Minoru Kato
-    - place: '63'
+    - place: '65'
       total: 237.964
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44882,7 +44972,7 @@ score:
       stoppedAlt: 662.000 m
   - - - '83'
       - Sander van Schaik
-    - place: '64'
+    - place: '66'
       total: 234.206
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -44925,54 +45015,9 @@ score:
       subtotal: 234.206
       landedMade: 39.376 km
       stoppedAlt: 204.000 m
-  - - - '46'
-      - Francois ISOARD
-    - place: '65'
-      total: 232.172
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 210.13
-        distance: 210.13
-        leading: 22
-      velocity:
-        ss: 2019-07-26T11:00:20.469531179081Z
-        gs: 2019-07-26T11:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 93.300 km
-        flown: 93.300 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 232.172
-      landedMade: 93.300 km
-      stoppedAlt: 143.000 m
   - - - '120'
       - John Simon
-    - place: '66'
+    - place: '67'
       total: 230.65
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -45015,51 +45060,6 @@ score:
       subtotal: 230.65
       landedMade: 38.433 km
       stoppedAlt: 305.000 m
-  - - - '38'
-      - Daniel Martin Mota
-    - place: '67'
-      total: 210.13
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 210.13
-        distance: 210.13
-        leading: 0
-      velocity:
-        ss: 2019-07-26T11:00:05.548562504985Z
-        gs: 2019-07-26T11:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 93.300 km
-        flown: 93.300 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 210.13
-      landedMade: 93.300 km
-      stoppedAlt: 165.000 m
   - - - '31'
       - Jiri Gut
     - place: '68'
@@ -90353,9 +90353,54 @@ scoreDf:
       subtotal: 460.682
       landedMade: 99.205 km
       stoppedAlt: 139.000 m
+  - - - '46'
+      - Francois ISOARD
+    - place: '48'
+      total: 445.445
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 213.274
+        arrival: 0
+        time: 0
+        reach: 210.13
+        distance: 423.404
+        leading: 22
+      velocity:
+        ss: 2019-07-26T11:00:20.469531179081Z
+        gs: 2019-07-26T11:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 93.300 km
+        flown: 93.300 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 445.445
+      landedMade: 93.300 km
+      stoppedAlt: 143.000 m
   - - - '106'
       - Ubaldo Romano
-    - place: '48'
+    - place: '49'
       total: 439.885
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90400,7 +90445,7 @@ scoreDf:
       stoppedAlt: 166.000 m
   - - - '48'
       - Andrew Hollidge
-    - place: '49'
+    - place: '50'
       total: 439.275
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90447,7 +90492,7 @@ scoreDf:
       stoppedAlt: 157.000 m
   - - - '14'
       - Alexander Sigl
-    - place: '50'
+    - place: '51'
       total: 433.104
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90490,9 +90535,54 @@ scoreDf:
       subtotal: 433.104
       landedMade: 92.452 km
       stoppedAlt: 189.000 m
+  - - - '38'
+      - Daniel Martin Mota
+    - place: '52'
+      total: 423.404
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 213.274
+        arrival: 0
+        time: 0
+        reach: 210.13
+        distance: 423.404
+        leading: 0
+      velocity:
+        ss: 2019-07-26T11:00:05.548562504985Z
+        gs: 2019-07-26T11:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 93.300 km
+        flown: 93.300 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 423.404
+      landedMade: 93.300 km
+      stoppedAlt: 165.000 m
   - - - '117'
       - Zac Majors
-    - place: '51'
+    - place: '53'
       total: 415.824
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90537,7 +90627,7 @@ scoreDf:
       stoppedAlt: 186.000 m
   - - - '61'
       - Carlos Rolando Alvarado
-    - place: '52'
+    - place: '54'
       total: 385.504
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90582,7 +90672,7 @@ scoreDf:
       stoppedAlt: 221.000 m
   - - - '123'
       - Igriza Flora
-    - place: '53'
+    - place: '55'
       total: 382.049
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90627,7 +90717,7 @@ scoreDf:
       stoppedAlt: 241.000 m
   - - - '99'
       - Mikolaj Przezdziak
-    - place: '54'
+    - place: '56'
       total: 380.683
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90672,7 +90762,7 @@ scoreDf:
       stoppedAlt: 237.000 m
   - - - '42'
       - Eric Wyss
-    - place: '55'
+    - place: '57'
       total: 379.527
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90717,7 +90807,7 @@ scoreDf:
       stoppedAlt: 257.000 m
   - - - '85'
       - Joost Eertman
-    - place: '56'
+    - place: '58'
       total: 361.878
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90762,7 +90852,7 @@ scoreDf:
       stoppedAlt: 195.000 m
   - - - '59'
       - Joerg Bajewski
-    - place: '57'
+    - place: '59'
       total: 359.278
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90807,7 +90897,7 @@ scoreDf:
       stoppedAlt: 201.000 m
   - - - '17'
       - Fabio Thomaz
-    - place: '58'
+    - place: '60'
       total: 325.304
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90852,7 +90942,7 @@ scoreDf:
       stoppedAlt: 286.000 m
   - - - '114'
       - CANBERG OZVEREN
-    - place: '59'
+    - place: '61'
       total: 306.719
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90897,7 +90987,7 @@ scoreDf:
       stoppedAlt: 247.000 m
   - - - '87'
       - Gijs Wanders
-    - place: '60'
+    - place: '62'
       total: 301.682
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90942,7 +91032,7 @@ scoreDf:
       stoppedAlt: 213.000 m
   - - - '100'
       - Felix Cantesanu
-    - place: '61'
+    - place: '63'
       total: 296.196
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -90987,7 +91077,7 @@ scoreDf:
       stoppedAlt: 226.000 m
   - - - '116'
       - Jeff Chipman
-    - place: '62'
+    - place: '64'
       total: 255.269
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -91032,7 +91122,7 @@ scoreDf:
       stoppedAlt: 175.000 m
   - - - '79'
       - Minoru Kato
-    - place: '63'
+    - place: '65'
       total: 237.964
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -91077,7 +91167,7 @@ scoreDf:
       stoppedAlt: 662.000 m
   - - - '83'
       - Sander van Schaik
-    - place: '64'
+    - place: '66'
       total: 234.206
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -91120,54 +91210,9 @@ scoreDf:
       subtotal: 234.206
       landedMade: 39.376 km
       stoppedAlt: 204.000 m
-  - - - '46'
-      - Francois ISOARD
-    - place: '65'
-      total: 232.172
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 210.13
-        distance: 210.13
-        leading: 22
-      velocity:
-        ss: 2019-07-26T11:00:20.469531179081Z
-        gs: 2019-07-26T11:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 93.300 km
-        flown: 93.300 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 232.172
-      landedMade: 93.300 km
-      stoppedAlt: 143.000 m
   - - - '120'
       - John Simon
-    - place: '66'
+    - place: '67'
       total: 230.65
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -91210,51 +91255,6 @@ scoreDf:
       subtotal: 230.65
       landedMade: 38.433 km
       stoppedAlt: 305.000 m
-  - - - '38'
-      - Daniel Martin Mota
-    - place: '67'
-      total: 210.13
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 210.13
-        distance: 210.13
-        leading: 0
-      velocity:
-        ss: 2019-07-26T11:00:05.548562504985Z
-        gs: 2019-07-26T11:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 93.300 km
-        flown: 93.300 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 210.13
-      landedMade: 93.300 km
-      stoppedAlt: 165.000 m
   - - - '31'
       - Jiri Gut
     - place: '68'
