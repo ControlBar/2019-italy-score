@@ -26,6 +26,7 @@ ft-mask-lead "$COMP"
 ft-mask-reach "$COMP"
 
 ft-land-out "$COMP"
+ft-far-out "$COMP"
 ft-gap-point "$COMP"
 
 ft-comp-serve "$COMP"
