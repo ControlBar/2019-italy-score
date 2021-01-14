@@ -1,0 +1,527 @@
+timing:
+  zonesSum:
+  - 10
+  - 6
+  - 2
+  - 0
+  zonesFirst:
+  - 2019-07-14T11:27:20.327933260185Z
+  - 2019-07-14T12:08:01.58534756644Z
+  - 2019-07-14T13:10:06.341374626693Z
+  - null
+  zonesLast:
+  - 2019-07-14T13:09:22.095652312153Z
+  - 2019-07-14T13:54:04.151278522273Z
+  - 2019-07-14T15:06:17.23338048421Z
+  - null
+  zonesRankTime:
+  - - 2019-07-14T11:27:20.327933260185Z
+    - 2019-07-14T11:50:13.99752459381Z
+    - 2019-07-14T12:05:39.340145368916Z
+    - 2019-07-14T12:25:35.244299560297Z
+    - 2019-07-14T12:27:18.403904111961Z
+    - 2019-07-14T12:31:13.863553644929Z
+    - 2019-07-14T12:34:04.092604049668Z
+    - 2019-07-14T12:37:25.407699416082Z
+    - 2019-07-14T12:45:44.384181461971Z
+    - 2019-07-14T13:09:22.095652312153Z
+  - - 2019-07-14T12:08:01.58534756644Z
+    - 2019-07-14T12:30:22.959848935493Z
+    - 2019-07-14T12:47:39.149299329718Z
+    - 2019-07-14T13:11:34.056749395454Z
+    - 2019-07-14T13:31:44.286755210388Z
+    - 2019-07-14T13:54:04.151278522273Z
+  - - 2019-07-14T13:10:06.341374626693Z
+    - 2019-07-14T15:06:17.23338048421Z
+  - []
+  zonesRankPilot:
+  - - - '66'
+      - Tullio Gervasoni
+    - - '6'
+      - Craig Taylor
+    - - '58'
+      - Roland Woehrle
+    - - '41'
+      - Chomin Gallego Escribano
+    - - '40'
+      - Jesus Mari Hernando Duque
+    - - '39'
+      - Tximo Iriarte
+    - - '60'
+      - Georg Schweier
+    - - '55'
+      - Kajo Clauss
+    - - '38'
+      - Daniel Martin Mota
+    - - '17'
+      - Fabio Thomaz
+  - - - '6'
+      - Craig Taylor
+    - - '58'
+      - Roland Woehrle
+    - - '66'
+      - Tullio Gervasoni
+    - - '39'
+      - Tximo Iriarte
+    - - '55'
+      - Kajo Clauss
+    - - '16'
+      - Tschurnig Gunther
+  - - - '6'
+      - Craig Taylor
+    - - '70'
+      - Filippo Oppici
+  - []
+  lastLanding: 2019-07-14T15:06:55Z
+tagging:
+- - - '41'
+    - Chomin Gallego Escribano
+  - zonesTag:
+    - inter:
+        fixFrac: 70.24429956029788
+        time: 2019-07-14T12:25:35.244299560297Z
+        lat: 46.2303715
+        lng: 12.80171667
+        alt: 1010.49
+      cross:
+        crossingPair:
+        - fix: 70
+          time: 2019-07-14T12:25:35Z
+          lat: 46.2304
+          lng: 12.80171667
+          alt: 1010
+        - fix: 71
+          time: 2019-07-14T12:25:36Z
+          lat: 46.23028333
+          lng: 12.80171667
+          alt: 1012
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '6'
+    - Craig Taylor
+  - zonesTag:
+    - inter:
+        fixFrac: 44.9975245938104
+        time: 2019-07-14T11:50:13.99752459381Z
+        lat: 46.22803333
+        lng: 12.80356696
+        alt: 1027
+      cross:
+        crossingPair:
+        - fix: 44
+          time: 2019-07-14T11:50:13Z
+          lat: 46.22803333
+          lng: 12.80368333
+          alt: 1025
+        - fix: 45
+          time: 2019-07-14T11:50:14Z
+          lat: 46.22803333
+          lng: 12.80356667
+          alt: 1027
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1112.5853475664408
+        time: 2019-07-14T12:08:01.58534756644Z
+        lat: 46.22335981
+        lng: 12.88286991
+        alt: 1795.41
+      cross:
+        crossingPair:
+        - fix: 1112
+          time: 2019-07-14T12:08:01Z
+          lat: 46.22335
+          lng: 12.88273333
+          alt: 1796
+        - fix: 1113
+          time: 2019-07-14T12:08:02Z
+          lat: 46.22336667
+          lng: 12.88296667
+          alt: 1795
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4837.341374626693
+        time: 2019-07-14T13:10:06.341374626693Z
+        lat: 46.31434511
+        lng: 13.13730977
+        alt: 1876
+      cross:
+        crossingPair:
+        - fix: 4837
+          time: 2019-07-14T13:10:06Z
+          lat: 46.31431667
+          lng: 13.13736667
+          alt: 1876
+        - fix: 4838
+          time: 2019-07-14T13:10:07Z
+          lat: 46.3144
+          lng: 13.1372
+          alt: 1876
+        inZone:
+        - false
+        - true
+    - null
+- - - '38'
+    - Daniel Martin Mota
+  - zonesTag:
+    - inter:
+        fixFrac: 367.3841814619713
+        time: 2019-07-14T12:45:44.384181461971Z
+        lat: 46.23354096
+        lng: 12.81045641
+        alt: 1502.38
+      cross:
+        crossingPair:
+        - fix: 367
+          time: 2019-07-14T12:45:44Z
+          lat: 46.23348333
+          lng: 12.81045
+          alt: 1502
+        - fix: 368
+          time: 2019-07-14T12:45:45Z
+          lat: 46.23363333
+          lng: 12.81046667
+          alt: 1503
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '17'
+    - Fabio Thomaz
+  - zonesTag:
+    - inter:
+        fixFrac: 276.0956523121538
+        time: 2019-07-14T13:09:22.095652312153Z
+        lat: 46.23445159
+        lng: 12.8075
+        alt: 928
+      cross:
+        crossingPair:
+        - fix: 276
+          time: 2019-07-14T13:09:22Z
+          lat: 46.23445
+          lng: 12.8075
+          alt: 928
+        - fix: 277
+          time: 2019-07-14T13:09:23Z
+          lat: 46.23446667
+          lng: 12.8075
+          alt: 928
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '70'
+    - Filippo Oppici
+  - zonesTag:
+    - null
+    - null
+    - inter:
+        fixFrac: 207.23338048421004
+        time: 2019-07-14T15:06:17.23338048421Z
+        lat: 46.31619111
+        lng: 13.09068555
+        alt: 293.23
+      cross:
+        crossingPair:
+        - fix: 207
+          time: 2019-07-14T15:06:17Z
+          lat: 46.31618333
+          lng: 13.09071667
+          alt: 293
+        - fix: 208
+          time: 2019-07-14T15:06:18Z
+          lat: 46.31621667
+          lng: 13.09058333
+          alt: 294
+        inZone:
+        - true
+        - false
+    - null
+- - - '60'
+    - Georg Schweier
+  - zonesTag:
+    - inter:
+        fixFrac: 265.0926040496682
+        time: 2019-07-14T12:34:04.092604049668Z
+        lat: 46.22722561
+        lng: 12.80769722
+        alt: 1161.09
+      cross:
+        crossingPair:
+        - fix: 265
+          time: 2019-07-14T12:34:04Z
+          lat: 46.22723333
+          lng: 12.80768333
+          alt: 1161
+        - fix: 266
+          time: 2019-07-14T12:34:05Z
+          lat: 46.22715
+          lng: 12.80783333
+          alt: 1162
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - zonesTag:
+    - inter:
+        fixFrac: 40.40390411196173
+        time: 2019-07-14T12:27:18.403904111961Z
+        lat: 46.22935994
+        lng: 12.80212274
+        alt: 1013.21
+      cross:
+        crossingPair:
+        - fix: 40
+          time: 2019-07-14T12:27:18Z
+          lat: 46.22936667
+          lng: 12.80218333
+          alt: 1012
+        - fix: 41
+          time: 2019-07-14T12:27:19Z
+          lat: 46.22935
+          lng: 12.80203333
+          alt: 1015
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '55'
+    - Kajo Clauss
+  - zonesTag:
+    - inter:
+        fixFrac: 157.40769941608264
+        time: 2019-07-14T12:37:25.407699416082Z
+        lat: 46.23133333
+        lng: 12.80172526
+        alt: 1217
+      cross:
+        crossingPair:
+        - fix: 157
+          time: 2019-07-14T12:37:25Z
+          lat: 46.23133333
+          lng: 12.8018
+          alt: 1217
+        - fix: 158
+          time: 2019-07-14T12:37:26Z
+          lat: 46.23133333
+          lng: 12.80161667
+          alt: 1217
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3416.286755210388
+        time: 2019-07-14T13:31:44.286755210388Z
+        lat: 46.18966445
+        lng: 12.91613109
+        alt: 1532
+      cross:
+        crossingPair:
+        - fix: 3416
+          time: 2019-07-14T13:31:44Z
+          lat: 46.18961667
+          lng: 12.91611667
+          alt: 1532
+        - fix: 3417
+          time: 2019-07-14T13:31:45Z
+          lat: 46.18978333
+          lng: 12.91616667
+          alt: 1532
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '98'
+    - Piers Throssell
+  - zonesTag:
+    - null
+    - null
+    - null
+    - null
+- - - '58'
+    - Roland Woehrle
+  - zonesTag:
+    - inter:
+        fixFrac: 39.34014536891637
+        time: 2019-07-14T12:05:39.340145368916Z
+        lat: 46.22772165
+        lng: 12.80968435
+        alt: 940.32
+      cross:
+        crossingPair:
+        - fix: 39
+          time: 2019-07-14T12:05:39Z
+          lat: 46.22775
+          lng: 12.80963333
+          alt: 941
+        - fix: 40
+          time: 2019-07-14T12:05:40Z
+          lat: 46.22766667
+          lng: 12.80978333
+          alt: 939
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1522.9598489354937
+        time: 2019-07-14T12:30:22.959848935493Z
+        lat: 46.21115273
+        lng: 12.89309066
+        alt: 1553.08
+      cross:
+        crossingPair:
+        - fix: 1522
+          time: 2019-07-14T12:30:22Z
+          lat: 46.21121667
+          lng: 12.89286667
+          alt: 1555
+        - fix: 1523
+          time: 2019-07-14T12:30:23Z
+          lat: 46.21115
+          lng: 12.8931
+          alt: 1553
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '16'
+    - Tschurnig Gunther
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 2957.1512785222735
+        time: 2019-07-14T13:54:04.151278522273Z
+        lat: 46.17821764
+        lng: 12.93172931
+        alt: 190.15
+      cross:
+        crossingPair:
+        - fix: 2957
+          time: 2019-07-14T13:54:04Z
+          lat: 46.1782
+          lng: 12.93171667
+          alt: 190
+        - fix: 2958
+          time: 2019-07-14T13:54:05Z
+          lat: 46.17831667
+          lng: 12.9318
+          alt: 191
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '66'
+    - Tullio Gervasoni
+  - zonesTag:
+    - inter:
+        fixFrac: 29.327933260185546
+        time: 2019-07-14T11:27:20.327933260185Z
+        lat: 46.22746174
+        lng: 12.80894345
+        alt: 939
+      cross:
+        crossingPair:
+        - fix: 29
+          time: 2019-07-14T11:27:20Z
+          lat: 46.2275
+          lng: 12.80888333
+          alt: 939
+        - fix: 30
+          time: 2019-07-14T11:27:21Z
+          lat: 46.22738333
+          lng: 12.80906667
+          alt: 939
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4531.149299329719
+        time: 2019-07-14T12:47:39.149299329718Z
+        lat: 46.1383557
+        lng: 13.2036033
+        alt: 1014.55
+      cross:
+        crossingPair:
+        - fix: 4531
+          time: 2019-07-14T12:47:39Z
+          lat: 46.13833333
+          lng: 13.20358333
+          alt: 1015
+        - fix: 4532
+          time: 2019-07-14T12:47:40Z
+          lat: 46.13848333
+          lng: 13.20371667
+          alt: 1012
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '39'
+    - Tximo Iriarte
+  - zonesTag:
+    - inter:
+        fixFrac: 4988.86355364493
+        time: 2019-07-14T12:31:13.863553644929Z
+        lat: 46.2273447
+        lng: 12.80846894
+        alt: 1093
+      cross:
+        crossingPair:
+        - fix: 4988
+          time: 2019-07-14T12:31:13Z
+          lat: 46.22741667
+          lng: 12.80848333
+          alt: 1093
+        - fix: 4989
+          time: 2019-07-14T12:31:14Z
+          lat: 46.22733333
+          lng: 12.80846667
+          alt: 1093
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 7409.056749395455
+        time: 2019-07-14T13:11:34.056749395454Z
+        lat: 46.1968909
+        lng: 12.90757139
+        alt: 1875
+      cross:
+        crossingPair:
+        - fix: 7409
+          time: 2019-07-14T13:11:34Z
+          lat: 46.19688333
+          lng: 12.90756667
+          alt: 1875
+        - fix: 7410
+          time: 2019-07-14T13:11:35Z
+          lat: 46.19701667
+          lng: 12.90765
+          alt: 1875
+        inZone:
+        - false
+        - true
+    - null
+    - null

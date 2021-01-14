@@ -1,0 +1,571 @@
+raceTime:
+  openTask: 2019-07-22T12:15:00Z
+  closeTask: 2019-07-22T17:30:00Z
+  firstStart: 2019-07-22T12:14:59.804628157034Z
+  firstLead: 2019-07-22T12:14:59.804628157034Z
+  lastArrival: 2019-07-22T16:34:40.36786278728Z
+  leadAllDown: 15733.195
+  leadArrival: 15580.563
+  leadClose: 18900.195
+  openClose: 18900
+  tickClose: 18900.195
+raceDistance: 124.619229 km
+sumDistance: 11247.413542 km
+leadAreaToCoef: 0.00000003577317 km^-2 s^-1
+leadCoefMin: 1.77308815
+leadRank:
+- - - '28'
+    - Daniel Velez
+  - area: 49564753.8094 km^2 s
+    coef: 1.77308815
+    frac: 1
+- - - '29'
+    - Dan Vyhnalik
+  - area: 50562918.6966 km^2 s
+    coef: 1.80879567
+    frac: 0.91040929
+- - - '120'
+    - John Simon
+  - area: 50915746.0007 km^2 s
+    coef: 1.82141742
+    frac: 0.89037826
+- - - '119'
+    - Pedro L. Garcia
+  - area: 51377058.6923 km^2 s
+    coef: 1.83792004
+    frac: 0.86666352
+- - - '10'
+    - Manfred Ruhmer
+  - area: 51536785.2251 km^2 s
+    coef: 1.84363396
+    frac: 0.85893995
+- - - '64'
+    - Laszlo Okros
+  - area: 51544304.7179 km^2 s
+    coef: 1.84390296
+    frac: 0.8585816
+- - - '68'
+    - Davide Guiducci
+  - area: 51649167.6337 km^2 s
+    coef: 1.84765423
+    frac: 0.85363044
+- - - '44'
+    - mario ALONZI
+  - area: 51758230.6147 km^2 s
+    coef: 1.85155576
+    frac: 0.84856829
+- - - '75'
+    - Genki Tanaka
+  - area: 52007240.1391 km^2 s
+    coef: 1.86046362
+    frac: 0.83731423
+- - - '26'
+    - Tyler Borradaile
+  - area: 52284712.1254 km^2 s
+    coef: 1.87038967
+    frac: 0.82521548
+- - - '102'
+    - Matjaz Klemencic
+  - area: 52413986.5393 km^2 s
+    coef: 1.87501423
+    frac: 0.81972033
+- - - '57'
+    - Primoz Gricar
+  - area: 52458916.6090 km^2 s
+    coef: 1.87662152
+    frac: 0.81783003
+- - - '72'
+    - Alessandro Ploner
+  - area: 52571532.1719 km^2 s
+    coef: 1.88065013
+    frac: 0.81313452
+- - - '16'
+    - Tschurnig Gunther
+  - area: 52786619.3853 km^2 s
+    coef: 1.88834449
+    frac: 0.80432602
+- - - '69'
+    - Suan SELENATI
+  - area: 52917602.2949 km^2 s
+    coef: 1.89303016
+    frac: 0.79905798
+- - - '106'
+    - Ubaldo Romano
+  - area: 52922553.4331 km^2 s
+    coef: 1.89320728
+    frac: 0.79886021
+- - - '103'
+    - Franc Peternel
+  - area: 53089981.3764 km^2 s
+    coef: 1.8991967
+    frac: 0.79222837
+- - - '59'
+    - Joerg Bajewski
+  - area: 53215760.0730 km^2 s
+    coef: 1.90369621
+    frac: 0.78731516
+- - - '78'
+    - Yuji Suzuki
+  - area: 53234263.4274 km^2 s
+    coef: 1.90435813
+    frac: 0.78659718
+- - - '76'
+    - Shogo Ota
+  - area: 53420329.9809 km^2 s
+    coef: 1.91101432
+    frac: 0.77944292
+- - - '73'
+    - Christian Ciech
+  - area: 53463694.3040 km^2 s
+    coef: 1.9125656
+    frac: 0.77779224
+- - - '84'
+    - Arne Tanzer
+  - area: 53495115.9505 km^2 s
+    coef: 1.91368965
+    frac: 0.77659999
+- - - '70'
+    - Filippo Oppici
+  - area: 53635714.6049 km^2 s
+    coef: 1.91871931
+    frac: 0.77130355
+- - - '91'
+    - Olav Opsanger
+  - area: 53667807.9262 km^2 s
+    coef: 1.91986739
+    frac: 0.77010318
+- - - '107'
+    - Peter Neuenschwander
+  - area: 53702560.5308 km^2 s
+    coef: 1.9211106
+    frac: 0.76880686
+- - - '17'
+    - Fabio Thomaz
+  - area: 53900474.7323 km^2 s
+    coef: 1.92819062
+    frac: 0.76149233
+- - - '79'
+    - Minoru Kato
+  - area: 54191523.7638 km^2 s
+    coef: 1.93860236
+    frac: 0.75093459
+- - - '22'
+    - GLAUCO PINTO
+  - area: 54219697.3644 km^2 s
+    coef: 1.93961022
+    frac: 0.74992453
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - area: 54441903.6486 km^2 s
+    coef: 1.94755924
+    frac: 0.74202822
+- - - '13'
+    - Walter Mayer
+  - area: 54482851.7437 km^2 s
+    coef: 1.94902409
+    frac: 0.74058629
+- - - '105'
+    - Stanislav GALOVEC
+  - area: 54805143.2183 km^2 s
+    coef: 1.96055347
+    frac: 0.72937338
+- - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - area: 54826259.9339 km^2 s
+    coef: 1.96130888
+    frac: 0.72864685
+- - - '66'
+    - Tullio Gervasoni
+  - area: 54923676.7753 km^2 s
+    coef: 1.96479379
+    frac: 0.7253077
+- - - '56'
+    - Gerd Doenhuber
+  - area: 55033700.3660 km^2 s
+    coef: 1.96872969
+    frac: 0.72156066
+- - - '52'
+    - Grant Crossingham
+  - area: 55229450.4513 km^2 s
+    coef: 1.97573229
+    frac: 0.71495556
+- - - '122'
+    - Vanni Accattoli
+  - area: 55316046.7682 km^2 s
+    coef: 1.97883011
+    frac: 0.71205792
+- - - '1'
+    - Steve Blenkinsop
+  - area: 55686795.0227 km^2 s
+    coef: 1.99209295
+    frac: 0.69981271
+- - - '25'
+    - Evan Smith
+  - area: 56425194.4201 km^2 s
+    coef: 2.01850783
+    frac: 0.6761359
+- - - '6'
+    - Craig Taylor
+  - area: 56570465.8018 km^2 s
+    coef: 2.02370465
+    frac: 0.67157995
+- - - '4'
+    - Trent Brown
+  - area: 56615328.2613 km^2 s
+    coef: 2.02530952
+    frac: 0.67017938
+- - - '58'
+    - Roland Woehrle
+  - area: 56685929.4546 km^2 s
+    coef: 2.02783515
+    frac: 0.66798125
+- - - '47'
+    - Antoine Saraf
+  - area: 56718777.2641 km^2 s
+    coef: 2.02901022
+    frac: 0.66696104
+- - - '115'
+    - Evgen Lysenko
+  - area: 56735382.7619 km^2 s
+    coef: 2.02960425
+    frac: 0.66644588
+- - - '3'
+    - Rory Duncan
+  - area: 56739632.1652 km^2 s
+    coef: 2.02975627
+    frac: 0.66631412
+- - - '117'
+    - Zac Majors
+  - area: 57089666.6259 km^2 s
+    coef: 2.04227811
+    frac: 0.65554767
+- - - '109'
+    - Damien Zahn
+  - area: 57308540.9634 km^2 s
+    coef: 2.05010794
+    frac: 0.64890034
+- - - '67'
+    - Marco Laurenzi
+  - area: 57320735.4309 km^2 s
+    coef: 2.05054417
+    frac: 0.64853184
+- - - '99'
+    - Mikolaj Przezdziak
+  - area: 57362941.9492 km^2 s
+    coef: 2.05205403
+    frac: 0.64725791
+- - - '43'
+    - ERIC MATHURIN
+  - area: 57447328.0632 km^2 s
+    coef: 2.05507279
+    frac: 0.64471774
+- - - '92'
+    - John Smith
+  - area: 57498694.7876 km^2 s
+    coef: 2.05691034
+    frac: 0.64317595
+- - - '14'
+    - Alexander Sigl
+  - area: 57522407.1344 km^2 s
+    coef: 2.05775861
+    frac: 0.64246534
+- - - '7'
+    - Nils Vesk
+  - area: 57895895.1649 km^2 s
+    coef: 2.07111945
+    frac: 0.63136395
+- - - '87'
+    - Gijs Wanders
+  - area: 58044965.5157 km^2 s
+    coef: 2.07645217
+    frac: 0.62697958
+- - - '74'
+    - Akira Nagusa
+  - area: 58165999.5699 km^2 s
+    coef: 2.08078194
+    frac: 0.62343868
+- - - '60'
+    - Georg Schweier
+  - area: 58263122.3997 km^2 s
+    coef: 2.08425634
+    frac: 0.6206093
+- - - '85'
+    - Joost Eertman
+  - area: 58321367.2485 km^2 s
+    coef: 2.08633994
+    frac: 0.61891757
+- - - '46'
+    - Francois ISOARD
+  - area: 58547680.9900 km^2 s
+    coef: 2.0944359
+    frac: 0.61237951
+- - - '45'
+    - Christian Pollet
+  - area: 58910936.6376 km^2 s
+    coef: 2.1074307
+    frac: 0.60199885
+- - - '34'
+    - Petr Polach
+  - area: 59008107.6475 km^2 s
+    coef: 2.11090682
+    frac: 0.59924497
+- - - '9'
+    - Steve Docherty
+  - area: 59282833.3619 km^2 s
+    coef: 2.12073462
+    frac: 0.59150968
+- - - '31'
+    - Jiri Gut
+  - area: 59713888.1736 km^2 s
+    coef: 2.13615482
+    frac: 0.57951794
+- - - '53'
+    - Malcolm Brown
+  - area: 59826330.5310 km^2 s
+    coef: 2.14017724
+    frac: 0.57641796
+- - - '2'
+    - Rohan Taylor
+  - area: 59851674.8424 km^2 s
+    coef: 2.14108388
+    frac: 0.5757208
+- - - '54'
+    - Gordon Rigg
+  - area: 60599145.6175 km^2 s
+    coef: 2.16782328
+    frac: 0.55540927
+- - - '77'
+    - Takashi Sunama
+  - area: 60909728.2277 km^2 s
+    coef: 2.1789338
+    frac: 0.54710539
+- - - '100'
+    - Felix Cantesanu
+  - area: 61029516.5272 km^2 s
+    coef: 2.18321901
+    frac: 0.54392298
+- - - '18'
+    - David Brito Filho
+  - area: 61107631.8676 km^2 s
+    coef: 2.18601344
+    frac: 0.54185367
+- - - '50'
+    - Darren Brown
+  - area: 61189119.5313 km^2 s
+    coef: 2.18892852
+    frac: 0.53969999
+- - - '11'
+    - Christian Tiefenbacher
+  - area: 61512496.2178 km^2 s
+    coef: 2.20049672
+    frac: 0.53120241
+- - - '33'
+    - Lukas Vojacek
+  - area: 61989301.3905 km^2 s
+    coef: 2.21755355
+    frac: 0.51881155
+- - - '30'
+    - Jiri Nadvornik
+  - area: 62616811.8761 km^2 s
+    coef: 2.24000159
+    frac: 0.50274311
+- - - '42'
+    - Eric Wyss
+  - area: 62854669.1787 km^2 s
+    coef: 2.2485105
+    frac: 0.49672006
+- - - '108'
+    - Franz Herrmann
+  - area: 62860220.1042 km^2 s
+    coef: 2.24870907
+    frac: 0.49657993
+- - - '35'
+    - Frantisek Kostal
+  - area: 62966357.0097 km^2 s
+    coef: 2.25250593
+    frac: 0.4939043
+- - - '38'
+    - Daniel Martin Mota
+  - area: 63171255.9350 km^2 s
+    coef: 2.25983581
+    frac: 0.48875885
+- - - '110'
+    - Markel Neideman
+  - area: 63229536.1193 km^2 s
+    coef: 2.26192068
+    frac: 0.48730004
+- - - '71'
+    - Manuel REVELLI
+  - area: 63619860.3051 km^2 s
+    coef: 2.27588381
+    frac: 0.47758268
+- - - '116'
+    - Jeff Chipman
+  - area: 63667842.2255 km^2 s
+    coef: 2.27760027
+    frac: 0.47639439
+- - - '48'
+    - Andrew Hollidge
+  - area: 63768194.1019 km^2 s
+    coef: 2.28119018
+    frac: 0.47391348
+- - - '41'
+    - Chomin Gallego Escribano
+  - area: 64739782.2250 km^2 s
+    coef: 2.31594696
+    frac: 0.45018766
+- - - '101'
+    - Konstantin Lukyanov
+  - area: 65361127.5682 km^2 s
+    coef: 2.33817445
+    frac: 0.43528012
+- - - '104'
+    - janez grm
+  - area: 65432780.3263 km^2 s
+    coef: 2.3407377
+    frac: 0.43357369
+- - - '113'
+    - Kamil Demirkan
+  - area: 65890757.4817 km^2 s
+    coef: 2.35712099
+    frac: 0.42272679
+- - - '81'
+    - Young don Lee
+  - area: 66039964.4338 km^2 s
+    coef: 2.36245859
+    frac: 0.41921491
+- - - '123'
+    - Igriza Flora
+  - area: 66117936.7831 km^2 s
+    coef: 2.36524791
+    frac: 0.4173839
+- - - '86'
+    - Tanno Rutten
+  - area: 66685898.9871 km^2 s
+    coef: 2.38556572
+    frac: 0.40413207
+- - - '114'
+    - CANBERG OZVEREN
+  - area: 67642067.8300 km^2 s
+    coef: 2.4197709
+    frac: 0.38214854
+- - - '83'
+    - Sander van Schaik
+  - area: 68398050.1481 km^2 s
+    coef: 2.44681479
+    frac: 0.36504097
+- - - '51'
+    - Dave Matthews
+  - area: 70099330.6948 km^2 s
+    coef: 2.50767498
+    frac: 0.32735594
+- - - '49'
+    - Gary Wirdnam
+  - area: 70224698.7077 km^2 s
+    coef: 2.51215979
+    frac: 0.32462096
+- - - '65'
+    - Noel Collins
+  - area: 70454600.0224 km^2 s
+    coef: 2.52038408
+    frac: 0.31961985
+- - - '95'
+    - Viv Clements
+  - area: 71186410.6993 km^2 s
+    coef: 2.54656327
+    frac: 0.30382121
+- - - '93'
+    - Derek Mckee
+  - area: 71788265.4415 km^2 s
+    coef: 2.56809352
+    frac: 0.29096132
+- - - '89'
+    - Johnny Nilssen
+  - area: 76590321.5424 km^2 s
+    coef: 2.73987827
+    frac: 0.19218603
+- - - '94'
+    - Matthew Barlow
+  - area: 78058694.3512 km^2 s
+    coef: 2.79240661
+    frac: 0.16318431
+- - - '15'
+    - Wolfgang Siess
+  - area: 87004442.2997 km^2 s
+    coef: 3.11242434
+    frac: 0
+- - - '62'
+    - Attila Kis
+  - area: 92309043.4209 km^2 s
+    coef: 3.30218671
+    frac: 0
+- - - '111'
+    - Tommy Nilsson
+  - area: 93470402.0634 km^2 s
+    coef: 3.34373219
+    frac: 0
+- - - '98'
+    - Piers Throssell
+  - area: 98079978.6327 km^2 s
+    coef: 3.50863133
+    frac: 0
+- - - '97'
+    - Tom Kellner
+  - area: 101772609.4929 km^2 s
+    coef: 3.64072843
+    frac: 0
+- - - '90'
+    - Jens Krotseng
+  - area: 103780301.7957 km^2 s
+    coef: 3.71254994
+    frac: 0
+- - - '39'
+    - Tximo Iriarte
+  - area: 109257088.4316 km^2 s
+    coef: 3.90847193
+    frac: 0
+- - - '27'
+    - Hernan Cortes Pinones
+  - area: 114250424.9650 km^2 s
+    coef: 4.08709939
+    frac: 0
+- - - '61'
+    - Carlos Rolando Alvarado
+  - area: 136210018.2619 km^2 s
+    coef: 4.87266356
+    frac: 0
+- - - '82'
+    - jaesun moon
+  - area: 149325246.6669 km^2 s
+    coef: 5.3418368
+    frac: 0
+- - - '118'
+    - Will Ramsey
+  - area: 150326438.9043 km^2 s
+    coef: 5.37765262
+    frac: 0
+- - - '96'
+    - Shane mckay
+  - area: 157389182.0568 km^2 s
+    coef: 5.6303093
+    frac: 0
+- - - '37'
+    - Alvaro Idigoras
+  - area: 167822634.0328 km^2 s
+    coef: 6.00354691
+    frac: 0
+- - - '5'
+    - Peter Burkitt
+  - area: 197209912.0995 km^2 s
+    coef: 7.05482287
+    frac: 0
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - area: 233840637.1425 km^2 s
+    coef: 8.36521987
+    frac: 0
+- - - '88'
+    - Emiel Jansen
+  - area: 235476962.3807 km^2 s
+    coef: 8.42375641
+    frac: 0

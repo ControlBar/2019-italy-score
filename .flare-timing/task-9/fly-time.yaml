@@ -1,0 +1,1810 @@
+suspectDnf: []
+flying:
+- - - '74'
+    - Akira Nagusa
+  - loggedFixes: 22717
+    flyingFixes:
+    - 0
+    - 21652
+    loggedSeconds: 22716
+    flyingSeconds:
+    - 0
+    - 21652
+    loggedTimes:
+    - 2019-07-23T10:27:18Z
+    - 2019-07-23T16:45:54Z
+    flyingTimes:
+    - 2019-07-23T10:27:18Z
+    - 2019-07-23T16:28:10Z
+- - - '72'
+    - Alessandro Ploner
+  - loggedFixes: 23085
+    flyingFixes:
+    - 2335
+    - 22434
+    loggedSeconds: 23084
+    flyingSeconds:
+    - 2335
+    - 22434
+    loggedTimes:
+    - 2019-07-23T09:39:29Z
+    - 2019-07-23T16:04:13Z
+    flyingTimes:
+    - 2019-07-23T10:18:24Z
+    - 2019-07-23T15:53:23Z
+- - - '14'
+    - Alexander Sigl
+  - loggedFixes: 16447
+    flyingFixes:
+    - 1765
+    - 16101
+    loggedSeconds: 16446
+    flyingSeconds:
+    - 1765
+    - 16101
+    loggedTimes:
+    - 2019-07-23T09:57:59Z
+    - 2019-07-23T14:32:05Z
+    flyingTimes:
+    - 2019-07-23T10:27:24Z
+    - 2019-07-23T14:26:20Z
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - loggedFixes: 27274
+    flyingFixes:
+    - 3066
+    - 24186
+    loggedSeconds: 27273
+    flyingSeconds:
+    - 3066
+    - 24186
+    loggedTimes:
+    - 2019-07-23T09:29:04Z
+    - 2019-07-23T17:03:37Z
+    flyingTimes:
+    - 2019-07-23T10:20:10Z
+    - 2019-07-23T16:12:10Z
+- - - '37'
+    - Alvaro Idigoras
+  - loggedFixes: 23243
+    flyingFixes:
+    - 0
+    - 18423
+    loggedSeconds: 23242
+    flyingSeconds:
+    - 0
+    - 18423
+    loggedTimes:
+    - 2019-07-23T10:55:53Z
+    - 2019-07-23T17:23:15Z
+    flyingTimes:
+    - 2019-07-23T10:55:53Z
+    - 2019-07-23T16:02:56Z
+- - - '48'
+    - Andrew Hollidge
+  - loggedFixes: 20294
+    flyingFixes:
+    - 3896
+    - 20054
+    loggedSeconds: 20293
+    flyingSeconds:
+    - 3896
+    - 20054
+    loggedTimes:
+    - 2019-07-23T09:23:50Z
+    - 2019-07-23T15:02:03Z
+    flyingTimes:
+    - 2019-07-23T10:28:46Z
+    - 2019-07-23T14:58:04Z
+- - - '84'
+    - Arne Tanzer
+  - loggedFixes: 12445
+    flyingFixes:
+    - 0
+    - 12360
+    loggedSeconds: 12444
+    flyingSeconds:
+    - 0
+    - 12360
+    loggedTimes:
+    - 2019-07-23T10:15:12Z
+    - 2019-07-23T13:42:36Z
+    flyingTimes:
+    - 2019-07-23T10:15:12Z
+    - 2019-07-23T13:41:12Z
+- - - '62'
+    - Attila Kis
+  - loggedFixes: 26382
+    flyingFixes:
+    - 3678
+    - 25776
+    loggedSeconds: 26383
+    flyingSeconds:
+    - 3678
+    - 25778
+    loggedTimes:
+    - 2019-07-23T09:52:22Z
+    - 2019-07-23T17:12:05Z
+    flyingTimes:
+    - 2019-07-23T10:53:40Z
+    - 2019-07-23T17:02:00Z
+- - - '114'
+    - CANBERG OZVEREN
+  - loggedFixes: 21325
+    flyingFixes:
+    - 4686
+    - 20706
+    loggedSeconds: 21324
+    flyingSeconds:
+    - 4686
+    - 20706
+    loggedTimes:
+    - 2019-07-23T09:29:49Z
+    - 2019-07-23T15:25:13Z
+    flyingTimes:
+    - 2019-07-23T10:47:55Z
+    - 2019-07-23T15:14:55Z
+- - - '61'
+    - Carlos Rolando Alvarado
+  - loggedFixes: 11145
+    flyingFixes:
+    - 851
+    - 9391
+    loggedSeconds: 11144
+    flyingSeconds:
+    - 851
+    - 9391
+    loggedTimes:
+    - 2019-07-23T09:41:22Z
+    - 2019-07-23T12:47:06Z
+    flyingTimes:
+    - 2019-07-23T09:55:33Z
+    - 2019-07-23T12:17:53Z
+- - - '41'
+    - Chomin Gallego Escribano
+  - loggedFixes: 17584
+    flyingFixes:
+    - 0
+    - 17220
+    loggedSeconds: 17583
+    flyingSeconds:
+    - 0
+    - 17220
+    loggedTimes:
+    - 2019-07-23T10:52:59Z
+    - 2019-07-23T15:46:02Z
+    flyingTimes:
+    - 2019-07-23T10:52:59Z
+    - 2019-07-23T15:39:59Z
+- - - '73'
+    - Christian Ciech
+  - loggedFixes: 21956
+    flyingFixes:
+    - 1517
+    - 21522
+    loggedSeconds: 21955
+    flyingSeconds:
+    - 1517
+    - 21522
+    loggedTimes:
+    - 2019-07-23T09:57:27Z
+    - 2019-07-23T16:03:22Z
+    flyingTimes:
+    - 2019-07-23T10:22:44Z
+    - 2019-07-23T15:56:09Z
+- - - '45'
+    - Christian Pollet
+  - loggedFixes: 17386
+    flyingFixes:
+    - 0
+    - 17194
+    loggedSeconds: 17385
+    flyingSeconds:
+    - 0
+    - 17194
+    loggedTimes:
+    - 2019-07-23T10:25:24Z
+    - 2019-07-23T15:15:09Z
+    flyingTimes:
+    - 2019-07-23T10:25:24Z
+    - 2019-07-23T15:11:58Z
+- - - '11'
+    - Christian Tiefenbacher
+  - loggedFixes: 24953
+    flyingFixes:
+    - 0
+    - 24389
+    loggedSeconds: 24952
+    flyingSeconds:
+    - 0
+    - 24389
+    loggedTimes:
+    - 2019-07-23T09:51:22Z
+    - 2019-07-23T16:47:14Z
+    flyingTimes:
+    - 2019-07-23T09:51:22Z
+    - 2019-07-23T16:37:51Z
+- - - '6'
+    - Craig Taylor
+  - loggedFixes: 21210
+    flyingFixes:
+    - 0
+    - 20917
+    loggedSeconds: 21209
+    flyingSeconds:
+    - 0
+    - 20917
+    loggedTimes:
+    - 2019-07-23T10:34:03Z
+    - 2019-07-23T16:27:32Z
+    flyingTimes:
+    - 2019-07-23T10:34:03Z
+    - 2019-07-23T16:22:40Z
+- - - '109'
+    - Damien Zahn
+  - loggedFixes: 22774
+    flyingFixes:
+    - 0
+    - 22557
+    loggedSeconds: 22773
+    flyingSeconds:
+    - 0
+    - 22557
+    loggedTimes:
+    - 2019-07-23T10:36:58Z
+    - 2019-07-23T16:56:31Z
+    flyingTimes:
+    - 2019-07-23T10:36:58Z
+    - 2019-07-23T16:52:55Z
+- - - '29'
+    - Dan Vyhnalik
+  - loggedFixes: 21349
+    flyingFixes:
+    - 0
+    - 20657
+    loggedSeconds: 21348
+    flyingSeconds:
+    - 0
+    - 20657
+    loggedTimes:
+    - 2019-07-23T10:13:51Z
+    - 2019-07-23T16:09:39Z
+    flyingTimes:
+    - 2019-07-23T10:13:51Z
+    - 2019-07-23T15:58:08Z
+- - - '38'
+    - Daniel Martin Mota
+  - loggedFixes: 22618
+    flyingFixes:
+    - 0
+    - 22037
+    loggedSeconds: 22617
+    flyingSeconds:
+    - 0
+    - 22037
+    loggedTimes:
+    - 2019-07-23T10:43:57Z
+    - 2019-07-23T17:00:54Z
+    flyingTimes:
+    - 2019-07-23T10:43:57Z
+    - 2019-07-23T16:51:14Z
+- - - '28'
+    - Daniel Velez
+  - loggedFixes: 21354
+    flyingFixes:
+    - 0
+    - 20913
+    loggedSeconds: 21353
+    flyingSeconds:
+    - 0
+    - 20913
+    loggedTimes:
+    - 2019-07-23T10:14:38Z
+    - 2019-07-23T16:10:31Z
+    flyingTimes:
+    - 2019-07-23T10:14:38Z
+    - 2019-07-23T16:03:11Z
+- - - '50'
+    - Darren Brown
+  - loggedFixes: 19729
+    flyingFixes:
+    - 2153
+    - 19507
+    loggedSeconds: 19728
+    flyingSeconds:
+    - 2153
+    - 19507
+    loggedTimes:
+    - 2019-07-23T09:43:35Z
+    - 2019-07-23T15:12:23Z
+    flyingTimes:
+    - 2019-07-23T10:19:28Z
+    - 2019-07-23T15:08:42Z
+- - - '51'
+    - Dave Matthews
+  - loggedFixes: 20451
+    flyingFixes:
+    - 0
+    - 20289
+    loggedSeconds: 20450
+    flyingSeconds:
+    - 0
+    - 20289
+    loggedTimes:
+    - 2019-07-23T10:28:23Z
+    - 2019-07-23T16:09:13Z
+    flyingTimes:
+    - 2019-07-23T10:28:23Z
+    - 2019-07-23T16:06:32Z
+- - - '18'
+    - David Brito Filho
+  - loggedFixes: 19806
+    flyingFixes:
+    - 3521
+    - 19164
+    loggedSeconds: 19805
+    flyingSeconds:
+    - 3521
+    - 19164
+    loggedTimes:
+    - 2019-07-23T09:29:04Z
+    - 2019-07-23T14:59:09Z
+    flyingTimes:
+    - 2019-07-23T10:27:45Z
+    - 2019-07-23T14:48:28Z
+- - - '68'
+    - Davide Guiducci
+  - loggedFixes: 20442
+    flyingFixes:
+    - 0
+    - 19793
+    loggedSeconds: 20441
+    flyingSeconds:
+    - 0
+    - 19793
+    loggedTimes:
+    - 2019-07-23T10:26:27Z
+    - 2019-07-23T16:07:08Z
+    flyingTimes:
+    - 2019-07-23T10:26:27Z
+    - 2019-07-23T15:56:20Z
+- - - '93'
+    - Derek Mckee
+  - loggedFixes: 23327
+    flyingFixes:
+    - 0
+    - 23160
+    loggedSeconds: 23326
+    flyingSeconds:
+    - 0
+    - 23160
+    loggedTimes:
+    - 2019-07-23T10:49:09Z
+    - 2019-07-23T17:17:55Z
+    flyingTimes:
+    - 2019-07-23T10:49:09Z
+    - 2019-07-23T17:15:09Z
+- - - '43'
+    - ERIC MATHURIN
+  - loggedFixes: 22203
+    flyingFixes:
+    - 0
+    - 21571
+    loggedSeconds: 22202
+    flyingSeconds:
+    - 0
+    - 21571
+    loggedTimes:
+    - 2019-07-23T10:30:46Z
+    - 2019-07-23T16:40:48Z
+    flyingTimes:
+    - 2019-07-23T10:30:46Z
+    - 2019-07-23T16:30:17Z
+- - - '20'
+    - Eduardo Oliveira
+  - loggedFixes: 22221
+    flyingFixes:
+    - 1728
+    - 21996
+    loggedSeconds: 22220
+    flyingSeconds:
+    - 1728
+    - 21996
+    loggedTimes:
+    - 2019-07-23T09:29:04Z
+    - 2019-07-23T15:39:24Z
+    flyingTimes:
+    - 2019-07-23T09:57:52Z
+    - 2019-07-23T15:35:40Z
+- - - '88'
+    - Emiel Jansen
+  - loggedFixes: 22695
+    flyingFixes:
+    - 0
+    - 22052
+    loggedSeconds: 22694
+    flyingSeconds:
+    - 0
+    - 22052
+    loggedTimes:
+    - 2019-07-23T09:57:00Z
+    - 2019-07-23T16:15:14Z
+    flyingTimes:
+    - 2019-07-23T09:57:00Z
+    - 2019-07-23T16:04:32Z
+- - - '42'
+    - Eric Wyss
+  - loggedFixes: 18230
+    flyingFixes:
+    - 0
+    - 17838
+    loggedSeconds: 18229
+    flyingSeconds:
+    - 0
+    - 17838
+    loggedTimes:
+    - 2019-07-23T10:44:15Z
+    - 2019-07-23T15:48:04Z
+    flyingTimes:
+    - 2019-07-23T10:44:15Z
+    - 2019-07-23T15:41:33Z
+- - - '25'
+    - Evan Smith
+  - loggedFixes: 20467
+    flyingFixes:
+    - 3152
+    - 19963
+    loggedSeconds: 20466
+    flyingSeconds:
+    - 3152
+    - 19963
+    loggedTimes:
+    - 2019-07-23T09:46:33Z
+    - 2019-07-23T15:27:39Z
+    flyingTimes:
+    - 2019-07-23T10:39:05Z
+    - 2019-07-23T15:19:16Z
+- - - '115'
+    - Evgen Lysenko
+  - loggedFixes: 22649
+    flyingFixes:
+    - 735
+    - 22025
+    loggedSeconds: 22689
+    flyingSeconds:
+    - 735
+    - 22066
+    loggedTimes:
+    - 2019-07-23T09:53:33Z
+    - 2019-07-23T16:11:42Z
+    flyingTimes:
+    - 2019-07-23T10:05:48Z
+    - 2019-07-23T16:01:19Z
+- - - '17'
+    - Fabio Thomaz
+  - loggedFixes: 23798
+    flyingFixes:
+    - 5934
+    - 22145
+    loggedSeconds: 23797
+    flyingSeconds:
+    - 5934
+    - 22145
+    loggedTimes:
+    - 2019-07-23T08:44:15Z
+    - 2019-07-23T15:20:52Z
+    flyingTimes:
+    - 2019-07-23T10:23:09Z
+    - 2019-07-23T14:53:20Z
+- - - '100'
+    - Felix Cantesanu
+  - loggedFixes: 11325
+    flyingFixes:
+    - 0
+    - 11009
+    loggedSeconds: 11324
+    flyingSeconds:
+    - 0
+    - 11009
+    loggedTimes:
+    - 2019-07-23T10:42:35Z
+    - 2019-07-23T13:51:19Z
+    flyingTimes:
+    - 2019-07-23T10:42:35Z
+    - 2019-07-23T13:46:04Z
+- - - '70'
+    - Filippo Oppici
+  - loggedFixes: 21065
+    flyingFixes:
+    - 0
+    - 20358
+    loggedSeconds: 21064
+    flyingSeconds:
+    - 0
+    - 20358
+    loggedTimes:
+    - 2019-07-23T10:14:24Z
+    - 2019-07-23T16:05:28Z
+    flyingTimes:
+    - 2019-07-23T10:14:24Z
+    - 2019-07-23T15:53:42Z
+- - - '103'
+    - Franc Peternel
+  - loggedFixes: 21969
+    flyingFixes:
+    - 0
+    - 20960
+    loggedSeconds: 21968
+    flyingSeconds:
+    - 0
+    - 20960
+    loggedTimes:
+    - 2019-07-23T10:10:15Z
+    - 2019-07-23T16:16:23Z
+    flyingTimes:
+    - 2019-07-23T10:10:15Z
+    - 2019-07-23T15:59:35Z
+- - - '46'
+    - Francois ISOARD
+  - loggedFixes: 23478
+    flyingFixes:
+    - 0
+    - 23287
+    loggedSeconds: 23477
+    flyingSeconds:
+    - 0
+    - 23287
+    loggedTimes:
+    - 2019-07-23T10:33:41Z
+    - 2019-07-23T17:04:58Z
+    flyingTimes:
+    - 2019-07-23T10:33:41Z
+    - 2019-07-23T17:01:48Z
+- - - '35'
+    - Frantisek Kostal
+  - loggedFixes: 21677
+    flyingFixes:
+    - 0
+    - 21442
+    loggedSeconds: 21676
+    flyingSeconds:
+    - 0
+    - 21442
+    loggedTimes:
+    - 2019-07-23T10:41:03Z
+    - 2019-07-23T16:42:19Z
+    flyingTimes:
+    - 2019-07-23T10:41:03Z
+    - 2019-07-23T16:38:25Z
+- - - '108'
+    - Franz Herrmann
+  - loggedFixes: 22962
+    flyingFixes:
+    - 1555
+    - 22817
+    loggedSeconds: 23001
+    flyingSeconds:
+    - 1595
+    - 22857
+    loggedTimes:
+    - 2019-07-23T09:40:02Z
+    - 2019-07-23T16:03:23Z
+    flyingTimes:
+    - 2019-07-23T10:06:37Z
+    - 2019-07-23T16:00:59Z
+- - - '22'
+    - GLAUCO PINTO
+  - loggedFixes: 14904
+    flyingFixes:
+    - 3433
+    - 14182
+    loggedSeconds: 14903
+    flyingSeconds:
+    - 3433
+    - 14182
+    loggedTimes:
+    - 2019-07-23T09:29:03Z
+    - 2019-07-23T13:37:26Z
+    flyingTimes:
+    - 2019-07-23T10:26:16Z
+    - 2019-07-23T13:25:25Z
+- - - '49'
+    - Gary Wirdnam
+  - loggedFixes: 23891
+    flyingFixes:
+    - 0
+    - 23486
+    loggedSeconds: 23890
+    flyingSeconds:
+    - 0
+    - 23486
+    loggedTimes:
+    - 2019-07-23T10:21:11Z
+    - 2019-07-23T16:59:21Z
+    flyingTimes:
+    - 2019-07-23T10:21:11Z
+    - 2019-07-23T16:52:37Z
+- - - '75'
+    - Genki Tanaka
+  - loggedFixes: 19992
+    flyingFixes:
+    - 0
+    - 19711
+    loggedSeconds: 20175
+    flyingSeconds:
+    - 0
+    - 19895
+    loggedTimes:
+    - 2019-07-23T10:23:55Z
+    - 2019-07-23T16:00:10Z
+    flyingTimes:
+    - 2019-07-23T10:23:55Z
+    - 2019-07-23T15:55:30Z
+- - - '60'
+    - Georg Schweier
+  - loggedFixes: 22762
+    flyingFixes:
+    - 3973
+    - 22745
+    loggedSeconds: 22850
+    flyingSeconds:
+    - 3973
+    - 22834
+    loggedTimes:
+    - 2019-07-23T09:20:25Z
+    - 2019-07-23T15:41:15Z
+    flyingTimes:
+    - 2019-07-23T10:26:38Z
+    - 2019-07-23T15:40:59Z
+- - - '56'
+    - Gerd Doenhuber
+  - loggedFixes: 20916
+    flyingFixes:
+    - 0
+    - 20573
+    loggedSeconds: 20915
+    flyingSeconds:
+    - 0
+    - 20573
+    loggedTimes:
+    - 2019-07-23T10:13:12Z
+    - 2019-07-23T16:01:47Z
+    flyingTimes:
+    - 2019-07-23T10:13:12Z
+    - 2019-07-23T15:56:05Z
+- - - '87'
+    - Gijs Wanders
+  - loggedFixes: 22513
+    flyingFixes:
+    - 0
+    - 22435
+    loggedSeconds: 22512
+    flyingSeconds:
+    - 0
+    - 22435
+    loggedTimes:
+    - 2019-07-23T09:53:26Z
+    - 2019-07-23T16:08:38Z
+    flyingTimes:
+    - 2019-07-23T09:53:26Z
+    - 2019-07-23T16:07:21Z
+- - - '54'
+    - Gordon Rigg
+  - loggedFixes: 23167
+    flyingFixes:
+    - 1784
+    - 22677
+    loggedSeconds: 23166
+    flyingSeconds:
+    - 1784
+    - 22677
+    loggedTimes:
+    - 2019-07-23T09:42:22Z
+    - 2019-07-23T16:08:28Z
+    flyingTimes:
+    - 2019-07-23T10:12:06Z
+    - 2019-07-23T16:00:19Z
+- - - '52'
+    - Grant Crossingham
+  - loggedFixes: 20029
+    flyingFixes:
+    - 0
+    - 19291
+    loggedSeconds: 20028
+    flyingSeconds:
+    - 0
+    - 19291
+    loggedTimes:
+    - 2019-07-23T10:16:07Z
+    - 2019-07-23T15:49:55Z
+    flyingTimes:
+    - 2019-07-23T10:16:07Z
+    - 2019-07-23T15:37:38Z
+- - - '112'
+    - Hakan Andersson Bernardo
+  - loggedFixes: 24277
+    flyingFixes:
+    - 3520
+    - 23843
+    loggedSeconds: 24276
+    flyingSeconds:
+    - 3520
+    - 23843
+    loggedTimes:
+    - 2019-07-23T09:42:35Z
+    - 2019-07-23T16:27:11Z
+    flyingTimes:
+    - 2019-07-23T10:41:15Z
+    - 2019-07-23T16:19:58Z
+- - - '27'
+    - Hernan Cortes Pinones
+  - loggedFixes: 22124
+    flyingFixes:
+    - 0
+    - 21802
+    loggedSeconds: 22123
+    flyingSeconds:
+    - 0
+    - 21802
+    loggedTimes:
+    - 2019-07-23T09:57:14Z
+    - 2019-07-23T16:05:57Z
+    flyingTimes:
+    - 2019-07-23T09:57:14Z
+    - 2019-07-23T16:00:36Z
+- - - '123'
+    - Igriza Flora
+  - loggedFixes: 3112
+    flyingFixes:
+    - 2
+    - 3111
+    loggedSeconds: 16010
+    flyingSeconds:
+    - 61
+    - 16010
+    loggedTimes:
+    - 2019-07-23T10:53:42Z
+    - 2019-07-23T15:20:32Z
+    flyingTimes:
+    - 2019-07-23T10:54:43Z
+    - 2019-07-23T15:20:32Z
+- - - '116'
+    - Jeff Chipman
+  - loggedFixes: 15532
+    flyingFixes:
+    - 0
+    - 14731
+    loggedSeconds: 15531
+    flyingSeconds:
+    - 0
+    - 14731
+    loggedTimes:
+    - 2019-07-23T10:01:21Z
+    - 2019-07-23T14:20:12Z
+    flyingTimes:
+    - 2019-07-23T10:01:21Z
+    - 2019-07-23T14:06:52Z
+- - - '90'
+    - Jens Krotseng
+  - loggedFixes: 23290
+    flyingFixes:
+    - 0
+    - 16123
+    loggedSeconds: 23289
+    flyingSeconds:
+    - 0
+    - 16123
+    loggedTimes:
+    - 2019-07-23T10:55:11Z
+    - 2019-07-23T17:23:20Z
+    flyingTimes:
+    - 2019-07-23T10:55:11Z
+    - 2019-07-23T15:23:54Z
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - loggedFixes: 12383
+    flyingFixes:
+    - 0
+    - 11894
+    loggedSeconds: 12382
+    flyingSeconds:
+    - 0
+    - 11894
+    loggedTimes:
+    - 2019-07-23T10:51:39Z
+    - 2019-07-23T14:18:01Z
+    flyingTimes:
+    - 2019-07-23T10:51:39Z
+    - 2019-07-23T14:09:53Z
+- - - '31'
+    - Jiri Gut
+  - loggedFixes: 22678
+    flyingFixes:
+    - 0
+    - 22360
+    loggedSeconds: 22677
+    flyingSeconds:
+    - 0
+    - 22360
+    loggedTimes:
+    - 2019-07-23T10:38:27Z
+    - 2019-07-23T16:56:24Z
+    flyingTimes:
+    - 2019-07-23T10:38:27Z
+    - 2019-07-23T16:51:07Z
+- - - '30'
+    - Jiri Nadvornik
+  - loggedFixes: 23925
+    flyingFixes:
+    - 3276
+    - 23709
+    loggedSeconds: 23924
+    flyingSeconds:
+    - 3276
+    - 23709
+    loggedTimes:
+    - 2019-07-23T09:48:08Z
+    - 2019-07-23T16:26:52Z
+    flyingTimes:
+    - 2019-07-23T10:42:44Z
+    - 2019-07-23T16:23:17Z
+- - - '59'
+    - Joerg Bajewski
+  - loggedFixes: 24815
+    flyingFixes:
+    - 0
+    - 20633
+    loggedSeconds: 24814
+    flyingSeconds:
+    - 0
+    - 20633
+    loggedTimes:
+    - 2019-07-23T10:30:29Z
+    - 2019-07-23T17:24:03Z
+    flyingTimes:
+    - 2019-07-23T10:30:29Z
+    - 2019-07-23T16:14:22Z
+- - - '120'
+    - John Simon
+  - loggedFixes: 21948
+    flyingFixes:
+    - 0
+    - 21295
+    loggedSeconds: 21947
+    flyingSeconds:
+    - 0
+    - 21295
+    loggedTimes:
+    - 2019-07-23T10:27:39Z
+    - 2019-07-23T16:33:26Z
+    flyingTimes:
+    - 2019-07-23T10:27:39Z
+    - 2019-07-23T16:22:34Z
+- - - '92'
+    - John Smith
+  - loggedFixes: 23054
+    flyingFixes:
+    - 0
+    - 22915
+    loggedSeconds: 23059
+    flyingSeconds:
+    - 0
+    - 22921
+    loggedTimes:
+    - 2019-07-23T10:07:16Z
+    - 2019-07-23T16:31:35Z
+    flyingTimes:
+    - 2019-07-23T10:07:16Z
+    - 2019-07-23T16:29:17Z
+- - - '89'
+    - Johnny Nilssen
+  - loggedFixes: 21458
+    flyingFixes:
+    - 0
+    - 19719
+    loggedSeconds: 22532
+    flyingSeconds:
+    - 0
+    - 20794
+    loggedTimes:
+    - 2019-07-23T10:33:22Z
+    - 2019-07-23T16:48:54Z
+    flyingTimes:
+    - 2019-07-23T10:33:22Z
+    - 2019-07-23T16:19:56Z
+- - - '85'
+    - Joost Eertman
+  - loggedFixes: 12817
+    flyingFixes:
+    - 0
+    - 12530
+    loggedSeconds: 12935
+    flyingSeconds:
+    - 0
+    - 12649
+    loggedTimes:
+    - 2019-07-23T10:19:21Z
+    - 2019-07-23T13:54:56Z
+    flyingTimes:
+    - 2019-07-23T10:19:21Z
+    - 2019-07-23T13:50:10Z
+- - - '113'
+    - Kamil Demirkan
+  - loggedFixes: 14561
+    flyingFixes:
+    - 0
+    - 14488
+    loggedSeconds: 14560
+    flyingSeconds:
+    - 0
+    - 14488
+    loggedTimes:
+    - 2019-07-23T10:43:47Z
+    - 2019-07-23T14:46:27Z
+    flyingTimes:
+    - 2019-07-23T10:43:47Z
+    - 2019-07-23T14:45:15Z
+- - - '23'
+    - Konrad Heilmann
+  - loggedFixes: 26245
+    flyingFixes:
+    - 1959
+    - 25749
+    loggedSeconds: 26244
+    flyingSeconds:
+    - 1959
+    - 25749
+    loggedTimes:
+    - 2019-07-23T09:29:04Z
+    - 2019-07-23T16:46:28Z
+    flyingTimes:
+    - 2019-07-23T10:01:43Z
+    - 2019-07-23T16:38:13Z
+- - - '101'
+    - Konstantin Lukyanov
+  - loggedFixes: 21556
+    flyingFixes:
+    - 0
+    - 21455
+    loggedSeconds: 21569
+    flyingSeconds:
+    - 0
+    - 21469
+    loggedTimes:
+    - 2019-07-23T10:44:56Z
+    - 2019-07-23T16:44:25Z
+    flyingTimes:
+    - 2019-07-23T10:44:56Z
+    - 2019-07-23T16:42:45Z
+- - - '64'
+    - Laszlo Okros
+  - loggedFixes: 20591
+    flyingFixes:
+    - 0
+    - 20335
+    loggedSeconds: 20590
+    flyingSeconds:
+    - 0
+    - 20335
+    loggedTimes:
+    - 2019-07-23T10:26:54Z
+    - 2019-07-23T16:10:04Z
+    flyingTimes:
+    - 2019-07-23T10:26:54Z
+    - 2019-07-23T16:05:49Z
+- - - '33'
+    - Lukas Vojacek
+  - loggedFixes: 21060
+    flyingFixes:
+    - 0
+    - 20950
+    loggedSeconds: 21059
+    flyingSeconds:
+    - 0
+    - 20950
+    loggedTimes:
+    - 2019-07-23T10:41:28Z
+    - 2019-07-23T16:32:27Z
+    flyingTimes:
+    - 2019-07-23T10:41:28Z
+    - 2019-07-23T16:30:38Z
+- - - '53'
+    - Malcolm Brown
+  - loggedFixes: 19725
+    flyingFixes:
+    - 0
+    - 19518
+    loggedSeconds: 19724
+    flyingSeconds:
+    - 0
+    - 19518
+    loggedTimes:
+    - 2019-07-23T10:40:19Z
+    - 2019-07-23T16:09:03Z
+    flyingTimes:
+    - 2019-07-23T10:40:19Z
+    - 2019-07-23T16:05:37Z
+- - - '10'
+    - Manfred Ruhmer
+  - loggedFixes: 20534
+    flyingFixes:
+    - 0
+    - 20208
+    loggedSeconds: 20533
+    flyingSeconds:
+    - 0
+    - 20208
+    loggedTimes:
+    - 2019-07-23T10:17:43Z
+    - 2019-07-23T15:59:56Z
+    flyingTimes:
+    - 2019-07-23T10:17:43Z
+    - 2019-07-23T15:54:31Z
+- - - '71'
+    - Manuel REVELLI
+  - loggedFixes: 17456
+    flyingFixes:
+    - 4137
+    - 17283
+    loggedSeconds: 17455
+    flyingSeconds:
+    - 4137
+    - 17283
+    loggedTimes:
+    - 2019-07-23T09:23:52Z
+    - 2019-07-23T14:14:47Z
+    flyingTimes:
+    - 2019-07-23T10:32:49Z
+    - 2019-07-23T14:11:55Z
+- - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - loggedFixes: 25126
+    flyingFixes:
+    - 3407
+    - 24401
+    loggedSeconds: 25125
+    flyingSeconds:
+    - 3407
+    - 24401
+    loggedTimes:
+    - 2019-07-23T09:29:04Z
+    - 2019-07-23T16:27:49Z
+    flyingTimes:
+    - 2019-07-23T10:25:51Z
+    - 2019-07-23T16:15:45Z
+- - - '67'
+    - Marco Laurenzi
+  - loggedFixes: 20671
+    flyingFixes:
+    - 0
+    - 20560
+    loggedSeconds: 20670
+    flyingSeconds:
+    - 0
+    - 20560
+    loggedTimes:
+    - 2019-07-23T10:14:10Z
+    - 2019-07-23T15:58:40Z
+    flyingTimes:
+    - 2019-07-23T10:14:10Z
+    - 2019-07-23T15:56:50Z
+- - - '110'
+    - Markel Neideman
+  - loggedFixes: 21835
+    flyingFixes:
+    - 0
+    - 21280
+    loggedSeconds: 21834
+    flyingSeconds:
+    - 0
+    - 21280
+    loggedTimes:
+    - 2019-07-23T10:42:15Z
+    - 2019-07-23T16:46:09Z
+    flyingTimes:
+    - 2019-07-23T10:42:15Z
+    - 2019-07-23T16:36:55Z
+- - - '102'
+    - Matjaz Klemencic
+  - loggedFixes: 21537
+    flyingFixes:
+    - 0
+    - 20631
+    loggedSeconds: 21536
+    flyingSeconds:
+    - 0
+    - 20631
+    loggedTimes:
+    - 2019-07-23T10:38:42Z
+    - 2019-07-23T16:37:38Z
+    flyingTimes:
+    - 2019-07-23T10:38:42Z
+    - 2019-07-23T16:22:33Z
+- - - '94'
+    - Matthew Barlow
+  - loggedFixes: 23487
+    flyingFixes:
+    - 0
+    - 14379
+    loggedSeconds: 23489
+    flyingSeconds:
+    - 0
+    - 14379
+    loggedTimes:
+    - 2019-07-23T10:52:29Z
+    - 2019-07-23T17:23:58Z
+    flyingTimes:
+    - 2019-07-23T10:52:29Z
+    - 2019-07-23T14:52:08Z
+- - - '99'
+    - Mikolaj Przezdziak
+  - loggedFixes: 20039
+    flyingFixes:
+    - 0
+    - 19597
+    loggedSeconds: 20038
+    flyingSeconds:
+    - 0
+    - 19597
+    loggedTimes:
+    - 2019-07-23T10:44:36Z
+    - 2019-07-23T16:18:34Z
+    flyingTimes:
+    - 2019-07-23T10:44:36Z
+    - 2019-07-23T16:11:13Z
+- - - '79'
+    - Minoru Kato
+  - loggedFixes: 19358
+    flyingFixes:
+    - 0
+    - 19244
+    loggedSeconds: 19357
+    flyingSeconds:
+    - 0
+    - 19244
+    loggedTimes:
+    - 2019-07-23T10:13:40Z
+    - 2019-07-23T15:36:17Z
+    flyingTimes:
+    - 2019-07-23T10:13:40Z
+    - 2019-07-23T15:34:24Z
+- - - '7'
+    - Nils Vesk
+  - loggedFixes: 23190
+    flyingFixes:
+    - 0
+    - 22803
+    loggedSeconds: 23189
+    flyingSeconds:
+    - 0
+    - 22803
+    loggedTimes:
+    - 2019-07-23T10:39:50Z
+    - 2019-07-23T17:06:19Z
+    flyingTimes:
+    - 2019-07-23T10:39:50Z
+    - 2019-07-23T16:59:53Z
+- - - '65'
+    - Noel Collins
+  - loggedFixes: 20170
+    flyingFixes:
+    - 2851
+    - 20110
+    loggedSeconds: 20169
+    flyingSeconds:
+    - 2851
+    - 20110
+    loggedTimes:
+    - 2019-07-23T09:54:14Z
+    - 2019-07-23T15:30:23Z
+    flyingTimes:
+    - 2019-07-23T10:41:45Z
+    - 2019-07-23T15:29:24Z
+- - - '91'
+    - Olav Opsanger
+  - loggedFixes: 21473
+    flyingFixes:
+    - 0
+    - 21145
+    loggedSeconds: 21472
+    flyingSeconds:
+    - 0
+    - 21145
+    loggedTimes:
+    - 2019-07-23T10:10:29Z
+    - 2019-07-23T16:08:21Z
+    flyingTimes:
+    - 2019-07-23T10:10:29Z
+    - 2019-07-23T16:02:54Z
+- - - '119'
+    - Pedro L. Garcia
+  - loggedFixes: 21808
+    flyingFixes:
+    - 0
+    - 21682
+    loggedSeconds: 21807
+    flyingSeconds:
+    - 0
+    - 21682
+    loggedTimes:
+    - 2019-07-23T10:10:42Z
+    - 2019-07-23T16:14:09Z
+    flyingTimes:
+    - 2019-07-23T10:10:42Z
+    - 2019-07-23T16:12:04Z
+- - - '5'
+    - Peter Burkitt
+  - loggedFixes: 2628
+    flyingFixes:
+    - 0
+    - 2402
+    loggedSeconds: 2627
+    flyingSeconds:
+    - 0
+    - 2402
+    loggedTimes:
+    - 2019-07-23T10:57:02Z
+    - 2019-07-23T11:40:49Z
+    flyingTimes:
+    - 2019-07-23T10:57:02Z
+    - 2019-07-23T11:37:04Z
+- - - '107'
+    - Peter Neuenschwander
+  - loggedFixes: 24354
+    flyingFixes:
+    - 3828
+    - 24199
+    loggedSeconds: 24353
+    flyingSeconds:
+    - 3828
+    - 24199
+    loggedTimes:
+    - 2019-07-23T09:11:06Z
+    - 2019-07-23T15:56:59Z
+    flyingTimes:
+    - 2019-07-23T10:14:54Z
+    - 2019-07-23T15:54:25Z
+- - - '34'
+    - Petr Polach
+  - loggedFixes: 20920
+    flyingFixes:
+    - 0
+    - 20881
+    loggedSeconds: 20919
+    flyingSeconds:
+    - 0
+    - 20881
+    loggedTimes:
+    - 2019-07-23T10:31:24Z
+    - 2019-07-23T16:20:03Z
+    flyingTimes:
+    - 2019-07-23T10:31:24Z
+    - 2019-07-23T16:19:25Z
+- - - '98'
+    - Piers Throssell
+  - loggedFixes: 13516
+    flyingFixes:
+    - 0
+    - 13420
+    loggedSeconds: 13515
+    flyingSeconds:
+    - 0
+    - 13420
+    loggedTimes:
+    - 2019-07-23T10:47:41Z
+    - 2019-07-23T14:32:56Z
+    flyingTimes:
+    - 2019-07-23T10:47:41Z
+    - 2019-07-23T14:31:21Z
+- - - '57'
+    - Primoz Gricar
+  - loggedFixes: 20297
+    flyingFixes:
+    - 0
+    - 19225
+    loggedSeconds: 20296
+    flyingSeconds:
+    - 0
+    - 19225
+    loggedTimes:
+    - 2019-07-23T10:20:27Z
+    - 2019-07-23T15:58:43Z
+    flyingTimes:
+    - 2019-07-23T10:20:27Z
+    - 2019-07-23T15:40:52Z
+- - - '2'
+    - Rohan Taylor
+  - loggedFixes: 19928
+    flyingFixes:
+    - 0
+    - 19699
+    loggedSeconds: 19927
+    flyingSeconds:
+    - 0
+    - 19699
+    loggedTimes:
+    - 2019-07-23T10:45:10Z
+    - 2019-07-23T16:17:17Z
+    flyingTimes:
+    - 2019-07-23T10:45:10Z
+    - 2019-07-23T16:13:29Z
+- - - '58'
+    - Roland Woehrle
+  - loggedFixes: 23227
+    flyingFixes:
+    - 0
+    - 21067
+    loggedSeconds: 23226
+    flyingSeconds:
+    - 0
+    - 21067
+    loggedTimes:
+    - 2019-07-23T10:08:34Z
+    - 2019-07-23T16:35:40Z
+    flyingTimes:
+    - 2019-07-23T10:08:34Z
+    - 2019-07-23T15:59:41Z
+- - - '3'
+    - Rory Duncan
+  - loggedFixes: 25104
+    flyingFixes:
+    - 0
+    - 23914
+    loggedSeconds: 25103
+    flyingSeconds:
+    - 0
+    - 23914
+    loggedTimes:
+    - 2019-07-23T10:25:58Z
+    - 2019-07-23T17:24:21Z
+    flyingTimes:
+    - 2019-07-23T10:25:58Z
+    - 2019-07-23T17:04:32Z
+- - - '83'
+    - Sander van Schaik
+  - loggedFixes: 16458
+    flyingFixes:
+    - 0
+    - 15968
+    loggedSeconds: 16457
+    flyingSeconds:
+    - 0
+    - 15968
+    loggedTimes:
+    - 2019-07-23T10:46:41Z
+    - 2019-07-23T15:20:58Z
+    flyingTimes:
+    - 2019-07-23T10:46:41Z
+    - 2019-07-23T15:12:49Z
+- - - '96'
+    - Shane mckay
+  - loggedFixes: 22768
+    flyingFixes:
+    - 4492
+    - 20719
+    loggedSeconds: 24122
+    flyingSeconds:
+    - 5847
+    - 22074
+    loggedTimes:
+    - 2019-07-23T09:06:31Z
+    - 2019-07-23T15:48:33Z
+    flyingTimes:
+    - 2019-07-23T10:43:58Z
+    - 2019-07-23T15:14:25Z
+- - - '76'
+    - Shogo Ota
+  - loggedFixes: 20659
+    flyingFixes:
+    - 0
+    - 20354
+    loggedSeconds: 20660
+    flyingSeconds:
+    - 0
+    - 20356
+    loggedTimes:
+    - 2019-07-23T10:43:06Z
+    - 2019-07-23T16:27:26Z
+    flyingTimes:
+    - 2019-07-23T10:43:06Z
+    - 2019-07-23T16:22:22Z
+- - - '105'
+    - Stanislav GALOVEC
+  - loggedFixes: 23037
+    flyingFixes:
+    - 0
+    - 22542
+    loggedSeconds: 23036
+    flyingSeconds:
+    - 0
+    - 22542
+    loggedTimes:
+    - 2019-07-23T10:36:37Z
+    - 2019-07-23T17:00:33Z
+    flyingTimes:
+    - 2019-07-23T10:36:37Z
+    - 2019-07-23T16:52:19Z
+- - - '1'
+    - Steve Blenkinsop
+  - loggedFixes: 21577
+    flyingFixes:
+    - 0
+    - 20922
+    loggedSeconds: 21576
+    flyingSeconds:
+    - 0
+    - 20922
+    loggedTimes:
+    - 2019-07-23T10:11:19Z
+    - 2019-07-23T16:10:55Z
+    flyingTimes:
+    - 2019-07-23T10:11:19Z
+    - 2019-07-23T16:00:01Z
+- - - '9'
+    - Steve Docherty
+  - loggedFixes: 19932
+    flyingFixes:
+    - 0
+    - 19580
+    loggedSeconds: 19931
+    flyingSeconds:
+    - 0
+    - 19580
+    loggedTimes:
+    - 2019-07-23T10:36:12Z
+    - 2019-07-23T16:08:23Z
+    flyingTimes:
+    - 2019-07-23T10:36:12Z
+    - 2019-07-23T16:02:32Z
+- - - '69'
+    - Suan SELENATI
+  - loggedFixes: 12410
+    flyingFixes:
+    - 0
+    - 11927
+    loggedSeconds: 12409
+    flyingSeconds:
+    - 0
+    - 11927
+    loggedTimes:
+    - 2019-07-23T10:19:12Z
+    - 2019-07-23T13:46:01Z
+    flyingTimes:
+    - 2019-07-23T10:19:12Z
+    - 2019-07-23T13:37:59Z
+- - - '77'
+    - Takashi Sunama
+  - loggedFixes: 18945
+    flyingFixes:
+    - 0
+    - 18824
+    loggedSeconds: 18944
+    flyingSeconds:
+    - 0
+    - 18824
+    loggedTimes:
+    - 2019-07-23T10:31:48Z
+    - 2019-07-23T15:47:32Z
+    flyingTimes:
+    - 2019-07-23T10:31:48Z
+    - 2019-07-23T15:45:32Z
+- - - '86'
+    - Tanno Rutten
+  - loggedFixes: 21347
+    flyingFixes:
+    - 0
+    - 21346
+    loggedSeconds: 21346
+    flyingSeconds:
+    - 0
+    - 21346
+    loggedTimes:
+    - 2019-07-23T10:53:27Z
+    - 2019-07-23T16:49:13Z
+    flyingTimes:
+    - 2019-07-23T10:53:27Z
+    - 2019-07-23T16:49:13Z
+- - - '97'
+    - Tom Kellner
+  - loggedFixes: 13518
+    flyingFixes:
+    - 0
+    - 13060
+    loggedSeconds: 13517
+    flyingSeconds:
+    - 0
+    - 13060
+    loggedTimes:
+    - 2019-07-23T10:53:11Z
+    - 2019-07-23T14:38:28Z
+    flyingTimes:
+    - 2019-07-23T10:53:11Z
+    - 2019-07-23T14:30:51Z
+- - - '111'
+    - Tommy Nilsson
+  - loggedFixes: 22694
+    flyingFixes:
+    - 0
+    - 22485
+    loggedSeconds: 22693
+    flyingSeconds:
+    - 0
+    - 22485
+    loggedTimes:
+    - 2019-07-23T10:55:30Z
+    - 2019-07-23T17:13:43Z
+    flyingTimes:
+    - 2019-07-23T10:55:30Z
+    - 2019-07-23T17:10:15Z
+- - - '4'
+    - Trent Brown
+  - loggedFixes: 19764
+    flyingFixes:
+    - 0
+    - 19454
+    loggedSeconds: 19763
+    flyingSeconds:
+    - 0
+    - 19454
+    loggedTimes:
+    - 2019-07-23T10:39:28Z
+    - 2019-07-23T16:08:51Z
+    flyingTimes:
+    - 2019-07-23T10:39:28Z
+    - 2019-07-23T16:03:42Z
+- - - '16'
+    - Tschurnig Gunther
+  - loggedFixes: 21505
+    flyingFixes:
+    - 0
+    - 21075
+    loggedSeconds: 21504
+    flyingSeconds:
+    - 0
+    - 21075
+    loggedTimes:
+    - 2019-07-23T10:11:44Z
+    - 2019-07-23T16:10:08Z
+    flyingTimes:
+    - 2019-07-23T10:11:44Z
+    - 2019-07-23T16:02:59Z
+- - - '66'
+    - Tullio Gervasoni
+  - loggedFixes: 24541
+    flyingFixes:
+    - 4475
+    - 23971
+    loggedSeconds: 24544
+    flyingSeconds:
+    - 4479
+    - 23975
+    loggedTimes:
+    - 2019-07-23T09:17:41Z
+    - 2019-07-23T16:06:45Z
+    flyingTimes:
+    - 2019-07-23T10:32:20Z
+    - 2019-07-23T15:57:16Z
+- - - '39'
+    - Tximo Iriarte
+  - loggedFixes: 23360
+    flyingFixes:
+    - 4877
+    - 22814
+    loggedSeconds: 23359
+    flyingSeconds:
+    - 4877
+    - 22814
+    loggedTimes:
+    - 2019-07-23T09:25:01Z
+    - 2019-07-23T15:54:20Z
+    flyingTimes:
+    - 2019-07-23T10:46:18Z
+    - 2019-07-23T15:45:15Z
+- - - '26'
+    - Tyler Borradaile
+  - loggedFixes: 25185
+    flyingFixes:
+    - 1986
+    - 23701
+    loggedSeconds: 25184
+    flyingSeconds:
+    - 1986
+    - 23701
+    loggedTimes:
+    - 2019-07-23T09:39:18Z
+    - 2019-07-23T16:39:02Z
+    flyingTimes:
+    - 2019-07-23T10:12:24Z
+    - 2019-07-23T16:14:19Z
+- - - '106'
+    - Ubaldo Romano
+  - loggedFixes: 22685
+    flyingFixes:
+    - 0
+    - 22560
+    loggedSeconds: 22684
+    flyingSeconds:
+    - 0
+    - 22560
+    loggedTimes:
+    - 2019-07-23T10:40:47Z
+    - 2019-07-23T16:58:51Z
+    flyingTimes:
+    - 2019-07-23T10:40:47Z
+    - 2019-07-23T16:56:47Z
+- - - '122'
+    - Vanni Accattoli
+  - loggedFixes: 20721
+    flyingFixes:
+    - 0
+    - 20191
+    loggedSeconds: 20720
+    flyingSeconds:
+    - 0
+    - 20191
+    loggedTimes:
+    - 2019-07-23T10:32:00Z
+    - 2019-07-23T16:17:20Z
+    flyingTimes:
+    - 2019-07-23T10:32:00Z
+    - 2019-07-23T16:08:31Z
+- - - '95'
+    - Viv Clements
+  - loggedFixes: 17968
+    flyingFixes:
+    - 0
+    - 17746
+    loggedSeconds: 17967
+    flyingSeconds:
+    - 0
+    - 17746
+    loggedTimes:
+    - 2019-07-23T10:00:06Z
+    - 2019-07-23T14:59:33Z
+    flyingTimes:
+    - 2019-07-23T10:00:06Z
+    - 2019-07-23T14:55:52Z
+- - - '13'
+    - Walter Mayer
+  - loggedFixes: 20742
+    flyingFixes:
+    - 0
+    - 20508
+    loggedSeconds: 20741
+    flyingSeconds:
+    - 0
+    - 20508
+    loggedTimes:
+    - 2019-07-23T10:21:59Z
+    - 2019-07-23T16:07:40Z
+    flyingTimes:
+    - 2019-07-23T10:21:59Z
+    - 2019-07-23T16:03:47Z
+- - - '118'
+    - Will Ramsey
+  - loggedFixes: 15206
+    flyingFixes:
+    - 0
+    - 14777
+    loggedSeconds: 15205
+    flyingSeconds:
+    - 0
+    - 14777
+    loggedTimes:
+    - 2019-07-23T09:59:26Z
+    - 2019-07-23T14:12:51Z
+    flyingTimes:
+    - 2019-07-23T09:59:26Z
+    - 2019-07-23T14:05:43Z
+- - - '15'
+    - Wolfgang Siess
+  - loggedFixes: 26710
+    flyingFixes:
+    - 4092
+    - 26558
+    loggedSeconds: 27594
+    flyingSeconds:
+    - 4977
+    - 27443
+    loggedTimes:
+    - 2019-07-23T09:10:07Z
+    - 2019-07-23T16:50:01Z
+    flyingTimes:
+    - 2019-07-23T10:33:04Z
+    - 2019-07-23T16:47:30Z
+- - - '81'
+    - Young don Lee
+  - loggedFixes: 22154
+    flyingFixes:
+    - 0
+    - 22073
+    loggedSeconds: 22153
+    flyingSeconds:
+    - 0
+    - 22073
+    loggedTimes:
+    - 2019-07-23T10:45:22Z
+    - 2019-07-23T16:54:35Z
+    flyingTimes:
+    - 2019-07-23T10:45:22Z
+    - 2019-07-23T16:53:15Z
+- - - '78'
+    - Yuji Suzuki
+  - loggedFixes: 22112
+    flyingFixes:
+    - 0
+    - 21123
+    loggedSeconds: 22111
+    flyingSeconds:
+    - 0
+    - 21123
+    loggedTimes:
+    - 2019-07-23T10:18:10Z
+    - 2019-07-23T16:26:41Z
+    flyingTimes:
+    - 2019-07-23T10:18:10Z
+    - 2019-07-23T16:10:13Z
+- - - '117'
+    - Zac Majors
+  - loggedFixes: 14587
+    flyingFixes:
+    - 0
+    - 13792
+    loggedSeconds: 14586
+    flyingSeconds:
+    - 0
+    - 13792
+    loggedTimes:
+    - 2019-07-23T10:32:32Z
+    - 2019-07-23T14:35:38Z
+    flyingTimes:
+    - 2019-07-23T10:32:32Z
+    - 2019-07-23T14:22:24Z
+- - - '82'
+    - jaesun moon
+  - loggedFixes: 21638
+    flyingFixes:
+    - 6175
+    - 21472
+    loggedSeconds: 21637
+    flyingSeconds:
+    - 6175
+    - 21472
+    loggedTimes:
+    - 2019-07-23T09:13:41Z
+    - 2019-07-23T15:14:18Z
+    flyingTimes:
+    - 2019-07-23T10:56:36Z
+    - 2019-07-23T15:11:33Z
+- - - '104'
+    - janez grm
+  - loggedFixes: 23278
+    flyingFixes:
+    - 0
+    - 16352
+    loggedSeconds: 23285
+    flyingSeconds:
+    - 0
+    - 16360
+    loggedTimes:
+    - 2019-07-23T10:56:10Z
+    - 2019-07-23T17:24:15Z
+    flyingTimes:
+    - 2019-07-23T10:56:10Z
+    - 2019-07-23T15:28:50Z
+- - - '44'
+    - mario ALONZI
+  - loggedFixes: 21222
+    flyingFixes:
+    - 0
+    - 20348
+    loggedSeconds: 21221
+    flyingSeconds:
+    - 0
+    - 20348
+    loggedTimes:
+    - 2019-07-23T10:16:34Z
+    - 2019-07-23T16:10:15Z
+    flyingTimes:
+    - 2019-07-23T10:16:34Z
+    - 2019-07-23T15:55:42Z

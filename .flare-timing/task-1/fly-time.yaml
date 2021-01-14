@@ -1,0 +1,210 @@
+suspectDnf: []
+flying:
+- - - '41'
+    - Chomin Gallego Escribano
+  - loggedFixes: 6439
+    flyingFixes:
+    - 0
+    - 2380
+    loggedSeconds: 6438
+    flyingSeconds:
+    - 0
+    - 2380
+    loggedTimes:
+    - 2019-07-14T12:24:25Z
+    - 2019-07-14T14:11:43Z
+    flyingTimes:
+    - 2019-07-14T12:24:25Z
+    - 2019-07-14T13:04:05Z
+- - - '6'
+    - Craig Taylor
+  - loggedFixes: 6269
+    flyingFixes:
+    - 0
+    - 5835
+    loggedSeconds: 6268
+    flyingSeconds:
+    - 0
+    - 5835
+    loggedTimes:
+    - 2019-07-14T11:49:29Z
+    - 2019-07-14T13:33:57Z
+    flyingTimes:
+    - 2019-07-14T11:49:29Z
+    - 2019-07-14T13:26:44Z
+- - - '38'
+    - Daniel Martin Mota
+  - loggedFixes: 5497
+    flyingFixes:
+    - 0
+    - 4885
+    loggedSeconds: 5496
+    flyingSeconds:
+    - 0
+    - 4885
+    loggedTimes:
+    - 2019-07-14T12:39:37Z
+    - 2019-07-14T14:11:13Z
+    flyingTimes:
+    - 2019-07-14T12:39:37Z
+    - 2019-07-14T14:01:02Z
+- - - '17'
+    - Fabio Thomaz
+  - loggedFixes: 8389
+    flyingFixes:
+    - 276
+    - 1913
+    loggedSeconds: 8457
+    flyingSeconds:
+    - 276
+    - 1913
+    loggedTimes:
+    - 2019-07-14T13:04:46Z
+    - 2019-07-14T15:25:43Z
+    flyingTimes:
+    - 2019-07-14T13:09:22Z
+    - 2019-07-14T13:36:39Z
+- - - '70'
+    - Filippo Oppici
+  - loggedFixes: 246
+    flyingFixes:
+    - 42
+    - 245
+    loggedSeconds: 246
+    flyingSeconds:
+    - 42
+    - 246
+    loggedTimes:
+    - 2019-07-14T15:02:49Z
+    - 2019-07-14T15:06:55Z
+    flyingTimes:
+    - 2019-07-14T15:03:31Z
+    - 2019-07-14T15:06:55Z
+- - - '60'
+    - Georg Schweier
+  - loggedFixes: 14147
+    flyingFixes:
+    - 0
+    - 4758
+    loggedSeconds: 14182
+    flyingSeconds:
+    - 0
+    - 4758
+    loggedTimes:
+    - 2019-07-14T12:29:39Z
+    - 2019-07-14T16:26:01Z
+    flyingTimes:
+    - 2019-07-14T12:29:39Z
+    - 2019-07-14T13:48:57Z
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - loggedFixes: 6298
+    flyingFixes:
+    - 0
+    - 2740
+    loggedSeconds: 6297
+    flyingSeconds:
+    - 0
+    - 2740
+    loggedTimes:
+    - 2019-07-14T12:26:38Z
+    - 2019-07-14T14:11:35Z
+    flyingTimes:
+    - 2019-07-14T12:26:38Z
+    - 2019-07-14T13:12:18Z
+- - - '55'
+    - Kajo Clauss
+  - loggedFixes: 15631
+    flyingFixes:
+    - 0
+    - 6008
+    loggedSeconds: 15701
+    flyingSeconds:
+    - 0
+    - 6008
+    loggedTimes:
+    - 2019-07-14T12:34:48Z
+    - 2019-07-14T16:56:29Z
+    flyingTimes:
+    - 2019-07-14T12:34:48Z
+    - 2019-07-14T14:14:56Z
+- - - '98'
+    - Piers Throssell
+  - loggedFixes: 3707
+    flyingFixes:
+    - 2017
+    - 2089
+    loggedSeconds: 3706
+    flyingSeconds:
+    - 2017
+    - 2089
+    loggedTimes:
+    - 2019-07-14T11:01:28Z
+    - 2019-07-14T12:03:14Z
+    flyingTimes:
+    - 2019-07-14T11:35:05Z
+    - 2019-07-14T11:36:17Z
+- - - '58'
+    - Roland Woehrle
+  - loggedFixes: 7454
+    flyingFixes:
+    - 0
+    - 5369
+    loggedSeconds: 7453
+    flyingSeconds:
+    - 0
+    - 5369
+    loggedTimes:
+    - 2019-07-14T12:05:00Z
+    - 2019-07-14T14:09:13Z
+    flyingTimes:
+    - 2019-07-14T12:05:00Z
+    - 2019-07-14T13:34:29Z
+- - - '16'
+    - Tschurnig Gunther
+  - loggedFixes: 8342
+    flyingFixes:
+    - 1911
+    - 3635
+    loggedSeconds: 8412
+    flyingSeconds:
+    - 1911
+    - 3635
+    loggedTimes:
+    - 2019-07-14T13:04:47Z
+    - 2019-07-14T15:24:59Z
+    flyingTimes:
+    - 2019-07-14T13:36:38Z
+    - 2019-07-14T14:05:22Z
+- - - '66'
+    - Tullio Gervasoni
+  - loggedFixes: 7772
+    flyingFixes:
+    - 0
+    - 6846
+    loggedSeconds: 9930
+    flyingSeconds:
+    - 0
+    - 8980
+    loggedTimes:
+    - 2019-07-14T11:26:47Z
+    - 2019-07-14T14:12:17Z
+    flyingTimes:
+    - 2019-07-14T11:26:47Z
+    - 2019-07-14T13:56:27Z
+- - - '39'
+    - Tximo Iriarte
+  - loggedFixes: 11027
+    flyingFixes:
+    - 4863
+    - 10170
+    loggedSeconds: 11026
+    flyingSeconds:
+    - 4863
+    - 10170
+    loggedTimes:
+    - 2019-07-14T11:08:05Z
+    - 2019-07-14T14:11:51Z
+    flyingTimes:
+    - 2019-07-14T12:29:08Z
+    - 2019-07-14T13:57:35Z

@@ -1,0 +1,51 @@
+ssBestTime: 1.034654 h
+gsBestTime: 3.168428 h
+taskDistance: 24.237249 km
+taskSpeedDistance: 19.600000 km
+ssSpeed:
+- - - '6'
+    - Craig Taylor
+  - time: 1.034654 h
+    frac: 1
+gsSpeed:
+- - - '6'
+    - Craig Taylor
+  - time: 3.168428 h
+    frac: 1
+altStopped:
+- - - '41'
+    - Chomin Gallego Escribano
+  - 225.000 m
+- - - '38'
+    - Daniel Martin Mota
+  - 224.000 m
+- - - '17'
+    - Fabio Thomaz
+  - 267.000 m
+- - - '70'
+    - Filippo Oppici
+  - 305.000 m
+- - - '60'
+    - Georg Schweier
+  - 233.000 m
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - 224.000 m
+- - - '55'
+    - Kajo Clauss
+  - 229.000 m
+- - - '98'
+    - Piers Throssell
+  - 959.000 m
+- - - '58'
+    - Roland Woehrle
+  - 232.000 m
+- - - '16'
+    - Tschurnig Gunther
+  - 205.000 m
+- - - '66'
+    - Tullio Gervasoni
+  - 228.000 m
+- - - '39'
+    - Tximo Iriarte
+  - 226.000 m

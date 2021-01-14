@@ -1,0 +1,168 @@
+bestDistance: 24.237249 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 251
+  - 25.1 km
+  sumOf: 610
+landout: 12
+lookahead: 61
+difficulty:
+- chunk: 12
+  startChunk: 1.2 km
+  endChunk: 1.3 km
+  endAhead: 7.4 km
+  down: 1
+  downs:
+  - 1.213 km
+  downers:
+  - - '98'
+    - Piers Throssell
+  downward: 7
+  rel: 5.7377e-3
+  frac: 6.640625e-2
+- chunk: 20
+  startChunk: 2.0 km
+  endChunk: 2.1 km
+  endAhead: 8.2 km
+  down: 1
+  downs:
+  - 2.021 km
+  downers:
+  - - '17'
+    - Fabio Thomaz
+  downward: 6
+  rel: 4.91803e-3
+  frac: 0.10571289
+- chunk: 46
+  startChunk: 4.6 km
+  endChunk: 4.7 km
+  endAhead: 10.8 km
+  down: 1
+  downs:
+  - 4.603 km
+  downers:
+  - - '41'
+    - Chomin Gallego Escribano
+  downward: 7
+  rel: 5.7377e-3
+  frac: 0.25
+- chunk: 48
+  startChunk: 4.8 km
+  endChunk: 4.9 km
+  endAhead: 11.0 km
+  down: 1
+  downs:
+  - 4.866 km
+  downers:
+  - - '40'
+    - Jesus Mari Hernando Duque
+  downward: 6
+  rel: 4.91803e-3
+  frac: 0.25976562
+- chunk: 55
+  startChunk: 5.5 km
+  endChunk: 5.6 km
+  endAhead: 11.7 km
+  down: 1
+  downs:
+  - 5.520 km
+  downers:
+  - - '60'
+    - Georg Schweier
+  downward: 5
+  rel: 4.09836e-3
+  frac: 0.28857422
+- chunk: 57
+  startChunk: 5.7 km
+  endChunk: 5.8 km
+  endAhead: 11.9 km
+  down: 1
+  downs:
+  - 5.725 km
+  downers:
+  - - '38'
+    - Daniel Martin Mota
+  downward: 4
+  rel: 3.27869e-3
+  frac: 0.29516602
+- chunk: 70
+  startChunk: 7.0 km
+  endChunk: 7.1 km
+  endAhead: 13.2 km
+  down: 1
+  downs:
+  - 7.070 km
+  downers:
+  - - '39'
+    - Tximo Iriarte
+  downward: 4
+  rel: 3.27869e-3
+  frac: 0.33447266
+- chunk: 81
+  startChunk: 8.1 km
+  endChunk: 8.2 km
+  endAhead: 14.3 km
+  down: 1
+  downs:
+  - 8.124 km
+  downers:
+  - - '55'
+    - Kajo Clauss
+  downward: 3
+  rel: 2.45902e-3
+  frac: 0.36157227
+- chunk: 87
+  startChunk: 8.7 km
+  endChunk: 8.8 km
+  endAhead: 14.9 km
+  down: 1
+  downs:
+  - 8.765 km
+  downers:
+  - - '16'
+    - Tschurnig Gunther
+  downward: 2
+  rel: 1.63934e-3
+  frac: 0.37133789
+- chunk: 122
+  startChunk: 12.2 km
+  endChunk: 12.3 km
+  endAhead: 18.4 km
+  down: 1
+  downs:
+  - 12.249 km
+  downers:
+  - - '66'
+    - Tullio Gervasoni
+  downward: 2
+  rel: 1.63934e-3
+  frac: 0.41235352
+- chunk: 168
+  startChunk: 16.8 km
+  endChunk: 16.9 km
+  endAhead: 23.0 km
+  down: 1
+  downs:
+  - 16.841 km
+  downers:
+  - - '58'
+    - Roland Woehrle
+  downward: 1
+  rel: 8.1967e-4
+  frac: 0.44995117
+- chunk: 242
+  startChunk: 24.2 km
+  endChunk: 24.3 km
+  endAhead: 30.4 km
+  down: 1
+  downs:
+  - 24.226 km
+  downers:
+  - - '70'
+    - Filippo Oppici
+  downward: 1
+  rel: 8.1967e-4
+  frac: 0.5

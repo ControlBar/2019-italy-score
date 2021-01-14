@@ -1,0 +1,170 @@
+bolster:
+  max: 24.237249 km
+  mean: 11.039519 km
+  stdDev: 6.266676 km
+reach:
+  max: 24.237249 km
+  mean: 9.651018 km
+  stdDev: 7.357257 km
+reachRank:
+- - - '6'
+    - Craig Taylor
+  - frac: 1
+    reach: 24.237249 km
+- - - '70'
+    - Filippo Oppici
+  - frac: 0.99954615
+    reach: 24.226249 km
+- - - '58'
+    - Roland Woehrle
+  - frac: 0.69484986
+    reach: 16.841249 km
+- - - '66'
+    - Tullio Gervasoni
+  - frac: 0.50538941
+    reach: 12.249249 km
+- - - '16'
+    - Tschurnig Gunther
+  - frac: 0.36164372
+    reach: 8.765249 km
+- - - '55'
+    - Kajo Clauss
+  - frac: 0.33519683
+    reach: 8.124249 km
+- - - '39'
+    - Tximo Iriarte
+  - frac: 0.29171005
+    reach: 7.070249 km
+- - - '38'
+    - Daniel Martin Mota
+  - frac: 0.23621695
+    reach: 5.725249 km
+- - - '60'
+    - Georg Schweier
+  - frac: 0.22775889
+    reach: 5.520249 km
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - frac: 0.20077563
+    reach: 4.866249 km
+- - - '41'
+    - Chomin Gallego Escribano
+  - frac: 0.18992457
+    reach: 4.603249 km
+- - - '17'
+    - Fabio Thomaz
+  - frac: 8.339432e-2
+    reach: 2.021249 km
+- - - '98'
+    - Piers Throssell
+  - frac: 5.005721e-2
+    reach: 1.213249 km
+nigh:
+- - - '70'
+    - Filippo Oppici
+  - togo:
+      distance: 0.011000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 24.226249 km
+- - - '16'
+    - Tschurnig Gunther
+  - togo:
+      distance: 15.472000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 8.765249 km
+- - - '60'
+    - Georg Schweier
+  - togo:
+      distance: 18.717000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 5.520249 km
+- - - '58'
+    - Roland Woehrle
+  - togo:
+      distance: 7.396000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 16.841249 km
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - togo:
+      distance: 19.371000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 4.866249 km
+- - - '55'
+    - Kajo Clauss
+  - togo:
+      distance: 16.113000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 8.124249 km
+- - - '38'
+    - Daniel Martin Mota
+  - togo:
+      distance: 18.512000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 5.725249 km
+- - - '41'
+    - Chomin Gallego Escribano
+  - togo:
+      distance: 19.634000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 4.603249 km
+- - - '39'
+    - Tximo Iriarte
+  - togo:
+      distance: 17.167000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 7.070249 km
+- - - '66'
+    - Tullio Gervasoni
+  - togo:
+      distance: 11.988000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 12.249249 km
+- - - '98'
+    - Piers Throssell
+  - togo:
+      distance: 23.024000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 1.213249 km
+- - - '17'
+    - Fabio Thomaz
+  - togo:
+      distance: 22.216000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 2.021249 km

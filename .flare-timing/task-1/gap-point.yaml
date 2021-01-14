@@ -1,0 +1,1224 @@
+validityWorking:
+  time:
+    nominalTime: 1.500000 h
+    ssBestTime: 1.034654 h
+    gsBestTime: 3.168428 h
+    nominalDistance: 70.0 km
+    reachMax:
+      extra: 24.237249 km
+      flown: 24.237249 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 13
+    present: 13
+  distance:
+    sum: 52.5 km
+    flying: 13
+    area: 40.95
+    nominalGoal: 0.3
+    nominalDistance: 70.0 km
+    minimumDistance: 7.000 km
+    reachMax:
+      extra: 24.237249 km
+      flown: 24.237249 km
+  stop: null
+validity:
+  time: 1
+  launch: 1
+  distance: 9.864515e-2
+  task: 9.864515e-2
+  stop: null
+allocation:
+  goalRatio: 7.692308e-2
+  weight:
+    effort: 0.39089599
+    arrival: 2.7276e-2
+    time: 0.15274561
+    reach: 0.39089599
+    distance: 0.78179199
+    leading: 3.81864e-2
+  points:
+    effort: 38.56
+    arrival: 2.7
+    time: 15.1
+    reach: 38.56
+    distance: 77.12
+    leading: 3.8
+  taskPoints: 98.645
+score:
+- - - '6'
+    - Craig Taylor
+  - place: '1'
+    total: 91.327
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds:
+      - penalty-points: -3.5516515488373632
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds:
+      - penalty-points: -3.5516515488373632
+      muls: []
+      resets: []
+    breakdown:
+      effort: 38.56
+      arrival: 2.7
+      time: 15.1
+      reach: 38.56
+      distance: 77.12
+      leading: 0
+    velocity:
+      ss: 2019-07-14T12:08:01.58534756644Z
+      gs: 2019-07-14T10:00:00Z
+      es: 2019-07-14T13:10:06.341374626693Z
+      ssDistance: 19.600 km
+      ssElapsed: 1.034654 h
+      gsElapsed: 3.168428 h
+      ssVelocity: 18.94 km / h
+      gsVelocity: 6.19 km / h
+    penaltyReason: ''
+    reach:
+      extra: 24.237 km
+      flown: 24.237 km
+    demeritFrac: 0
+    demeritPoint: 3.552
+    demeritReset: 0
+    subtotal: 94.878
+    landedMade: 24.237 km
+    stoppedAlt: null
+- - - '70'
+    - Filippo Oppici
+  - place: '2'
+    total: 80.869
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 38.56
+      arrival: 0
+      time: 0
+      reach: 38.542
+      distance: 77.102
+      leading: 3.8
+    velocity:
+      ss: null
+      gs: null
+      es: 2019-07-14T15:06:17.23338048421Z
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 24.226 km
+      flown: 24.226 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 80.869
+    landedMade: 24.226 km
+    stoppedAlt: 305.000 m
+- - - '58'
+    - Roland Woehrle
+  - place: '3'
+    total: 61.494
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 34.7
+      arrival: 0
+      time: 0
+      reach: 26.793
+      distance: 61.494
+      leading: 0
+    velocity:
+      ss: 2019-07-14T12:30:22.959848935493Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 16.841 km
+      flown: 16.841 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 61.494
+    landedMade: 16.841 km
+    stoppedAlt: 232.000 m
+- - - '66'
+    - Tullio Gervasoni
+  - place: '4'
+    total: 51.289
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 31.801
+      arrival: 0
+      time: 0
+      reach: 19.488
+      distance: 51.289
+      leading: 0
+    velocity:
+      ss: 2019-07-14T12:47:39.149299329718Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 12.249 km
+      flown: 12.249 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 51.289
+    landedMade: 12.249 km
+    stoppedAlt: 228.000 m
+- - - '16'
+    - Tschurnig Gunther
+  - place: '5'
+    total: 42.583
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 28.638
+      arrival: 0
+      time: 0
+      reach: 13.945
+      distance: 42.583
+      leading: 0
+    velocity:
+      ss: 2019-07-14T13:54:04.151278522273Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 8.765 km
+      flown: 8.765 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 42.583
+    landedMade: 8.765 km
+    stoppedAlt: 205.000 m
+- - - '55'
+    - Kajo Clauss
+  - place: '6'
+    total: 40.81
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 27.884
+      arrival: 0
+      time: 0
+      reach: 12.925
+      distance: 40.81
+      leading: 0
+    velocity:
+      ss: 2019-07-14T13:31:44.286755210388Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 8.124 km
+      flown: 8.124 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 40.81
+    landedMade: 8.124 km
+    stoppedAlt: 229.000 m
+- - - '39'
+    - Tximo Iriarte
+  - place: '7'
+    total: 37.043
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 25.795
+      arrival: 0
+      time: 0
+      reach: 11.248
+      distance: 37.043
+      leading: 0
+    velocity:
+      ss: 2019-07-14T13:11:34.056749395454Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 7.070 km
+      flown: 7.070 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 37.043
+    landedMade: 7.070 km
+    stoppedAlt: 226.000 m
+- - - '38'
+    - Daniel Martin Mota
+  - place: '8'
+    total: 33.9
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 22.763
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 33.9
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 5.725 km
+      flown: 5.725 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 33.9
+    landedMade: 5.725 km
+    stoppedAlt: 224.000 m
+- - - '60'
+    - Georg Schweier
+  - place: '9'
+    total: 33.391
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 22.255
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 33.391
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 5.520 km
+      flown: 5.520 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 33.391
+    landedMade: 5.520 km
+    stoppedAlt: 233.000 m
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - place: '10'
+    total: 31.17
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 20.033
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 31.17
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 4.866 km
+      flown: 4.866 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 31.17
+    landedMade: 4.866 km
+    stoppedAlt: 224.000 m
+- - - '41'
+    - Chomin Gallego Escribano
+  - place: '11'
+    total: 30.417
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 19.28
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 30.417
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 4.603 km
+      flown: 4.603 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 30.417
+    landedMade: 4.603 km
+    stoppedAlt: 225.000 m
+- - - '17'
+    - Fabio Thomaz
+  - place: '12'
+    total: 19.289
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 8.153
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 19.289
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 2.021 km
+      flown: 2.021 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.289
+    landedMade: 2.021 km
+    stoppedAlt: 267.000 m
+- - - '98'
+    - Piers Throssell
+  - place: '13'
+    total: 16.258
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 5.121
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 16.258
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 1.213 km
+      flown: 1.213 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 16.258
+    landedMade: 1.213 km
+    stoppedAlt: 959.000 m
+scoreDf:
+- - - '6'
+    - Craig Taylor
+  - place: '1'
+    total: 91.327
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds:
+      - penalty-points: -3.5516515488373632
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds:
+      - penalty-points: -3.5516515488373632
+      muls: []
+      resets: []
+    breakdown:
+      effort: 38.56
+      arrival: 2.7
+      time: 15.1
+      reach: 38.56
+      distance: 77.12
+      leading: 0
+    velocity:
+      ss: 2019-07-14T12:08:01.58534756644Z
+      gs: 2019-07-14T10:00:00Z
+      es: 2019-07-14T13:10:06.341374626693Z
+      ssDistance: 19.600 km
+      ssElapsed: 1.034654 h
+      gsElapsed: 3.168428 h
+      ssVelocity: 18.94 km / h
+      gsVelocity: 6.19 km / h
+    penaltyReason: ''
+    reach:
+      extra: 24.237 km
+      flown: 24.237 km
+    demeritFrac: 0
+    demeritPoint: 3.552
+    demeritReset: 0
+    subtotal: 94.878
+    landedMade: 24.237 km
+    stoppedAlt: null
+- - - '70'
+    - Filippo Oppici
+  - place: '2'
+    total: 80.869
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 38.56
+      arrival: 0
+      time: 0
+      reach: 38.542
+      distance: 77.102
+      leading: 3.8
+    velocity:
+      ss: null
+      gs: null
+      es: 2019-07-14T15:06:17.23338048421Z
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 24.226 km
+      flown: 24.226 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 80.869
+    landedMade: 24.226 km
+    stoppedAlt: 305.000 m
+- - - '58'
+    - Roland Woehrle
+  - place: '3'
+    total: 61.494
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 34.7
+      arrival: 0
+      time: 0
+      reach: 26.793
+      distance: 61.494
+      leading: 0
+    velocity:
+      ss: 2019-07-14T12:30:22.959848935493Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 16.841 km
+      flown: 16.841 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 61.494
+    landedMade: 16.841 km
+    stoppedAlt: 232.000 m
+- - - '66'
+    - Tullio Gervasoni
+  - place: '4'
+    total: 51.289
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 31.801
+      arrival: 0
+      time: 0
+      reach: 19.488
+      distance: 51.289
+      leading: 0
+    velocity:
+      ss: 2019-07-14T12:47:39.149299329718Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 12.249 km
+      flown: 12.249 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 51.289
+    landedMade: 12.249 km
+    stoppedAlt: 228.000 m
+- - - '16'
+    - Tschurnig Gunther
+  - place: '5'
+    total: 42.583
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 28.638
+      arrival: 0
+      time: 0
+      reach: 13.945
+      distance: 42.583
+      leading: 0
+    velocity:
+      ss: 2019-07-14T13:54:04.151278522273Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 8.765 km
+      flown: 8.765 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 42.583
+    landedMade: 8.765 km
+    stoppedAlt: 205.000 m
+- - - '55'
+    - Kajo Clauss
+  - place: '6'
+    total: 40.81
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 27.884
+      arrival: 0
+      time: 0
+      reach: 12.925
+      distance: 40.81
+      leading: 0
+    velocity:
+      ss: 2019-07-14T13:31:44.286755210388Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 8.124 km
+      flown: 8.124 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 40.81
+    landedMade: 8.124 km
+    stoppedAlt: 229.000 m
+- - - '39'
+    - Tximo Iriarte
+  - place: '7'
+    total: 37.043
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 25.795
+      arrival: 0
+      time: 0
+      reach: 11.248
+      distance: 37.043
+      leading: 0
+    velocity:
+      ss: 2019-07-14T13:11:34.056749395454Z
+      gs: 2019-07-14T10:00:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 7.070 km
+      flown: 7.070 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 37.043
+    landedMade: 7.070 km
+    stoppedAlt: 226.000 m
+- - - '38'
+    - Daniel Martin Mota
+  - place: '8'
+    total: 33.9
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 22.763
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 33.9
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 5.725 km
+      flown: 5.725 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 33.9
+    landedMade: 5.725 km
+    stoppedAlt: 224.000 m
+- - - '60'
+    - Georg Schweier
+  - place: '9'
+    total: 33.391
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 22.255
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 33.391
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 5.520 km
+      flown: 5.520 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 33.391
+    landedMade: 5.520 km
+    stoppedAlt: 233.000 m
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - place: '10'
+    total: 31.17
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 20.033
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 31.17
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 4.866 km
+      flown: 4.866 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 31.17
+    landedMade: 4.866 km
+    stoppedAlt: 224.000 m
+- - - '41'
+    - Chomin Gallego Escribano
+  - place: '11'
+    total: 30.417
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 19.28
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 30.417
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 4.603 km
+      flown: 4.603 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 30.417
+    landedMade: 4.603 km
+    stoppedAlt: 225.000 m
+- - - '17'
+    - Fabio Thomaz
+  - place: '12'
+    total: 19.289
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 8.153
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 19.289
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 2.021 km
+      flown: 2.021 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.289
+    landedMade: 2.021 km
+    stoppedAlt: 267.000 m
+- - - '98'
+    - Piers Throssell
+  - place: '13'
+    total: 16.258
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 5.121
+      arrival: 0
+      time: 0
+      reach: 11.137
+      distance: 16.258
+      leading: 0
+    velocity:
+      ss: null
+      gs: null
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 1.213 km
+      flown: 1.213 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 16.258
+    landedMade: 1.213 km
+    stoppedAlt: 959.000 m
+scoreDfNoTrack: []

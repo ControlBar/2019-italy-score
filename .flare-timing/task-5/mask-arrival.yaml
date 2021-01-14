@@ -1,0 +1,287 @@
+pilotsAtEss: 57
+arrivalRank:
+- - - '72'
+    - Alessandro Ploner
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '10'
+    - Manfred Ruhmer
+  - lag: 0.036011 h
+    rank: '2'
+    frac: 0.96209477
+- - - '73'
+    - Christian Ciech
+  - lag: 0.036602 h
+    rank: '3'
+    frac: 0.92541802
+- - - '57'
+    - Primoz Gricar
+  - lag: 0.050698 h
+    rank: '4'
+    frac: 0.88994926
+- - - '22'
+    - GLAUCO PINTO
+  - lag: 0.059446 h
+    rank: '5'
+    frac: 0.85566798
+- - - '44'
+    - mario ALONZI
+  - lag: 0.081746 h
+    rank: '6'
+    frac: 0.82255366
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - lag: 0.115376 h
+    rank: '7'
+    frac: 0.7905858
+- - - '75'
+    - Genki Tanaka
+  - lag: 0.272035 h
+    rank: '8'
+    frac: 0.75974389
+- - - '67'
+    - Marco Laurenzi
+  - lag: 0.272716 h
+    rank: '9'
+    frac: 0.73000742
+- - - '52'
+    - Grant Crossingham
+  - lag: 0.274871 h
+    rank: '10'
+    frac: 0.70135588
+- - - '16'
+    - Tschurnig Gunther
+  - lag: 0.379659 h
+    rank: '11'
+    frac: 0.67376877
+- - - '28'
+    - Daniel Velez
+  - lag: 0.382191 h
+    rank: '12'
+    frac: 0.64722558
+- - - '70'
+    - Filippo Oppici
+  - lag: 0.385567 h
+    rank: '13'
+    frac: 0.62170579
+- - - '56'
+    - Gerd Doenhuber
+  - lag: 0.388349 h
+    rank: '14'
+    frac: 0.5971889
+- - - '78'
+    - Yuji Suzuki
+  - lag: 0.402205 h
+    rank: '15'
+    frac: 0.5736544
+- - - '107'
+    - Peter Neuenschwander
+  - lag: 0.411952 h
+    rank: '16'
+    frac: 0.55108179
+- - - '13'
+    - Walter Mayer
+  - lag: 0.415551 h
+    rank: '17'
+    frac: 0.52945055
+- - - '119'
+    - Pedro L. Garcia
+  - lag: 0.419382 h
+    rank: '18'
+    frac: 0.50874018
+- - - '45'
+    - Christian Pollet
+  - lag: 0.433580 h
+    rank: '19'
+    frac: 0.48893016
+- - - '79'
+    - Minoru Kato
+  - lag: 0.436524 h
+    rank: '20'
+    frac: 0.47
+- - - '74'
+    - Akira Nagusa
+  - lag: 0.440049 h
+    rank: '21'
+    frac: 0.45192918
+- - - '29'
+    - Dan Vyhnalik
+  - lag: 0.504439 h
+    rank: '22'
+    frac: 0.43469719
+- - - '105'
+    - Stanislav GALOVEC
+  - lag: 0.507688 h
+    rank: '23'
+    frac: 0.41828352
+- - - '54'
+    - Gordon Rigg
+  - lag: 0.585910 h
+    rank: '24'
+    frac: 0.40266767
+- - - '84'
+    - Arne Tanzer
+  - lag: 0.712291 h
+    rank: '25'
+    frac: 0.38782913
+- - - '115'
+    - Evgen Lysenko
+  - lag: 0.775817 h
+    rank: '26'
+    frac: 0.37374739
+- - - '15'
+    - Wolfgang Siess
+  - lag: 0.782343 h
+    rank: '27'
+    frac: 0.36040194
+- - - '47'
+    - Antoine Saraf
+  - lag: 0.782755 h
+    rank: '28'
+    frac: 0.34777227
+- - - '34'
+    - Petr Polach
+  - lag: 0.788067 h
+    rank: '29'
+    frac: 0.33583788
+- - - '85'
+    - Joost Eertman
+  - lag: 0.815681 h
+    rank: '30'
+    frac: 0.32457825
+- - - '68'
+    - Davide Guiducci
+  - lag: 0.819692 h
+    rank: '31'
+    frac: 0.31397288
+- - - '49'
+    - Gary Wirdnam
+  - lag: 0.824098 h
+    rank: '32'
+    frac: 0.30400126
+- - - '50'
+    - Darren Brown
+  - lag: 0.824129 h
+    rank: '33'
+    frac: 0.29464289
+- - - '69'
+    - Suan SELENATI
+  - lag: 0.825731 h
+    rank: '34'
+    frac: 0.28587724
+- - - '77'
+    - Takashi Sunama
+  - lag: 0.842292 h
+    rank: '35'
+    frac: 0.27768382
+- - - '76'
+    - Shogo Ota
+  - lag: 0.842376 h
+    rank: '36'
+    frac: 0.27004212
+- - - '48'
+    - Andrew Hollidge
+  - lag: 0.849363 h
+    rank: '37'
+    frac: 0.26293162
+- - - '51'
+    - Dave Matthews
+  - lag: 0.855471 h
+    rank: '38'
+    frac: 0.25633183
+- - - '117'
+    - Zac Majors
+  - lag: 0.878859 h
+    rank: '39'
+    frac: 0.25022222
+- - - '102'
+    - Matjaz Klemencic
+  - lag: 1.022512 h
+    rank: '40'
+    frac: 0.2445823
+- - - '1'
+    - Steve Blenkinsop
+  - lag: 1.049205 h
+    rank: '41'
+    frac: 0.23939155
+- - - '64'
+    - Laszlo Okros
+  - lag: 1.059531 h
+    rank: '42'
+    frac: 0.23462947
+- - - '43'
+    - ERIC MATHURIN
+  - lag: 1.278715 h
+    rank: '43'
+    frac: 0.23027555
+- - - '92'
+    - John Smith
+  - lag: 1.281782 h
+    rank: '44'
+    frac: 0.22630928
+- - - '91'
+    - Olav Opsanger
+  - lag: 1.319604 h
+    rank: '45'
+    frac: 0.22271015
+- - - '4'
+    - Trent Brown
+  - lag: 1.348131 h
+    rank: '46'
+    frac: 0.21945765
+- - - '106'
+    - Ubaldo Romano
+  - lag: 1.353586 h
+    rank: '47'
+    frac: 0.21653127
+- - - '9'
+    - Steve Docherty
+  - lag: 1.356350 h
+    rank: '48'
+    frac: 0.21391051
+- - - '59'
+    - Joerg Bajewski
+  - lag: 1.376810 h
+    rank: '49'
+    frac: 0.21157487
+- - - '31'
+    - Jiri Gut
+  - lag: 1.387686 h
+    rank: '50'
+    frac: 0.20950381
+- - - '122'
+    - Vanni Accattoli
+  - lag: 1.388071 h
+    rank: '51'
+    frac: 0.20767686
+- - - '55'
+    - Kajo Clauss
+  - lag: 1.414992 h
+    rank: '52'
+    frac: 0.20607348
+- - - '3'
+    - Rory Duncan
+  - lag: 1.431652 h
+    rank: '53'
+    frac: 0.20467318
+- - - '8'
+    - Guy Hubbard
+  - lag: 1.543280 h
+    rank: '54'
+    frac: 0.20345544
+- - - '38'
+    - Daniel Martin Mota
+  - lag: 1.548386 h
+    rank: '55'
+    frac: 0.20239977
+- - - '53'
+    - Malcolm Brown
+  - lag: 1.603693 h
+    rank: '56'
+    frac: 0.20148564
+- - - '66'
+    - Tullio Gervasoni
+  - lag: 1.604685 h
+    rank: '57'
+    frac: 0.20069255

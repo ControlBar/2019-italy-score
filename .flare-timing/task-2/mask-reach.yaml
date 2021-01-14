@@ -1,0 +1,1514 @@
+bolster:
+  max: 86.067348 km
+  mean: 72.857167 km
+  stdDev: 21.803962 km
+reach:
+  max: 86.067348 km
+  mean: 72.773323 km
+  stdDev: 22.063755 km
+reachRank:
+- - - '73'
+    - Christian Ciech
+  - frac: 1
+    reach: 86.067348 km
+- - - '72'
+    - Alessandro Ploner
+  - frac: 1
+    reach: 86.067348 km
+- - - '69'
+    - Suan SELENATI
+  - frac: 1
+    reach: 86.067348 km
+- - - '67'
+    - Marco Laurenzi
+  - frac: 1
+    reach: 86.067348 km
+- - - '107'
+    - Peter Neuenschwander
+  - frac: 1
+    reach: 86.067348 km
+- - - '70'
+    - Filippo Oppici
+  - frac: 1
+    reach: 86.067348 km
+- - - '10'
+    - Manfred Ruhmer
+  - frac: 1
+    reach: 86.067348 km
+- - - '22'
+    - GLAUCO PINTO
+  - frac: 1
+    reach: 86.067348 km
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - frac: 1
+    reach: 86.067348 km
+- - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - frac: 1
+    reach: 86.067348 km
+- - - '12'
+    - Joseph Salvenmoser
+  - frac: 1
+    reach: 86.067348 km
+- - - '66'
+    - Tullio Gervasoni
+  - frac: 1
+    reach: 86.067348 km
+- - - '44'
+    - mario ALONZI
+  - frac: 1
+    reach: 86.067348 km
+- - - '17'
+    - Fabio Thomaz
+  - frac: 1
+    reach: 86.067348 km
+- - - '78'
+    - Yuji Suzuki
+  - frac: 1
+    reach: 86.067348 km
+- - - '103'
+    - Franc Peternel
+  - frac: 1
+    reach: 86.067348 km
+- - - '119'
+    - Pedro L. Garcia
+  - frac: 1
+    reach: 86.067348 km
+- - - '105'
+    - Stanislav GALOVEC
+  - frac: 1
+    reach: 86.067348 km
+- - - '52'
+    - Grant Crossingham
+  - frac: 1
+    reach: 86.067348 km
+- - - '26'
+    - Tyler Borradaile
+  - frac: 1
+    reach: 86.067348 km
+- - - '56'
+    - Gerd Doenhuber
+  - frac: 1
+    reach: 86.067348 km
+- - - '91'
+    - Olav Opsanger
+  - frac: 1
+    reach: 86.067348 km
+- - - '79'
+    - Minoru Kato
+  - frac: 1
+    reach: 86.067348 km
+- - - '74'
+    - Akira Nagusa
+  - frac: 1
+    reach: 86.067348 km
+- - - '75'
+    - Genki Tanaka
+  - frac: 1
+    reach: 86.067348 km
+- - - '16'
+    - Tschurnig Gunther
+  - frac: 1
+    reach: 86.067348 km
+- - - '45'
+    - Christian Pollet
+  - frac: 1
+    reach: 86.067348 km
+- - - '18'
+    - David Brito Filho
+  - frac: 1
+    reach: 86.067348 km
+- - - '58'
+    - Roland Woehrle
+  - frac: 1
+    reach: 86.067348 km
+- - - '15'
+    - Wolfgang Siess
+  - frac: 1
+    reach: 86.067348 km
+- - - '54'
+    - Gordon Rigg
+  - frac: 1
+    reach: 86.067348 km
+- - - '108'
+    - Franz Herrmann
+  - frac: 1
+    reach: 86.067348 km
+- - - '77'
+    - Takashi Sunama
+  - frac: 1
+    reach: 86.067348 km
+- - - '60'
+    - Georg Schweier
+  - frac: 1
+    reach: 86.067348 km
+- - - '100'
+    - Felix Cantesanu
+  - frac: 1
+    reach: 86.067348 km
+- - - '89'
+    - Johnny Nilssen
+  - frac: 1
+    reach: 86.067348 km
+- - - '92'
+    - John Smith
+  - frac: 1
+    reach: 86.067348 km
+- - - '85'
+    - Joost Eertman
+  - frac: 1
+    reach: 86.067348 km
+- - - '71'
+    - Manuel REVELLI
+  - frac: 1
+    reach: 86.067348 km
+- - - '102'
+    - Matjaz Klemencic
+  - frac: 1
+    reach: 86.067348 km
+- - - '84'
+    - Arne Tanzer
+  - frac: 1
+    reach: 86.067348 km
+- - - '57'
+    - Primoz Gricar
+  - frac: 1
+    reach: 86.067348 km
+- - - '13'
+    - Walter Mayer
+  - frac: 1
+    reach: 86.067348 km
+- - - '8'
+    - Guy Hubbard
+  - frac: 1
+    reach: 86.067348 km
+- - - '1'
+    - Steve Blenkinsop
+  - frac: 1
+    reach: 86.067348 km
+- - - '4'
+    - Trent Brown
+  - frac: 1
+    reach: 86.067348 km
+- - - '7'
+    - Nils Vesk
+  - frac: 1
+    reach: 86.067348 km
+- - - '43'
+    - ERIC MATHURIN
+  - frac: 1
+    reach: 86.067348 km
+- - - '49'
+    - Gary Wirdnam
+  - frac: 1
+    reach: 86.067348 km
+- - - '50'
+    - Darren Brown
+  - frac: 1
+    reach: 86.067348 km
+- - - '115'
+    - Evgen Lysenko
+  - frac: 1
+    reach: 86.067348 km
+- - - '120'
+    - John Simon
+  - frac: 1
+    reach: 86.067348 km
+- - - '101'
+    - Konstantin Lukyanov
+  - frac: 1
+    reach: 86.067348 km
+- - - '99'
+    - Mikolaj Przezdziak
+  - frac: 1
+    reach: 86.067348 km
+- - - '31'
+    - Jiri Gut
+  - frac: 1
+    reach: 86.067348 km
+- - - '46'
+    - Francois ISOARD
+  - frac: 1
+    reach: 86.067348 km
+- - - '19'
+    - Max Turiaco
+  - frac: 1
+    reach: 86.067348 km
+- - - '122'
+    - Vanni Accattoli
+  - frac: 1
+    reach: 86.067348 km
+- - - '28'
+    - Daniel Velez
+  - frac: 1
+    reach: 86.067348 km
+- - - '106'
+    - Ubaldo Romano
+  - frac: 1
+    reach: 86.067348 km
+- - - '11'
+    - Christian Tiefenbacher
+  - frac: 1
+    reach: 86.067348 km
+- - - '3'
+    - Rory Duncan
+  - frac: 1
+    reach: 86.067348 km
+- - - '68'
+    - Davide Guiducci
+  - frac: 1
+    reach: 86.067348 km
+- - - '48'
+    - Andrew Hollidge
+  - frac: 1
+    reach: 86.067348 km
+- - - '110'
+    - Markel Neideman
+  - frac: 1
+    reach: 86.067348 km
+- - - '29'
+    - Dan Vyhnalik
+  - frac: 1
+    reach: 86.067348 km
+- - - '55'
+    - Kajo Clauss
+  - frac: 1
+    reach: 86.067348 km
+- - - '5'
+    - Peter Burkitt
+  - frac: 1
+    reach: 86.067348 km
+- - - '25'
+    - Evan Smith
+  - frac: 1
+    reach: 86.067348 km
+- - - '81'
+    - Young don Lee
+  - frac: 1
+    reach: 86.067348 km
+- - - '96'
+    - Shane mckay
+  - frac: 1
+    reach: 86.067348 km
+- - - '39'
+    - Tximo Iriarte
+  - frac: 1
+    reach: 86.067348 km
+- - - '112'
+    - Hakan Andersson Bernardo
+  - frac: 1
+    reach: 86.067348 km
+- - - '14'
+    - Alexander Sigl
+  - frac: 1
+    reach: 86.067348 km
+- - - '114'
+    - CANBERG OZVEREN
+  - frac: 1
+    reach: 86.067348 km
+- - - '23'
+    - Konrad Heilmann
+  - frac: 1
+    reach: 86.067348 km
+- - - '116'
+    - Jeff Chipman
+  - frac: 0.97989946
+    reach: 84.337348 km
+- - - '41'
+    - Chomin Gallego Escribano
+  - frac: 0.97519384
+    reach: 83.932348 km
+- - - '104'
+    - janez grm
+  - frac: 0.95691746
+    reach: 82.359348 km
+- - - '6'
+    - Craig Taylor
+  - frac: 0.85134897
+    reach: 73.273348 km
+- - - '47'
+    - Antoine Saraf
+  - frac: 0.84467977
+    reach: 72.699348 km
+- - - '42'
+    - Eric Wyss
+  - frac: 0.83290992
+    reach: 71.686348 km
+- - - '59'
+    - Joerg Bajewski
+  - frac: 0.83143433
+    reach: 71.559348 km
+- - - '53'
+    - Malcolm Brown
+  - frac: 0.82614777
+    reach: 71.104348 km
+- - - '30'
+    - Jiri Nadvornik
+  - frac: 0.80167856
+    reach: 68.998348 km
+- - - '51'
+    - Dave Matthews
+  - frac: 0.79683352
+    reach: 68.581348 km
+- - - '64'
+    - Laszlo Okros
+  - frac: 0.79668248
+    reach: 68.568348 km
+- - - '32'
+    - Petr Tucek
+  - frac: 0.79643848
+    reach: 68.547348 km
+- - - '27'
+    - Hernan Cortes Pinones
+  - frac: 0.79367321
+    reach: 68.309348 km
+- - - '65'
+    - Noel Collins
+  - frac: 0.79052451
+    reach: 68.038348 km
+- - - '9'
+    - Steve Docherty
+  - frac: 0.73563726
+    reach: 63.314348 km
+- - - '94'
+    - Matthew Barlow
+  - frac: 0.68202808
+    reach: 58.700348 km
+- - - '2'
+    - Rohan Taylor
+  - frac: 0.6342864
+    reach: 54.591348 km
+- - - '123'
+    - Igriza Flora
+  - frac: 0.6331129
+    reach: 54.490348 km
+- - - '80'
+    - Yoko Sano
+  - frac: 0.5515721
+    reach: 47.472348 km
+- - - '83'
+    - Sander van Schaik
+  - frac: 0.51930667
+    reach: 44.695348 km
+- - - '111'
+    - Tommy Nilsson
+  - frac: 0.50197141
+    reach: 43.203348 km
+- - - '62'
+    - Attila Kis
+  - frac: 0.50178551
+    reach: 43.187348 km
+- - - '86'
+    - Tanno Rutten
+  - frac: 0.49200247
+    reach: 42.345348 km
+- - - '97'
+    - Tom Kellner
+  - frac: 0.49181657
+    reach: 42.329348 km
+- - - '95'
+    - Viv Clements
+  - frac: 0.47847818
+    reach: 41.181348 km
+- - - '82'
+    - jaesun moon
+  - frac: 0.47782753
+    reach: 41.125348 km
+- - - '76'
+    - Shogo Ota
+  - frac: 0.47363314
+    reach: 40.764348 km
+- - - '117'
+    - Zac Majors
+  - frac: 0.468486
+    reach: 40.321348 km
+- - - '38'
+    - Daniel Martin Mota
+  - frac: 0.45823822
+    reach: 39.439348 km
+- - - '34'
+    - Petr Polach
+  - frac: 0.4560074
+    reach: 39.247348 km
+- - - '87'
+    - Gijs Wanders
+  - frac: 0.45471772
+    reach: 39.136348 km
+- - - '61'
+    - Carlos Rolando Alvarado
+  - frac: 0.44295948
+    reach: 38.124348 km
+- - - '37'
+    - Alvaro Idigoras
+  - frac: 0.44279682
+    reach: 38.110348 km
+- - - '35'
+    - Frantisek Kostal
+  - frac: 0.44106562
+    reach: 37.961348 km
+- - - '93'
+    - Derek Mckee
+  - frac: 0.43924146
+    reach: 37.804348 km
+- - - '113'
+    - Kamil Demirkan
+  - frac: 0.39124417
+    reach: 33.673348 km
+- - - '33'
+    - Lukas Vojacek
+  - frac: 0.30646173
+    reach: 26.376348 km
+- - - '88'
+    - Emiel Jansen
+  - frac: 0.21422001
+    reach: 18.437348 km
+- - - '118'
+    - Will Ramsey
+  - frac: 6.858987e-2
+    reach: 5.903348 km
+- - - '109'
+    - Damien Zahn
+  - frac: 6.798569e-2
+    reach: 5.851348 km
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - frac: 6.380292e-2
+    reach: 5.491348 km
+- - - '90'
+    - Jens Krotseng
+  - frac: 9.99622e-3
+    reach: 0.860348 km
+nigh:
+- - - '116'
+    - Jeff Chipman
+  - togo:
+      distance: 1.730120 km
+      flipSum:
+      - 1.730120 km
+      - 1.092266 km
+      legs:
+      - 0.637854 km
+      - 1.092266 km
+      legsSum:
+      - 0.637854 km
+      - 1.730120 km
+      waypoints:
+      - lat: 46.29246667
+        lng: 13.0983
+      - lat: 46.28922559
+        lng: 13.1051495
+      - lat: 46.29859469
+        lng: 13.10942099
+    made: 84.337348 km
+- - - '41'
+    - Chomin Gallego Escribano
+  - togo:
+      distance: 2.135049 km
+      flipSum:
+      - 2.135049 km
+      - 1.053276 km
+      legs:
+      - 1.081773 km
+      - 1.053276 km
+      legsSum:
+      - 1.081773 km
+      - 2.135049 km
+      waypoints:
+      - lat: 46.29631667
+        lng: 13.09613333
+      - lat: 46.28940739
+        lng: 13.10604534
+      - lat: 46.29850381
+        lng: 13.10986908
+    made: 83.932348 km
+- - - '104'
+    - janez grm
+  - togo:
+      distance: 3.707890 km
+      flipSum:
+      - 3.707890 km
+      - 2.701270 km
+      legs:
+      - 1.006620 km
+      - 2.701270 km
+      legsSum:
+      - 1.006620 km
+      - 3.707890 km
+      waypoints:
+      - lat: 46.26688333
+        lng: 13.0945
+      - lat: 46.27549482
+        lng: 13.09853891
+      - lat: 46.29859469
+        lng: 13.10942099
+    made: 82.359348 km
+- - - '47'
+    - Antoine Saraf
+  - togo:
+      distance: 13.368234 km
+      flipSum:
+      - 13.368234 km
+      - 1.651370 km
+      legs:
+      - 11.716864 km
+      - 1.651370 km
+      legsSum:
+      - 11.716864 km
+      - 13.368234 km
+      waypoints:
+      - lat: 46.20648333
+        lng: 12.99788333
+      - lat: 46.28567083
+        lng: 13.09840549
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 72.699348 km
+- - - '6'
+    - Craig Taylor
+  - togo:
+      distance: 12.792926 km
+      flipSum:
+      - 12.792926 km
+      - 1.494351 km
+      legs:
+      - 11.298575 km
+      - 1.494351 km
+      legsSum:
+      - 11.298575 km
+      - 12.792926 km
+      waypoints:
+      - lat: 46.23766667
+        lng: 12.97106667
+      - lat: 46.28680838
+        lng: 13.0997076
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 73.273348 km
+- - - '59'
+    - Joerg Bajewski
+  - togo:
+      distance: 14.507854 km
+      flipSum:
+      - 14.507854 km
+      - 1.598354 km
+      legs:
+      - 12.909500 km
+      - 1.598354 km
+      legsSum:
+      - 12.909500 km
+      - 14.507854 km
+      waypoints:
+      - lat: 46.21005
+        lng: 12.97191667
+      - lat: 46.2860659
+        lng: 13.09880992
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 71.559348 km
+- - - '42'
+    - Eric Wyss
+  - togo:
+      distance: 14.380671 km
+      flipSum:
+      - 14.380671 km
+      - 1.669150 km
+      legs:
+      - 12.711521 km
+      - 1.669150 km
+      legsSum:
+      - 12.711521 km
+      - 14.380671 km
+      waypoints:
+      - lat: 46.19646667
+        lng: 12.99466667
+      - lat: 46.28553588
+        lng: 13.09827756
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 71.686348 km
+- - - '53'
+    - Malcolm Brown
+  - togo:
+      distance: 14.962161 km
+      flipSum:
+      - 14.962161 km
+      - 1.477356 km
+      legs:
+      - 13.484804 km
+      - 1.477356 km
+      legsSum:
+      - 13.484804 km
+      - 14.962161 km
+      waypoints:
+      - lat: 46.23308333
+        lng: 12.9427
+      - lat: 46.28692548
+        lng: 13.09986818
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 71.104348 km
+- - - '64'
+    - Laszlo Okros
+  - togo:
+      distance: 17.498817 km
+      flipSum:
+      - 17.498817 km
+      - 1.615964 km
+      legs:
+      - 15.882853 km
+      - 1.615964 km
+      legsSum:
+      - 15.882853 km
+      - 17.498817 km
+      waypoints:
+      - lat: 46.18663333
+        lng: 12.95023333
+      - lat: 46.28593588
+        lng: 13.09867171
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 68.568348 km
+- - - '51'
+    - Dave Matthews
+  - togo:
+      distance: 17.485809 km
+      flipSum:
+      - 17.485809 km
+      - 1.615964 km
+      legs:
+      - 15.869845 km
+      - 1.615964 km
+      legsSum:
+      - 15.869845 km
+      - 17.485809 km
+      waypoints:
+      - lat: 46.18701667
+        lng: 12.94993333
+      - lat: 46.28593588
+        lng: 13.09867171
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 68.581348 km
+- - - '30'
+    - Jiri Nadvornik
+  - togo:
+      distance: 17.068700 km
+      flipSum:
+      - 17.068700 km
+      - 1.651370 km
+      legs:
+      - 15.417331 km
+      - 1.651370 km
+      legsSum:
+      - 15.417331 km
+      - 17.068700 km
+      waypoints:
+      - lat: 46.1835
+        lng: 12.9629
+      - lat: 46.28567083
+        lng: 13.09840549
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 68.998348 km
+- - - '27'
+    - Hernan Cortes Pinones
+  - togo:
+      distance: 17.758165 km
+      flipSum:
+      - 17.758165 km
+      - 1.633638 km
+      legs:
+      - 16.124527 km
+      - 1.633638 km
+      legsSum:
+      - 16.124527 km
+      - 17.758165 km
+      waypoints:
+      - lat: 46.1819
+        lng: 12.9523
+      - lat: 46.28580418
+        lng: 13.09853689
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 68.309348 km
+- - - '32'
+    - Petr Tucek
+  - togo:
+      distance: 17.519548 km
+      flipSum:
+      - 17.519548 km
+      - 1.633638 km
+      legs:
+      - 15.885909 km
+      - 1.633638 km
+      legsSum:
+      - 15.885909 km
+      - 17.519548 km
+      waypoints:
+      - lat: 46.18378333
+        lng: 12.95395
+      - lat: 46.28580418
+        lng: 13.09853689
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 68.547348 km
+- - - '65'
+    - Noel Collins
+  - togo:
+      distance: 18.028989 km
+      flipSum:
+      - 18.028989 km
+      - 1.615964 km
+      legs:
+      - 16.413025 km
+      - 1.615964 km
+      legsSum:
+      - 16.413025 km
+      - 18.028989 km
+      waypoints:
+      - lat: 46.18255
+        lng: 12.94636667
+      - lat: 46.28593588
+        lng: 13.09867171
+      - lat: 46.29906677
+        lng: 13.10768407
+    made: 68.038348 km
+- - - '9'
+    - Steve Docherty
+  - togo:
+      distance: 22.752041 km
+      flipSum:
+      - 22.752041 km
+      - 1.477356 km
+      legs:
+      - 21.274685 km
+      - 1.477356 km
+      legsSum:
+      - 21.274685 km
+      - 22.752041 km
+      waypoints:
+      - lat: 46.19933333
+        lng: 12.85391667
+      - lat: 46.28692548
+        lng: 13.09986818
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 63.314348 km
+- - - '94'
+    - Matthew Barlow
+  - togo:
+      distance: 27.366341 km
+      flipSum:
+      - 27.366341 km
+      - 1.460491 km
+      legs:
+      - 25.905850 km
+      - 1.460491 km
+      legsSum:
+      - 25.905850 km
+      - 27.366341 km
+      waypoints:
+      - lat: 46.1932
+        lng: 12.79171667
+      - lat: 46.28704059
+        lng: 13.10003176
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 58.700348 km
+- - - '123'
+    - Igriza Flora
+  - togo:
+      distance: 31.575725 km
+      flipSum:
+      - 31.575725 km
+      - 1.443766 km
+      legs:
+      - 30.131959 km
+      - 1.443766 km
+      legsSum:
+      - 30.131959 km
+      - 31.575725 km
+      waypoints:
+      - lat: 46.18073333
+        lng: 12.73991667
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 54.490348 km
+- - - '2'
+    - Rohan Taylor
+  - togo:
+      distance: 31.474990 km
+      flipSum:
+      - 31.474990 km
+      - 1.443766 km
+      legs:
+      - 30.031223 km
+      - 1.443766 km
+      legsSum:
+      - 30.031223 km
+      - 31.474990 km
+      waypoints:
+      - lat: 46.18986667
+        lng: 12.73593333
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 54.591348 km
+- - - '83'
+    - Sander van Schaik
+  - togo:
+      distance: 41.371201 km
+      flipSum:
+      - 41.371201 km
+      - 37.820434 km
+      - 1.443766 km
+      legs:
+      - 3.550767 km
+      - 36.376668 km
+      - 1.443766 km
+      legsSum:
+      - 3.550767 km
+      - 39.927435 km
+      - 41.371201 km
+      waypoints:
+      - lat: 46.13323333
+        lng: 12.64535
+      - lat: 46.16277867
+        lng: 12.66283733
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 44.695348 km
+- - - '111'
+    - Tommy Nilsson
+  - togo:
+      distance: 42.862539 km
+      flipSum:
+      - 42.862539 km
+      - 37.787539 km
+      - 1.443766 km
+      legs:
+      - 5.075000 km
+      - 36.343773 km
+      - 1.443766 km
+      legsSum:
+      - 5.075000 km
+      - 41.418773 km
+      - 42.862539 km
+      waypoints:
+      - lat: 46.11948333
+        lng: 12.64335
+      - lat: 46.16301082
+        lng: 12.66316084
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 43.203348 km
+- - - '62'
+    - Attila Kis
+  - togo:
+      distance: 42.878722 km
+      flipSum:
+      - 42.878722 km
+      - 37.939176 km
+      - 1.443766 km
+      legs:
+      - 4.939546 km
+      - 36.495409 km
+      - 1.443766 km
+      legsSum:
+      - 4.939546 km
+      - 41.434955 km
+      - 42.878722 km
+      waypoints:
+      - lat: 46.12611667
+        lng: 12.62388333
+      - lat: 46.16203211
+        lng: 12.66161533
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 43.187348 km
+- - - '86'
+    - Tanno Rutten
+  - togo:
+      distance: 43.720778 km
+      flipSum:
+      - 43.720778 km
+      - 37.956523 km
+      - 1.443766 km
+      legs:
+      - 5.764255 km
+      - 36.512757 km
+      - 1.443766 km
+      legsSum:
+      - 5.764255 km
+      - 42.277012 km
+      - 43.720778 km
+      waypoints:
+      - lat: 46.12203333
+        lng: 12.61366667
+      - lat: 46.1619343
+        lng: 12.6614301
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 42.345348 km
+- - - '97'
+    - Tom Kellner
+  - togo:
+      distance: 43.737520 km
+      flipSum:
+      - 43.737520 km
+      - 37.956523 km
+      - 1.443766 km
+      legs:
+      - 5.780997 km
+      - 36.512757 km
+      - 1.443766 km
+      legsSum:
+      - 5.780997 km
+      - 42.293754 km
+      - 43.737520 km
+      waypoints:
+      - lat: 46.12143333
+        lng: 12.61438333
+      - lat: 46.1619343
+        lng: 12.6614301
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 42.329348 km
+- - - '80'
+    - Yoko Sano
+  - togo:
+      distance: 38.593545 km
+      flipSum:
+      - 38.593545 km
+      - 37.602948 km
+      - 1.443766 km
+      legs:
+      - 0.990597 km
+      - 36.159182 km
+      - 1.443766 km
+      legsSum:
+      - 0.990597 km
+      - 37.149779 km
+      - 38.593545 km
+      waypoints:
+      - lat: 46.15571667
+        lng: 12.66641667
+      - lat: 46.16455754
+        lng: 12.66483305
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 47.472348 km
+- - - '76'
+    - Shogo Ota
+  - togo:
+      distance: 45.301282 km
+      flipSum:
+      - 45.301282 km
+      - 37.787539 km
+      - 1.443766 km
+      legs:
+      - 7.513743 km
+      - 36.343773 km
+      - 1.443766 km
+      legsSum:
+      - 7.513743 km
+      - 43.857516 km
+      - 45.301282 km
+      waypoints:
+      - lat: 46.09918333
+        lng: 12.63115
+      - lat: 46.16301082
+        lng: 12.66316084
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 40.764348 km
+- - - '82'
+    - jaesun moon
+  - togo:
+      distance: 44.940871 km
+      flipSum:
+      - 44.940871 km
+      - 37.853824 km
+      - 1.443766 km
+      legs:
+      - 7.087047 km
+      - 36.410057 km
+      - 1.443766 km
+      legsSum:
+      - 7.087047 km
+      - 43.497104 km
+      - 44.940871 km
+      waypoints:
+      - lat: 46.10596667
+        lng: 12.62018333
+      - lat: 46.16255466
+        lng: 12.66250207
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 41.125348 km
+- - - '117'
+    - Zac Majors
+  - togo:
+      distance: 45.745134 km
+      flipSum:
+      - 45.745134 km
+      - 37.870691 km
+      - 1.443766 km
+      legs:
+      - 7.874443 km
+      - 36.426924 km
+      - 1.443766 km
+      legsSum:
+      - 7.874443 km
+      - 44.301367 km
+      - 45.745134 km
+      waypoints:
+      - lat: 46.10086667
+        lng: 12.61186667
+      - lat: 46.1624458
+        lng: 12.66233017
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 40.321348 km
+- - - '93'
+    - Derek Mckee
+  - togo:
+      distance: 48.262342 km
+      flipSum:
+      - 48.262342 km
+      - 37.939176 km
+      - 1.443766 km
+      legs:
+      - 10.323166 km
+      - 36.495409 km
+      - 1.443766 km
+      legsSum:
+      - 10.323166 km
+      - 46.818576 km
+      - 48.262342 km
+      waypoints:
+      - lat: 46.08841667
+        lng: 12.58
+      - lat: 46.16203211
+        lng: 12.66161533
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 37.804348 km
+- - - '95'
+    - Viv Clements
+  - togo:
+      distance: 44.885441 km
+      flipSum:
+      - 44.885441 km
+      - 38.115537 km
+      - 1.443766 km
+      legs:
+      - 6.769904 km
+      - 36.671771 km
+      - 1.443766 km
+      legsSum:
+      - 6.769904 km
+      - 43.441675 km
+      - 44.885441 km
+      waypoints:
+      - lat: 46.12871667
+        lng: 12.5853
+      - lat: 46.16116117
+        lng: 12.65965832
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 41.181348 km
+- - - '61'
+    - Carlos Rolando Alvarado
+  - togo:
+      distance: 47.942272 km
+      flipSum:
+      - 47.942272 km
+      - 37.991451 km
+      - 1.443766 km
+      legs:
+      - 9.950821 km
+      - 36.547684 km
+      - 1.443766 km
+      legsSum:
+      - 9.950821 km
+      - 46.498506 km
+      - 47.942272 km
+      waypoints:
+      - lat: 46.09528333
+        lng: 12.57458333
+      - lat: 46.16174561
+        lng: 12.66105224
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 38.124348 km
+- - - '37'
+    - Alvaro Idigoras
+  - togo:
+      distance: 47.956509 km
+      flipSum:
+      - 47.956509 km
+      - 37.939176 km
+      - 1.443766 km
+      legs:
+      - 10.017334 km
+      - 36.495409 km
+      - 1.443766 km
+      legsSum:
+      - 10.017334 km
+      - 46.512743 km
+      - 47.956509 km
+      waypoints:
+      - lat: 46.08935
+        lng: 12.58481667
+      - lat: 46.16203211
+        lng: 12.66161533
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 38.110348 km
+- - - '35'
+    - Frantisek Kostal
+  - togo:
+      distance: 48.105219 km
+      flipSum:
+      - 48.105219 km
+      - 37.939176 km
+      - 1.443766 km
+      legs:
+      - 10.166044 km
+      - 36.495409 km
+      - 1.443766 km
+      legsSum:
+      - 10.166044 km
+      - 46.661453 km
+      - 48.105219 km
+      waypoints:
+      - lat: 46.0898
+        lng: 12.58075
+      - lat: 46.16203211
+        lng: 12.66161533
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 37.961348 km
+- - - '38'
+    - Daniel Martin Mota
+  - togo:
+      distance: 46.626709 km
+      flipSum:
+      - 46.626709 km
+      - 37.973950 km
+      - 1.443766 km
+      legs:
+      - 8.652759 km
+      - 36.530184 km
+      - 1.443766 km
+      legsSum:
+      - 8.652759 km
+      - 45.182943 km
+      - 46.626709 km
+      waypoints:
+      - lat: 46.10266667
+        lng: 12.58831667
+      - lat: 46.16183878
+        lng: 12.66124239
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 39.439348 km
+- - - '34'
+    - Petr Polach
+  - togo:
+      distance: 46.819188 km
+      flipSum:
+      - 46.819188 km
+      - 38.115537 km
+      - 1.443766 km
+      legs:
+      - 8.703651 km
+      - 36.671771 km
+      - 1.443766 km
+      legsSum:
+      - 8.703651 km
+      - 45.375422 km
+      - 46.819188 km
+      waypoints:
+      - lat: 46.11995
+        lng: 12.56361667
+      - lat: 46.16116117
+        lng: 12.65965832
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 39.247348 km
+- - - '87'
+    - Gijs Wanders
+  - togo:
+      distance: 46.930060 km
+      flipSum:
+      - 46.930060 km
+      - 37.921913 km
+      - 1.443766 km
+      legs:
+      - 9.008147 km
+      - 36.478147 km
+      - 1.443766 km
+      legsSum:
+      - 9.008147 km
+      - 45.486294 km
+      - 46.930060 km
+      waypoints:
+      - lat: 46.09565
+        lng: 12.595
+      - lat: 46.1621322
+        lng: 12.66179801
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 39.136348 km
+- - - '113'
+    - Kamil Demirkan
+  - togo:
+      distance: 52.392784 km
+      flipSum:
+      - 52.392784 km
+      - 37.991451 km
+      - 1.443766 km
+      legs:
+      - 14.401333 km
+      - 36.547684 km
+      - 1.443766 km
+      legsSum:
+      - 14.401333 km
+      - 50.949018 km
+      - 52.392784 km
+      waypoints:
+      - lat: 46.06798333
+        lng: 12.53216667
+      - lat: 46.16174561
+        lng: 12.66105224
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 33.673348 km
+- - - '33'
+    - Lukas Vojacek
+  - togo:
+      distance: 59.688280 km
+      flipSum:
+      - 59.688280 km
+      - 55.150441 km
+      - 38.026650 km
+      - 1.443766 km
+      legs:
+      - 4.537839 km
+      - 17.123791 km
+      - 36.582884 km
+      - 1.443766 km
+      legsSum:
+      - 4.537839 km
+      - 21.661630 km
+      - 58.244514 km
+      - 59.688280 km
+      waypoints:
+      - lat: 46.08241667
+        lng: 12.54353333
+      - lat: 46.05741474
+        lng: 12.49704265
+      - lat: 46.16156638
+        lng: 12.66066489
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 26.376348 km
+- - - '88'
+    - Emiel Jansen
+  - togo:
+      distance: 67.627684 km
+      flipSum:
+      - 67.627684 km
+      - 55.154059 km
+      - 38.044337 km
+      - 1.443766 km
+      legs:
+      - 12.473625 km
+      - 17.109722 km
+      - 36.600571 km
+      - 1.443766 km
+      legsSum:
+      - 12.473625 km
+      - 29.583347 km
+      - 66.183918 km
+      - 67.627684 km
+      waypoints:
+      - lat: 46.14296667
+        lng: 12.6026
+      - lat: 46.06026282
+        lng: 12.49329643
+      - lat: 46.16148039
+        lng: 12.66046782
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 18.437348 km
+- - - '118'
+    - Will Ramsey
+  - togo:
+      distance: 80.159694 km
+      flipSum:
+      - 80.159694 km
+      - 55.156709 km
+      - 38.026650 km
+      - 1.443766 km
+      legs:
+      - 25.002985 km
+      - 17.130059 km
+      - 36.582884 km
+      - 1.443766 km
+      legsSum:
+      - 25.002985 km
+      - 42.133044 km
+      - 78.715927 km
+      - 80.159694 km
+      waypoints:
+      - lat: 46.1928
+        lng: 12.7562
+      - lat: 46.05643492
+        lng: 12.4982418
+      - lat: 46.16156638
+        lng: 12.66066489
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 5.903348 km
+- - - '109'
+    - Damien Zahn
+  - togo:
+      distance: 80.208946 km
+      flipSum:
+      - 80.208946 km
+      - 55.156709 km
+      - 38.026650 km
+      - 1.443766 km
+      legs:
+      - 25.052237 km
+      - 17.130059 km
+      - 36.582884 km
+      - 1.443766 km
+      legsSum:
+      - 25.052237 km
+      - 42.182296 km
+      - 78.765180 km
+      - 80.208946 km
+      waypoints:
+      - lat: 46.19056667
+        lng: 12.75941667
+      - lat: 46.05643492
+        lng: 12.4982418
+      - lat: 46.16156638
+        lng: 12.66066489
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 5.851348 km
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - togo:
+      distance: 80.575208 km
+      flipSum:
+      - 80.575208 km
+      - 55.147915 km
+      - 38.026650 km
+      - 1.443766 km
+      legs:
+      - 25.427293 km
+      - 17.121266 km
+      - 36.582884 km
+      - 1.443766 km
+      legsSum:
+      - 25.427293 km
+      - 42.548558 km
+      - 79.131442 km
+      - 80.575208 km
+      waypoints:
+      - lat: 46.20665
+        lng: 12.74703333
+      - lat: 46.05837953
+        lng: 12.49581844
+      - lat: 46.16156638
+        lng: 12.66066489
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 5.491348 km
+- - - '90'
+    - Jens Krotseng
+  - togo:
+      distance: 85.206273 km
+      flipSum:
+      - 85.206273 km
+      - 55.150441 km
+      - 38.026650 km
+      - 1.443766 km
+      legs:
+      - 30.055833 km
+      - 17.123791 km
+      - 36.582884 km
+      - 1.443766 km
+      legsSum:
+      - 30.055833 km
+      - 47.179624 km
+      - 83.762507 km
+      - 85.206273 km
+      waypoints:
+      - lat: 46.23151667
+        lng: 12.79546667
+      - lat: 46.05741474
+        lng: 12.49704265
+      - lat: 46.16156638
+        lng: 12.66066489
+      - lat: 46.28715365
+        lng: 13.10019828
+      - lat: 46.29899845
+        lng: 13.10789561
+    made: 0.860348 km

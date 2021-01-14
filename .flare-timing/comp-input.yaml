@@ -1,0 +1,270 @@
+comp:
+  compName: 22nd FAI World Hang Gliding Class 1 Championship
+  discipline: hg
+  earthMath: Haversines
+  location: Tolmezzo, Italy
+  from: 2019-07-12
+  to: 2019-07-27
+  civilId: '11287'
+  utcOffset:
+    timeZoneMinutes: 120
+  scoreBack: 900.000 s
+  give:
+    giveFraction: 1.0e-3
+    giveDistance: 5.0 m
+  earth:
+    sphere:
+      radius: 6371000.0 m
+nominal:
+  launch: 0.96
+  goal: 0.3
+  distance: 70.0 km
+  free: 7.000 km
+  time: 1.500000 h
+compTweak:
+  arrivalRank: true
+  arrivalTime: false
+  essNotGoalScaling: 0.8
+  leadingAreaDistanceSquared: true
+  leadingWeightScaling: null
+pilots:
+- - '74'
+  - Akira Nagusa
+- - '72'
+  - Alessandro Ploner
+- - '14'
+  - Alexander Sigl
+- - '24'
+  - Alvaro Figueiredo Sandoli
+- - '37'
+  - Alvaro Idigoras
+- - '48'
+  - Andrew Hollidge
+- - '47'
+  - Antoine Saraf
+- - '84'
+  - Arne Tanzer
+- - '62'
+  - Attila Kis
+- - '114'
+  - CANBERG OZVEREN
+- - '61'
+  - Carlos Rolando Alvarado
+- - '41'
+  - Chomin Gallego Escribano
+- - '73'
+  - Christian Ciech
+- - '45'
+  - Christian Pollet
+- - '11'
+  - Christian Tiefenbacher
+- - '6'
+  - Craig Taylor
+- - '109'
+  - Damien Zahn
+- - '29'
+  - Dan Vyhnalik
+- - '38'
+  - Daniel Martin Mota
+- - '28'
+  - Daniel Velez
+- - '50'
+  - Darren Brown
+- - '51'
+  - Dave Matthews
+- - '18'
+  - David Brito Filho
+- - '68'
+  - Davide Guiducci
+- - '93'
+  - Derek Mckee
+- - '43'
+  - ERIC MATHURIN
+- - '20'
+  - Eduardo Oliveira
+- - '88'
+  - Emiel Jansen
+- - '42'
+  - Eric Wyss
+- - '25'
+  - Evan Smith
+- - '115'
+  - Evgen Lysenko
+- - '17'
+  - Fabio Thomaz
+- - '100'
+  - Felix Cantesanu
+- - '70'
+  - Filippo Oppici
+- - '103'
+  - Franc Peternel
+- - '46'
+  - Francois ISOARD
+- - '35'
+  - Frantisek Kostal
+- - '108'
+  - Franz Herrmann
+- - '22'
+  - GLAUCO PINTO
+- - '49'
+  - Gary Wirdnam
+- - '75'
+  - Genki Tanaka
+- - '60'
+  - Georg Schweier
+- - '56'
+  - Gerd Doenhuber
+- - '87'
+  - Gijs Wanders
+- - '54'
+  - Gordon Rigg
+- - '52'
+  - Grant Crossingham
+- - '8'
+  - Guy Hubbard
+- - '112'
+  - Hakan Andersson Bernardo
+- - '27'
+  - Hernan Cortes Pinones
+- - '123'
+  - Igriza Flora
+- - '116'
+  - Jeff Chipman
+- - '90'
+  - Jens Krotseng
+- - '40'
+  - Jesus Mari Hernando Duque
+- - '31'
+  - Jiri Gut
+- - '30'
+  - Jiri Nadvornik
+- - '59'
+  - Joerg Bajewski
+- - '120'
+  - John Simon
+- - '92'
+  - John Smith
+- - '89'
+  - Johnny Nilssen
+- - '85'
+  - Joost Eertman
+- - '12'
+  - Joseph Salvenmoser
+- - '55'
+  - Kajo Clauss
+- - '113'
+  - Kamil Demirkan
+- - '23'
+  - Konrad Heilmann
+- - '101'
+  - Konstantin Lukyanov
+- - '64'
+  - Laszlo Okros
+- - '33'
+  - Lukas Vojacek
+- - '53'
+  - Malcolm Brown
+- - '10'
+  - Manfred Ruhmer
+- - '71'
+  - Manuel REVELLI
+- - '21'
+  - Marcelo Andrei Gomes da Rocha
+- - '67'
+  - Marco Laurenzi
+- - '110'
+  - Markel Neideman
+- - '102'
+  - Matjaz Klemencic
+- - '94'
+  - Matthew Barlow
+- - '19'
+  - Max Turiaco
+- - '99'
+  - Mikolaj Przezdziak
+- - '79'
+  - Minoru Kato
+- - '7'
+  - Nils Vesk
+- - '65'
+  - Noel Collins
+- - '91'
+  - Olav Opsanger
+- - '119'
+  - Pedro L. Garcia
+- - '5'
+  - Peter Burkitt
+- - '107'
+  - Peter Neuenschwander
+- - '34'
+  - Petr Polach
+- - '32'
+  - Petr Tucek
+- - '98'
+  - Piers Throssell
+- - '57'
+  - Primoz Gricar
+- - '2'
+  - Rohan Taylor
+- - '58'
+  - Roland Woehrle
+- - '3'
+  - Rory Duncan
+- - '83'
+  - Sander van Schaik
+- - '96'
+  - Shane mckay
+- - '76'
+  - Shogo Ota
+- - '105'
+  - Stanislav GALOVEC
+- - '1'
+  - Steve Blenkinsop
+- - '9'
+  - Steve Docherty
+- - '69'
+  - Suan SELENATI
+- - '77'
+  - Takashi Sunama
+- - '86'
+  - Tanno Rutten
+- - '97'
+  - Tom Kellner
+- - '111'
+  - Tommy Nilsson
+- - '4'
+  - Trent Brown
+- - '16'
+  - Tschurnig Gunther
+- - '66'
+  - Tullio Gervasoni
+- - '39'
+  - Tximo Iriarte
+- - '26'
+  - Tyler Borradaile
+- - '106'
+  - Ubaldo Romano
+- - '122'
+  - Vanni Accattoli
+- - '95'
+  - Viv Clements
+- - '13'
+  - Walter Mayer
+- - '118'
+  - Will Ramsey
+- - '15'
+  - Wolfgang Siess
+- - '80'
+  - Yoko Sano
+- - '81'
+  - Young don Lee
+- - '78'
+  - Yuji Suzuki
+- - '117'
+  - Zac Majors
+- - '82'
+  - jaesun moon
+- - '104'
+  - janez grm
+- - '44'
+  - mario ALONZI

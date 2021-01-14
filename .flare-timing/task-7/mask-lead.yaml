@@ -1,0 +1,16 @@
+raceTime:
+  openTask: 2019-07-21T12:30:00Z
+  closeTask: 2019-07-21T16:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 14400
+  tickClose: null
+raceDistance: 71.847966 km
+sumDistance: null
+leadAreaToCoef: 0.00000010762138 km^-2 s^-1
+leadCoefMin: null
+leadRank: []

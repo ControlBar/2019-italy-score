@@ -1,0 +1,36 @@
+areas:
+- - - '6'
+    - Craig Taylor
+  - areaFlown: 354560.0159 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 134.4818 km^2 s
+- - - '70'
+    - Filippo Oppici
+  - areaFlown: 0.0000 km^2 s
+    areaAfterLanding: 1.2987 km^2 s
+    areaBeforeStart: 1.2943 km^2 s
+- - - '55'
+    - Kajo Clauss
+  - areaFlown: 339684.2024 km^2 s
+    areaAfterLanding: 2786703.2334 km^2 s
+    areaBeforeStart: 1628309.7995 km^2 s
+- - - '58'
+    - Roland Woehrle
+  - areaFlown: 501633.1090 km^2 s
+    areaAfterLanding: 587126.5400 km^2 s
+    areaBeforeStart: 435343.0131 km^2 s
+- - - '16'
+    - Tschurnig Gunther
+  - areaFlown: 555627.2996 km^2 s
+    areaAfterLanding: 2569394.6813 km^2 s
+    areaBeforeStart: 2062433.6534 km^2 s
+- - - '66'
+    - Tullio Gervasoni
+  - areaFlown: 543316.1961 km^2 s
+    areaAfterLanding: 1542522.0321 km^2 s
+    areaBeforeStart: 736455.7342 km^2 s
+- - - '39'
+    - Tximo Iriarte
+  - areaFlown: 16503.7696 km^2 s
+    areaAfterLanding: 3163200.5072 km^2 s
+    areaBeforeStart: 1186043.3299 km^2 s

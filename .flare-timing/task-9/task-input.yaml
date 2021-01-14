@@ -1,0 +1,560 @@
+pilotGroup:
+  absent:
+  - - '47'
+    - Antoine Saraf
+  - - '8'
+    - Guy Hubbard
+  - - '12'
+    - Joseph Salvenmoser
+  - - '55'
+    - Kajo Clauss
+  - - '19'
+    - Max Turiaco
+  - - '32'
+    - Petr Tucek
+  - - '80'
+    - Yoko Sano
+  didFlyNoTracklog: []
+  dnf: []
+task:
+  taskName: Task 8
+  zones:
+    raw:
+    - zoneName: D03
+      lat: 46.54694
+      lng: 12.92611
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 1900.000 m
+    - zoneName: B57
+      lat: 46.57028
+      lng: 13.05028
+      radius: 9000.0 m
+      giveIn: 8991.0 m
+      giveOut: 9009.0 m
+      alt: 2011.000 m
+    - zoneName: B57
+      lat: 46.57028
+      lng: 13.05028
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 2011.000 m
+    - zoneName: D05
+      lat: 46.7725
+      lng: 13.14944
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 1730.000 m
+    - zoneName: B82
+      lat: 46.79028
+      lng: 13.39611
+      radius: 8000.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
+      alt: 1624.000 m
+    - zoneName: B91
+      lat: 46.87031
+      lng: 11.75571
+      radius: 53000.0 m
+      giveIn: 52947.0 m
+      giveOut: 53053.0 m
+      alt: 2699.000 m
+    - zoneName: A15
+      lat: 46.5806
+      lng: 13.62975
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 550.000 m
+    - zoneName: A15
+      lat: 46.5806
+      lng: 13.62975
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 550.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 46.54694000 deg
+          - 12.92611000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 46.57028000 deg
+          - 13.05028000 deg
+          radius: 9000.0 m
+      - cylinder:
+          center:
+          - 46.57028000 deg
+          - 13.05028000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 46.77250000 deg
+          - 13.14944000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 46.79028000 deg
+          - 13.39611000 deg
+          radius: 8000.0 m
+      - cylinder:
+          center:
+          - 46.87031000 deg
+          - 11.75571000 deg
+          radius: 53000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 46.58060000 deg
+          - 13.62975000 deg
+          radius: 1000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 46.58060000 deg
+          - 13.62975000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2019-07-23T09:50:00Z
+    close: 2019-07-23T13:30:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  - open: 2019-07-23T11:15:00Z
+    close: 2019-07-23T18:00:00Z
+  startGates:
+  - 2019-07-23T11:15:00Z
+  - 2019-07-23T11:40:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto:
+  - - - '87'
+      - Gijs Wanders
+    - adds:
+      - penalty-points: -1
+      muls: []
+      resets: []
+    - Jumped the gun by 0:02
+  penals:
+  - - - '45'
+      - Christian Pollet
+    - adds: []
+      muls:
+      - penalty-fraction: 0.94
+      resets: []
+    - 60 meters from Airspace Border
+  - - - '50'
+      - Darren Brown
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
+    - Airspace Infringement
+  - - - '30'
+      - Jiri Nadvornik
+    - adds: []
+      muls:
+      - penalty-fraction: 0.99
+      resets: []
+    - 90 meters from Airspace Border
+  - - - '58'
+      - Roland Woehrle
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
+    - Airspace Infringement
+  - - - '107'
+      - Peter Neuenschwander
+    - adds: []
+      muls:
+      - penalty-fraction: 0.97
+      resets: []
+    - 80 meters from Airspace Border
+  - - - '108'
+      - Franz Herrmann
+    - adds: []
+      muls:
+      - penalty-fraction: 0.76
+      resets: []
+    - 26 meters from Airspace Border
+  - - - '123'
+      - Igriza Flora
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
+    - Airspace Infringement
+taskFolder:
+- 2019-07-23
+pilots:
+- - - '74'
+    - Akira Nagusa
+  - LiveTrack Akira Nagusa.820556.20190723-102718.46260.74.igc
+- - - '72'
+    - Alessandro Ploner
+  - LiveTrack Alessandro Ploner.618839.20190723-093929.5724.72.igc
+- - - '14'
+    - Alexander Sigl
+  - LiveTrack Alexander Sigl.578537.20190723-095759.40352.14.igc
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - LiveTrack Alvaro Figueiredo Sandoli.895142.20190723-092904.5760.24.igc
+- - - '37'
+    - Alvaro Idigoras
+  - LiveTrack Alvaro Idigoras.127723.20190723-105553.5761.37.igc
+- - - '48'
+    - Andrew Hollidge
+  - LiveTrack Andrew Hollidge.556957.20190723-092350.5815.48.igc
+- - - '84'
+    - Arne Tanzer
+  - LiveTrack Arne Tanzer.348204.20190723-101512.21464.84.igc
+- - - '62'
+    - Attila Kis
+  - LiveTrack Attila Kis.499320.20190723-095222.5887.62.igc
+- - - '114'
+    - CANBERG OZVEREN
+  - LiveTrack CANBERG OZVEREN.629878.20190723-092949.26513.114.igc
+- - - '61'
+    - Carlos Rolando Alvarado
+  - LiveTrack Carlos Rolando Alvarado.812365.20190723-094122.15010.61.igc
+- - - '41'
+    - Chomin Gallego Escribano
+  - LiveTrack Chomin Gallego Escribano.254499.20190723-105259.24424.41.igc
+- - - '73'
+    - Christian Ciech
+  - LiveTrack Christian Ciech.453777.20190723-095727.6034.73.igc
+- - - '45'
+    - Christian Pollet
+  - LiveTrack Christian Pollet.931272.20190723-102524.21794.45.igc
+- - - '11'
+    - Christian Tiefenbacher
+  - LiveTrack Christian Tiefenbacher.522512.20190723-095122.12857.11.igc
+- - - '6'
+    - Craig Taylor
+  - LiveTrack Craig Taylor.656864.20190723-103403.6075.6.igc
+- - - '109'
+    - Damien Zahn
+  - LiveTrack Damien Zahn.562456.20190723-103658.38848.109.igc
+- - - '29'
+    - Dan Vyhnalik
+  - LiveTrack Dan Vyhnalik.947498.20190723-101351.6089.29.igc
+- - - '38'
+    - Daniel Martin Mota
+  - LiveTrack Daniel Martin Mota.764380.20190723-104357.10505.38.igc
+- - - '28'
+    - Daniel Velez
+  - LiveTrack Daniel Velez.987767.20190723-101438.6098.28.igc
+- - - '50'
+    - Darren Brown
+  - LiveTrack Darren Brown.711911.20190723-094335.25384.50.igc
+- - - '51'
+    - Dave Matthews
+  - LiveTrack Dave Matthews.299991.20190723-102823.6114.51.igc
+- - - '18'
+    - David Brito Filho
+  - LiveTrack David Brito Filho.139200.20190723-092904.13846.18.igc
+- - - '68'
+    - Davide Guiducci
+  - LiveTrack Davide Guiducci.423284.20190723-102627.6142.68.igc
+- - - '93'
+    - Derek Mckee
+  - LiveTrack Derek Mckee.163419.20190723-104909.42101.93.igc
+- - - '43'
+    - ERIC MATHURIN
+  - LiveTrack ERIC MATHURIN.441147.20190723-103046.6234.43.igc
+- - - '20'
+    - Eduardo Oliveira
+  - LiveTrack Eduardo Oliveira.210346.20190723-092904.24423.20.igc
+- - - '88'
+    - Emiel Jansen
+  - LiveTrack Emiel Jansen.724245.20190723-095700.24338.88.igc
+- - - '42'
+    - Eric Wyss
+  - LiveTrack Eric Wyss.943338.20190723-104415.443.42.igc
+- - - '25'
+    - Evan Smith
+  - LiveTrack Evan Smith.306358.20190723-094633.60025.25.igc
+- - - '115'
+    - Evgen Lysenko
+  - LiveTrack Evgen Lysenko.642024.20190723-095333.6259.115.igc
+- - - '17'
+    - Fabio Thomaz
+  - LiveTrack Fabio Thomaz.494308.20190723-084415.18578.17.igc
+- - - '100'
+    - Felix Cantesanu
+  - LiveTrack Felix Cantesanu.854677.20190723-104235.65511.100.igc
+- - - '70'
+    - Filippo Oppici
+  - LiveTrack Filippo Oppici.706476.20190723-101424.6295.70.igc
+- - - '103'
+    - Franc Peternel
+  - LiveTrack Franc Peternel.990992.20190723-101015.18.103.igc
+- - - '46'
+    - Francois ISOARD
+  - LiveTrack Francois ISOARD.414392.20190723-103341.6322.46.igc
+- - - '35'
+    - Frantisek Kostal
+  - LiveTrack Frantisek Kostal.738002.20190723-104103.13738.35.igc
+- - - '108'
+    - Franz Herrmann
+  - LiveTrack Franz Herrmann.765037.20190723-094002.6339.108.igc
+- - - '22'
+    - GLAUCO PINTO
+  - LiveTrack Glauco Pinto.565844.20190723-092903.[CIVLID].22.igc
+- - - '49'
+    - Gary Wirdnam
+  - LiveTrack Gary Wirdnam.260898.20190723-102111.6371.49.igc
+- - - '75'
+    - Genki Tanaka
+  - LiveTrack Genki Tanaka.811947.20190723-102355.15163.75.igc
+- - - '60'
+    - Georg Schweier
+  - LiveTrack Georg Schweier.532993.20190723-092025.12909.60.igc
+- - - '56'
+    - Gerd Doenhuber
+  - LiveTrack Gerd Doenhuber.845196.20190723-101312.11448.56.igc
+- - - '87'
+    - Gijs Wanders
+  - LiveTrack Gijs Wanders.306332.20190723-095326.13730.87.igc
+- - - '54'
+    - Gordon Rigg
+  - LiveTrack Gordon Rigg.848819.20190723-094222.6433.54.igc
+- - - '52'
+    - Grant Crossingham
+  - LiveTrack Grant Crossingham.346772.20190723-101607.[CIVLID].52.igc
+- - - '112'
+    - Hakan Andersson Bernardo
+  - LiveTrack Hakan Andersson Bernardo.714227.20190723-094235.[CIVLID].112.igc
+- - - '27'
+    - Hernan Cortes Pinones
+  - LiveTrack Hernan Cortes Pinones.872494.20190723-095714.49968.27.igc
+- - - '123'
+    - Igriza Flora
+  - Igriza.123.igc
+- - - '116'
+    - Jeff Chipman
+  - LiveTrack Jeff Chipman.828077.20190723-100121.11369.116.igc
+- - - '90'
+    - Jens Krotseng
+  - LiveTrack Jens Krotseng.243749.20190723-105511.6662.90.igc
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - LiveTrack Jesus Mari Hernando Duque.964871.20190723-105139.6671.40.igc
+- - - '31'
+    - Jiri Gut
+  - LiveTrack Jiri Gut.709169.20190723-103827.12317.31.igc
+- - - '30'
+    - Jiri Nadvornik
+  - LiveTrack Jiri Nadvornik.203947.20190723-094808.[CIVLID].30.igc
+- - - '59'
+    - Joerg Bajewski
+  - LiveTrack Joerg Bajewski.698200.20190723-103029.6740.59.igc
+- - - '120'
+    - John Simon
+  - LiveTrack John Simon.956531.20190723-102739.10959.120.igc
+- - - '92'
+    - John Smith
+  - LiveTrack John Smith.992676.20190723-100716.22582.92.igc
+- - - '89'
+    - Johnny Nilssen
+  - LiveTrack Johnny Nilssen.881073.20190723-103322.6722.89.igc
+- - - '85'
+    - Joost Eertman
+  - LiveTrack Joost Eertman.275901.20190723-101921.6738.85.igc
+- - - '113'
+    - Kamil Demirkan
+  - LiveTrack Kamil Demirkan.455322.20190723-104347.11262.113.igc
+- - - '23'
+    - Konrad Heilmann
+  - LiveTrack Konrad Heilmann.881566.20190723-092904.6068.23.igc
+- - - '101'
+    - Konstantin Lukyanov
+  - LiveTrack Konstantin Lukyanov.562268.20190723-104456.16902.101.igc
+- - - '64'
+    - Laszlo Okros
+  - LiveTrack Laszlo Okros.797469.20190723-102654.13084.64.igc
+- - - '33'
+    - Lukas Vojacek
+  - LiveTrack Lukas Vojacek.460113.20190723-104128.11555.33.igc
+- - - '53'
+    - Malcolm Brown
+  - LiveTrack Malcolm Brown.502315.20190723-104019.6999.53.igc
+- - - '10'
+    - Manfred Ruhmer
+  - LiveTrack Manfred Ruhmer.430093.20190723-101743.7003.10.igc
+- - - '71'
+    - Manuel REVELLI
+  - LiveTrack Manuel REVELLI.511425.20190723-092352.19766.71.igc
+- - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - LiveTrack Marcelo Andrei Gomes da Rocha.660693.20190723-092904.7023.21.igc
+- - - '67'
+    - Marco Laurenzi
+  - LiveTrack Marco Laurenzi.146817.20190723-101410.25161.67.igc
+- - - '110'
+    - Markel Neideman
+  - LiveTrack Markel Neideman.196149.20190723-104215.7069.110.igc
+- - - '102'
+    - Matjaz Klemencic
+  - LiveTrack Matjaz Klemencic.691868.20190723-103842.9272.102.igc
+- - - '94'
+    - Matthew Barlow
+  - LiveTrack Matthew Barlow.588105.20190723-105229.7113.94.igc
+- - - '99'
+    - Mikolaj Przezdziak
+  - LiveTrack Mikolaj Przezdziak.987337.20190723-104436.53946.99.igc
+- - - '79'
+    - Minoru Kato
+  - LiveTrack Minoru Kato.957694.20190723-101340.6848.79.igc
+- - - '7'
+    - Nils Vesk
+  - LiveTrack Nils Vesk.561865.20190723-103950.7250.7.igc
+- - - '65'
+    - Noel Collins
+  - LiveTrack Noel Collins.473399.20190723-095414.36277.65.igc
+- - - '91'
+    - Olav Opsanger
+  - LiveTrack Olav Opsanger.734651.20190723-101029.7271.91.igc
+- - - '119'
+    - Pedro L. Garcia
+  - LiveTrack Pedro L. Garcia.351441.20190723-101042.9442.119.igc
+- - - '5'
+    - Peter Burkitt
+  - LiveTrack Peter Burkitt.790115.20190723-105702.7381.5.igc
+- - - '107'
+    - Peter Neuenschwander
+  - LiveTrack Peter Neuenschwander.417696.20190723-091106.398.107.igc
+- - - '34'
+    - Petr Polach
+  - LiveTrack Petr Polach.800900.20190723-103124.29782.34.igc
+- - - '98'
+    - Piers Throssell
+  - LiveTrack Piers Throssell.288351.20190723-104741.60026.98.igc
+- - - '57'
+    - Primoz Gricar
+  - LiveTrack Primoz Gricar.492734.20190723-102027.7437.57.igc
+- - - '2'
+    - Rohan Taylor
+  - LiveTrack Rohan Taylor.950573.20190723-104510.7545.2.igc
+- - - '58'
+    - Roland Woehrle
+  - LiveTrack Roland Woehrle.322006.20190723-100834.7547.58.igc
+- - - '3'
+    - Rory Duncan
+  - LiveTrack Rory Duncan.820155.20190723-102558.28854.3.igc
+- - - '83'
+    - Sander van Schaik
+  - LiveTrack Sander van Schaik.577419.20190723-104641.13729.83.igc
+- - - '96'
+    - Shane mckay
+  - LiveTrack Shane mckay.693155.20190723-090631.3503.96.igc
+- - - '76'
+    - Shogo Ota
+  - LiveTrack Shogo Ota.374055.20190723-104306.7657.76.igc
+- - - '105'
+    - Stanislav GALOVEC
+  - LiveTrack Stanislav GALOVEC.736034.20190723-103637.7674.105.igc
+- - - '1'
+    - Steve Blenkinsop
+  - LiveTrack Steve Blenkinsop.958731.20190723-101119.[CIVLID].1.igc
+- - - '9'
+    - Steve Docherty
+  - LiveTrack Steve Docherty.571825.20190723-103612.48783.9.igc
+- - - '69'
+    - Suan SELENATI
+  - LiveTrack Suan SELENATI.211712.20190723-101912.15184.69.igc
+- - - '77'
+    - Takashi Sunama
+  - LiveTrack Takashi Sunama.338349.20190723-103148.[CIVLID].77.igc
+- - - '86'
+    - Tanno Rutten
+  - LiveTrack Tanno Rutten.424255.20190723-105327.7766.86.igc
+- - - '97'
+    - Tom Kellner
+  - LiveTrack Tom Kellner.270066.20190723-105311.[CIVLID].97.igc
+- - - '111'
+    - Tommy Nilsson
+  - LiveTrack Tommy Nilsson.621701.20190723-105530.34737.111.igc
+- - - '4'
+    - Trent Brown
+  - LiveTrack Trent Brown.741174.20190723-103928.7853.4.igc
+- - - '16'
+    - Tschurnig Gunther
+  - LiveTrack Tschurnig Gunther.998233.20190723-101144.6460.16.igc
+- - - '66'
+    - Tullio Gervasoni
+  - LiveTrack Tullio Gervasoni.647382.20190723-091741.7865.66.igc
+- - - '39'
+    - Tximo Iriarte
+  - LiveTrack Tximo Iriarte.137093.20190723-092501.7866.39.igc
+- - - '26'
+    - Tyler Borradaile
+  - LiveTrack Tyler Borradaile.248044.20190723-093918.7867.26.igc
+- - - '106'
+    - Ubaldo Romano
+  - LiveTrack Ubaldo Romano.891776.20190723-104047.20352.106.igc
+- - - '122'
+    - Vanni Accattoli
+  - LiveTrack Vanni Accattoli.132220.20190723-103200.7894.122.igc
+- - - '95'
+    - Viv Clements
+  - LiveTrack Viv Clements.370879.20190723-100006.36548.95.igc
+- - - '13'
+    - Walter Mayer
+  - LiveTrack Walter Mayer.981981.20190723-102159.7939.13.igc
+- - - '118'
+    - Will Ramsey
+  - LiveTrack Will Ramsey.766334.20190723-095926.52336.118.igc
+- - - '15'
+    - Wolfgang Siess
+  - LiveTrack Wolfgang Siess.925598.20190723-091007.7961.15.igc
+- - - '81'
+    - Young don Lee
+  - LiveTrack Young don Lee.901253.20190723-104522.17612.81.igc
+- - - '78'
+    - Yuji Suzuki
+  - LiveTrack Yuji Suzuki.168755.20190723-101810.7984.78.igc
+- - - '117'
+    - Zac Majors
+  - LiveTrack Zac Majors.891523.20190723-103232.10613.117.igc
+- - - '82'
+    - jaesun moon
+  - LiveTrack jaesun moon.725756.20190723-091341.17610.82.igc
+- - - '104'
+    - janez grm
+  - LiveTrack janez grm.797026.20190723-105610.6618.104.igc
+- - - '44'
+    - mario ALONZI
+  - LiveTrack MARIO Alonzi.803543.20190723-101634.[CIVLID].44.igc

@@ -1,0 +1,640 @@
+ssBestTime: 2.758439 h
+gsBestTime: 2.762520 h
+taskDistance: 142.850906 km
+taskSpeedDistance: 141.597586 km
+ssSpeed:
+- - - '72'
+    - Alessandro Ploner
+  - time: 2.758439 h
+    frac: 1
+- - - '73'
+    - Christian Ciech
+  - time: 2.796906 h
+    frac: 0.91874741
+- - - '57'
+    - Primoz Gricar
+  - time: 2.800845 h
+    frac: 0.91329146
+- - - '10'
+    - Manfred Ruhmer
+  - time: 2.805925 h
+    frac: 0.90649852
+- - - '22'
+    - GLAUCO PINTO
+  - time: 2.816890 h
+    frac: 0.89260729
+- - - '44'
+    - mario ALONZI
+  - time: 2.843500 h
+    frac: 0.86208869
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - time: 2.874943 h
+    frac: 0.82991248
+- - - '52'
+    - Grant Crossingham
+  - time: 3.025877 h
+    frac: 0.70402134
+- - - '75'
+    - Genki Tanaka
+  - time: 3.028235 h
+    frac: 0.7022837
+- - - '67'
+    - Marco Laurenzi
+  - time: 3.030281 h
+    frac: 0.70078097
+- - - '70'
+    - Filippo Oppici
+  - time: 3.137397 h
+    frac: 0.62660128
+- - - '16'
+    - Tschurnig Gunther
+  - time: 3.137991 h
+    frac: 0.62621123
+- - - '28'
+    - Daniel Velez
+  - time: 3.141336 h
+    frac: 0.62401808
+- - - '56'
+    - Gerd Doenhuber
+  - time: 3.148449 h
+    frac: 0.61937642
+- - - '78'
+    - Yuji Suzuki
+  - time: 3.151693 h
+    frac: 0.61726851
+- - - '119'
+    - Pedro L. Garcia
+  - time: 3.158902 h
+    frac: 0.61260533
+- - - '107'
+    - Peter Neuenschwander
+  - time: 3.169399 h
+    frac: 0.60586476
+- - - '13'
+    - Walter Mayer
+  - time: 3.170302 h
+    frac: 0.60528758
+- - - '74'
+    - Akira Nagusa
+  - time: 3.189527 h
+    frac: 0.59309845
+- - - '45'
+    - Christian Pollet
+  - time: 3.194030 h
+    frac: 0.59026948
+- - - '79'
+    - Minoru Kato
+  - time: 3.198922 h
+    frac: 0.58720766
+- - - '29'
+    - Dan Vyhnalik
+  - time: 3.259237 h
+    frac: 0.55033722
+- - - '105'
+    - Stanislav GALOVEC
+  - time: 3.268501 h
+    frac: 0.54480888
+- - - '54'
+    - Gordon Rigg
+  - time: 3.334511 h
+    frac: 0.50633743
+- - - '84'
+    - Arne Tanzer
+  - time: 3.478750 h
+    frac: 0.42703847
+- - - '115'
+    - Evgen Lysenko
+  - time: 3.524228 h
+    frac: 0.40316868
+- - - '47'
+    - Antoine Saraf
+  - time: 3.524879 h
+    frac: 0.40283034
+- - - '15'
+    - Wolfgang Siess
+  - time: 3.530768 h
+    frac: 0.39977554
+- - - '34'
+    - Petr Polach
+  - time: 3.543047 h
+    frac: 0.39343052
+- - - '49'
+    - Gary Wirdnam
+  - time: 3.570076 h
+    frac: 0.37957851
+- - - '68'
+    - Davide Guiducci
+  - time: 3.578102 h
+    frac: 0.37549531
+- - - '85'
+    - Joost Eertman
+  - time: 3.579108 h
+    frac: 0.37498431
+- - - '48'
+    - Andrew Hollidge
+  - time: 3.579191 h
+    frac: 0.37494235
+- - - '50'
+    - Darren Brown
+  - time: 3.585725 h
+    frac: 0.37162912
+- - - '69'
+    - Suan SELENATI
+  - time: 3.586676 h
+    frac: 0.37114802
+- - - '76'
+    - Shogo Ota
+  - time: 3.591137 h
+    frac: 0.36889177
+- - - '51'
+    - Dave Matthews
+  - time: 3.591172 h
+    frac: 0.36887421
+- - - '77'
+    - Takashi Sunama
+  - time: 3.599647 h
+    frac: 0.36459946
+- - - '117'
+    - Zac Majors
+  - time: 3.640932 h
+    frac: 0.34397617
+- - - '102'
+    - Matjaz Klemencic
+  - time: 3.779705 h
+    frac: 0.27688921
+- - - '1'
+    - Steve Blenkinsop
+  - time: 3.808501 h
+    frac: 0.26335966
+- - - '64'
+    - Laszlo Okros
+  - time: 3.823484 h
+    frac: 0.25636884
+- - - '43'
+    - ERIC MATHURIN
+  - time: 4.029383 h
+    frac: 0.16337686
+- - - '92'
+    - John Smith
+  - time: 4.037380 h
+    frac: 0.15987117
+- - - '91'
+    - Olav Opsanger
+  - time: 4.074013 h
+    frac: 0.14390444
+- - - '9'
+    - Steve Docherty
+  - time: 4.105892 h
+    frac: 0.1301296
+- - - '4'
+    - Trent Brown
+  - time: 4.108972 h
+    frac: 0.12880439
+- - - '106'
+    - Ubaldo Romano
+  - time: 4.109566 h
+    frac: 0.12854898
+- - - '59'
+    - Joerg Bajewski
+  - time: 4.111468 h
+    frac: 0.12773152
+- - - '122'
+    - Vanni Accattoli
+  - time: 4.116914 h
+    frac: 0.1253922
+- - - '31'
+    - Jiri Gut
+  - time: 4.135142 h
+    frac: 0.11758609
+- - - '55'
+    - Kajo Clauss
+  - time: 4.145658 h
+    frac: 0.1130983
+- - - '3'
+    - Rory Duncan
+  - time: 4.168255 h
+    frac: 0.10349264
+- - - '38'
+    - Daniel Martin Mota
+  - time: 4.294539 h
+    frac: 5.072549e-2
+- - - '8'
+    - Guy Hubbard
+  - time: 4.305882 h
+    frac: 4.605796e-2
+- - - '53'
+    - Malcolm Brown
+  - time: 4.341284 h
+    frac: 3.156348e-2
+- - - '66'
+    - Tullio Gervasoni
+  - time: 4.352867 h
+    frac: 2.684469e-2
+gsSpeed:
+- - - '72'
+    - Alessandro Ploner
+  - time: 2.762520 h
+    frac: 1
+- - - '10'
+    - Manfred Ruhmer
+  - time: 2.798531 h
+    frac: 0.92228153
+- - - '73'
+    - Christian Ciech
+  - time: 2.799122 h
+    frac: 0.92143402
+- - - '57'
+    - Primoz Gricar
+  - time: 2.813218 h
+    frac: 0.90237547
+- - - '22'
+    - GLAUCO PINTO
+  - time: 2.821966 h
+    frac: 0.89144524
+- - - '44'
+    - mario ALONZI
+  - time: 2.844266 h
+    frac: 0.86576212
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - time: 2.877896 h
+    frac: 0.83109569
+- - - '75'
+    - Genki Tanaka
+  - time: 3.034555 h
+    frac: 0.70078663
+- - - '67'
+    - Marco Laurenzi
+  - time: 3.035236 h
+    frac: 0.70028737
+- - - '52'
+    - Grant Crossingham
+  - time: 3.037391 h
+    frac: 0.69871062
+- - - '16'
+    - Tschurnig Gunther
+  - time: 3.142180 h
+    frac: 0.62632474
+- - - '28'
+    - Daniel Velez
+  - time: 3.144711 h
+    frac: 0.62466577
+- - - '70'
+    - Filippo Oppici
+  - time: 3.148087 h
+    frac: 0.62245849
+- - - '56'
+    - Gerd Doenhuber
+  - time: 3.150869 h
+    frac: 0.62064435
+- - - '78'
+    - Yuji Suzuki
+  - time: 3.164725 h
+    frac: 0.61167425
+- - - '107'
+    - Peter Neuenschwander
+  - time: 3.174472 h
+    frac: 0.60542504
+- - - '13'
+    - Walter Mayer
+  - time: 3.178071 h
+    frac: 0.60313073
+- - - '119'
+    - Pedro L. Garcia
+  - time: 3.181902 h
+    frac: 0.60069506
+- - - '45'
+    - Christian Pollet
+  - time: 3.196100 h
+    frac: 0.5917331
+- - - '79'
+    - Minoru Kato
+  - time: 3.199045 h
+    frac: 0.58988663
+- - - '74'
+    - Akira Nagusa
+  - time: 3.202569 h
+    frac: 0.58768201
+- - - '29'
+    - Dan Vyhnalik
+  - time: 3.266959 h
+    frac: 0.54838278
+- - - '105'
+    - Stanislav GALOVEC
+  - time: 3.270208 h
+    frac: 0.54644539
+- - - '54'
+    - Gordon Rigg
+  - time: 3.348430 h
+    frac: 0.50097911
+- - - '84'
+    - Arne Tanzer
+  - time: 3.474811 h
+    frac: 0.4315793
+- - - '115'
+    - Evgen Lysenko
+  - time: 3.538337 h
+    frac: 0.39826642
+- - - '15'
+    - Wolfgang Siess
+  - time: 3.544863 h
+    frac: 0.39489671
+- - - '47'
+    - Antoine Saraf
+  - time: 3.545275 h
+    frac: 0.39468416
+- - - '34'
+    - Petr Polach
+  - time: 3.550587 h
+    frac: 0.39194843
+- - - '85'
+    - Joost Eertman
+  - time: 3.578201 h
+    frac: 0.3778263
+- - - '68'
+    - Davide Guiducci
+  - time: 3.582212 h
+    frac: 0.37578808
+- - - '49'
+    - Gary Wirdnam
+  - time: 3.586618 h
+    frac: 0.37355319
+- - - '50'
+    - Darren Brown
+  - time: 3.586649 h
+    frac: 0.37353773
+- - - '69'
+    - Suan SELENATI
+  - time: 3.588251 h
+    frac: 0.37272603
+- - - '77'
+    - Takashi Sunama
+  - time: 3.604812 h
+    frac: 0.36436658
+- - - '76'
+    - Shogo Ota
+  - time: 3.604896 h
+    frac: 0.36432434
+- - - '48'
+    - Andrew Hollidge
+  - time: 3.611883 h
+    frac: 0.3608143
+- - - '51'
+    - Dave Matthews
+  - time: 3.617991 h
+    frac: 0.35775335
+- - - '117'
+    - Zac Majors
+  - time: 3.641379 h
+    frac: 0.3461005
+- - - '102'
+    - Matjaz Klemencic
+  - time: 3.785032 h
+    frac: 0.27665766
+- - - '1'
+    - Steve Blenkinsop
+  - time: 3.811725 h
+    frac: 0.26412342
+- - - '64'
+    - Laszlo Okros
+  - time: 3.822051 h
+    frac: 0.25930276
+- - - '43'
+    - ERIC MATHURIN
+  - time: 4.041235 h
+    frac: 0.16038383
+- - - '92'
+    - John Smith
+  - time: 4.044302 h
+    frac: 0.15904211
+- - - '91'
+    - Olav Opsanger
+  - time: 4.082124 h
+    frac: 0.14257934
+- - - '4'
+    - Trent Brown
+  - time: 4.110651 h
+    frac: 0.13026652
+- - - '106'
+    - Ubaldo Romano
+  - time: 4.116106 h
+    frac: 0.12792202
+- - - '9'
+    - Steve Docherty
+  - time: 4.118870 h
+    frac: 0.12673512
+- - - '59'
+    - Joerg Bajewski
+  - time: 4.139330 h
+    frac: 0.11797497
+- - - '31'
+    - Jiri Gut
+  - time: 4.150206 h
+    frac: 0.11333604
+- - - '122'
+    - Vanni Accattoli
+  - time: 4.150591 h
+    frac: 0.11317238
+- - - '55'
+    - Kajo Clauss
+  - time: 4.177512 h
+    frac: 0.10174246
+- - - '3'
+    - Rory Duncan
+  - time: 4.194172 h
+    frac: 9.470568e-2
+- - - '8'
+    - Guy Hubbard
+  - time: 4.305800 h
+    frac: 4.823885e-2
+- - - '38'
+    - Daniel Martin Mota
+  - time: 4.310906 h
+    frac: 4.614078e-2
+- - - '53'
+    - Malcolm Brown
+  - time: 4.366213 h
+    frac: 2.35599e-2
+- - - '66'
+    - Tullio Gervasoni
+  - time: 4.367205 h
+    frac: 2.315703e-2
+altStopped:
+- - - '14'
+    - Alexander Sigl
+  - 174.000 m
+- - - '37'
+    - Alvaro Idigoras
+  - 118.000 m
+- - - '62'
+    - Attila Kis
+  - 158.000 m
+- - - '114'
+    - CANBERG OZVEREN
+  - 166.000 m
+- - - '61'
+    - Carlos Rolando Alvarado
+  - 325.000 m
+- - - '41'
+    - Chomin Gallego Escribano
+  - 176.000 m
+- - - '11'
+    - Christian Tiefenbacher
+  - 158.000 m
+- - - '6'
+    - Craig Taylor
+  - 159.000 m
+- - - '109'
+    - Damien Zahn
+  - 187.000 m
+- - - '18'
+    - David Brito Filho
+  - 157.000 m
+- - - '93'
+    - Derek Mckee
+  - 326.000 m
+- - - '20'
+    - Eduardo Oliveira
+  - 1246.000 m
+- - - '88'
+    - Emiel Jansen
+  - 157.000 m
+- - - '42'
+    - Eric Wyss
+  - 237.000 m
+- - - '25'
+    - Evan Smith
+  - 153.000 m
+- - - '17'
+    - Fabio Thomaz
+  - 240.000 m
+- - - '100'
+    - Felix Cantesanu
+  - 148.000 m
+- - - '103'
+    - Franc Peternel
+  - 169.000 m
+- - - '46'
+    - Francois ISOARD
+  - 134.000 m
+- - - '35'
+    - Frantisek Kostal
+  - 130.000 m
+- - - '108'
+    - Franz Herrmann
+  - 174.000 m
+- - - '60'
+    - Georg Schweier
+  - 193.000 m
+- - - '87'
+    - Gijs Wanders
+  - 153.000 m
+- - - '112'
+    - Hakan Andersson Bernardo
+  - 164.000 m
+- - - '27'
+    - Hernan Cortes Pinones
+  - 156.000 m
+- - - '123'
+    - Igriza Flora
+  - 154.000 m
+- - - '116'
+    - Jeff Chipman
+  - 157.000 m
+- - - '90'
+    - Jens Krotseng
+  - 127.000 m
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - 202.000 m
+- - - '30'
+    - Jiri Nadvornik
+  - 183.000 m
+- - - '120'
+    - John Simon
+  - 153.000 m
+- - - '89'
+    - Johnny Nilssen
+  - 123.000 m
+- - - '113'
+    - Kamil Demirkan
+  - 181.000 m
+- - - '23'
+    - Konrad Heilmann
+  - 149.000 m
+- - - '101'
+    - Konstantin Lukyanov
+  - 166.000 m
+- - - '33'
+    - Lukas Vojacek
+  - 156.000 m
+- - - '71'
+    - Manuel REVELLI
+  - 189.000 m
+- - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - 96.000 m
+- - - '110'
+    - Markel Neideman
+  - 148.000 m
+- - - '94'
+    - Matthew Barlow
+  - 173.000 m
+- - - '99'
+    - Mikolaj Przezdziak
+  - 182.000 m
+- - - '7'
+    - Nils Vesk
+  - 183.000 m
+- - - '65'
+    - Noel Collins
+  - 163.000 m
+- - - '5'
+    - Peter Burkitt
+  - 180.000 m
+- - - '98'
+    - Piers Throssell
+  - 156.000 m
+- - - '2'
+    - Rohan Taylor
+  - 181.000 m
+- - - '58'
+    - Roland Woehrle
+  - 176.000 m
+- - - '83'
+    - Sander van Schaik
+  - 173.000 m
+- - - '96'
+    - Shane mckay
+  - 150.000 m
+- - - '86'
+    - Tanno Rutten
+  - 180.000 m
+- - - '97'
+    - Tom Kellner
+  - 180.000 m
+- - - '111'
+    - Tommy Nilsson
+  - 160.000 m
+- - - '39'
+    - Tximo Iriarte
+  - 204.000 m
+- - - '26'
+    - Tyler Borradaile
+  - 150.000 m
+- - - '95'
+    - Viv Clements
+  - 135.000 m
+- - - '118'
+    - Will Ramsey
+  - 158.000 m
+- - - '81'
+    - Young don Lee
+  - 128.000 m
+- - - '82'
+    - jaesun moon
+  - 132.000 m
+- - - '104'
+    - janez grm
+  - 162.000 m

@@ -1,0 +1,51 @@
+raceTime:
+  openTask: 2019-07-14T10:00:00Z
+  closeTask: 2019-07-14T18:00:00Z
+  firstStart: 2019-07-14T12:08:01.58534756644Z
+  firstLead: 2019-07-14T12:08:01.58534756644Z
+  lastArrival: 2019-07-14T15:06:17.23338048421Z
+  leadAllDown: 10733.415
+  leadArrival: 10695.648
+  leadClose: 21118.415
+  openClose: 28800
+  tickClose: 21118.415
+raceDistance: 19.600000 km
+sumDistance: 52.513743 km
+leadAreaToCoef: 0.00000144615669 km^-2 s^-1
+leadCoefMin: 1.88e-6
+leadRank:
+- - - '70'
+    - Filippo Oppici
+  - area: 1.2987 km^2 s
+    coef: 1.88e-6
+    frac: 1
+- - - '6'
+    - Craig Taylor
+  - area: 354560.0159 km^2 s
+    coef: 0.51274934
+    frac: 0
+- - - '58'
+    - Roland Woehrle
+  - area: 1088759.6490 km^2 s
+    coef: 1.57451705
+    frac: 0
+- - - '66'
+    - Tullio Gervasoni
+  - area: 2085838.2282 km^2 s
+    coef: 3.01644892
+    frac: 0
+- - - '16'
+    - Tschurnig Gunther
+  - area: 3125021.9809 km^2 s
+    coef: 4.51927146
+    frac: 0
+- - - '55'
+    - Kajo Clauss
+  - area: 3126387.4358 km^2 s
+    coef: 4.52124612
+    frac: 0
+- - - '39'
+    - Tximo Iriarte
+  - area: 3179704.2768 km^2 s
+    coef: 4.59835062
+    frac: 0

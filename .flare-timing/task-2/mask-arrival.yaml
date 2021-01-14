@@ -1,0 +1,382 @@
+pilotsAtEss: 76
+arrivalRank:
+- - - '73'
+    - Christian Ciech
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '72'
+    - Alessandro Ploner
+  - lag: 0.011720 h
+    rank: '2'
+    frac: 0.9714551
+- - - '69'
+    - Suan SELENATI
+  - lag: 0.056613 h
+    rank: '3'
+    frac: 0.94360412
+- - - '67'
+    - Marco Laurenzi
+  - lag: 0.134832 h
+    rank: '4'
+    frac: 0.91643839
+- - - '107'
+    - Peter Neuenschwander
+  - lag: 0.142564 h
+    rank: '5'
+    frac: 0.88994926
+- - - '70'
+    - Filippo Oppici
+  - lag: 0.144650 h
+    rank: '6'
+    frac: 0.8641281
+- - - '10'
+    - Manfred Ruhmer
+  - lag: 0.145274 h
+    rank: '7'
+    frac: 0.83896623
+- - - '22'
+    - GLAUCO PINTO
+  - lag: 0.148970 h
+    rank: '8'
+    frac: 0.81445502
+- - - '24'
+    - Alvaro Figueiredo Sandoli
+  - lag: 0.149598 h
+    rank: '9'
+    frac: 0.7905858
+- - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - lag: 0.160275 h
+    rank: '10'
+    frac: 0.76734993
+- - - '12'
+    - Joseph Salvenmoser
+  - lag: 0.165565 h
+    rank: '11'
+    frac: 0.74473876
+- - - '66'
+    - Tullio Gervasoni
+  - lag: 0.167456 h
+    rank: '12'
+    frac: 0.72274362
+- - - '44'
+    - mario ALONZI
+  - lag: 0.172524 h
+    rank: '13'
+    frac: 0.70135588
+- - - '17'
+    - Fabio Thomaz
+  - lag: 0.174964 h
+    rank: '14'
+    frac: 0.68056688
+- - - '78'
+    - Yuji Suzuki
+  - lag: 0.176093 h
+    rank: '15'
+    frac: 0.66036797
+- - - '103'
+    - Franc Peternel
+  - lag: 0.180756 h
+    rank: '16'
+    frac: 0.64075049
+- - - '119'
+    - Pedro L. Garcia
+  - lag: 0.181084 h
+    rank: '17'
+    frac: 0.62170579
+- - - '105'
+    - Stanislav GALOVEC
+  - lag: 0.185242 h
+    rank: '18'
+    frac: 0.60322522
+- - - '52'
+    - Grant Crossingham
+  - lag: 0.186841 h
+    rank: '19'
+    frac: 0.58530013
+- - - '26'
+    - Tyler Borradaile
+  - lag: 0.189818 h
+    rank: '20'
+    frac: 0.56792188
+- - - '56'
+    - Gerd Doenhuber
+  - lag: 0.190226 h
+    rank: '21'
+    frac: 0.55108179
+- - - '91'
+    - Olav Opsanger
+  - lag: 0.191248 h
+    rank: '22'
+    frac: 0.53477123
+- - - '79'
+    - Minoru Kato
+  - lag: 0.195939 h
+    rank: '23'
+    frac: 0.51898154
+- - - '74'
+    - Akira Nagusa
+  - lag: 0.198769 h
+    rank: '24'
+    frac: 0.50370407
+- - - '75'
+    - Genki Tanaka
+  - lag: 0.200023 h
+    rank: '25'
+    frac: 0.48893016
+- - - '16'
+    - Tschurnig Gunther
+  - lag: 0.201726 h
+    rank: '26'
+    frac: 0.47465118
+- - - '45'
+    - Christian Pollet
+  - lag: 0.202360 h
+    rank: '27'
+    frac: 0.46085845
+- - - '18'
+    - David Brito Filho
+  - lag: 0.202360 h
+    rank: '28'
+    frac: 0.44754334
+- - - '58'
+    - Roland Woehrle
+  - lag: 0.213299 h
+    rank: '29'
+    frac: 0.43469719
+- - - '15'
+    - Wolfgang Siess
+  - lag: 0.217724 h
+    rank: '30'
+    frac: 0.42231134
+- - - '54'
+    - Gordon Rigg
+  - lag: 0.223025 h
+    rank: '31'
+    frac: 0.41037715
+- - - '108'
+    - Franz Herrmann
+  - lag: 0.225529 h
+    rank: '32'
+    frac: 0.39888596
+- - - '77'
+    - Takashi Sunama
+  - lag: 0.226296 h
+    rank: '33'
+    frac: 0.38782913
+- - - '60'
+    - Georg Schweier
+  - lag: 0.227375 h
+    rank: '34'
+    frac: 0.37719799
+- - - '100'
+    - Felix Cantesanu
+  - lag: 0.229432 h
+    rank: '35'
+    frac: 0.36698391
+- - - '89'
+    - Johnny Nilssen
+  - lag: 0.232185 h
+    rank: '36'
+    frac: 0.35717822
+- - - '92'
+    - John Smith
+  - lag: 0.233447 h
+    rank: '37'
+    frac: 0.34777227
+- - - '85'
+    - Joost Eertman
+  - lag: 0.280724 h
+    rank: '38'
+    frac: 0.33875741
+- - - '71'
+    - Manuel REVELLI
+  - lag: 0.310324 h
+    rank: '39'
+    frac: 0.330125
+- - - '102'
+    - Matjaz Klemencic
+  - lag: 0.311880 h
+    rank: '40'
+    frac: 0.32186637
+- - - '84'
+    - Arne Tanzer
+  - lag: 0.354180 h
+    rank: '41'
+    frac: 0.31397288
+- - - '57'
+    - Primoz Gricar
+  - lag: 0.373939 h
+    rank: '42'
+    frac: 0.30643588
+- - - '13'
+    - Walter Mayer
+  - lag: 0.388370 h
+    rank: '43'
+    frac: 0.2992467
+- - - '8'
+    - Guy Hubbard
+  - lag: 0.396754 h
+    rank: '44'
+    frac: 0.29239671
+- - - '1'
+    - Steve Blenkinsop
+  - lag: 0.415257 h
+    rank: '45'
+    frac: 0.28587724
+- - - '4'
+    - Trent Brown
+  - lag: 0.416004 h
+    rank: '46'
+    frac: 0.27967965
+- - - '7'
+    - Nils Vesk
+  - lag: 0.427066 h
+    rank: '47'
+    frac: 0.27379529
+- - - '43'
+    - ERIC MATHURIN
+  - lag: 0.427091 h
+    rank: '48'
+    frac: 0.26821549
+- - - '49'
+    - Gary Wirdnam
+  - lag: 0.427919 h
+    rank: '49'
+    frac: 0.26293162
+- - - '50'
+    - Darren Brown
+  - lag: 0.429701 h
+    rank: '50'
+    frac: 0.25793502
+- - - '115'
+    - Evgen Lysenko
+  - lag: 0.449433 h
+    rank: '51'
+    frac: 0.25321703
+- - - '120'
+    - John Simon
+  - lag: 0.482693 h
+    rank: '52'
+    frac: 0.24876901
+- - - '101'
+    - Konstantin Lukyanov
+  - lag: 0.495110 h
+    rank: '53'
+    frac: 0.2445823
+- - - '99'
+    - Mikolaj Przezdziak
+  - lag: 0.496307 h
+    rank: '54'
+    frac: 0.24064825
+- - - '31'
+    - Jiri Gut
+  - lag: 0.496739 h
+    rank: '55'
+    frac: 0.23695821
+- - - '46'
+    - Francois ISOARD
+  - lag: 0.587978 h
+    rank: '56'
+    frac: 0.23350353
+- - - '19'
+    - Max Turiaco
+  - lag: 0.617707 h
+    rank: '57'
+    frac: 0.23027555
+- - - '122'
+    - Vanni Accattoli
+  - lag: 0.791738 h
+    rank: '58'
+    frac: 0.22726562
+- - - '28'
+    - Daniel Velez
+  - lag: 0.793835 h
+    rank: '59'
+    frac: 0.2244651
+- - - '106'
+    - Ubaldo Romano
+  - lag: 0.806595 h
+    rank: '60'
+    frac: 0.22186533
+- - - '11'
+    - Christian Tiefenbacher
+  - lag: 0.808168 h
+    rank: '61'
+    frac: 0.21945765
+- - - '3'
+    - Rory Duncan
+  - lag: 0.820638 h
+    rank: '62'
+    frac: 0.21723341
+- - - '68'
+    - Davide Guiducci
+  - lag: 0.845141 h
+    rank: '63'
+    frac: 0.21518397
+- - - '48'
+    - Andrew Hollidge
+  - lag: 0.846447 h
+    rank: '64'
+    frac: 0.21330067
+- - - '110'
+    - Markel Neideman
+  - lag: 0.874471 h
+    rank: '65'
+    frac: 0.21157487
+- - - '29'
+    - Dan Vyhnalik
+  - lag: 0.878714 h
+    rank: '66'
+    frac: 0.20999789
+- - - '55'
+    - Kajo Clauss
+  - lag: 0.880905 h
+    rank: '67'
+    frac: 0.20856111
+- - - '5'
+    - Peter Burkitt
+  - lag: 0.940429 h
+    rank: '68'
+    frac: 0.20725585
+- - - '25'
+    - Evan Smith
+  - lag: 0.969757 h
+    rank: '69'
+    frac: 0.20607348
+- - - '81'
+    - Young don Lee
+  - lag: 0.974448 h
+    rank: '70'
+    frac: 0.20500534
+- - - '96'
+    - Shane mckay
+  - lag: 0.994833 h
+    rank: '71'
+    frac: 0.20404277
+- - - '39'
+    - Tximo Iriarte
+  - lag: 1.008006 h
+    rank: '72'
+    frac: 0.20317713
+- - - '112'
+    - Hakan Andersson Bernardo
+  - lag: 1.028002 h
+    rank: '73'
+    frac: 0.20239977
+- - - '14'
+    - Alexander Sigl
+  - lag: 1.131655 h
+    rank: '74'
+    frac: 0.20170202
+- - - '114'
+    - CANBERG OZVEREN
+  - lag: 1.139523 h
+    rank: '75'
+    frac: 0.20107525
+- - - '23'
+    - Konrad Heilmann
+  - lag: 1.213248 h
+    rank: '76'
+    frac: 0.20051079

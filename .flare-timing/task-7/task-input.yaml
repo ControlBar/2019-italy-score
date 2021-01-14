@@ -1,0 +1,155 @@
+pilotGroup:
+  absent:
+  - - '17'
+    - Fabio Thomaz
+  - - '8'
+    - Guy Hubbard
+  - - '112'
+    - Hakan Andersson Bernardo
+  - - '90'
+    - Jens Krotseng
+  - - '12'
+    - Joseph Salvenmoser
+  - - '55'
+    - Kajo Clauss
+  - - '19'
+    - Max Turiaco
+  - - '32'
+    - Petr Tucek
+  - - '80'
+    - Yoko Sano
+  didFlyNoTracklog: []
+  dnf: []
+task:
+  taskName: Task 6
+  zones:
+    raw:
+    - zoneName: D02
+      lat: 46.27417
+      lng: 13.17667
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 1170.000 m
+    - zoneName: B46
+      lat: 46.19889
+      lng: 13.11694
+      radius: 6000.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
+      alt: 180.000 m
+    - zoneName: B46
+      lat: 46.19889
+      lng: 13.11694
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 180.000 m
+    - zoneName: B51
+      lat: 46.09192
+      lng: 13.43165
+      radius: 8000.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
+      alt: 120.000 m
+    - zoneName: B26
+      lat: 46.10639
+      lng: 12.90361
+      radius: 7000.0 m
+      giveIn: 6993.0 m
+      giveOut: 7007.0 m
+      alt: 130.000 m
+    - zoneName: A02
+      lat: 46.30722
+      lng: 13.11333
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 220.000 m
+    - zoneName: A02
+      lat: 46.30722
+      lng: 13.11333
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 220.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 46.27417000 deg
+          - 13.17667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 46.19889000 deg
+          - 13.11694000 deg
+          radius: 6000.0 m
+      - cylinder:
+          center:
+          - 46.19889000 deg
+          - 13.11694000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 46.09192000 deg
+          - 13.43165000 deg
+          radius: 8000.0 m
+      - cylinder:
+          center:
+          - 46.10639000 deg
+          - 12.90361000 deg
+          radius: 7000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 46.30722000 deg
+          - 13.11333000 deg
+          radius: 1000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 46.30722000 deg
+          - 13.11333000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2019-07-21T11:10:00Z
+    close: 2019-07-21T13:00:00Z
+  - open: 2019-07-21T12:30:00Z
+    close: 2019-07-21T16:30:00Z
+  - open: 2019-07-21T12:30:00Z
+    close: 2019-07-21T16:30:00Z
+  - open: 2019-07-21T12:30:00Z
+    close: 2019-07-21T16:30:00Z
+  - open: 2019-07-21T12:30:00Z
+    close: 2019-07-21T16:30:00Z
+  - open: 2019-07-21T12:30:00Z
+    close: 2019-07-21T16:30:00Z
+  - open: 2019-07-21T12:30:00Z
+    close: 2019-07-21T16:30:00Z
+  startGates:
+  - 2019-07-21T12:30:00Z
+  - 2019-07-21T12:55:00Z
+  stopped: null
+  cancelled: true
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- __TASK6
+pilots: []

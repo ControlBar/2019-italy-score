@@ -1,0 +1,341 @@
+pilotGroup:
+  absent:
+  - - '74'
+    - Akira Nagusa
+  - - '72'
+    - Alessandro Ploner
+  - - '14'
+    - Alexander Sigl
+  - - '24'
+    - Alvaro Figueiredo Sandoli
+  - - '37'
+    - Alvaro Idigoras
+  - - '48'
+    - Andrew Hollidge
+  - - '47'
+    - Antoine Saraf
+  - - '84'
+    - Arne Tanzer
+  - - '62'
+    - Attila Kis
+  - - '114'
+    - CANBERG OZVEREN
+  - - '61'
+    - Carlos Rolando Alvarado
+  - - '73'
+    - Christian Ciech
+  - - '45'
+    - Christian Pollet
+  - - '11'
+    - Christian Tiefenbacher
+  - - '109'
+    - Damien Zahn
+  - - '29'
+    - Dan Vyhnalik
+  - - '28'
+    - Daniel Velez
+  - - '50'
+    - Darren Brown
+  - - '51'
+    - Dave Matthews
+  - - '18'
+    - David Brito Filho
+  - - '68'
+    - Davide Guiducci
+  - - '93'
+    - Derek Mckee
+  - - '43'
+    - ERIC MATHURIN
+  - - '20'
+    - Eduardo Oliveira
+  - - '88'
+    - Emiel Jansen
+  - - '42'
+    - Eric Wyss
+  - - '25'
+    - Evan Smith
+  - - '115'
+    - Evgen Lysenko
+  - - '100'
+    - Felix Cantesanu
+  - - '103'
+    - Franc Peternel
+  - - '46'
+    - Francois ISOARD
+  - - '35'
+    - Frantisek Kostal
+  - - '108'
+    - Franz Herrmann
+  - - '22'
+    - GLAUCO PINTO
+  - - '49'
+    - Gary Wirdnam
+  - - '75'
+    - Genki Tanaka
+  - - '56'
+    - Gerd Doenhuber
+  - - '87'
+    - Gijs Wanders
+  - - '54'
+    - Gordon Rigg
+  - - '52'
+    - Grant Crossingham
+  - - '8'
+    - Guy Hubbard
+  - - '112'
+    - Hakan Andersson Bernardo
+  - - '27'
+    - Hernan Cortes Pinones
+  - - '123'
+    - Igriza Flora
+  - - '116'
+    - Jeff Chipman
+  - - '90'
+    - Jens Krotseng
+  - - '31'
+    - Jiri Gut
+  - - '30'
+    - Jiri Nadvornik
+  - - '59'
+    - Joerg Bajewski
+  - - '120'
+    - John Simon
+  - - '92'
+    - John Smith
+  - - '89'
+    - Johnny Nilssen
+  - - '85'
+    - Joost Eertman
+  - - '12'
+    - Joseph Salvenmoser
+  - - '113'
+    - Kamil Demirkan
+  - - '23'
+    - Konrad Heilmann
+  - - '101'
+    - Konstantin Lukyanov
+  - - '64'
+    - Laszlo Okros
+  - - '33'
+    - Lukas Vojacek
+  - - '53'
+    - Malcolm Brown
+  - - '10'
+    - Manfred Ruhmer
+  - - '71'
+    - Manuel REVELLI
+  - - '21'
+    - Marcelo Andrei Gomes da Rocha
+  - - '67'
+    - Marco Laurenzi
+  - - '110'
+    - Markel Neideman
+  - - '102'
+    - Matjaz Klemencic
+  - - '94'
+    - Matthew Barlow
+  - - '19'
+    - Max Turiaco
+  - - '99'
+    - Mikolaj Przezdziak
+  - - '79'
+    - Minoru Kato
+  - - '7'
+    - Nils Vesk
+  - - '65'
+    - Noel Collins
+  - - '91'
+    - Olav Opsanger
+  - - '119'
+    - Pedro L. Garcia
+  - - '5'
+    - Peter Burkitt
+  - - '107'
+    - Peter Neuenschwander
+  - - '34'
+    - Petr Polach
+  - - '32'
+    - Petr Tucek
+  - - '57'
+    - Primoz Gricar
+  - - '2'
+    - Rohan Taylor
+  - - '3'
+    - Rory Duncan
+  - - '83'
+    - Sander van Schaik
+  - - '96'
+    - Shane mckay
+  - - '76'
+    - Shogo Ota
+  - - '105'
+    - Stanislav GALOVEC
+  - - '1'
+    - Steve Blenkinsop
+  - - '9'
+    - Steve Docherty
+  - - '69'
+    - Suan SELENATI
+  - - '77'
+    - Takashi Sunama
+  - - '86'
+    - Tanno Rutten
+  - - '97'
+    - Tom Kellner
+  - - '111'
+    - Tommy Nilsson
+  - - '4'
+    - Trent Brown
+  - - '26'
+    - Tyler Borradaile
+  - - '106'
+    - Ubaldo Romano
+  - - '122'
+    - Vanni Accattoli
+  - - '95'
+    - Viv Clements
+  - - '13'
+    - Walter Mayer
+  - - '118'
+    - Will Ramsey
+  - - '15'
+    - Wolfgang Siess
+  - - '80'
+    - Yoko Sano
+  - - '81'
+    - Young don Lee
+  - - '78'
+    - Yuji Suzuki
+  - - '117'
+    - Zac Majors
+  - - '82'
+    - jaesun moon
+  - - '104'
+    - janez grm
+  - - '44'
+    - mario ALONZI
+  didFlyNoTracklog: []
+  dnf: []
+task:
+  taskName: Training Day
+  zones:
+    raw:
+    - zoneName: D01
+      lat: 46.23083
+      lng: 12.80694
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 980.000 m
+    - zoneName: A02
+      lat: 46.30722
+      lng: 13.11333
+      radius: 20000.0 m
+      giveIn: 19980.0 m
+      giveOut: 20020.0 m
+      alt: 220.000 m
+    - zoneName: A02
+      lat: 46.30722
+      lng: 13.11333
+      radius: 2000.0 m
+      giveIn: 1995.0 m
+      giveOut: 2005.0 m
+      alt: 220.000 m
+    - zoneName: A02
+      lat: 46.30722
+      lng: 13.11333
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 220.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 46.23083000 deg
+          - 12.80694000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 46.30722000 deg
+          - 13.11333000 deg
+          radius: 20000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 46.30722000 deg
+          - 13.11333000 deg
+          radius: 2000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 46.30722000 deg
+          - 13.11333000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 3
+  zoneTimes:
+  - open: 2019-07-14T10:00:00Z
+    close: 2019-07-14T18:00:00Z
+  startGates:
+  - 2019-07-14T10:00:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- 2019-07-14
+pilots:
+- - - '41'
+    - Chomin Gallego Escribano
+  - LiveTrack Chomin Gallego Escribano.254499.20190714-122425.24424.41.igc
+- - - '6'
+    - Craig Taylor
+  - LiveTrack Craig Taylor.656864.20190714-114929.6075.6.igc
+- - - '38'
+    - Daniel Martin Mota
+  - LiveTrack Daniel Martin Mota.764380.20190714-123937.10505.38.igc
+- - - '17'
+    - Fabio Thomaz
+  - LiveTrack Fabio Thomaz.494308.20190714-130446.18578.17.igc
+- - - '70'
+    - Filippo Oppici
+  - LiveTrack Filippo Oppici.706476.20190714-150249.6295.70.igc
+- - - '60'
+    - Georg Schweier
+  - LiveTrack Georg Schweier.532993.20190714-122939.12909.60.igc
+- - - '40'
+    - Jesus Mari Hernando Duque
+  - LiveTrack Jesus Mari Hernando Duque.964871.20190714-122638.6671.40.igc
+- - - '55'
+    - Kajo Clauss
+  - LiveTrack Kajo Clauss.744421.20190714-123448.24967.55.igc
+- - - '98'
+    - Piers Throssell
+  - LiveTrack Piers Throssell.288351.20190714-110128.60026.98.igc
+- - - '58'
+    - Roland Woehrle
+  - LiveTrack Roland Woehrle.322006.20190714-120500.7547.58.igc
+- - - '16'
+    - Tschurnig Gunther
+  - LiveTrack Tschurnig Gunther.998233.20190714-130447.6460.16.igc
+- - - '66'
+    - Tullio Gervasoni
+  - LiveTrack Tullio Gervasoni.647382.20190714-112647.7865.66.igc
+- - - '39'
+    - Tximo Iriarte
+  - LiveTrack Tximo Iriarte.137093.20190714-110805.7866.39.igc

@@ -1,0 +1,108 @@
+bestDistance: 24.237249 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 251
+  - 25.1 km
+  sumOf: 375
+landout: 12
+lookahead: 61
+difficulty:
+- chunk: 6
+  startChunk: 0.6 km
+  endChunk: 0.7 km
+  endAhead: 6.8 km
+  down: 1
+  downs:
+  - 0.616 km
+  downers:
+  - - '17'
+    - Fabio Thomaz
+  downward: 10
+  rel: 1.333333e-2
+  frac: 9.326172e-2
+- chunk: 12
+  startChunk: 1.2 km
+  endChunk: 1.3 km
+  endAhead: 7.4 km
+  down: 1
+  downs:
+  - 1.213 km
+  downers:
+  - - '98'
+    - Piers Throssell
+  downward: 9
+  rel: 1.2e-2
+  frac: 0.1652832
+- chunk: 28
+  startChunk: 2.8 km
+  endChunk: 2.9 km
+  endAhead: 9.0 km
+  down: 7
+  downs:
+  - 2.811 km
+  - 2.823 km
+  - 2.843 km
+  - 2.878 km
+  - 2.882 km
+  - 2.893 km
+  - 2.894 km
+  downers:
+  - - '66'
+    - Tullio Gervasoni
+  - - '39'
+    - Tximo Iriarte
+  - - '41'
+    - Chomin Gallego Escribano
+  - - '38'
+    - Daniel Martin Mota
+  - - '55'
+    - Kajo Clauss
+  - - '40'
+    - Jesus Mari Hernando Duque
+  - - '58'
+    - Roland Woehrle
+  downward: 9
+  rel: 1.2e-2
+  frac: 0.34790039
+- chunk: 29
+  startChunk: 2.9 km
+  endChunk: 3.0 km
+  endAhead: 9.1 km
+  down: 1
+  downs:
+  - 2.926 km
+  downers:
+  - - '60'
+    - Georg Schweier
+  downward: 2
+  rel: 2.66667e-3
+  frac: 0.35058594
+- chunk: 80
+  startChunk: 8.0 km
+  endChunk: 8.1 km
+  endAhead: 14.2 km
+  down: 1
+  downs:
+  - 8.061 km
+  downers:
+  - - '16'
+    - Tschurnig Gunther
+  downward: 1
+  rel: 1.33333e-3
+  frac: 0.41870117
+- chunk: 238
+  startChunk: 23.8 km
+  endChunk: 23.9 km
+  endAhead: 30.0 km
+  down: 1
+  downs:
+  - 23.805 km
+  downers:
+  - - '70'
+    - Filippo Oppici
+  downward: 1
+  rel: 1.33333e-3
+  frac: 0.5
