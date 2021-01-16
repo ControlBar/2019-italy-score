@@ -364,6 +364,11 @@ areas:
   - areaFlown: 27554065.0363 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 1253166.9980 km^2 s
+- - - '65'
+    - Noel Collins
+  - areaFlown: 54346828.5935 km^2 s
+    areaAfterLanding: 13150484.9049 km^2 s
+    areaBeforeStart: 3278462.1551 km^2 s
 - - - '91'
     - Olav Opsanger
   - areaFlown: 23051851.2239 km^2 s

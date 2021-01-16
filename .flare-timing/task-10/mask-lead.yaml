@@ -524,6 +524,11 @@ leadRank:
   - area: 67443858.3105 km^2 s
     coef: 4.47722081
     frac: 0
+- - - '65'
+    - Noel Collins
+  - area: 67497313.4984 km^2 s
+    coef: 4.4807694
+    frac: 0
 - - - '95'
     - Viv Clements
   - area: 67505329.9629 km^2 s
